@@ -1,0 +1,274 @@
+{
+ "id": "nuclear-sac-target-study",
+ "title": "SAC Atomic Weapons Requirements Study",
+ "source": {
+  "url": "https://nsarchive2.gwu.edu/nukevault/ebb538-Cold-War-Nuclear-Target-List-Declassified-First-Ever/",
+  "publisher": "Strategic Air Command",
+  "date": "1956-06-15",
+  "pages": 21,
+  "released": "2014-10",
+  "file": "https://nsarchive2.gwu.edu/nukevault/ebb538-Cold-War-Nuclear-Target-List-Declassified-First-Ever/documents/section1.pdf",
+  "sha256": "a8e90d5c27d7922fbb52fbcfdb51e421e80122614d94baa3857b5de52dabbca8",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "nuclear",
+ "summary": "Title page, contents and introduction of Strategic Air Command's June 1956 study of the atomic weapons it would need for a war in 1959. The full study listed more than 1,100 Soviet bloc airfields and more than 1,200 cities as targets, with 'population' as a target in cities such as Moscow, Leningrad, East Berlin, Warsaw and Beijing.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/nuclear/nuclear-sac-target-study/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Cover",
+   "start_page": 1,
+   "end_page": 1,
+   "summary": "Cover of Strategic Air Command's \"Atomic Weapons Requirements Study for 1959\" (SM 129-56), dated 15 June 1956 and marked Top Secret. Stamps record declassification under authority 27386 by Laurie Madsen on 26 June 2014.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "Title page",
+   "start_page": 2,
+   "end_page": 2,
+   "summary": "Strategic Air Command \"(U) Atomic Weapons Requirements Study for 1959\" (SM 129-56), control number B-54300, classified Top Secret under AFR 205-1 and signed by Col. Robert W. Smith, USAF, Director of Intelligence. Marked Top Secret Restricted Data; reproduction is prohibited without the originating office's permission.",
+   "nodes": []
+  },
+  {
+   "node_id": "0002",
+   "title": "Table of contents",
+   "start_page": 3,
+   "end_page": 5,
+   "summary": "Contents of the full study. Section I, Introduction (pages 1-15), covers authority, SAC concept, scope and justification of targets, factors, weapons and format. Later parts, not in this excerpt, hold the Part I unrestricted-allocation airfield and complex lists, the Part II restricted-allocation lists (1,209 DGZs) and tabular summaries running to page 845.",
+   "nodes": []
+  },
+  {
+   "node_id": "0003",
+   "title": "Introduction",
+   "start_page": 6,
+   "end_page": 21,
+   "summary": "Section I of the study: its authority, SAC's two-phase concept for nuclear war against the Soviet Bloc, the 3,400-DGZ target system, force and operational factors, weapon selection, damage criteria and burst heights, weapon requirement tables with all figures redacted, and the layout of the target listings.",
+   "nodes": [
+    {
+     "node_id": "0004",
+     "title": "Authority",
+     "start_page": 6,
+     "end_page": 6,
+     "summary": "The Atomic Weapon Requirement Study for 1959, issued in 22 copies, was submitted under JCS directive SM 129-56 of 15 February 1956 and a JCS message of 16 March 1956.",
+     "nodes": []
+    },
+    {
+     "node_id": "0005",
+     "title": "SAC concept",
+     "start_page": 6,
+     "end_page": 7,
+     "summary": "In general war SAC would wage global air warfare with atomic and nuclear weapons in two tasks: first win the Air Power Battle by destroying Soviet Bloc air power, then systematically destroy war-supporting resources. Air Power Battle targets are air forces, bases, atomic stockpiles, control centers and air industry. USSR and Communist China targets are nominated ahead of satellite targets.",
+     "nodes": []
+    },
+    {
+     "node_id": "0006",
+     "title": "Scope of target system and justification of targets",
+     "start_page": 7,
+     "end_page": 8,
+     "summary": "For Part I, intelligence estimates for 1959 give 4,500 target areas and 5,975 targets; SAC's system has 3,400 DGZs, 2,345 actual and 1,055 projected, adding SAM, radar and on-call targets. Part II figures are redacted. Each target is justified by its priority number, and other JCS commands agreed to duplicate strikes on high-priority airfields.",
+     "nodes": []
+    },
+    {
+     "node_id": "0007",
+     "title": "Factors",
+     "start_page": 8,
+     "end_page": 11,
+     "summary": "The planning factors behind the study: the 1959 force, operational factors, accuracy and reserves.",
+     "nodes": [
+      {
+       "node_id": "0008",
+       "title": "Force structure",
+       "start_page": 8,
+       "end_page": 9,
+       "summary": "The 1 July 1959 force follows the Joint Mid-Range War Plan for 1 July 1957 (SM 344-55) as revised in February 1956: 1,260 B-47s, 225 RB-47s, 495 B-52s and 150 F-101s (2,130 aircraft), plus 64 SNARK, 60 RASCAL, 72 CROSSBOW and 180 IRBM missiles, 2,506 in all.",
+       "nodes": []
+      },
+      {
+       "node_id": "0009",
+       "title": "Operational factors",
+       "start_page": 9,
+       "end_page": 10,
+       "summary": "Factors rest on aircrew performance and reliability, target intelligence, vulnerability numbers, weapon yield, and assumptions about duds, attrition, aborts and missile reliability. The tables giving weapon yield and CEP for BRL computation, and gross error, duds, pre-target attrition, aborts, reliability and base loss for each aircraft and missile, are redacted.",
+       "nodes": []
+      },
+      {
+       "node_id": "0010",
+       "title": "CEP",
+       "start_page": 10,
+       "end_page": 11,
+       "summary": "Planned circular error probable: manned bombers 3,000 feet all-weather, fighters 600 feet visual, CROSSBOW 580 feet, and RASCAL, IRBM and SNARK 2 nautical miles each.",
+       "nodes": []
+      },
+      {
+       "node_id": "0011",
+       "title": "Reserves",
+       "start_page": 11,
+       "end_page": 11,
+       "summary": "SAC keeps no reserve weapons as such. The reserve requirement covers projected DGZs that cannot yet be programmed: some are intelligence projections, others exist but are not precisely located. Neither Part I nor Part II assigns reserve weapons to specific targets or places.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0012",
+     "title": "Weapons",
+     "start_page": 11,
+     "end_page": 19,
+     "summary": "How weapons are matched to carriers and targets, the damage criteria, fuzing and burst heights, the use of multiple weapons and missiles, a requested 60-megaton weapon, and the weapon requirement tables.",
+     "nodes": [
+      {
+       "node_id": "0013",
+       "title": "Selection",
+       "start_page": 11,
+       "end_page": 11,
+       "summary": "A table matches weapons to carriers for the 1959 force: Mk 6, Mk 15, Mk 27, Mk 28 and Mk 36 bombs on B-47, RB-47, B-52 and F-101 aircraft as primary or alternate carriers, the Mk 27 on RASCAL, the Mk 15 on SNARK, the W-35 on the IRBM and the W-37 on CROSSBOW.",
+       "nodes": []
+      },
+      {
+       "node_id": "0014",
+       "title": "Application",
+       "start_page": 11,
+       "end_page": 12,
+       "summary": "Highest-yield weapons go to Air Power Battle targets: airfields, launch sites, controls, air and atomic industry, stockpiles and missile sites. For political and psychological reasons high-yield weapons are used in the European satellites only against airfields; atomic weapons generally go to satellite and Systematic Destruction targets. Each airfield is generally one DGZ.",
+       "nodes": []
+      },
+      {
+       "node_id": "0015",
+       "title": "Damage criteria",
+       "start_page": 12,
+       "end_page": 12,
+       "summary": "Because the Air Power Battle may be decided early, SAC seeks maximum effect with minimum sorties and few restrikes. Criteria: cratering runways and underground targets, a 90% probability of collapse of above-ground structures, 70% damage on individual targets if complex averages reach 90%, and 50-70% in satellite areas.",
+       "nodes": []
+      },
+      {
+       "node_id": "0016",
+       "title": "Fuzing data",
+       "start_page": 12,
+       "end_page": 12,
+       "summary": "Thermonuclear weapons are set for air or contact burst against all vulnerability numbers; atomic weapons for a burst height of 1,200 feet.",
+       "nodes": []
+      },
+      {
+       "node_id": "0017",
+       "title": "Height of burst",
+       "start_page": 12,
+       "end_page": 13,
+       "summary": "Contact bursts are the goal for thermonuclear weapons, to collapse hard targets and crater airfields. Blast, not heat or radiation, is relied on. Winning the Air Power Battle outweighs fallout risk to friendly forces and peoples, though surface bursts may be waived where friendly forces are seriously threatened.",
+       "nodes": []
+      },
+      {
+       "node_id": "0018",
+       "title": "Multiple weapons",
+       "start_page": 13,
+       "end_page": 13,
+       "summary": "Several weapons go to some targets according to their worth, size and damage criteria, since some aircraft will abort or be lost, some weapons will be duds and gross errors will occur. One aircraft and weapon per high-priority target gives too low a kill probability, and there is no time for re-attack.",
+       "nodes": []
+      },
+      {
+       "node_id": "0019",
+       "title": "Missiles",
+       "start_page": 13,
+       "end_page": 13,
+       "summary": "Because single missiles have a low kill probability, they will support, not replace, manned bombers by saturating target areas, diverting defenses and neutralizing targets before bomber strikes. SNARK may be used throughout the target system, IRBM in peripheral areas and RASCAL against immediate defenses.",
+       "nodes": []
+      },
+      {
+       "node_id": "0020",
+       "title": "Alternate weapons",
+       "start_page": 13,
+       "end_page": 14,
+       "summary": "Carrier-weapon combinations appear on page 6. SAC has also stated a requirement for a 60-megaton weapon, not programmed here because the directive limits weapons to Annex B; part of the passage is redacted. The weapon is called essential as a deterrent and for results with a reduced force after a Soviet surprise attack.",
+       "nodes": []
+      },
+      {
+       "node_id": "0021",
+       "title": "Weapon requirement",
+       "start_page": 14,
+       "end_page": 19,
+       "summary": "Weapon application and requirement by target type for Part I (unrestricted allocation) and Part II (restricted allocation). The numbered items on page 14 and all table figures are redacted.",
+       "nodes": [
+        {
+         "node_id": "0022",
+         "title": "Part I, section 1: actual DGZs",
+         "start_page": 15,
+         "end_page": 15,
+         "summary": "Table for Part I, unrestricted allocation, by category: Air Power Battle (atomic forces' airfields, headquarters and depots; defense forces' airfields, controls and missile sites; atomic industry; control centers; air industry) and Systematic Destruction of war-supporting resources, with subtotals. All figures are redacted.",
+         "nodes": []
+        },
+        {
+         "node_id": "0023",
+         "title": "Part I, section 2: reserve DGZs",
+         "start_page": 16,
+         "end_page": 16,
+         "summary": "Continuation table for Part I: stockpile sites, controls and missile sites, plus other targets (SAM sites, SSM storage sites, ICBM sites, regroup airfields, radar sites, on-call targets and ROMEO targets such as bridges and troop concentrations), with SAC totals. All figures are redacted.",
+         "nodes": []
+        },
+        {
+         "node_id": "0024",
+         "title": "Part II: desired composition of SAC stockpile",
+         "start_page": 17,
+         "end_page": 18,
+         "summary": "A desired stockpile for Part II, tailored to the 1959 force and the 3,400-DGZ system, lists Mk 6, Mk 28, Mk 15, Mk 36, Mk 27, W-35 and W-37 weapons with oralloy equivalents, all redacted. Even with no base loss only 1,209 DGZs can be destroyed, so SAC ignores base loss, assuming JCS reserves.",
+         "nodes": []
+        },
+        {
+         "node_id": "0025",
+         "title": "Part II: actual and reserve DGZs",
+         "start_page": 19,
+         "end_page": 19,
+         "summary": "Table for Part II, restricted allocation, 1,209 DGZs, by the same Air Power Battle and Systematic Destruction categories plus atomic energy stockpile, SAM, ICBM and radar sites, with total DGZs and SAC requirement. All figures are redacted.",
+         "nodes": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "node_id": "0026",
+     "title": "Format",
+     "start_page": 20,
+     "end_page": 21,
+     "summary": "The principal parts of the study and how the target listings are laid out, with a sample page.",
+     "nodes": [
+      {
+       "node_id": "0027",
+       "title": "General",
+       "start_page": 20,
+       "end_page": 20,
+       "summary": "The study's principal parts: a cross-reference list of place names, a category code list, a Part I target list with unrestricted allocation, a Part II list programmed on 69,000 kg of oralloy equivalent, and tabular presentations of weapon requirements, desired stockpile composition and telescoped summaries.",
+       "nodes": []
+      },
+      {
+       "node_id": "0028",
+       "title": "Description of listings",
+       "start_page": 20,
+       "end_page": 20,
+       "summary": "The cross-reference list groups place names under major complexes; three-digit category codes were designed for EAM machine processing. Part I has an alphabetical Airfield List (priority, reference number, name, DGZ, weapon types, command interest; all airfield weapons surface burst) and an Industrial Complex List. Duplications with other commands appear at each page's right.",
+       "nodes": []
+      },
+      {
+       "node_id": "0029",
+       "title": "Sample page: industrial complexes",
+       "start_page": 21,
+       "end_page": 21,
+       "summary": "Sample listing showing Murmansk (priority 102, reference 5250, 68 58N 033 05E) with sub-complexes and Bombing Encyclopedia numbers, and Tuloma. Callouts explain the complex name, sub-complex, Bombing Encyclopedia numbers and category codes. The columns on the right are redacted.",
+       "nodes": []
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

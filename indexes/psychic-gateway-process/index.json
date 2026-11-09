@@ -1,0 +1,443 @@
+{
+ "id": "psychic-gateway-process",
+ "title": "Gateway Process Assessment",
+ "source": {
+  "url": "https://www.cia.gov/readingroom/document/cia-rdp96-00788r001700210016-5",
+  "publisher": "US Army",
+  "date": "1983-06-09",
+  "pages": 29,
+  "released": "2003-09-10",
+  "file": "https://archive.org/download/CIA-RDP96-00788R001700210016-5/CIA-RDP96-00788R001700210016-5.pdf",
+  "sha256": "1f93ebad3e78604c1d7afb67b99050af7e2a0df488e93ffcf9f8b7c54062e3e2",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "psychic",
+ "summary": "A 1983 report by Army Lt. Col. Wayne McDonnell assessing the Monroe Institute's Gateway Experience, a course of audio tapes meant to synchronize the brain's hemispheres (Hemi-Sync). It tries to explain the course's claims of out-of-body states and perception beyond time and space in terms of physics, drawing on Itzhak Bentov's models.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/psychic/psychic-gateway-process/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR, then the tree was written in the PageIndex format from the page text, because PageIndex Flash found no layout structure in this scan.",
+  "models": []
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Cover memo: analysis and assessment of Gateway process",
+   "start_page": 1,
+   "end_page": 2,
+   "summary": "Lt. Col. Wayne M. McDonnell, commander of Det O, US Army Operational Group, Fort Meade, reports on 9 June 1983 that assessing the Gateway Experience required Bentov's biomedical models, quantum mechanics and theoretical physics to explain consciousness and out-of-body states without occult stigma. He hopes the study guides other INSCOM personnel taking Gateway training.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "The Gateway Experience: brain hemisphere synchronization in perspective",
+   "start_page": 3,
+   "end_page": 28,
+   "summary": "McDonnell's 38-paragraph analysis of the Monroe Institute's Gateway Experience: related techniques, how Hemi-Sync audio entrains the brain and body, a holographic model of consciousness, how consciousness leaves time-space, the Gateway training tools and out-of-body states, belief systems, and a recommended programme for exploiting Gateway.",
+   "nodes": [
+    {
+     "node_id": "0002",
+     "title": "Related techniques: hypnosis, meditation and biofeedback",
+     "start_page": 3,
+     "end_page": 6,
+     "summary": "Paragraphs 1-4 profile three consciousness-altering methods, using the theories of Ronald Stone and Itzhak Bentov, as a frame of reference for explaining Gateway by comparison.",
+     "nodes": [
+      {
+       "node_id": "0003",
+       "title": "Introduction",
+       "start_page": 3,
+       "end_page": 3,
+       "summary": "Gateway, the Monroe Institute technique for altered states using brain hemisphere synchronization, or Hemi-Sync, is best described by first profiling hypnosis, transcendental meditation and biofeedback, which share some of its aims but work differently.",
+       "nodes": []
+      },
+      {
+       "node_id": "0004",
+       "title": "Hypnosis",
+       "start_page": 3,
+       "end_page": 3,
+       "summary": "Hypnosis distracts or lulls the left hemisphere, which screens incoming stimuli, so suggestions pass unchallenged to the right hemisphere and act directly on the sensory and motor cortex, the homunculus and pleasure centres, producing numbness, euphoria or better memory. Hypnosis may speed early Gateway progress.",
+       "nodes": []
+      },
+      {
+       "node_id": "0005",
+       "title": "Transcendental meditation",
+       "start_page": 3,
+       "end_page": 5,
+       "summary": "Long concentration creates acoustic standing waves in the brain's ventricles that, per Bentov, polarise the right cortex along the homunculus and stimulate pleasure centres, explaining Kundalini bliss. Normally this takes years, but prolonged 4-7 Hz vibration, such as a car's suspension or an air duct, may trigger it.",
+       "nodes": []
+      },
+      {
+       "node_id": "0006",
+       "title": "Exhibit 1: the homunculus, cortex and ventricles",
+       "start_page": 4,
+       "end_page": 4,
+       "summary": "Three brain diagrams from Bentov's Stalking the Wild Pendulum: Figure A, the homunculus; Figure B, the motor and sensory cortex and the third and lateral ventricles; Figure C, the ventricles in the context of the surrounding brain structure.",
+       "nodes": []
+      },
+      {
+       "node_id": "0007",
+       "title": "Biofeedback",
+       "start_page": 5,
+       "end_page": 6,
+       "summary": "Biofeedback uses the left hemisphere to visualise a result and learn the feeling of reaching the right areas, checked with devices such as a digital thermometer, to boost circulation, block pain, aid healing and reportedly suppress tumours. Brainwave displays help beginners reach deep meditative states quickly.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0008",
+     "title": "How Hemi-Sync works",
+     "start_page": 6,
+     "end_page": 9,
+     "summary": "Paragraphs 5-10 explain how Gateway's audio tapes synchronise the brain hemispheres and bring the body into resonance with the earth's electrostatic field.",
+     "nodes": [
+      {
+       "node_id": "0009",
+       "title": "Gateway and Hemi-Sync",
+       "start_page": 6,
+       "end_page": 6,
+       "summary": "Gateway trains the brain to give coherent, equal-amplitude output in both hemispheres so consciousness can move outside the body and beyond time and space. Melissa Jager defines Hemi-Sync; Monroe's Focus 3 tapes induce it, and Dr. Stuart Twemlow reports the tapes narrow and strengthen brain energy.",
+       "nodes": []
+      },
+      {
+       "node_id": "0010",
+       "title": "Lamp vs laser",
+       "start_page": 6,
+       "end_page": 7,
+       "summary": "Jager's metaphor: the ordinary mind is a lamp scattering incoherent energy, while the mind under Hemi-Sync is a coherent laser. Gateway assumes a coherent brain can accelerate to ever higher vibrational levels, perceiving information as symbols or flashes of holistic intuition.",
+       "nodes": []
+      },
+      {
+       "node_id": "0011",
+       "title": "Frequency following response",
+       "start_page": 7,
+       "end_page": 7,
+       "summary": "The brain mimics frequencies it hears. Because brainwave frequencies are inaudible, Hemi-Sync plays two tones, one in each ear, so the brain hears their \"beat\" difference. Near-subliminal tones, masked by sounds such as surf, relax the left hemisphere, bring the body to near sleep and synchronise the hemispheres.",
+       "nodes": []
+      },
+      {
+       "node_id": "0012",
+       "title": "Role of resonance",
+       "start_page": 7,
+       "end_page": 8,
+       "summary": "Deep relaxation removes the heart's \"bifurcation echo\", the clash of pressure pulses rebounding from where the aorta forks, leaving a regular sine wave of sound through the body about three times normal heart volume. The tapes reach this in the way long meditation does.",
+       "nodes": []
+      },
+      {
+       "node_id": "0013",
+       "title": "Brain stimulation",
+       "start_page": 8,
+       "end_page": 8,
+       "summary": "The resonance moves the brain 0.005 to 0.010 mm, stimulating higher brainwave output, and makes the body a tuned system at 6.8-7.5 Hz, close to the earth's ionospheric resonance of 7-7.5 Hz. Bentov calls this 40,000 km wavelength the ideal medium for telepathy.",
+       "nodes": []
+      },
+      {
+       "node_id": "0014",
+       "title": "Energy entrainment",
+       "start_page": 8,
+       "end_page": 9,
+       "summary": "As the body oscillates in harmony with the earth's field, tape exercises build up the energy around the body, moving consciousness into the surrounding environment, raising energy enough for out-of-body movement and creating a carrier wave for communication with similarly tuned minds.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0015",
+     "title": "Consciousness as a hologram",
+     "start_page": 9,
+     "end_page": 13,
+     "summary": "Paragraphs 11-17 describe matter as oscillating energy and the mind as a hologram that reads the universal hologram, compares it with memory and reduces it to binary thought.",
+     "nodes": [
+      {
+       "node_id": "0016",
+       "title": "Consciousness and energy",
+       "start_page": 9,
+       "end_page": 9,
+       "summary": "Solid matter does not exist: atoms are oscillating energy grids. Citing Bentov, an atom's nucleus vibrates at about 10^22 Hz, an atom at 10^15, a molecule at 10^9 and a living cell at 10^3. A human, consciousness included, is a complex system of energy fields.",
+       "nodes": []
+      },
+      {
+       "node_id": "0017",
+       "title": "Holograms",
+       "start_page": 9,
+       "end_page": 10,
+       "summary": "Energy stores meaning as three-dimensional holograms. Bentov's example: ripples from three pebbles in a bowl, flash-frozen and lit by a laser, project the pebbles' positions in space. Dennis Gabor worked out holography in 1947; biologist Lyall Watson explains laser interference patterns.",
+       "nodes": []
+      },
+      {
+       "node_id": "0018",
+       "title": "The part encodes the whole",
+       "start_page": 10,
+       "end_page": 10,
+       "summary": "Any fragment of a hologram recreates the whole image, more fuzzily the smaller it is. A hologram needs energy in motion interacting with energy at rest, and is read by passing coherent energy through the pattern. Marilyn Ferguson notes billions of bits can be stored in a tiny space.",
+       "nodes": []
+      },
+      {
+       "node_id": "0019",
+       "title": "The consciousness matrix",
+       "start_page": 10,
+       "end_page": 11,
+       "summary": "Following Karl Pribram and David Bohm, the universe is a gigantic hologram and the mind a hologram that attunes to it. The mind perceives what its electrostatic fields can harmonise with, then makes sense of it by comparing the image with the part of its own hologram that is memory.",
+       "nodes": []
+      },
+      {
+       "node_id": "0020",
+       "title": "Brain in phase",
+       "start_page": 11,
+       "end_page": 11,
+       "summary": "The mind lays a three-dimensional grid over holographic input and reduces it mathematically to two dimensions for binary go/no-go processing, perceiving only differences. In expanded states the right hemisphere receives the input and the left, in phase with it, screens and reduces it.",
+       "nodes": []
+      },
+      {
+       "node_id": "0021",
+       "title": "Evaluation",
+       "start_page": 11,
+       "end_page": 11,
+       "summary": "Gateway expands consciousness so it can perceive more of the universal hologram without the physical senses. Ferguson writes that Pribram's holographic model accounts for normal perception and takes paranormal and transcendental experiences out of the supernatural.",
+       "nodes": []
+      },
+      {
+       "node_id": "0022",
+       "title": "Self cognition",
+       "start_page": 11,
+       "end_page": 13,
+       "summary": "Humans, unlike plants or animals, know that they know: consciousness projects aspects of its own hologram, compares them with stored standards in memory and measures the differences to produce verbal cognition about the self.",
+       "nodes": []
+      },
+      {
+       "node_id": "0023",
+       "title": "Exhibit 2: the functions of brain hemispheres in consciousness",
+       "start_page": 12,
+       "end_page": 12,
+       "summary": "Diagram of a head inside a \"consciousness energy grid\". The right hemisphere grid reduces the three-dimensional holographic image to two-dimensional go/no-go form; the left hemisphere grid acts like the mind's software, reducing right-hemisphere input to verbal symbols and concepts.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0024",
+     "title": "Beyond time-space",
+     "start_page": 13,
+     "end_page": 17,
+     "summary": "Paragraphs 18-23 define time, space and the Absolute, explain how consciousness \"clicks out\" of time-space below Planck's distance, and argue that the out-of-body state speeds this.",
+     "nodes": [
+      {
+       "node_id": "0025",
+       "title": "Time-space dimension",
+       "start_page": 13,
+       "end_page": 13,
+       "summary": "Time measures energy in motion, which must be confined to a location (space). Energy unconfined is infinity, at rest, outside time and space: physicists' \"Absolute\", which can perceive but not generate holograms. Between it and the material universe lie dimensions human consciousness can reach in altered states.",
+       "nodes": []
+      },
+      {
+       "node_id": "0026",
+       "title": "Intervening dimensions",
+       "start_page": 13,
+       "end_page": 14,
+       "summary": "To enter dimensions between time-space and the Absolute, consciousness must focus until its brainwave pattern looks almost like a solid line. At each oscillation's points of rest, energy \"clicks out\" of time-space below Planck's distance of 10^-33 cm; close-packed clickouts let consciousness pass through the looking glass.",
+       "nodes": []
+      },
+      {
+       "node_id": "0027",
+       "title": "Subatomic particles",
+       "start_page": 14,
+       "end_page": 14,
+       "summary": "Citing John Gliedman in Science Digest, entangled subatomic particles respond to each other instantly across the universe, which the paper attributes to communication during the \"click out\" phase, outside the time-space covered by relativity. Bentov mentions hypothetical faster-than-light tachyons.",
+       "nodes": []
+      },
+      {
+       "node_id": "0028",
+       "title": "Exhibit 3: graphic display of the \"click out\" phenomenon",
+       "start_page": 15,
+       "end_page": 15,
+       "summary": "Bentov's diagram of an oscillating energy wave between two bands labelled \"The Absolute in infinity\": the portion inside time-space, and the \"clicked out\" portions beyond Planck's distance (10^-33 cm) traversing intermediate dimensions.",
+       "nodes": []
+      },
+      {
+       "node_id": "0029",
+       "title": "Dimensions in-between",
+       "start_page": 14,
+       "end_page": 16,
+       "summary": "In the dimensions between time-space and the Absolute, Bentov says causality breaks down and time and space become \"grainy\". The neat relation between time and space no longer holds, and once current time-space is left behind, access opens to both the past and the future.",
+       "nodes": []
+      },
+      {
+       "node_id": "0030",
+       "title": "Special status, out-of-body experience",
+       "start_page": 16,
+       "end_page": 16,
+       "summary": "Consciousness reaches other dimensions far more readily when detached from the body first: starting \"higher up\", it gains more time beyond time-space and entrains to higher energies, a self-reinforcing process. Practitioners who focus on out-of-body experience should progress faster than those working from a physical base.",
+       "nodes": []
+      },
+      {
+       "node_id": "0031",
+       "title": "Absolute in perspective",
+       "start_page": 16,
+       "end_page": 17,
+       "summary": "A recap: the universal hologram, made by energy patterns of all dimensions, is the finite, active form of the Absolute's infinite consciousness. Bentov likens the Absolute to the still depths of a sea under the storm-tossed surface of the physical universe.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0032",
+     "title": "The cosmic egg and the nature of consciousness",
+     "start_page": 17,
+     "end_page": 21,
+     "summary": "Paragraphs 24-27 present Bentov's model of the universe as a torus or cosmic egg in which past, present and future coexist, and describe consciousness as eternal and returning to the Absolute.",
+     "nodes": [
+      {
+       "node_id": "0033",
+       "title": "From big bang to torus",
+       "start_page": 17,
+       "end_page": 17,
+       "summary": "From quasars ejecting jets of matter, Bentov models the universe as matter expelled through a \"white hole\", flowing round an ovoid \"cosmic egg\" or torus and leaving via a \"black hole\". Time measures energy's evolution along this path. Galaxy movements north versus south are cited as evidence.",
+       "nodes": []
+      },
+      {
+       "node_id": "0034",
+       "title": "Exhibit 4: quasar, cosmic egg and torus",
+       "start_page": 18,
+       "end_page": 18,
+       "summary": "Figure A, a photograph of a quasar emitting a jet of matter; Figure B, a diagram of the cosmic egg with nucleus, white hole, black hole and universal hologram; Figure C, a stylised simple torus. Figures A and B are from Bentov, C from Jill Purce's The Mystic Spiral.",
+       "nodes": []
+      },
+      {
+       "node_id": "0035",
+       "title": "Our place in time",
+       "start_page": 17,
+       "end_page": 19,
+       "summary": "Our universe sits near the top of the egg, where matter begins to fall back. Because the torus is generated by matter in all phases of time at once, a focused consciousness could gain information about past, present and future, and the future could be \"seen\" with accuracy.",
+       "nodes": []
+      },
+      {
+       "node_id": "0036",
+       "title": "Exhibit 5: relative position of our galaxy in the universe",
+       "start_page": 20,
+       "end_page": 20,
+       "summary": "Bentov's drawing of the cosmic egg with two torus lobes, the nucleus and white hole at the centre, and our galaxy marked near the top with galactic north and south.",
+       "nodes": []
+      },
+      {
+       "node_id": "0037",
+       "title": "Quality of consciousness",
+       "start_page": 19,
+       "end_page": 19,
+       "summary": "Consciousness is the organising principle that keeps energy in motion to form reality. Human consciousness is a differentiated part of universal consciousness, separate from and superior to the body, with neither beginning nor end; when reality ends, its energy returns to the Absolute.",
+       "nodes": []
+      },
+      {
+       "node_id": "0038",
+       "title": "Consciousness in perspective",
+       "start_page": 19,
+       "end_page": 21,
+       "summary": "Consciousness returning to the Absolute keeps its memories and identity but loses independent thought and will, sharing in all-knowing infinite consciousness. An out-of-body experience projects this eternal spark of identity into dimensions inside and outside time-space.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0039",
+     "title": "Gateway techniques and out-of-body states",
+     "start_page": 21,
+     "end_page": 26,
+     "summary": "Paragraphs 28-33 describe the Gateway training sequence, its Focus levels and tools, out-of-body methods, the role of REM sleep, and the limits on collecting information.",
+     "nodes": [
+      {
+       "node_id": "0040",
+       "title": "Gateway method",
+       "start_page": 21,
+       "end_page": 21,
+       "summary": "Progress depends on the individual's nervous system, state of mind and prior meditation. Training starts with an \"energy conversion box\" to set aside concerns, \"resonant tuning\" by humming with the tape, and the Gateway affirmation that one is more than the physical body.",
+       "nodes": []
+      },
+      {
+       "node_id": "0041",
+       "title": "Hemi-Sync introduced",
+       "start_page": 21,
+       "end_page": 21,
+       "summary": "Participants then hear Hemi-Sync frequencies, learn progressive relaxation with pink and white noise to bring the body to the edge of sleep, and build an \"energy balloon\" that circulates energy and protects against lower-energy entities met out of body.",
+       "nodes": []
+      },
+      {
+       "node_id": "0042",
+       "title": "Advanced techniques",
+       "start_page": 22,
+       "end_page": 24,
+       "summary": "At Focus 12, expanded awareness, participants use tools: problem solving, patterning to make desired outcomes happen, colour breathing and the energy bar tool for healing, remote viewing, and the living body map. Focus 15, travel into the past, is reached by under 5 percent in the week's course; Focus 21, the future, needs months or years.",
+       "nodes": []
+      },
+      {
+       "node_id": "0043",
+       "title": "The out-of-body movement",
+       "start_page": 24,
+       "end_page": 25,
+       "summary": "Only one Gateway tape covers leaving the body, and success is not guaranteed. Bob Monroe is quoted that the tape uses Beta signals of about 2877.3 cycles per second. Separation methods include rolling out, lifting out rigidly like a telephone pole and sliding out through either end.",
+       "nodes": []
+      },
+      {
+       "node_id": "0044",
+       "title": "Role of REM sleep",
+       "start_page": 25,
+       "end_page": 25,
+       "summary": "Monroe told the class that finished 7 May 1983 that an ex-trainer in Charlottesville guaranteed out-of-body movement by bringing people into REM sleep before using the tapes. Three conditions seem needed: profound bodily quiet with resonance near 7 Hz, hemisphere synchronisation, then heightened right-hemisphere alertness.",
+       "nodes": []
+      },
+      {
+       "node_id": "0045",
+       "title": "Information collection potential",
+       "start_page": 25,
+       "end_page": 26,
+       "summary": "Out-of-body travel is instantaneous, but distortion limits its use: people travelling coast to coast to read ten computer-generated numbers in a university lab got some digits but never all ten. Past energy patterns, thought forms and holograms seen inside out may cause the distortion.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0046",
+     "title": "Belief systems, motivation and conclusion",
+     "start_page": 26,
+     "end_page": 28,
+     "summary": "Paragraphs 34, 37 and 38 reconcile the model with religious traditions, explain why Gateway suits impatient Westerners, and set out steps for exploiting it. Paragraphs 35 and 36 do not appear; the text jumps from page 24 to page 26.",
+     "nodes": [
+      {
+       "node_id": "0047",
+       "title": "Belief system considerations",
+       "start_page": 26,
+       "end_page": 26,
+       "summary": "Quotes from David-Neel and Yongden's book on Tibetan Buddhist teachings and the Hindu image of Indra's net of pearls show that the physics matches ancient Eastern thought. The Absolute also fits Hebrew mysticism and the Trinity: energy at rest in infinity as the Father, and its self-consciousness, which projects the hologram that creates reality, as the Son.",
+       "nodes": []
+      },
+      {
+       "node_id": "0048",
+       "title": "Motivational aspect",
+       "start_page": 27,
+       "end_page": 27,
+       "summary": "Gateway progresses much faster than meditation or yoga and needs no lifelong discipline, so it suits the impatient, skeptical pragmatist. Speed depends less on hours practised than on using insights to release anxieties and stresses; the more \"uptight\" a person, the more barriers at first.",
+       "nodes": []
+      },
+      {
+       "node_id": "0049",
+       "title": "Conclusion",
+       "start_page": 27,
+       "end_page": 28,
+       "summary": "There is a sound, rational basis in physical science for considering Gateway plausible. A phased, accelerated approach is proposed: Hemi-Sync tapes, REM sleep frequencies and autohypnosis to reach controlled out-of-body states, then Focus 15 and 21, three-person observation teams, and groups in Focus 12 building holograms to repel unwanted out-of-body presences.",
+       "nodes": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "node_id": "0050",
+   "title": "Bibliography",
+   "start_page": 29,
+   "end_page": 29,
+   "summary": "Nine sources: Bentov's Stalking the Wild Pendulum (1977), Marilyn Ferguson on Karl Pribram, John Gliedman on quantum debate, Melissa Jager's \"The Lamp Turn Laser\", Robert Monroe's Journeys Out of the Body (1971), Jill Purce's The Mystic Spiral, Lee Sannella on Kundalini, Pat Stone on altered states, and Charles Tart's Altered States of Consciousness (1969).",
+   "nodes": []
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "presidents-pdb-bin-ladin",
+ "title": "Bin Ladin Determined To Strike in US",
+ "source": {
+  "url": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/seventy-one-declassified-presidents-daily-brief-products/",
+  "publisher": "CIA",
+  "date": "2001-08-06",
+  "pages": 2,
+  "released": "2004-04-10",
+  "file": "https://web.archive.org/web/20261021130045id_/https://www.cia.gov/static/08-06-2001-Bin-Ladin-Determined-To-Strike-in-US.pdf",
+  "sha256": "dc7e2d7a281726b2262ee7ff3b2c4144cf80a1e5167f330147243a5dd39070af",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "presidents",
+ "summary": "The item in President George W. Bush's Daily Brief of 6 August 2001, five weeks before the 9/11 attacks, warning that Bin Ladin had wanted to strike inside the US since 1997 and citing FBI information on activity consistent with preparations for hijackings. It was declassified in April 2004 for the 9/11 Commission; this scan is from the CIA's September 2026 release of 71 declassified 9/11-related briefs.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/presidents/presidents-pdb-bin-ladin/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Bin Ladin determined to strike in US",
+   "start_page": 1,
+   "end_page": 2,
+   "summary": "Item in the President's Daily Brief of 6 August 2001, marked For the President Only and Top Secret. It warns that Bin Ladin has wanted to attack inside the US since 1997, citing the millennium plot, the 1998 East Africa embassy bombings, al-Qa'ida's support structure in the US, and FBI reports of activity consistent with hijacking preparations.",
+   "nodes": [
+    {
+     "node_id": "0001",
+     "title": "Threat reporting since 1997",
+     "start_page": 1,
+     "end_page": 1,
+     "summary": "After 1998 US missile strikes Bin Ladin told followers he wanted to retaliate in Washington, per a redacted service. Ressam's 1999 plot on Los Angeles International Airport had Abu Zubaydah's help. The Kenya and Tanzania embassy bombings show years of planning. A New York cell recruited Muslim-American youth; a 1998 hijacking report is uncorroborated.",
+     "nodes": []
+    },
+    {
+     "node_id": "0002",
+     "title": "FBI information and investigations",
+     "start_page": 2,
+     "end_page": 2,
+     "summary": "FBI information since 1998 shows patterns of suspicious activity in the US consistent with preparations for hijackings or other attacks, including recent surveillance of federal buildings in New York. The FBI has about 70 Bin Ladin-related full field investigations, and CIA and FBI are investigating a May call to the US Embassy in the UAE about planned explosives attacks.",
+     "nodes": []
+    }
+   ]
+  }
+ ]
+}

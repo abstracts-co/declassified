@@ -1,0 +1,118 @@
+{
+ "id": "psychic-dozier-padua",
+ "title": "Psychics and the Dozier Kidnapping",
+ "source": {
+  "url": "https://www.cia.gov/readingroom/document/cia-rdp96-00788r001700370004-1",
+  "publisher": "US Army",
+  "date": "1983",
+  "pages": 10,
+  "released": "2000-08-08",
+  "file": "https://archive.org/download/CIA-RDP96-00788R001700370004-1/CIA-RDP96-00788R001700370004-1.pdf",
+  "sha256": "34d5529c0733dac4272a5e9661df4fe3718e8a16c8f2d6302b2f983b1e1fba04",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "psychic",
+ "summary": "Slides from a 1983 Army briefing on its remote viewers' sessions to locate Brigadier General James Dozier, kidnapped by the Red Brigades in Verona in December 1981. The slide for 20 January 1982 reads 'The name is Padua'; Italian police, helped by a US Army intelligence unit, freed Dozier from a Padua apartment on 28 January 1982.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/psychic/psychic-dozier-padua/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Sketch map of mountains, river and roads (VG 3)",
+   "start_page": 1,
+   "end_page": 1,
+   "summary": "Hand-drawn viewgraph VG 3, marked for the standard brief: a river and main highway curving between mountains, with a sea road, central road, east road and west road. A legend marks old cities, new city boundaries and industry, super highways, rivers, mountains and an old mountain road.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "Sketch map marked Padua (VG 5)",
+   "start_page": 2,
+   "end_page": 2,
+   "summary": "Hand-drawn viewgraph VG 5, marked for the standard brief: an outline divided into zones, with cross-hatched areas at the top and along one edge and the word \"Padua\" written in a central zone.",
+   "nodes": []
+  },
+  {
+   "node_id": "0002",
+   "title": "Analyst assumption",
+   "start_page": 3,
+   "end_page": 3,
+   "summary": "The analysts' working assumption: the target is in Italy, within a one-and-a-half-hour drive of Verona.",
+   "nodes": []
+  },
+  {
+   "node_id": "0003",
+   "title": "Session data, 18 December 1981 to 26 January 1982",
+   "start_page": 4,
+   "end_page": 8,
+   "summary": "Dated viewgraphs listing what the sessions reported about the city and the site where the subject was held: a city ringed by water, a cathedral facing a traffic circle, a narrow street, entry on the second floor, the name Padua, and the subject handcuffed with three men in the building.",
+   "nodes": [
+    {
+     "node_id": "0004",
+     "title": "18 Dec 81",
+     "start_page": 4,
+     "end_page": 4,
+     "summary": "Data on city: surrounded by water, circled by a moat or river, with a raised highway with ramps on its edge. Data on site: a building across the river from the old city, in a low flat area, to the south or west of the city's southwest corner, with a drawing.",
+     "nodes": []
+    },
+    {
+     "node_id": "0005",
+     "title": "21 Dec 81",
+     "start_page": 5,
+     "end_page": 5,
+     "summary": "Data on city: the main road through town has a big traffic circle with a park in the centre, facing a large cathedral with many art forms in front and old stonework art forms across the street. Data on site: the target street is very narrow, almost like an alley.",
+     "nodes": []
+    },
+    {
+     "node_id": "0006",
+     "title": "5 Jan 82",
+     "start_page": 6,
+     "end_page": 6,
+     "summary": "Data on site: the primary entry is on the second floor.",
+     "nodes": []
+    },
+    {
+     "node_id": "0007",
+     "title": "20 Jan 82",
+     "start_page": 7,
+     "end_page": 7,
+     "summary": "Data on city: the name is Padua.",
+     "nodes": []
+    },
+    {
+     "node_id": "0008",
+     "title": "26 Jan 82",
+     "start_page": 8,
+     "end_page": 8,
+     "summary": "Data on site: the subject and three men are in the building; the men are in their early 30s and two have beards; the subject is handcuffed to a metal pipe or rail.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0009",
+   "title": "Summary",
+   "start_page": 9,
+   "end_page": 9,
+   "summary": "Table of cuing methods and results by date. 18 Dec, name in sealed envelope: 26 responses, 8 correlated with target. 20 Dec and 21 Dec, photo in sealed envelope: 42/26 and 51/23. 5 Jan, photo: 38/9. 20 Jan, photo and name: 25/9. 26 Jan, directed to return to prior target area: 47/19.",
+   "nodes": []
+  },
+  {
+   "node_id": "0010",
+   "title": "Withheld pages notice",
+   "start_page": 10,
+   "end_page": 10,
+   "summary": "Notice that the next two pages of the document are exempt from release, marked SG1A.",
+   "nodes": []
+  }
+ ]
+}

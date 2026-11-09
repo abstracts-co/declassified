@@ -1,0 +1,517 @@
+{
+ "id": "mind-mkultra-hearing",
+ "title": "Project MKULTRA Senate Hearing",
+ "source": {
+  "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+  "publisher": "US Senate",
+  "date": "1977-08-03",
+  "pages": 173,
+  "released": "1977",
+  "file": "https://archive.org/download/project-mkultra-the-cias-program-of-research-in-behavioral-modification_202305/Project%20MKULTRA%2C%20the%20CIA%27s%20Program%20of%20Research%20in%20Behavioral%20Modification.pdf",
+  "sha256": "7825aa173f8f29397c8a398c794d8f1eca0f45743ef6d67c85c76e113cfb8f21",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "mind",
+ "summary": "Transcript of the August 1977 joint Senate hearing where CIA Director Stansfield Turner described newly found MKULTRA records covering 149 subprojects on drugs, hypnosis and behavior modification, some involving tests on unwitting people. The records had survived the CIA's 1973 destruction of the MKULTRA files because they had been filed with financial records.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/mind/mind-mkultra-hearing/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Cover and title page",
+   "start_page": 1,
+   "end_page": 2,
+   "summary": "Cover and title page of 'Project MKULTRA, the CIA's Program of Research in Behavioral Modification', a joint hearing before the Senate Select Committee on Intelligence and the Subcommittee on Health and Scientific Research of the Committee on Human Resources, 95th Congress, 1st session, August 3, 1977, printed by the Government Printing Office in 1977.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "Committee membership",
+   "start_page": 3,
+   "end_page": 3,
+   "summary": "Members and staff of the Senate Select Committee on Intelligence (Daniel K. Inouye, chairman; Barry Goldwater, vice chairman), the Committee on Human Resources (Harrison A. Williams Jr., chairman) and its Subcommittee on Health and Scientific Research (Edward M. Kennedy, chairman).",
+   "nodes": []
+  },
+  {
+   "node_id": "0002",
+   "title": "Contents",
+   "start_page": 4,
+   "end_page": 4,
+   "summary": "Lists the statements of Adm. Stansfield Turner and CIA officials and of former CIA employees Philip Goldman and John Gittinger, Appendixes A to C, and material submitted for the record, from psychological assessments and 'truth' drugs to the Gorman Annex, Subproject 54, MKSEARCH and the QKHILLTOP definition.",
+   "nodes": []
+  },
+  {
+   "node_id": "0003",
+   "title": "Opening statements of Senators Inouye and Kennedy",
+   "start_page": 5,
+   "end_page": 8,
+   "summary": "The committees meet at 9:07 a.m. on August 3, 1977. Inouye says the hearing will review new CIA drug-testing documents and why the Church and Kennedy inquiries never saw them. Kennedy recalls heroin addicts rewarded with heroin, records destroyed in 1973 and 86 institutions involved, and urges the CIA to inform them and extend human-subjects protections.",
+   "nodes": []
+  },
+  {
+   "node_id": "0004",
+   "title": "Prepared statement of Admiral Stansfield Turner",
+   "start_page": 8,
+   "end_page": 12,
+   "summary": "Turner reports seven boxes of MKULTRA finance records found at the Retired Records Center, filed by the Budget and Fiscal Section and so missed in 1973 and 1975. He groups 149 subprojects by category and cites names of 185 researchers and 80 institutions, a $375,000 disguised building-fund gift, safehouse testing in San Francisco and New York, and 'K' drug research.",
+   "nodes": []
+  },
+  {
+   "node_id": "0005",
+   "title": "Testimony of Adm. Stansfield Turner and CIA officials",
+   "start_page": 12,
+   "end_page": 54,
+   "summary": "Turner, with Frank Laubinger, Al Brody, Ernest Mayerfield and George Cary, summarizes the find and answers Senators Inouye, Kennedy, Schweiker, Huddleston, Wallop, Chafee and Goldwater on concealment, unwitting testing in safehouses, the hospital building fund, Subproject 3, brain concussion research, notifying victims and institutions, and Sidney Gottlieb.",
+   "nodes": [
+    {
+     "node_id": "0006",
+     "title": "Turner's opening statement",
+     "start_page": 12,
+     "end_page": 17,
+     "summary": "Turner stresses MKULTRA (1953-1964) is 12 to 24 years past. Records were sparse after the 1973 destruction and a practice of keeping none. He explains how the seven boxes were found, groups 149 subprojects into 15 categories, notes 33 unrelated ones, 185 researchers, 80 institutions and the $375,000 contribution, and says he is working with the Attorney General.",
+     "nodes": []
+    },
+    {
+     "node_id": "0007",
+     "title": "Questions from Senator Inouye: origins and delayed notice",
+     "start_page": 17,
+     "end_page": 19,
+     "summary": "Turner and Al Brody say MKULTRA was a CIA project born of fear that enemies would use drugs, with no evidence of presidential or congressional knowledge. Turner says Laubinger found the files in March, spotted two key projects in June, the memo reached Turner on July 7, and the committee was told on July 15.",
+     "nodes": []
+    },
+    {
+     "node_id": "0008",
+     "title": "Questions from Senator Kennedy: research on humans today",
+     "start_page": 19,
+     "end_page": 21,
+     "summary": "Kennedy calls the program a corruption of America's research centers. Turner calls using people as guinea pigs totally abhorrent and says the CIA conducts and supports no drug experiments on people, witting or unwitting; it only studies behavior, for example to improve polygraph methods, without trying to modify it.",
+     "nodes": []
+    },
+    {
+     "node_id": "0009",
+     "title": "Psychological assessments",
+     "start_page": 21,
+     "end_page": 22,
+     "summary": "Material for the record: CIA psychologists assess mostly foreign nationals to judge how to recruit them as agents and how truthful they are, by interview, disguised 'intelligence tests' or indirect sources. No drugs, harassment or torture are used. Graphologists chart about 30 handwriting traits, and officers in training are assessed as witting subjects.",
+     "nodes": []
+    },
+    {
+     "node_id": "0010",
+     "title": "Kennedy and Schweiker on MKSEARCH, the building fund and safehouses",
+     "start_page": 22,
+     "end_page": 26,
+     "summary": "Turner promises reports on MKSEARCH, OFTEN and CHICKWIT. Schweiker asks whether the Church committee really saw the building-fund record and objects that $375,000 of CIA money drew federal matching funds; Turner calls that questionable today. On bar patrons taken to safehouses, Turner cites six subprojects with proven unwitting testing and others ambiguous.",
+     "nodes": []
+    },
+    {
+     "node_id": "0011",
+     "title": "Questions from Senators Huddleston and Wallop",
+     "start_page": 26,
+     "end_page": 29,
+     "summary": "Turner says no one hid the files during the 1975 searches, oversight is far tighter now, and records cannot be destroyed casually. Asked about Dr. Harris Isbell's Lexington experiments, he confirms only a former employee named Ray. Wallop notes many subprojects were harmless and asks whether foreign truth serums exist; Turner will answer for the record.",
+     "nodes": []
+    },
+    {
+     "node_id": "0012",
+     "title": "\"Truth\" drugs in interrogation",
+     "start_page": 29,
+     "end_page": 37,
+     "summary": "Material for the record surveying drugs used to extract information: scopolamine as 'truth serum', barbiturates such as sodium amytal, clinical studies, observations from practice, counterintelligence interrogation, possible variations and defensive measures. It concludes no magic truth serum exists, drugged subjects mix truth with fantasy, and people who withstand ordinary interrogation can resist. Lists 29 references.",
+     "nodes": []
+    },
+    {
+     "node_id": "0013",
+     "title": "Chafee and Inouye on Subproject 3 and notifying victims",
+     "start_page": 37,
+     "end_page": 40,
+     "summary": "Chafee asks whether current research is sound and urges tracing harmed people; a hospital in his state took part. Inouye notes Subproject 3's surreptitious LSD testing went on for years after Dr. Frank Olson's death; Turner cannot explain it and would 'roll some heads'. Turner agrees to report in three months on notifying subjects and institutions.",
+     "nodes": []
+    },
+    {
+     "node_id": "0014",
+     "title": "Kennedy on notifying universities and safehouse testing",
+     "start_page": 40,
+     "end_page": 42,
+     "summary": "Turner will notify identified subjects but hesitates to tell the 80 institutions, fearing harm to unwitting ones; Kennedy says universities deserve to know and decide on disclosure. Turner says unwitting testing of randomly chosen people took place only at two safehouses, on the east and west coasts, and no records show how many were tested.",
+     "nodes": []
+    },
+    {
+     "node_id": "0015",
+     "title": "Schweiker on the hospital wing and the Gorman Annex",
+     "start_page": 42,
+     "end_page": 44,
+     "summary": "Schweiker reads CIA aims for the funded hospital wing: one-sixth of the space for TSS, deniable sponsorship, cover for three biochemists, and patients for experiments. Turner agrees that was the intent but has no evidence it happened. An inserted note says Georgetown's Gorman Annex, funded under Subproject 35, opened in March 1959; Subproject 45 may have used it.",
+     "nodes": []
+    },
+    {
+     "node_id": "0016",
+     "title": "Schweiker on QKHILLTOP and brain concussion research",
+     "start_page": 44,
+     "end_page": 46,
+     "summary": "Turner reads the deleted word as QKHILLTOP and says the wing appears connected to experiments on terminally ill cancer patients. Schweiker asks about Subproject 54 on concussion by blackjack and sound waves; Turner says CIA never funded it, but an inserted September 1977 correction by Laubinger concedes earlier Navy-funded work was a CIA conduit. Brody explains the magician's-art projects.",
+     "nodes": []
+    },
+    {
+     "node_id": "0017",
+     "title": "Huddleston on motives and foreign drug research",
+     "start_page": 46,
+     "end_page": 48,
+     "summary": "Turner says the program began from fear that foreign powers could control captives with drugs, then turned from defensive to offensive, and produced few useful results; no drug reached operational use. An inserted answer says the CIA keeps no current files on foreign drug testing, having assessed foreign LSD research under ARTICHOKE from 1949.",
+     "nodes": []
+    },
+    {
+     "node_id": "0018",
+     "title": "Wallop and Kennedy on foreign techniques, Gottlieb and safehouses",
+     "start_page": 48,
+     "end_page": 53,
+     "summary": "Turner agrees foreign powers have used behavior modification, as Korean War prisoners showed. Kennedy asks why nobody has questioned Sidney Gottlieb, who ran the program; Turner cites concern over the Justice Department's role and agrees to contact him. Kennedy describes the San Francisco safehouse's two-way mirrors, decor, recording equipment and repeated small cash payments.",
+     "nodes": []
+    },
+    {
+     "node_id": "0019",
+     "title": "Closing remarks on Turner's testimony",
+     "start_page": 53,
+     "end_page": 54,
+     "summary": "Inouye notes the hearing was held at the CIA's request, that Turner gave the committee a classified file of all names, and that Gottlieb will be called; he praises America's open oversight. Kennedy and Huddleston thank Turner, noting he reported the new documents on his own initiative.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0020",
+   "title": "Testimony of Philip Goldman and John Gittinger",
+   "start_page": 54,
+   "end_page": 67,
+   "summary": "Two former CIA employees testify voluntarily under oath; a third witness, Mr. Pasternac, sought counsel and did not appear. Goldman says he only handled money for the safehouse operations. Gittinger, a psychologist, describes meeting the west coast agent and the CIA-funded Society for the Investigation of Human Ecology.",
+   "nodes": [
+    {
+     "node_id": "0021",
+     "title": "Testimony of Philip Goldman",
+     "start_page": 54,
+     "end_page": 59,
+     "summary": "Goldman, named in CIA records as a monitor, denies knowing of a San Francisco safehouse or monitoring unwitting tests. He says he disbursed checks and checked receipts for the San Francisco and New York operations and met the agent in charge, but cannot recall the substance of his May 1963 report or what the money bought.",
+     "nodes": []
+    },
+    {
+     "node_id": "0022",
+     "title": "Testimony of John Gittinger",
+     "start_page": 59,
+     "end_page": 65,
+     "summary": "Gittinger, a CIA psychologist for 26 years, knew of west coast unwitting LSD tests run with Bureau of Narcotics people. He met agent 'Morgan Hall' at the safehouse to interview prostitutes about sexual habits and knockout drugs. He describes the Society for the Investigation of Human Ecology, CIA-funded at roughly $150,000 a year, whose grantees did not know the source.",
+     "nodes": []
+    },
+    {
+     "node_id": "0023",
+     "title": "Questions from Senators Case and Schweiker; adjournment",
+     "start_page": 65,
+     "end_page": 67,
+     "summary": "Case asks about CIA money funding a grant at a foreign university; Gittinger calls it utter stupidity. Goldman says he studied nutrition at Penn State and headed a small support section far below Gottlieb. Gittinger says brainwashing proved to be isolation and stress, not drugs. Inouye thanks the voluntary witnesses; the hearing recesses at 12:12 p.m.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0024",
+   "title": "Appendix A: Testing and use of chemical and biological agents",
+   "start_page": 68,
+   "end_page": 105,
+   "summary": "Reprint of chapter XVII of Book I of the Church Committee report (pp. 385-422) on intelligence agencies' testing and use of chemical and biological agents: the programs, the rationale for testing, the death of Dr. Frank Olson, surreptitious LSD testing, failures of CIA control, Army LSD field tests abroad, and relations among agencies and institutions.",
+   "nodes": [
+    {
+     "node_id": "0025",
+     "title": "Introduction and summary",
+     "start_page": 68,
+     "end_page": 70,
+     "summary": "The committee finds fear of hostile drug use led to programs that shifted from defense to offense and to tests on unwitting, nonvolunteer people. Few records were kept and most were destroyed in 1973; two Americans died; normal controls were waived; and the CIA's silence about a death may have led the Army into its own LSD field tests.",
+     "nodes": []
+    },
+    {
+     "node_id": "0026",
+     "title": "A. The programs investigated",
+     "start_page": 70,
+     "end_page": 75,
+     "summary": "Describes the Navy's Project CHATTER (1947-1953) on truth drugs; the CIA's BLUEBIRD/ARTICHOKE on interrogation with hypnosis and drugs; MKNAOMI, under which Fort Detrick's Special Operations Division built biological agents and delivery systems for the CIA; MKULTRA, approved April 13, 1953, its records destroyed in 1973; and three phases of Army LSD testing.",
+     "nodes": []
+    },
+    {
+     "node_id": "0027",
+     "title": "B. CIA drug testing programs",
+     "start_page": 75,
+     "end_page": 94,
+     "summary": "Examines why the CIA tested drugs, the death of Dr. Frank Olson, the surreptitious administration of LSD to unwitting people for ten years afterward, and the breakdown of monitoring, authorization and internal review.",
+     "nodes": [
+      {
+       "node_id": "0028",
+       "title": "1. The rationale for the testing programs",
+       "start_page": 75,
+       "end_page": 77,
+       "summary": "Fear that the Soviet Union, China and their allies used drugs in interrogation and brainwashing, and reports that the Soviets sought LSD, drove a 'defensive' program that soon aimed to control people 'whether willing or not'. Testing was hidden from the executive branch, Congress and the public; DCI McCone was not fully briefed until 1963.",
+       "nodes": []
+      },
+      {
+       "node_id": "0029",
+       "title": "2. The death of Dr. Frank Olson",
+       "start_page": 77,
+       "end_page": 82,
+       "summary": "Olson, an Army biological expert at Camp Detrick, was secretly given about 70 micrograms of LSD in Cointreau by CIA officer Robert Lashbrook at a Deep Creek Lake meeting on November 19, 1953. After consultations with Dr. Harold Abramson in New York, he fell from the Statler Hotel. The CIA hid its role; critical letters were declared not reprimands.",
+       "nodes": []
+      },
+      {
+       "node_id": "0030",
+       "title": "3. Surreptitious administration of LSD to unwitting subjects",
+       "start_page": 82,
+       "end_page": 86,
+       "summary": "After Olson's death the CIA continued Subproject 3: contacts met people at random in bars, drugged them in safehouses, and CIA staff watched through one-way mirrors, with no consent or medical care. The Inspector General found it in 1963 and it was halted; Helms argued for keeping unwitting testing, but no resumption was approved and no one was disciplined.",
+       "nodes": []
+      },
+      {
+       "node_id": "0031",
+       "title": "4. Monitoring and control of the testing and use of agents by the CIA",
+       "start_page": 86,
+       "end_page": 94,
+       "summary": "Gottlieb's 1973 destruction of MKULTRA records, the waiver of normal contract and audit rules approved by Allen Dulles, unclear authorization of specific projects, vague approval by Bureau of Narcotics heads, exclusion of the General Counsel and Inspector General, 'gross administrative failures', and rivalry among TSD, Security and Medical Services all undermined control.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0032",
+     "title": "C. Covert testing on human subjects by military intelligence groups",
+     "start_page": 94,
+     "end_page": 103,
+     "summary": "The Army gave LSD (EA 1729) to more than 1,000 volunteers and to 95 in intelligence tests, then interrogated unwitting subjects under THIRD CHANCE in Europe (1961) and DERBY HAT in the Far East (1962). The committee faults lack of coordination with the CIA and FBI, disregard for subjects' rights, informal approvals and no follow-up care; testing ended in 1963.",
+     "nodes": []
+    },
+    {
+     "node_id": "0033",
+     "title": "D. Cooperation and competition among intelligence agencies",
+     "start_page": 103,
+     "end_page": 105,
+     "summary": "Agencies moved from sharing information to wasteful rivalry, with the CIA secretly probing the Army's LSD tests. Work with foreign liaison services made the United States complicit in abuses, the Bureau of Narcotics served as a cut-out, and universities, hospitals and prisons were used without knowing of CIA sponsorship, raising questions of informed consent.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0034",
+   "title": "Appendix B: Documents referring to discovery of additional MKULTRA material",
+   "start_page": 106,
+   "end_page": 110,
+   "summary": "Two 1977 documents on the find: an Office of Technical Service memo seeking guidance on the newly located subproject files, and Admiral Turner's letter informing Senator Inouye and offering to testify.",
+   "nodes": [
+    {
+     "node_id": "0035",
+     "title": "OTS memo on recently located MKULTRA material, 22 June 1977",
+     "start_page": 106,
+     "end_page": 108,
+     "summary": "David S. Brandwein, Director of the Office of Technical Service, tells the Deputy DCI that a search prompted by John Marks's FOIA request found subproject files among Budget and Fiscal Section records. He flags a knockout-drug project tied to cancer research and the Subproject 35 building-fund gift, and recommends releasing sanitized files and first informing the Senate committee.",
+     "nodes": []
+    },
+    {
+     "node_id": "0036",
+     "title": "Letter from Admiral Turner to Senator Inouye",
+     "start_page": 109,
+     "end_page": 110,
+     "summary": "Turner reports that the continuing search found mainly financial MKULTRA papers showing possible further drug tests on unknowing Americans, research on covert administration, use of addicts and alcoholics as subjects, 'K' drug research with tests on advanced cancer patients, and a possible improper payment. He says the activities ended over 10 years ago and volunteers to testify.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0037",
+   "title": "Appendix C: Documents referring to subprojects",
+   "start_page": 111,
+   "end_page": 170,
+   "summary": "Sanitized MKULTRA subproject papers from 1953 to 1964, with names redacted: consultant and drug research projects, safehouse testing facilities, tests on cancer patients, the Subproject 35 hospital-wing contribution, drug interrogation research on prisoners and patients, stress and knockout-drug research, a testing project for delivery systems, and a brain concussion proposal.",
+   "nodes": [
+    {
+     "node_id": "0038",
+     "title": "Memo on Subproject 2, 1 May 1953",
+     "start_page": 111,
+     "end_page": 112,
+     "summary": "Sets up Subproject 2 for a redacted practicing psychiatrist and faculty member with OSS experience to provide research and testing, act as a contact and cut-out, monitor projects and advise on MKULTRA, at no more than $4,650 for one year. He is cleared through TOP SECRET. The second page carries approval blocks.",
+     "nodes": []
+    },
+    {
+     "node_id": "0039",
+     "title": "Proposals on drug synergism and covert administration",
+     "start_page": 113,
+     "end_page": 114,
+     "summary": "Two $1,000 proposals: animal experiments, to precede human ones, on drug combinations that may abolish consciousness, run informally without a specific grant; and a survey of methods criminals have used to give drugs without the patient's knowledge, with analysis of the psychodynamics, leading to a manual.",
+     "nodes": []
+    },
+    {
+     "node_id": "0040",
+     "title": "Draft memo on Subproject 2, 11 August 1955",
+     "start_page": 115,
+     "end_page": 115,
+     "summary": "Draft renewing the arrangement with the redacted psychiatrist: research and testing services, contact and cut-out work, monitoring of projects, general advice, and serving as medical advisor to a redacted establishment, with services and travel reimbursed on invoice at standard government rates.",
+     "nodes": []
+    },
+    {
+     "node_id": "0041",
+     "title": "Memo on Subproject 16, 2 October 1953",
+     "start_page": 116,
+     "end_page": 116,
+     "summary": "Subproject 16 continues Subproject 3, which set up facilities for realistic testing of items for CD/TSS and APD/TSS, because Subproject 3 underestimated the cost of alterations, equipment and supplies. Run by a redacted person, it is estimated at $7,740 for one year. Signed by Sidney Gottlieb, Chief, Chemical Division.",
+     "nodes": []
+    },
+    {
+     "node_id": "0042",
+     "title": "Letter on opening a cover bank account, 26 May 1953",
+     "start_page": 117,
+     "end_page": 117,
+     "summary": "Typed letter to a redacted recipient: the writer opened a $100 checking account under a redacted name, proposes a joint account so funds can be recovered if he dies, used a government official's reference to satisfy the bank, ordered checks and stationery in that name, and remarks that creating the 'Jekyll-Hyde personality' takes some doing.",
+     "nodes": []
+    },
+    {
+     "node_id": "0043",
+     "title": "Subproject 23 memos and proposal",
+     "start_page": 118,
+     "end_page": 121,
+     "summary": "Subproject 23 replaces three projects at a redacted researcher's facility with one, capped at $42,700 a year, to study and synthesize drugs acting on the central nervous system, test them on animals and then clinically. On 8 October 1954 $15,000 is added. A 25 August 1955 memo approves $658.05 for hospital costs of incurable cancer patients used as test subjects.",
+     "nodes": []
+    },
+    {
+     "node_id": "0044",
+     "title": "Subproject 35: hospital research wing contribution",
+     "start_page": 122,
+     "end_page": 143,
+     "summary": "Papers on the CIA's covert contribution, through a cut-out fund, toward a $3,000,000 research wing at a university hospital, raised from $125,000 to $375,000 so the Chemical Division of TSS would gain one-sixth of the space, deniable cover for its staff, and patients for experiments.",
+     "nodes": [
+      {
+       "node_id": "0045",
+       "title": "General Counsel opinions on Subproject 35",
+       "start_page": 122,
+       "end_page": 124,
+       "summary": "General Counsel Lawrence R. Houston tells the DCI on 21 December 1954 that the gift is proper if it buys something of value. He notes it will draw matching federal funds and spare CIA projects the hospital's 80 percent overhead, but finds no legal obstacle. An 8 April 1955 note says a $250,000 increase does not change his view.",
+       "nodes": []
+      },
+      {
+       "node_id": "0046",
+       "title": "Research aims of the TSS Chemical Division, 5 May 1955",
+       "start_page": 125,
+       "end_page": 127,
+       "summary": "Lists 17 materials sought, including substances to discredit people through illogical thinking, counter or heighten alcohol's effects, ease hypnosis, cause amnesia, shock and confusion, resist torture and brainwashing, produce paralysis, and a knockout pill. It argues the hospital facility would solve the security problems of human testing at effective doses.",
+       "nodes": []
+      },
+      {
+       "node_id": "0047",
+       "title": "Subproject 35 of Project MKULTRA, 10 May 1955",
+       "start_page": 128,
+       "end_page": 129,
+       "summary": "Subproject 35, approved by the DCI on 15 January 1955, gave $125,000 through a cut-out toward a $3,000,000 research wing in return for one-sixth of its space for covert biological and chemical warfare research. Because an expected $500,000 donation fell through, TSS asks to raise the CIA share to $375,000, matched under Public Law 221.",
+       "nodes": []
+      },
+      {
+       "node_id": "0048",
+       "title": "Amendment to Subproject 35, Project MKULTRA",
+       "start_page": 130,
+       "end_page": 135,
+       "summary": "Requests the extra $250,000 through the cut-out fund, with total federal money unchanged at $1,875,000, and restates the benefits: one-sixth of the wing for the Chemical Division, deniable sponsorship, cover for three biochemists, and human patients and volunteers under clinical supervision. Covers security, the agreement, savings, and the General Counsel's concurrence.",
+       "nodes": []
+      },
+      {
+       "node_id": "0049",
+       "title": "Tab A: Subproject 35 proposal",
+       "start_page": 136,
+       "end_page": 143,
+       "summary": "The original proposal: MKULTRA's background, the cut-out fund's work for TSS since 1951, the cleared doctor behind it, the six-story wing and its financing, TSS's lack of cover for its scientists, advantages including a 'hospital safehouse' and patients for experiments, a $125,000 grant, a memorandum of agreement, overhead savings, and legal review.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0050",
+     "title": "Trip report and final letter on a drug interrogation study, 1958",
+     "start_page": 144,
+     "end_page": 147,
+     "summary": "A 9 April 1958 trip report arranges to close a redacted project by 30 June: 13 of 30 planned cases were done and the design was cut to 26. An 18 July 1958 letter says the experiment testing medication to make people release guarded information ended with 25 cases chosen from institution and prison files, and returns $1,356.26.",
+     "nodes": []
+    },
+    {
+     "node_id": "0051",
+     "title": "Research plan: drug interrogation of criminal sexual psychopaths",
+     "start_page": 148,
+     "end_page": 152,
+     "summary": "Plans a study at a redacted 1,135-bed state hospital using its 142 criminal sexual psychopaths. Teams of psychologists and psychiatrists would compare straight interrogation with hypnosis, LSD and a tetrahydrocannabinol acetate derivative, given openly and covertly, with placebos, on subjects whose denials can be checked against records; sessions would be recorded.",
+     "nodes": []
+    },
+    {
+     "node_id": "0052",
+     "title": "Subproject 42 memos",
+     "start_page": 153,
+     "end_page": 155,
+     "summary": "A 30 January 1961 draft continues Subproject 42 for covert, realistic field trials of TSD items and their delivery systems, at $5,000 for six months. An earlier memo sets up Subproject 42 from 1 March 1955 as a continuation of Subproject 16, moving the testing facilities to a new location, run by a redacted seaman, at $8,300 a year.",
+     "nodes": []
+    },
+    {
+     "node_id": "0053",
+     "title": "Subproject 45 memos and proposal",
+     "start_page": 156,
+     "end_page": 164,
+     "summary": "A 21 March 1955 memo funds up to $100,000 a year for a redacted researcher's work on curare-like thiols, quinolines and indole alkaloids; a revision adds toxic cerebral states and a pool of test subjects. A 1960 proposal screens stress compounds on advanced cancer patients. Later continuations cover stress-producing compounds ($71,500) and then the 'knockout' problem ($40,000).",
+     "nodes": []
+    },
+    {
+     "node_id": "0054",
+     "title": "Memo on Subproject 149, 24 January 1964",
+     "start_page": 165,
+     "end_page": 166,
+     "summary": "Draft setting up Subproject 149 to support realistic tests of development items and delivery systems for TSD/BB that suit neither laboratory nor operational field testing. A redacted import-export businessman with a TOP SECRET Treasury clearance and good local police connections would run it, replacing someone who left the area, at $10,000 a year.",
+     "nodes": []
+    },
+    {
+     "node_id": "0055",
+     "title": "Request for support of research on the mechanism of brain concussion",
+     "start_page": 167,
+     "end_page": 170,
+     "summary": "Seeks funds for February 1956 to February 1957 after a first year at $24,925: a laboratory, a blast range, three blast test series and a glass simulated skull support the resonance-cavitation theory. It proposes causing concussion and amnesia without warning or marks, by pancake blackjack, spring devices, projectiles, explosive pads or tuned sound waves.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0056",
+   "title": "Material for the record",
+   "start_page": 171,
+   "end_page": 173,
+   "summary": "Answers the CIA supplied after the hearing: a description of MKSEARCH and OFTEN/CHICKWIT, a December 1977 letter on Subproject 3 personnel, and a definition of QKHILLTOP.",
+   "nodes": [
+    {
+     "node_id": "0057",
+     "title": "MKSEARCH, OFTEN/CHICKWIT",
+     "start_page": 171,
+     "end_page": 171,
+     "summary": "MKSEARCH continued MKULTRA from FY 1966 to FY 1972 to develop covert biological, chemical and radioactive means of changing behavior. Under OFTEN/CHICKWIT, from 1967, CIA's Office of Research and Development and Edgewood Arsenal tested behavior-altering drugs on animals and people and gathered drug samples from Europe and the Orient; CIA and DOD dispute who sponsored June 1973 tests.",
+     "nodes": []
+    },
+    {
+     "node_id": "0058",
+     "title": "Employees terminated because of participation in MKULTRA Subproject 3",
+     "start_page": 172,
+     "end_page": 172,
+     "summary": "Letter of 23 December 1977 from CIA Legislative Counsel George Cary to Senator Inouye: a search of agency records confirms Turner's testimony that no CIA employee was terminated for taking part in MKULTRA Subproject 3.",
+     "nodes": []
+    },
+    {
+     "node_id": "0059",
+     "title": "QKHILLTOP definition",
+     "start_page": 173,
+     "end_page": 173,
+     "summary": "QKHILLTOP was a cryptonym assigned in 1954 to a project studying Chinese Communist brainwashing and developing interrogation techniques, with early studies believed done by Cornell University Medical School's human ecology program. It was absorbed into MKULTRA; the Society for the Investigation of Human Ecology, later the Human Ecology Fund, grew out of it.",
+     "nodes": []
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "topic": "deepsea",
+ "item": "deepsea-thresher-rudder",
+ "kind": "image",
+ "source": "raw/deepsea-thresher-rudder/330-PSA-309-64_(USN_1105520)_(22754398826).jpg",
+ "start": null,
+ "duration": null,
+ "crop": [
+  1080,
+  735,
+  1200,
+  1200
+ ],
+ "motion": "push",
+ "why": "Thresher's pale upper rudder cuts diagonally across the dark seabed more than 8,000 feet down, one bright shape on black and grey that reads at small size and suits a slow push in.",
+ "zoom": 0.55
+}

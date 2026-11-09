@@ -1,0 +1,17 @@
+{
+ "topic": "mind",
+ "item": "mind-lsd-troops-film",
+ "kind": "video",
+ "source": "raw/mind-lsd-troops-film/Effects_of_Lysergic_Acid_Diethylamide_(LSD)_on_Troops_Marching.webm",
+ "start": 118.5,
+ "duration": 7,
+ "crop": [
+  540,
+  0,
+  1080,
+  1080
+ ],
+ "motion": "loop",
+ "why": "A line of dosed soldiers in dark jackets stands at attention against a bright white barracks wall until one doubles over hiding his face and the others start grinning, which is the drug breaking military discipline in one strong dark-on-light shot, while the MKUltra documents are all text pages and the marching shots are mid-grey crowds.",
+ "zoom": 0.62
+}

@@ -1,0 +1,512 @@
+{
+ "id": "fbi-lennon",
+ "title": "John Lennon's FBI File",
+ "source": {
+  "url": "https://vault.fbi.gov/john-winston-lennon",
+  "publisher": "FBI",
+  "date": "1972",
+  "pages": 204,
+  "released": "1997",
+  "file": "https://web.archive.org/web/20250206082005id_/https://vault.fbi.gov/john-winston-lennon/John%20Winston%20Lennon%20Part%2001/at_download/file",
+  "sha256": "3e871b3ba03eb47356005c88c82a7e32823790b8ccd6c91fab6b16596259db89",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "fbi",
+ "summary": "Part 1 of the FBI's file on John Lennon, mostly from 1972, when the Bureau followed his links to anti-war activists planning protests at the Republican National Convention while immigration authorities tried to deport him. Historian Jon Wiener first asked for the file in 1981; most of it was released in 1997 and the last 10 documents in 2006.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/fbi/fbi-lennon/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "FOIPA release cover sheet",
+   "start_page": 1,
+   "end_page": 1,
+   "summary": "FBI Freedom of Information/Privacy Acts release cover sheet. Subject: John Lennon.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "February 1972: CIA inquiry and Project \"YES\"",
+   "start_page": 2,
+   "end_page": 9,
+   "summary": "The CIA asks what the FBI knows of Lennon's money for Rennie Davis's Allamuchy Tribe. The Bureau replies that a source says Lennon gave $75,000 to the renamed Election Year Strategy Information Center (EYSIC), cables Legat London, and orders field offices to work on Project \"YES\".",
+   "nodes": [
+    {
+     "node_id": "0002",
+     "title": "CIA request on Lennon and the Allamuchy Tribe, 3 February 1972",
+     "start_page": 2,
+     "end_page": 2,
+     "summary": "CIA memo (ref I-360), received by courier, citing an FBI teletype of 24 January 1972 that Lennon gave a large sum to the Allamuchy Tribe headed by Rennie Davis. It asks for more on Lennon's ties to the group and whether Davis gets funds from foreign sources. CIA markings are redacted (b3).",
+     "nodes": []
+    },
+    {
+     "node_id": "0003",
+     "title": "Washington Field teletype on INS files, 10 February 1972",
+     "start_page": 3,
+     "end_page": 3,
+     "summary": "Washington Field Office reports that a special clerk found at central INS that the files on John Winston Lennon and his wife Yoko Ono Lennon are charged out to INS, New York City. Captioned EYSIC and John Winston Lennon, Security Matter - New Left.",
+     "nodes": []
+    },
+    {
+     "node_id": "0004",
+     "title": "FBI reply to the CIA and cable to Legat London, 7 and 11 February 1972",
+     "start_page": 4,
+     "end_page": 7,
+     "summary": "Secret reply to the CIA's 3 February memo: the Allamuchy Tribe, led by Rennie Davis, is now EYSIC, and a source says Lennon gave $75,000 to form it. INS says Lennon arrived in 1968 and holds a visa expiring at the end of February 1972. The Lennons are in the Virgin Islands. A similar cable goes to Legat London.",
+     "nodes": []
+    },
+    {
+     "node_id": "0005",
+     "title": "Airtel on Project \"YES\", 15 February 1972",
+     "start_page": 8,
+     "end_page": 9,
+     "summary": "Director's airtel to New York, Los Angeles, San Diego and Washington Field on Project \"YES\", mostly redacted (b1). Recipients must alert informants, report in LHM form, determine whether the group is identical with EYSIC, and use mature, experienced agents on matters touching the Republican National Convention. Recipients must note the CIA's dissemination instructions.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0006",
+   "title": "March-April 1972: first deportation hearing and field orders",
+   "start_page": 10,
+   "end_page": 25,
+   "summary": "Lennon and Yoko Ono appear at INS on 16 March 1972 and win a delay to 18 April. New York sends an LHM on EYSIC and Lennon. The Bureau orders New York to locate Lennon and follow his activities, citing an Alexandria report that Lennon and John Sinclair planned rock concerts to fund convention protests.",
+   "nodes": [
+    {
+     "node_id": "0007",
+     "title": "Teletype and informative note on the 16 March 1972 hearing",
+     "start_page": 10,
+     "end_page": 12,
+     "summary": "INS trial attorney Vincent Schiano reports the Lennons appeared for deportation proceedings and won a delay to 18 April: Lennon is fighting his British narcotics conviction, Ono a child custody case. Lennon told UPI and AP he was framed. A 17 March note calls Lennon EYSIC's major funder and says the group is \"dying on the vine.\"",
+     "nodes": []
+    },
+    {
+     "node_id": "0008",
+     "title": "New York airtel and LHM on Lennon, 16 March 1972",
+     "start_page": 13,
+     "end_page": 19,
+     "summary": "New York sends 12 copies of an LHM, shared with INS and Legat London. It covers the Allamuchy Tribe's founding by Rennie Davis and Stewart Albert, Lennon's $75,000 gift, the change to EYSIC, his London cannabis conviction, his visas, the Mike Douglas Show with Jerry Rubin, reports of heavy drug use, and the 6 March show cause order.",
+     "nodes": []
+    },
+    {
+     "node_id": "0009",
+     "title": "Bureau airtel enclosing Alexandria report on rock concerts",
+     "start_page": 20,
+     "end_page": 25,
+     "summary": "On 10 April 1972 the Director tells New York to locate Lennon discreetly and follow him until deportation, passing drug information to narcotics authorities. The enclosed Alexandria airtel of 31 March, captioned White Panther Party, says Lennon and John Sinclair planned rock concerts, the first in Ann Arbor, to fund disruption of the San Diego convention.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0010",
+   "title": "April 1972: hearing claims and reports to the White House",
+   "start_page": 26,
+   "end_page": 36,
+   "summary": "At the 18 April hearing Lennon's attorney says he is being deported for his views and has been appointed to a presidential drug council and NYU's faculty. FBI checks find no drug commission appointment but confirm an NYU offer. The Director reports on Lennon to the Acting Attorney General and to H. R. Haldeman.",
+   "nodes": [
+    {
+     "node_id": "0011",
+     "title": "Teletypes on the 18 April hearing and Bureau instructions",
+     "start_page": 26,
+     "end_page": 28,
+     "summary": "New York reports the hearing before Special Inquiry Officer Ira Fieldsteel, with attorney Leon Wildes citing the Houston custody case, Lennon's outspoken views on Southeast Asia, and appointments to the President's Council for Drug Abuse and NYU. The Director's 20 April teletype orders discreet checks of these claims and of Lennon's narcotics use.",
+     "nodes": []
+    },
+    {
+     "node_id": "0012",
+     "title": "Letters to the Acting Attorney General and H. R. Haldeman, 25 April 1972",
+     "start_page": 29,
+     "end_page": 32,
+     "summary": "Two letters from the Director summarising Lennon's case: his $75,000 to a group formed to disrupt the Republican convention, expired visas, the 18 April hearing, sources calling him a heavy narcotics user, no record of a drug commission appointment, and an NYU summer teaching offer. Part of the first page is redacted (b1).",
+     "nodes": []
+    },
+    {
+     "node_id": "0013",
+     "title": "Checks on the NYU and drug commission claims, and summary memo",
+     "start_page": 33,
+     "end_page": 36,
+     "summary": "New York (21 April) confirms NYU offered Lennon a teaching post. Washington Field's pretext inquiry at the National Commission on Marihuana and Drug Abuse finds no appointment. R. L. Shackelford's memo to E. S. Miller reviews Lennon's delaying tactics, notes NYPD efforts to arrest the Lennons for narcotics, and attaches the letters to Haldeman and the Acting Attorney General.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0014",
+   "title": "May-June 1972: injunction, 17 May hearing and Miami concert",
+   "start_page": 37,
+   "end_page": 54,
+   "summary": "The Lennons seek a court injunction, and INS prepares the 17 May hearing on the Kyoko Cox custody case and Lennon's income. The Bureau stops a Houston lead on the child as INS's business. INS reports the Lennons may plan a rock concert at the Miami convention, and Miami asks New York for details.",
+   "nodes": [
+    {
+     "node_id": "0015",
+     "title": "Informative note and teletype on the court injunction, 3 May 1972",
+     "start_page": 37,
+     "end_page": 39,
+     "summary": "The Lennons went to New York City Court on 3 May to seek an injunction against deportation; the INS hearing was put off to 9 May and the court granted a visa petition. British authorities say the narcotics conviction is unlikely to be overturned. Mayor Lindsay asked INS to stop the proceedings.",
+     "nodes": []
+    },
+    {
+     "node_id": "0016",
+     "title": "Notes and teletypes on the 17 May 1972 hearing",
+     "start_page": 40,
+     "end_page": 44,
+     "summary": "INS planned to argue that the Lennons' claim that Kyoko Cox was abducted by her father is false, that Lennon's claim of no US income involves fraud, and to seek mental examinations. After the 17 May hearing Ira Fieldsteel gave INS until 1 July for briefs. NYPD says it cannot make a narcotics case on the Lennons.",
+     "nodes": []
+    },
+    {
+     "node_id": "0017",
+     "title": "Houston lead on Kyoko Cox and Bureau instructions",
+     "start_page": 45,
+     "end_page": 48,
+     "summary": "New York reports the Lennons may have hidden Kyoko Cox at a Houston address to delay deportation and sets a lead for Houston. On 24 May the Director tells Houston to disregard it: possible perjury is INS's responsibility, and FBI agents testifying could bring adverse publicity.",
+     "nodes": []
+    },
+    {
+     "node_id": "0018",
+     "title": "Reports of a Lennon rock concert at the Miami convention",
+     "start_page": 49,
+     "end_page": 54,
+     "summary": "Schiano tells New York the Lennons may plan a large rock concert in front of the Miami convention hall and that INS may seek bond to restrict their travel. Houston confirms on 24 May it is making no further inquiry. Miami's 5 June airtel wants the information put in LHM form on convention demonstrations.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0019",
+   "title": "July-October 1972: the conventions",
+   "start_page": 55,
+   "end_page": 68,
+   "summary": "New York's 27 July LHM goes to Miami with a photo of Lennon and urges a narcotics arrest. Miami and New York find no sign Lennon came to Miami for the conventions or was among about 1,200 people arrested there. Legat London asks New York to identify the International Committee for John and Yoko.",
+   "nodes": [
+    {
+     "node_id": "0020",
+     "title": "New York airtel and LHM of 27 July 1972, and Miami request",
+     "start_page": 55,
+     "end_page": 61,
+     "summary": "New York sends an LHM to the Bureau and Miami, stressing that Lennon is reportedly a heavy user of \"downers\" and urging local police to arrest him on a narcotics charge, since INS's case is loose. The LHM recaps EYSIC, the status of INS briefs and a physical description. Miami's 21 July airtel had asked for it.",
+     "nodes": []
+    },
+    {
+     "node_id": "0021",
+     "title": "Reports that Lennon did not go to Miami",
+     "start_page": 62,
+     "end_page": 64,
+     "summary": "New York (30 August) says its case agent, in Miami with the Weatherman Task Group during the convention, did not see Lennon, and INS has no sign he went. Miami (28 September) found no trace of him in Miami Beach; records of about 1,200 arrests on 22-23 August were being checked.",
+     "nodes": []
+    },
+    {
+     "node_id": "0022",
+     "title": "Legat London request on the International Committee for John and Yoko",
+     "start_page": 65,
+     "end_page": 67,
+     "summary": "Routing slip of 22 November 1972 asking that the matter be expedited, and Legat London's 12 September 1972 memo enclosing a letter classified Secret and asking New York to identify the International Committee for John and Yoko. The second page is redacted (b1).",
+     "nodes": []
+    },
+    {
+     "node_id": "0023",
+     "title": "Miami memo closing its inquiry, 24 October 1972",
+     "start_page": 68,
+     "end_page": 68,
+     "summary": "Miami reports that Lennon was not among those arrested in Miami Beach on 22-23 August 1972 during protests against the Republican convention. With no sign he came to either convention, Miami ends its investigation.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0024",
+   "title": "Later records, 1972-1976",
+   "start_page": 69,
+   "end_page": 86,
+   "summary": "UPI stories from 1975 on Lennon's suit against John Mitchell, a December 1972 LHM on the International Committee for John and Yoko with classified pages, and Legat London's 1976 papers on Lennon's application to adjust his immigration status.",
+   "nodes": [
+    {
+     "node_id": "0025",
+     "title": "UPI wire stories on Lennon's suit against John Mitchell, 1975",
+     "start_page": 69,
+     "end_page": 70,
+     "summary": "Lennon's attorney Leon Wildes says he has sued former Attorney General John Mitchell, Richard Kleindienst, the Justice Department and immigration officers for selective prosecution, and that documents show the 1972 deportation was ordered from Washington after a Senate Internal Security report linking Lennon to plans to disrupt the Republican convention.",
+     "nodes": []
+    },
+    {
+     "node_id": "0026",
+     "title": "International Committee for John and Yoko, December 1972",
+     "start_page": 71,
+     "end_page": 78,
+     "summary": "New York airtel and LHM of 8 December 1972: INS's Vincent Schiano says the committee, at One White Street with a Radio City post office box, campaigns for the Lennons while they appeal deportation. Sources had nothing new on it or the Lennons in September-November. Four following pages carry classification markings and b1 redactions.",
+     "nodes": []
+    },
+    {
+     "node_id": "0027",
+     "title": "Lennon's 1976 application to adjust status",
+     "start_page": 79,
+     "end_page": 86,
+     "summary": "Legat London's July 1976 memo encloses a 23 July letter to the Embassy visa unit on Lennon's adjustment of status, a biographic form (born 9 October 1940, Liverpool; parents Alfred Lennon and Julia Stanley; wife Yoko Ono; former wife Cynthia Powell) and a list of his companies such as Apple Corps. Deleted page sheets come before and after.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0028",
+   "title": "Other files, 1969-1973",
+   "start_page": 87,
+   "end_page": 115,
+   "summary": "Files from other cases: a San Francisco memo on the People's Party, a clipping on Lennon's immigration appeal, a 1969 Hartford campus protest over a nude Lennon photo, congressional obscenity letters on his album cover, index search forms, a 1973 electronic surveillance check, and 1970 RCMP letters on a peace radio network.",
+   "nodes": [
+    {
+     "node_id": "0029",
+     "title": "People's Party memo, \"Grass Roots\" article and clipping",
+     "start_page": 87,
+     "end_page": 92,
+     "summary": "San Francisco's 1 August 1972 memo sends Detroit the 19 May 1972 \"Grass Roots\" of the People's Party, formerly the White Panther Party. Lowell Young's article regrets that Hoffman, Rubin, Sinclair, Joan Baez and Lennon back McGovern and urges socialism. A newspaper clipping reports a Board of Immigration Appeals ruling on Lennon.",
+     "nodes": []
+    },
+    {
+     "node_id": "0030",
+     "title": "University of Hartford demonstration, January 1969",
+     "start_page": 93,
+     "end_page": 95,
+     "summary": "New Haven airtel and LHM of 11 January 1969: students planned a march on 9 January after Dean Eugene T. Sweeney suspended the campus paper \"The UH News, Liberated Press\" for printing nude photos of John Lennon and Yoko Ono. No march took place; about 200 students and five faculty held a rally.",
+     "nodes": []
+    },
+    {
+     "node_id": "0031",
+     "title": "Congressional letters on the nude album cover and obscenity, March 1969",
+     "start_page": 96,
+     "end_page": 101,
+     "summary": "Congressman Ancher Nelsen forwards a constituent's letter about a Lennon album whose cover shows Lennon and Yoko Ono nude. Justice Department attorney Robert Mahony says it does not meet the legal test of obscenity, and Hoover replies on 10 March 1969. A 20 March memo covers Congressman Charles Bennett's bill on obscene material for minors.",
+     "nodes": []
+    },
+    {
+     "node_id": "0032",
+     "title": "Requests for search of special indices",
+     "start_page": 102,
+     "end_page": 103,
+     "summary": "Two Domestic Intelligence Division forms requesting a search of the Bureau's special indices for names and known aliases.",
+     "nodes": []
+    },
+    {
+     "node_id": "0033",
+     "title": "Electronic surveillance check, September-October 1973",
+     "start_page": 104,
+     "end_page": 110,
+     "summary": "Before Lennon's 29 October 1973 Board of Immigration Appeals hearing, Henry Petersen of the Criminal Division asks whether he was ever under electronic surveillance. New York's review of its indices finds none, and the Director replies that he was not a subject of FBI electronic surveillance. A deleted page sheet follows.",
+     "nodes": []
+    },
+    {
+     "node_id": "0034",
+     "title": "RCMP letters on a Canadian peace radio network, 1970",
+     "start_page": 111,
+     "end_page": 115,
+     "summary": "Legat Ottawa's 24 April 1970 airtel encloses RCMP letters: station WJWL of Georgetown, Delaware asked about the Toronto Peace Station Network's 5-minute \"peace\" programs, which its listeners opposed. The RCMP notes Lennon and his wife started the Mosport Peace Festival in December 1969 and refers WJWL to the FBI. A deleted page sheet follows.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0035",
+   "title": "January-February 1972: the Allamuchy Tribe becomes EYSIC",
+   "start_page": 116,
+   "end_page": 135,
+   "summary": "New York and Washington Field teletypes trace the Allamuchy Tribe, formed at a New Jersey farm, as it becomes EYSIC with Lennon's money, plans offices on Hudson Street and eyes Liberation News Service. Also an FBI Current Intelligence item, a Project \"YES\" airtel and an LHM on Jerry Rubin's Mike Douglas Show appearance.",
+   "nodes": [
+    {
+     "node_id": "0036",
+     "title": "New York teletype on the Allamuchy Tribe, 21 January 1972, and index search",
+     "start_page": 116,
+     "end_page": 119,
+     "summary": "A source says the Allamuchy Tribe, led by Rennie Davis with Stu Albert and Jay Craven, met at the Peter Stuyvesant farm in Allamuchy, New Jersey, will open a New York office, and aims to direct protests at the Republican convention. John Lennon gave it a large sum. An index search slip and Lennon file references follow.",
+     "nodes": []
+    },
+    {
+     "node_id": "0037",
+     "title": "New York teletypes on EYSIC, its offices and funding",
+     "start_page": 120,
+     "end_page": 127,
+     "summary": "Teletypes report the Allamuchy Tribe's new name, EYSIC, for anti-CALREP activities; Lennon's addresses, with Washington Field asked for INS background and a photo; and a source saying the group rented warehouse floors on Hudson Street, Lennon gave $75,000, and Davis hoped to buy Liberation News Service. A deleted page sheet follows.",
+     "nodes": []
+    },
+    {
+     "node_id": "0038",
+     "title": "FBI Current Intelligence on EYSIC, 11 February 1972",
+     "start_page": 128,
+     "end_page": 128,
+     "summary": "Current Intelligence (Vol. II, No. 3) describes EYSIC, earlier called the Allamuchy Tribe and International News Service, organised by Rennie Davis, Jerry Rubin, Stewart Albert and Jay Craven to aim protests at the San Diego convention. Lennon's money gives him influence; no key session is held without him. Its office is a Hudson Street warehouse.",
+     "nodes": []
+    },
+    {
+     "node_id": "0039",
+     "title": "Washington Field teletype on EYSIC staff, early February 1972",
+     "start_page": 129,
+     "end_page": 130,
+     "summary": "A source says most PCPJ staff in Washington moved to New York in mid-January to work for EYSIC, and names them. The Lennons are vacationing in the Virgin Islands, so EYSIC planning meetings wait until their return, probably the second week of February. Washington Field is searching central INS files on Lennon and Yoko Ono.",
+     "nodes": []
+    },
+    {
+     "node_id": "0040",
+     "title": "New York airtel on Youth Election Strategy (Project \"YES\")",
+     "start_page": 131,
+     "end_page": 133,
+     "summary": "Youth Election Strategy, or Project \"YES\", is EYSIC's videotape arm. It hopes to buy Liberation News Service, is controlled by Lennon, Rennie Davis and Jerry Rubin, plans to use entertainers to raise money for anti-convention protests, and works from Global Village in New York. A short handwritten office memo follows.",
+     "nodes": []
+    },
+    {
+     "node_id": "0041",
+     "title": "LHM on Jerry Rubin and the Mike Douglas Show, 25 February 1972",
+     "start_page": 134,
+     "end_page": 135,
+     "summary": "Jerry Rubin appeared on the Mike Douglas Show on 22 February 1972 (CBS) with Lennon and his wife as co-hosts. Lennon said Rubin was unlike his image. Rubin spoke of pressure on the movement, said he opposed heroin rather than drugs, blamed police for the heroin trade, and urged young people to vote.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0042",
+   "title": "February-March 1972: field reports on EYSIC",
+   "start_page": 136,
+   "end_page": 158,
+   "summary": "San Diego and New York LHMs describe EYSIC, Project \"YES\" and plans for concerts and convention protests. A New York memo records the 6 March show cause order. Legat London sends Embassy records on Lennon's 1968 cannabis conviction and his 1971 visa waiver.",
+   "nodes": [
+    {
+     "node_id": "0043",
+     "title": "San Diego airtel and LHM on Project \"YES\", 25 February 1972",
+     "start_page": 136,
+     "end_page": 143,
+     "summary": "A source says Rennie Davis's group plans disruption of the Republican convention, 21-23 August, with rock concerts starring Lennon and Yoko Ono and speeches by Rubin and Davis urging voter registration, legal marijuana and travel to San Diego. Reports on Lennon's role conflict. Copies go to the Naval Investigative Service and the U.S. Attorney. A deleted page sheet follows.",
+     "nodes": []
+    },
+    {
+     "node_id": "0044",
+     "title": "New York LHM and airtel on EYSIC, 28 February 1972",
+     "start_page": 144,
+     "end_page": 151,
+     "summary": "LHM on EYSIC: its December 1971 founding at Allamuchy by Davis, Albert and Craven; backgrounds of Davis, Albert, Rubin and Mari Boulton; PCPJ; Lennon's $75,000; the 28 January name change; work from Global Village; and plans to buy Liberation News Service under Youth Election Strategy, backed by Lennon. The airtel asks offices for backgrounds and photographs.",
+     "nodes": []
+    },
+    {
+     "node_id": "0045",
+     "title": "New York airtel and show cause memo, March 1972",
+     "start_page": 152,
+     "end_page": 153,
+     "summary": "New York airtel of March 1972 on EYSIC, copied to Miami and San Diego. A 7 March memo records an INS investigator's report that Lennon and Yoko Ono were served on 6 March with an order to show cause why they should not be deported as over-stayed visitors.",
+     "nodes": []
+    },
+    {
+     "node_id": "0046",
+     "title": "Legat London airtel and LHM on Lennon's visa, 22 February 1972",
+     "start_page": 154,
+     "end_page": 158,
+     "summary": "Embassy visa records show Lennon, born 9 October 1940 in Liverpool, pleaded guilty at Marylebone Magistrates Court in November 1968 to possessing cannabis and was fined 150 pounds with 21 pounds costs. In 1971 the Embassy issued a one-entry, six-week B-1/B-2 visa after INS cleared a waiver. An index search slip follows.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0047",
+   "title": "Informant reports, January-February 1972",
+   "start_page": 159,
+   "end_page": 174,
+   "summary": "Informant reports filed in New York: an Irish committee meeting where Lennon offered entertainment, EYSIC money coming mainly from Lennon, PCPJ office news on the Berrigan release and Lennon's lack of interest in the New Left, and May Day plans with Lennon for a Boston Garden peace concert.",
+   "nodes": [
+    {
+     "node_id": "0048",
+     "title": "Report on an Irish committee meeting, 6 February 1972",
+     "start_page": 159,
+     "end_page": 161,
+     "summary": "Cover sheet and report on a meeting of the committee against internment in Northern Ireland at the Irish Institute, 326 West 48th Street. The group added a call for withdrawal of British troops; Socialist Workers Party members pressed for a mass demonstration. It was announced that John Lennon had offered entertainment; a boycott of British goods was proposed.",
+     "nodes": []
+    },
+    {
+     "node_id": "0049",
+     "title": "Report on EYSIC money and offices, 25 January 1972",
+     "start_page": 162,
+     "end_page": 164,
+     "summary": "Cover sheet and report: a front man for Rennie Davis, John Lennon and Jerry Rubin met William Kittredge at the Washington Square Methodist church office. The new office will open at Hudson and 10th Streets on two floors; staff from Washington earn $125 a week; most of the money comes from Lennon.",
+     "nodes": []
+    },
+    {
+     "node_id": "0050",
+     "title": "FOIPA deleted page sheets",
+     "start_page": 165,
+     "end_page": 167,
+     "summary": "Three FOIPA deleted page information sheets marking pages withheld at this point in the file.",
+     "nodes": []
+    },
+    {
+     "node_id": "0051",
+     "title": "PCPJ report, 23 February 1972",
+     "start_page": 168,
+     "end_page": 172,
+     "summary": "Informant report for Philadelphia on PCPJ: Daniel Berrigan's release on bail, a 24 February demonstration at Danbury Prison and a pilgrimage to Harrisburg, contacts from an activist's phone book, and a source's view that Lennon and his wife seem uninterested in becoming active in the New Left.",
+     "nodes": []
+    },
+    {
+     "node_id": "0052",
+     "title": "PCPJ report, 1 February 1972",
+     "start_page": 173,
+     "end_page": 174,
+     "summary": "Informant report for Boston: Rennie Davis is staying at Jerry Rubin's; May Day is at odds with PCPJ; Davis and Rubin run May Day from the background; May Day promises San Diego will be like Washington with 100 times the people; Lennon works closely with May Day, and a peace concert may be held at Boston Garden.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0053",
+   "title": "EYSIC closed, withheld pages and later reports",
+   "start_page": 175,
+   "end_page": 204,
+   "summary": "New York closes its EYSIC case after the group dissolves in March 1972. Many pages are withheld. A second copy of the 23 February PCPJ report, a report on the May 1972 Attica benefit Lennon promoted, and a clipping on the delayed deportation decision follow.",
+   "nodes": [
+    {
+     "node_id": "0054",
+     "title": "LHM: EYSIC no longer functioning, 29 March 1972",
+     "start_page": 175,
+     "end_page": 179,
+     "summary": "EYSIC ceased about 1 March 1972; Rubin and Albert have no firm convention plans and Davis was last known in Florida. Its film arm makes films on automated weapons in Southeast Asia for convention crowds. Rubin and Davis had split with Lennon over drugs. The airtel sends copies to INS, military intelligence and Secret Service and closes the case.",
+     "nodes": []
+    },
+    {
+     "node_id": "0055",
+     "title": "Withheld pages",
+     "start_page": 180,
+     "end_page": 194,
+     "summary": "FOIPA deleted page information sheets for pages withheld here, with an office memo stamped searched and indexed (page 182) and a teletype form (page 186).",
+     "nodes": []
+    },
+    {
+     "node_id": "0056",
+     "title": "Second copy of the 23 February 1972 PCPJ report",
+     "start_page": 195,
+     "end_page": 199,
+     "summary": "Another copy of the PCPJ informant report, with a cover sheet for Philadelphia asking that Steve Schere of the Peace Parade Committee be indexed: Berrigan's release, the Danbury demonstration, phone book contacts, and Lennon and his wife's lack of interest in the New Left.",
+     "nodes": []
+    },
+    {
+     "node_id": "0057",
+     "title": "Report on the Attica benefit concert, 13 May 1972",
+     "start_page": 200,
+     "end_page": 202,
+     "summary": "After Lennon plugged it on the Dick Cavett Show, a benefit for the Attica Defense Committee at the Washington Square Methodist church drew a larger crowd than expected, including Otto Preminger. AIO members ran security. A bomb threat ended it about 1:30 a.m.; it netted $2,000. A later reorganisation meeting of a radical group was fruitless.",
+     "nodes": []
+    },
+    {
+     "node_id": "0058",
+     "title": "Clipping on the delayed deportation decision, and deleted page sheet",
+     "start_page": 203,
+     "end_page": 204,
+     "summary": "Newspaper clipping: INS says a decision on deporting Lennon and Yoko Ono may not come until September; briefs due 1 July await the transcript of the 17 May hearing, and Ira Fieldsteel is away in August. The government wants to deny permanent residence over his 1968 marijuana conviction. A FOIPA deleted page sheet ends the file.",
+     "nodes": []
+    }
+   ]
+  }
+ ]
+}

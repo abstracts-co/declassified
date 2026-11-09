@@ -1,0 +1,463 @@
+{
+ "id": "fbi-monroe",
+ "title": "Marilyn Monroe's FBI File",
+ "source": {
+  "url": "https://vault.fbi.gov/Marilyn%20Monroe",
+  "publisher": "FBI",
+  "date": "1955",
+  "pages": 85,
+  "released": "2013-01-04",
+  "file": "https://web.archive.org/web/20251223022327id_/https://vault.fbi.gov/Marilyn%20Monroe/Marilyn%20Monroe%20Part%2003%20(Final)/at_download/file",
+  "sha256": "45beed2714f3956039cc2c3cc0b3d9af03d876f5f771c0e44cdb566f48baa1e5",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "fbi",
+ "summary": "The FBI's file on Marilyn Monroe, reprocessed in 2012 with fewer redactions. It tracks her travels and leftist contacts from 1955, including a reported Soviet visa application and her 1962 Mexico trip, where she met the American leftist Frederick Vanderbilt Field.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/fbi/fbi-monroe/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Report on Peter Haden-Guest, October 1957",
+   "start_page": 1,
+   "end_page": 2,
+   "summary": "New York report of October 3, 1957, on Peter Albert Michael Haden-Guest of 158 Waverly Place, who works in the UN Documents Control Division. Back from a UN mission in Thailand, he has reportedly become very friendly with Arthur Miller and his wife, Marilyn Monroe. One source considers him a Communist.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "Memos on Frederick Vanderbilt Field, 1962-1963",
+   "start_page": 3,
+   "end_page": 4,
+   "summary": "Mexico City legal attaché reports on the American leftist Frederick Vanderbilt Field and his contact with Monroe.",
+   "nodes": [
+    {
+     "node_id": "0002",
+     "title": "Monroe in Taxco with Field, February 1962",
+     "start_page": 3,
+     "end_page": 3,
+     "summary": "Legat Mexico's memo of February 28, 1962, reports that sources said on February 27 that Marilyn Monroe was visiting Taxco, Guerrero, escorted by Frederick Vanderbilt Field.",
+     "nodes": []
+    },
+    {
+     "node_id": "0003",
+     "title": "Field and Monroe's estate, May 1963",
+     "start_page": 4,
+     "end_page": 4,
+     "summary": "Legat Mexico's May 8, 1963, cover memo encloses eight copies of a report on Field. It notes Monroe reportedly became infatuated with him in early 1962, and that a shipping agent in contact with Field on March 14, 1963, was very concerned about her estate after her suicide.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0004",
+   "title": "Clipping: Miller wins reversal of contempt sentence",
+   "start_page": 5,
+   "end_page": 5,
+   "summary": "Washington Star article, August 7, 1958: the full nine-judge Court of Appeals reversed Arthur Miller's contempt of Congress conviction, ruling that HUAC chairman Walter failed to make clear that Miller had to answer. Judge Charles McLaughlin had given him a suspended 30-day sentence and a $500 fine.",
+   "nodes": []
+  },
+  {
+   "node_id": "0005",
+   "title": "Arthur Miller investigation, 1956",
+   "start_page": 6,
+   "end_page": 18,
+   "summary": "New York reports and Bureau correspondence on the playwright Arthur Asher Miller, covering his HUAC testimony, contempt citation, passport and marriage to Monroe.",
+   "nodes": [
+    {
+     "node_id": "0006",
+     "title": "New York report on Arthur Asher Miller, June 1956",
+     "start_page": 6,
+     "end_page": 8,
+     "summary": "Report of June 13, 1956: Miller, of 155 Willow Street, Brooklyn, reportedly attended a 1946 Communist Party seminar for playwrights and was offered a free trip to Moscow. Covers his Reno divorce from Mary Grace Slattery, informant gossip about him and Monroe, and a Youth Board inquiry.",
+     "nodes": []
+    },
+    {
+     "node_id": "0007",
+     "title": "Hoover to Assistant Attorney General Tompkins, October 1956",
+     "start_page": 9,
+     "end_page": 9,
+     "summary": "Hoover's October 11, 1956, letter to William F. Tompkins encloses a report on Miller. A note says Miller is not on the Security Index, was reported as a Party member in 1943 and in 1946-1947, and is in England with Monroe.",
+     "nodes": []
+    },
+    {
+     "node_id": "0008",
+     "title": "New York report on Arthur Asher Miller, September 1956",
+     "start_page": 10,
+     "end_page": 14,
+     "summary": "Report of September 27, 1956: Miller got passport 129936 on July 6, 1956, married Monroe on June 29 and July 1, admitted signing Red front appeals before HUAC on June 21, refused to name names, and was cited for contempt. An anonymous caller claimed Monroe Productions money reached the Party.",
+     "nodes": []
+    },
+    {
+     "node_id": "0009",
+     "title": "Legal attaché in London asks about Miller, October 1956",
+     "start_page": 15,
+     "end_page": 15,
+     "summary": "The London legal attaché writes on October 11, 1956, that Miller, Monroe's new husband, seems to be planning a long stay in England, and that British contacts asking about him have only newspaper reports. Asks for background or security information.",
+     "nodes": []
+    },
+    {
+     "node_id": "0010",
+     "title": "Bureau reply to London with summary, November 1956",
+     "start_page": 16,
+     "end_page": 18,
+     "summary": "The Director's November 2, 1956, reply encloses a blind memo. It says Miller swore to the Passport Office he was never a Communist, that Justice is weighing perjury and contempt, and summarizes his career, HUAC testimony and passport, noting he admitted attending 5 or 6 Communist writers' meetings in 1947.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0011",
+   "title": "Reports of a Soviet visa request, 1955",
+   "start_page": 19,
+   "end_page": 21,
+   "summary": "Reports in August 1955 that Monroe and other entertainers were seeking visas to visit the Soviet Union.",
+   "nodes": [
+    {
+     "node_id": "0012",
+     "title": "New York airtel on Veshchunov, August 1955",
+     "start_page": 19,
+     "end_page": 19,
+     "summary": "New York airtel of August 22, 1955: an informant says Sergei S. Veshchunov of the Soviet Embassy told him Marilyn Monroe, Bing Crosby, Frank Sinatra, Rhonda Fleming and Carlton Smith were trying to get visas for Russia, as feelers to see if visas would be granted.",
+     "nodes": []
+    },
+    {
+     "node_id": "0013",
+     "title": "Name check slip for Marilyn Monroe",
+     "start_page": 20,
+     "end_page": 20,
+     "summary": "FBI Records Section name check request from 1955 for 'Monroe, Marilyn,' asking for subversive references, exact name only, with three file numbers listed.",
+     "nodes": []
+    },
+    {
+     "node_id": "0014",
+     "title": "Clipping: Mission to Moscow",
+     "start_page": 21,
+     "end_page": 21,
+     "summary": "A newspaper clipping of August 1955 with Monroe's photograph reports that Carleton Smith of the National Art Foundation says she applied for a visa to visit the Soviet Union. Monroe says she has not applied but may visit someday.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0015",
+   "title": "Interview with a former Party associate, September 1956",
+   "start_page": 22,
+   "end_page": 23,
+   "summary": "New York's November 20, 1956, memo describes agents interviewing a redacted subject, a graduate student, on September 21, 1956. He denied Party membership, said Arthur Miller best stated his own view of Communism, and called himself 'politically nothing.'",
+   "nodes": []
+  },
+  {
+   "node_id": "0016",
+   "title": "Buffalo report on Sophie Goff, April 1957",
+   "start_page": 24,
+   "end_page": 25,
+   "summary": "Buffalo report of April 17, 1957: Sophie Goff moved to Los Angeles on February 18, 1957, and stays on the Security Index. An informant says she thought her brother Norman Rosten would be best man at Arthur Miller's wedding to Monroe.",
+   "nodes": []
+  },
+  {
+   "node_id": "0017",
+   "title": "Los Angeles memo on a 'Life' photographer, June 1956",
+   "start_page": 26,
+   "end_page": 27,
+   "summary": "SAC Los Angeles reports on June 1, 1956, that Monroe rented apartment 41 at the Chateau Marmont, was finishing 'Bus Stop,' and planned to go to England in July to film with Laurence Olivier. A friend recalled no photographer with her except partner Milton Greene, who is unknown to Los Angeles informants.",
+   "nodes": []
+  },
+  {
+   "node_id": "0018",
+   "title": "American Communist Group in Mexico, August 1963",
+   "start_page": 28,
+   "end_page": 32,
+   "summary": "Mexico City report of August 28, 1963, on the American Communist Group in Mexico (ACGM), with a section on Monroe's 1962 visit.",
+   "nodes": [
+    {
+     "node_id": "0019",
+     "title": "Cover pages and index",
+     "start_page": 28,
+     "end_page": 29,
+     "summary": "Cover page: the ACGM is an informal association of about thirty inner-circle members, forty on the fringe and thirty visitors with Communist sympathies. Elizabeth Mora and her husband traveled to Cuba. The index lists Arthur Miller, Marilyn Monroe, George Pepper and the Prenskys.",
+     "nodes": []
+    },
+    {
+     "node_id": "0020",
+     "title": "Propaganda, Brigade veterans and Monroe's visit",
+     "start_page": 30,
+     "end_page": 31,
+     "summary": "The ACGM produced no propaganda in two years. Bart van der Schelling refused to help bring Lazaro Cardenas to a Lincoln Brigade reunion. In February 1962 Monroe associated with Frederick Vanderbilt Field; gossip spoke of mutual infatuation. Covers the group's ties to Czech, Polish, Soviet and Cuban embassies.",
+     "nodes": []
+    },
+    {
+     "node_id": "0021",
+     "title": "ACGM visitors",
+     "start_page": 32,
+     "end_page": 32,
+     "summary": "Visitors in contact with the ACGM include a National Guardian figure linked to Cedric Belfrage, Party members from Detroit, and lawyers Leonard Boudin and Victor Rabinowitz, who represent Castro's Cuba. A former associate was commissioned by Monroe in August 1962 to buy Mexican decorator items.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0022",
+   "title": "Report on Jeanette Muriel Pepper, July 1962",
+   "start_page": 33,
+   "end_page": 34,
+   "summary": "Mexico City report on Jeanette and George Pepper, a production agent for Producciones Olmeca. They mixed with the ACGM, Albert and Margaret Maltz and Frederick Field. In late February 1962 Monroe visited Mexico City, accepted an invitation to the Pepper home and was to see Pepper's film 'Torero.'",
+   "nodes": []
+  },
+  {
+   "node_id": "0023",
+   "title": "Soviet farmers' reception invitation, August 1955",
+   "start_page": 35,
+   "end_page": 36,
+   "summary": "Hoover tells State Department security director Dennis Flinn on August 19, 1955, that the Soviet Embassy sent about 100 invitations to an August 22 reception for a visiting Soviet farm delegation, including one to Marilyn Monroe at the Waldorf Astoria. A Washington field airtel of August 15 reports the same.",
+   "nodes": []
+  },
+  {
+   "node_id": "0024",
+   "title": "Enver Mamedov and the Strasberg invitation, 1957",
+   "start_page": 37,
+   "end_page": 40,
+   "summary": "Washington field reports on Enver N. Mamedov, editor of the Soviet magazine USSR, and his contacts.",
+   "nodes": [
+    {
+     "node_id": "0025",
+     "title": "Washington field memo on Mamedov, May 1957",
+     "start_page": 37,
+     "end_page": 37,
+     "summary": "SAC Washington Field's May 27, 1957, memo forwards a blank memo on Faubion Bowers and Santha Rama Rau. Field files hold nothing on Lee Strasberg, and Mamedov's West Coast trip from May 23 probably means he will miss the affair.",
+     "nodes": []
+    },
+    {
+     "node_id": "0026",
+     "title": "Faubion Bowers and Santha Rama Rau",
+     "start_page": 38,
+     "end_page": 38,
+     "summary": "Blank memo of May 27, 1957: Mamedov told Santha Rama Rau that Soviet visas for her family were ready, for a voyage leaving August 16, 1957. Lee Strasberg had invited Mamedov and his wife to an affair where Marilyn Monroe would be present.",
+     "nodes": []
+    },
+    {
+     "node_id": "0027",
+     "title": "Washington field report on Mamedov, June 1957",
+     "start_page": 39,
+     "end_page": 40,
+     "summary": "Report of June 13, 1957: Mamedov edits 'USSR' and reports to Moscow, traveled to New York, Chicago, San Francisco and Los Angeles, and dealt with Edwin S. Smith of Sovfoto. Covers the Strasberg invitation and his proposed talk to the World Affairs Council in Seattle.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0028",
+   "title": "Monroe's Soviet visa application, August 1955",
+   "start_page": 41,
+   "end_page": 42,
+   "summary": "Hoover tells the State Department on August 19, 1955, that Reuters reporter Ralph Harris learned from Soviet First Secretary Sergei Veshchunov that Monroe's manager had written asking for a visa application to visit the USSR, now under consideration. A Washington field airtel of August 16 gives the same report.",
+   "nodes": []
+  },
+  {
+   "node_id": "0029",
+   "title": "New York letter on Marilyn Monroe Productions, April 1956",
+   "start_page": 43,
+   "end_page": 45,
+   "summary": "New York's April 27, 1956, letter on an unknown 'Life' photographer who toured Monroe around Brooklyn. Reviews a Parade article: Marilyn Monroe Productions, chartered December 20, 1954, has Monroe as president and photographer Milton Greene as vice president. Gives Greene's career and asks New Haven and Los Angeles to check.",
+   "nodes": []
+  },
+  {
+   "node_id": "0030",
+   "title": "Monroe in Mexico and Los Angeles, 1962",
+   "start_page": 46,
+   "end_page": 52,
+   "summary": "Legat Mexico City reports on Monroe's February 1962 visit to Mexico and her later contacts, from informants close to her.",
+   "nodes": [
+    {
+     "node_id": "0031",
+     "title": "Legat Mexico memo on Monroe's visit, March 1962",
+     "start_page": 46,
+     "end_page": 49,
+     "summary": "March 6, 1962: Monroe met ACGM members in Mexico and a mutual infatuation arose with Frederick Field. She arrived February 19 with decorator Eunice Churchill, said she was upset by Arthur Miller's remarriage, went to Toluca and Taxco with Field, cancelled a date with George Pepper, and left March 2.",
+     "nodes": []
+    },
+    {
+     "node_id": "0032",
+     "title": "Informative note on the Lawford luncheon",
+     "start_page": 50,
+     "end_page": 50,
+     "summary": "A Domestic Intelligence Division note says informants reported that Monroe attended a luncheon at Peter Lawford's home with President Kennedy and characterized her views as 'positively and concisely leftist.'",
+     "nodes": []
+    },
+    {
+     "node_id": "0033",
+     "title": "Legat Mexico memo, July 1962",
+     "start_page": 51,
+     "end_page": 52,
+     "summary": "Monroe told sources she had lunched with President Kennedy at the Lawfords' and asked him about atomic testing and America's youth. She offered Field her New York apartment. Housekeeper Eunice Murray encouraged her 'political consciousness.' Her views are leftist, but she is not known to be used by the Party.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0034",
+   "title": "Photoplay article on Monroe's death, 1963",
+   "start_page": 53,
+   "end_page": 56,
+   "summary": "An FBI review of a Photoplay article that Walter Winchell said practically named the man who 'killed' Monroe.",
+   "nodes": [
+    {
+     "node_id": "0035",
+     "title": "Jones to DeLoach memo, July 1963",
+     "start_page": 53,
+     "end_page": 54,
+     "summary": "M. A. Jones's July 9, 1963, memo reviews Photoplay's August 1963 article 'One Year Later Marilyn Monroe's Killer Still at Large!' It names no one, and its clues fit many prominent men. Says she took pills after a married lover ended it on August 5, 1962. For information only.",
+     "nodes": []
+    },
+    {
+     "node_id": "0036",
+     "title": "Clipping: Walter Winchell of New York",
+     "start_page": 55,
+     "end_page": 56,
+     "summary": "Winchell's New York Mirror column of July 8, 1963, with gossip items on a Soviet sub base in Cuba, celebrities and Christine Keeler, and a line saying Photoplay's article on the man who 'killed' Marilyn practically names him.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0037",
+   "title": "Mothers of World War II inquiry, January 1965",
+   "start_page": 57,
+   "end_page": 59,
+   "summary": "Mrs. Alta Melton of Mothers of World War II asks on January 20, 1965, whether the pamphlet 'Suicide or Murder?', which ties Monroe's death to the former Attorney General, is true. Hoover replies on January 26 that the FBI does not comment. A note says the alleged relationship had reached the Bureau before.",
+   "nodes": []
+  },
+  {
+   "node_id": "0038",
+   "title": "Austrian magazine inquiry, December 1965",
+   "start_page": 60,
+   "end_page": 60,
+   "summary": "A. Kretschy, editor of the Vienna police review Öffentliche Sicherheit, writes on December 17, 1965, that Austrian papers report the FBI is investigating doubts about Monroe's suicide, and asks whether the reports are true.",
+   "nodes": []
+  },
+  {
+   "node_id": "0039",
+   "title": "Memo on Norman Mailer's 'Marilyn', July 1973",
+   "start_page": 61,
+   "end_page": 63,
+   "summary": "T. J. Smith's July 23, 1973, memo to E. S. Miller says Mailer's biography suggests right-wing FBI or CIA agents killed Monroe to embarrass the Kennedys, and repeats a claim that agents seized her phone records. The Bureau calls this false and recommends no comment.",
+   "nodes": []
+  },
+  {
+   "node_id": "0040",
+   "title": "Albany report on an alleged Monroe film, February 1965",
+   "start_page": 64,
+   "end_page": 65,
+   "summary": "SAC Albany reports on February 15, 1965, that an informant saw a film in New York said to show Monroe in a sex act, and was told Joe DiMaggio once offered $25,000 for it. The FBI Laboratory has no information on such a film; the informant's identity is protected.",
+   "nodes": []
+  },
+  {
+   "node_id": "0041",
+   "title": "Enclosure on Robert F. Kennedy, October 1964",
+   "start_page": 66,
+   "end_page": 69,
+   "summary": "An unsigned paper forwarded by SAC Lynum of San Francisco making claims about Robert Kennedy and Monroe.",
+   "nodes": [
+    {
+     "node_id": "0042",
+     "title": "Cover note from San Francisco",
+     "start_page": 66,
+     "end_page": 66,
+     "summary": "Cover note: an item received from a former special agent, now in the California Governor's office, who does not know its source or vouch for it. Marked from SAC Lynum, San Francisco, received October 19, 1964.",
+     "nodes": []
+    },
+    {
+     "node_id": "0043",
+     "title": "Robert F. Kennedy",
+     "start_page": 67,
+     "end_page": 69,
+     "summary": "Unsourced paper alleging Robert Kennedy had an affair with Monroe arranged by the Lawfords, broke a promise to marry her, and was in Los Angeles the day she died. It claims her death was an induced suicide, names Pat Newcomb and Dr. Ralph Greenson, and mentions a secret recording.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0044",
+   "title": "Walter Winchell broadcast memos, 1956",
+   "start_page": 70,
+   "end_page": 73,
+   "summary": "A. H. Belmont's memos to L. V. Boardman summarizing Walter Winchell's radio broadcasts, with Bureau comments.",
+   "nodes": [
+    {
+     "node_id": "0045",
+     "title": "Winchell's broadcast of June 10, 1956",
+     "start_page": 70,
+     "end_page": 70,
+     "summary": "Winchell said Miller would marry Monroe and HUAC would probe his circle of former Communist sympathizers. Comment: Miller was a Party member in 1943, 1946 and 1947. HUAC's Dick Arens asked for a copy of Miller's Party card, which the Bureau said was not available. Also covers a Victor Riesel item.",
+     "nodes": []
+    },
+    {
+     "node_id": "0046",
+     "title": "Winchell's broadcast of July 1, 1956",
+     "start_page": 71,
+     "end_page": 73,
+     "summary": "Winchell said Miller refused to name comrades. Other items cover Mrs. Khrushchev, Algeria, J. B. Matthews and the Fund for the Republic blacklisting report, and a pamphlet naming Miller as sponsor of a 1952 conference defending Smith Act defendants, which the Bureau confirms.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0047",
+   "title": "Clipping: Movie stars named in magazine inquiry",
+   "start_page": 74,
+   "end_page": 75,
+   "summary": "A May 1957 newspaper clipping on the Confidential magazine grand jury transcript, which names Ava Gardner, Kirk Douglas, Kim Novak, Desi Arnaz, Marilyn Monroe and others. Ronnie Quillan, Howard Rushmore and Marjorie Meade describe how the magazine bought and gathered its stories.",
+   "nodes": []
+  },
+  {
+   "node_id": "0048",
+   "title": "Eros clipping and reply to Father Devlin, December 1962",
+   "start_page": 76,
+   "end_page": 79,
+   "summary": "Hoover's reply to a priest who sent in an advertisement for Eros magazine featuring Monroe.",
+   "nodes": [
+    {
+     "node_id": "0049",
+     "title": "Hoover to Reverend James Joseph Devlin",
+     "start_page": 76,
+     "end_page": 76,
+     "summary": "Hoover's December 7, 1962, letter to Father Devlin of Bellarmine College Preparatory, San Jose, says the clipping he sent does not show a violation within FBI jurisdiction. A note says it quoted Monroe that public display of sex is not to be scorned, from a feature in Eros.",
+     "nodes": []
+    },
+    {
+     "node_id": "0050",
+     "title": "Enclosure: Eros advertisement",
+     "start_page": 77,
+     "end_page": 79,
+     "summary": "San Francisco Sunday Chronicle advertisement of December 2, 1962, for Eros magazine, offering the last nude studies of Monroe taken before her death and quoting her: 'I have never quite understood this sex symbol business.'",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0051",
+   "title": "Photoplay: One year later, Marilyn Monroe's killer still at large",
+   "start_page": 80,
+   "end_page": 83,
+   "summary": "Martha Donaldson's Photoplay article describes an unnamed, famous married man whose affair with Monroe ended before her death. It says she took sleeping pills after a final call on August 5, 1962, and that her housekeeper Eunice Murray and Dr. Ralph Greenson found her. Includes gossip items.",
+   "nodes": []
+  },
+  {
+   "node_id": "0052",
+   "title": "New York report on Sergei Veshchunov, November 1955",
+   "start_page": 84,
+   "end_page": 85,
+   "summary": "New York report on Soviet Embassy official Sergei Sergeevich Veshchunov, watched by agents in New York from July to September 1955. An informant says Veshchunov named Monroe, Bing Crosby, Frank Sinatra, Rhonda Fleming and Carlton Smith among entertainers seeking Soviet visas.",
+   "nodes": []
+  }
+ ]
+}

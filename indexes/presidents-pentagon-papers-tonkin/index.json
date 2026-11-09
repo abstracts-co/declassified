@@ -1,0 +1,421 @@
+{
+ "id": "presidents-pentagon-papers-tonkin",
+ "title": "Pentagon Papers: Tonkin Gulf, 1964",
+ "source": {
+  "url": "https://www.archives.gov/research/pentagon-papers",
+  "publisher": "Department of Defense",
+  "date": "1969-01-15",
+  "pages": 103,
+  "released": "2011-06-13",
+  "file": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-IV-C-2b.pdf",
+  "sha256": "9889b28a0a5cf6880e751b0bcbb0448ce218109f894807a5d9024668fe1a1a23",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "presidents",
+ "summary": "The Pentagon Papers volume on July to October 1964, covering the Gulf of Tonkin incidents, the reprisal strikes and the Tonkin Gulf Resolution, and how a consensus formed in the Johnson administration to step up pressure on North Vietnam while deferring action, partly because of the coming election. It comes from the complete study the National Archives declassified and released in 2011.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/presidents/presidents-pentagon-papers-tonkin/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Cover sheet",
+   "start_page": 1,
+   "end_page": 2,
+   "summary": "Series cover sheet placing the volume in the study: IV.C Evolution of the War (26 volumes), Direct Action: The Johnson Commitments, 1964-1968 (16 volumes), 2. Military Pressures Against NVN (3 volumes), part b, July-October 1964. The facing page is blank.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "Title page",
+   "start_page": 3,
+   "end_page": 4,
+   "summary": "Title page of IV.C.2(b), Evolution of the War: Military Pressures Against North Vietnam, July-October 1964, with control number 0295. The following page is blank.",
+   "nodes": []
+  },
+  {
+   "node_id": "0002",
+   "title": "Summary and analysis",
+   "start_page": 5,
+   "end_page": 10,
+   "summary": "In mid-1964 a consensus formed in the Johnson administration for overt, mounting pressure on North Vietnam, deferred because of the election, GVN instability and the need for infiltration evidence. Covers the 2 and 4 August Tonkin incidents, the 5 August reprisal, the 7 August resolution, the Rostow thesis and its critique, and the 7 September meeting recorded in NSAM 314.",
+   "nodes": []
+  },
+  {
+   "node_id": "0003",
+   "title": "Table of contents and outline",
+   "start_page": 11,
+   "end_page": 12,
+   "summary": "Outline of the study: I Prologue, II The Tonkin Gulf Crisis, III Post-Tonkin Policy Assessments, IV Next Courses of Action with agency views, footnotes, and three tabs: the May 1964 draft resolution, McNamara's 20 February 1968 testimony and the 7 August 1964 resolution.",
+   "nodes": []
+  },
+  {
+   "node_id": "0004",
+   "title": "Chronology",
+   "start_page": 13,
+   "end_page": 23,
+   "summary": "Dated table of events and documents from 17 July to 14 October 1964, each with a short description, behind a Chronology tab divider.",
+   "nodes": [
+    {
+     "node_id": "0005",
+     "title": "Chronology, 17 July to 7 August 1964",
+     "start_page": 13,
+     "end_page": 16,
+     "summary": "DESOTO patrols reauthorized 17 July; South Vietnamese commandos raid two islands 30 July; North Vietnamese PT boats attack the Maddox 2 August; protest note and doubled patrol 3 August; second attack and reprisal alerts 4 August; NSC meetings, briefing of 16 congressional leaders; Tonkin Gulf Resolution passes 7 August.",
+     "nodes": []
+    },
+    {
+     "node_id": "0006",
+     "title": "Chronology, 9 August to 7 September 1964",
+     "start_page": 17,
+     "end_page": 20,
+     "summary": "Khanh proclaims himself President; State defers Laos initiatives; Taylor opposes a Geneva conference; Seaborn message to Hanoi; Bundy, JCS and CINCPAC papers on next courses; new rules of engagement 14 August; Rostow thesis and Rowen critique; JCS 94-target list; McNaughton plan; Khanh reverts to Premier; 7 September White House strategy meeting.",
+     "nodes": []
+    },
+    {
+     "node_id": "0007",
+     "title": "Chronology, 10 September to 14 October 1964",
+     "start_page": 21,
+     "end_page": 23,
+     "summary": "NSAM 314 approves resumed DESOTO patrols and covert coastal raids; Saigon meeting on Laos cross-border operations; third Tonkin incident 18 September and patrols suspended; covert raids reauthorized 4 October; SNIE 10-3-64 expects limited DRV reaction; Washington approves only combat air patrols; RLAF strikes on Laos panhandle 14 October.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0008",
+   "title": "I. Prologue: actions and programs underway",
+   "start_page": 24,
+   "end_page": 27,
+   "summary": "By July 1964 pressure on North Vietnam already included armed reconnaissance over Laos, T-28s for the Royal Lao Air Force, publicized deployments to Thailand and Da Nang, and Blair Seaborn's warning to Hanoi. Also covered: a domestic information program under Robert Manning, the DESOTO patrol's intelligence mission, OPLAN 34A covert raids, Laos cross-border planning and the proposed congressional resolution.",
+   "nodes": []
+  },
+  {
+   "node_id": "0009",
+   "title": "II. The Tonkin Gulf crisis",
+   "start_page": 28,
+   "end_page": 38,
+   "summary": "Account of the August 1964 naval clashes in the Gulf of Tonkin, Washington's reprisal decision, and how the administration used the incidents to deploy forces and win a congressional resolution.",
+   "nodes": [
+    {
+     "node_id": "0010",
+     "title": "The first incident",
+     "start_page": 28,
+     "end_page": 29,
+     "summary": "On 2 August three North Vietnamese patrol boats attacked USS Maddox 28 miles offshore after South Vietnamese raids on Hon Me and Hon Nieu islands; Maddox and Ticonderoga aircraft hit all three. On 3 August a protest warned Hanoi of grave consequences, and Johnson doubled the patrol and ordered attackers destroyed.",
+     "nodes": []
+    },
+    {
+     "node_id": "0011",
+     "title": "The second incident",
+     "start_page": 29,
+     "end_page": 31,
+     "summary": "On the night of 4 August, after more South Vietnamese raids, Maddox and C. Turner Joy reported a torpedo boat attack based on radar, sonar, intercepts and sightings. Reports of up to 22 torpedoes led the task group commander to doubt many contacts, citing freak weather and overeager sonarmen, though intercepts said two boats were lost.",
+     "nodes": []
+    },
+    {
+     "node_id": "0012",
+     "title": "The response in Washington",
+     "start_page": 31,
+     "end_page": 34,
+     "summary": "McNamara met advisers from about 0920; after the 1230 NSC meeting Johnson approved air strikes on PT and Swatow boat bases. McNamara and CINCPAC confirmed the attack before the order went out. Johnson briefed 16 congressional leaders. The author judges the first attack a mistake and the second deliberate, finding little evidence it was staged.",
+     "nodes": []
+    },
+    {
+     "node_id": "0013",
+     "title": "Broadening the impact",
+     "start_page": 34,
+     "end_page": 38,
+     "summary": "The administration exploited the second incident: OPLAN 37-64 forces deployed to the Western Pacific and largely stayed; the Southeast Asia Resolution passed 88-2 and 416-0 on 7 August amid differing congressional readings; Stevenson addressed the UN; and Seaborn carried a second warning to Hanoi. Using these options narrowed later flexibility.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0014",
+   "title": "III. Post-Tonkin policy assessments",
+   "start_page": 39,
+   "end_page": 47,
+   "summary": "How the Tonkin reprisals shaped administration judgments in August 1964, as officials found they had fewer options than they had believed.",
+   "nodes": [
+    {
+     "node_id": "0015",
+     "title": "Dilemmas in Laos",
+     "start_page": 39,
+     "end_page": 41,
+     "summary": "U.S. hopes for Laos rested on a Polish six-nation proposal while France, the Soviet Union, China and North Vietnam pushed for a 14-nation Geneva conference that could also take up Vietnam. Washington avoided steps that might provoke communist escalation in Laos and welcomed a 1 August British move toward a meeting of the three Laotian princes.",
+     "nodes": []
+    },
+    {
+     "node_id": "0016",
+     "title": "Concern over pressures for negotiations",
+     "start_page": 41,
+     "end_page": 42,
+     "summary": "Officials feared the Tonkin crisis would strengthen calls for a Geneva conference after U Thant urged one on 5 August. A tentative shift toward accepting a conference drew objections; Ambassador Taylor cabled that a rush to the table would make U.S. retaliation look transient and demoralize South Vietnam.",
+     "nodes": []
+    },
+    {
+     "node_id": "0017",
+     "title": "Concern over Tonkin reprisal signals",
+     "start_page": 42,
+     "end_page": 44,
+     "summary": "Taylor, William Bundy, CINCPAC and the JCS argued the reprisals were an isolated U.S.-DRV incident that had not changed Hanoi's view of the wider war, and urged continuing military pressure and communication so the momentum of 5 August would not be lost.",
+     "nodes": []
+    },
+    {
+     "node_id": "0018",
+     "title": "Reassertion of the Rostow thesis",
+     "start_page": 44,
+     "end_page": 45,
+     "summary": "In mid-August Walt Rostow recirculated his thesis that insurgencies backed from outside should be met by limited, graduated military, political and economic pressure on the supporting nation to change its calculation of interests. OSD/ISA reviewed it with State.",
+     "nodes": []
+    },
+    {
+     "node_id": "0019",
+     "title": "Accompanying pause in pressures",
+     "start_page": 45,
+     "end_page": 47,
+     "summary": "A holding phase halted DESOTO patrols and covert raids, while rules of engagement were relaxed on 15 August and MACV pressed for cross-border operations. Khanh proclaimed himself President under the Vung Tau Charter on 7 August, faced protests and returned as a weaker Premier on 3 September, amid reports of rising infiltration.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0020",
+   "title": "IV. Next courses of action",
+   "start_page": 48,
+   "end_page": 65,
+   "summary": "By September officials agreed that continuous pressure on North Vietnam was needed; covers the 7 September strategy meeting, NSAM 314 measures, Laos operations and negotiations, expectations of wider action in 1965, and differing agency views.",
+   "nodes": [
+    {
+     "node_id": "0021",
+     "title": "Strategy meeting in September",
+     "start_page": 48,
+     "end_page": 50,
+     "summary": "On 7 September the President, Rusk, McNamara, Wheeler, Taylor and McCone reviewed options. The JCS urged bombing and deliberate provocation; McNaughton's 3 September plan also sought a DRV response. Principals deferred provocation while the GVN was weak and recommended resumed patrols, 34A raids, limited Laos operations and tit-for-tat reprisals.",
+     "nodes": []
+    },
+    {
+     "node_id": "0022",
+     "title": "Implementing actions",
+     "start_page": 50,
+     "end_page": 53,
+     "summary": "NSAM 314 of 10 September approved the recommended measures as a limited program of pressure from mid-September to mid-December 1964.",
+     "nodes": [
+      {
+       "node_id": "0023",
+       "title": "Naval operations",
+       "start_page": 50,
+       "end_page": 51,
+       "summary": "Destroyers Morton and Edwards began the third DESOTO patrol on 12 September and fired on radar contacts on 18 September with no return fire. Johnson then suspended the patrols until February 1965. Covert GVN maritime raids resumed in October under tight approval by Vance, State and McGeorge Bundy.",
+       "nodes": []
+      },
+      {
+       "node_id": "0024",
+       "title": "Actions in Laos",
+       "start_page": 51,
+       "end_page": 53,
+       "summary": "Missions in Laos, Thailand and Vietnam agreed on 11 September to RLAF T-28 strikes and unacknowledged company-size probes along Route 9. The JCS sought authority for U.S. air operations; Washington approved T-28 strikes on 22 targets and U.S. combat air patrols, but not U.S. strikes or cross-border ground operations.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0025",
+     "title": "Negotiating posture re Laos",
+     "start_page": 53,
+     "end_page": 55,
+     "summary": "The three Laotian princes deadlocked in Paris over a cease-fire and I.C.C. supervision. Washington supported the talks to forestall a Geneva conference, though a cease-fire did not suit U.S. interests; U.S. diplomats advised Souvanna Phouma on delaying positions, and State made GVN morale the deciding factor.",
+     "nodes": []
+    },
+    {
+     "node_id": "0026",
+     "title": "Anticipation of wider action",
+     "start_page": 55,
+     "end_page": 60,
+     "summary": "South Vietnam was increasingly judged as a base for wider action against the North expected early in 1965.",
+     "nodes": [
+      {
+       "node_id": "0027",
+       "title": "General scheme",
+       "start_page": 55,
+       "end_page": 57,
+       "summary": "OPLAN 37-64 and State's mid-August analysis foresaw systematic pressure on North Vietnam, with 1 January 1965 as a planning date: strikes moving from infiltration targets near the border to POL installations and mining Haiphong. McNaughton's plan would defer escalation until November or December.",
+       "nodes": []
+      },
+      {
+       "node_id": "0028",
+       "title": "Reservations",
+       "start_page": 57,
+       "end_page": 60,
+       "summary": "Advisers now saw military action as inevitable despite an OSD/ISA critique of the Rostow thesis. The critique said success required persuading Hanoi of limited aims and total U.S. commitment, with domestic support, and warned against making the thesis declaratory policy; even in Vietnam and Laos its effectiveness was doubtful.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0029",
+     "title": "Differing agency policy views",
+     "start_page": 60,
+     "end_page": 65,
+     "summary": "Agencies differed on five issues: acknowledging GVN maritime operations, tit-for-tat reprisals, coping with enemy reactions, readiness for wider pressure, and the link between pressure and negotiations.",
+     "nodes": [
+      {
+       "node_id": "0030",
+       "title": "JCS views",
+       "start_page": 60,
+       "end_page": 61,
+       "summary": "General Wheeler favored acknowledging GVN maritime raids but the service chiefs did not. All backed reprisals larger than the provocation; after September only the Air Force Chief of Staff and Marine Commandant favored deliberate provocation. The JCS rejected CINCPAC and Westmoreland's call for ground units to guard bases.",
+       "nodes": []
+      },
+      {
+       "node_id": "0031",
+       "title": "Saigon Embassy views",
+       "start_page": 62,
+       "end_page": 62,
+       "summary": "Ambassador Taylor opposed surfacing GVN maritime operations and tit-for-tat bombing, backed U.S. ground units for base security, and held that the effort should not outstrip the GVN. He wanted no negotiations until Hanoi felt more pressure, and after Khanh's upheaval urged strengthening the GVN before overt action against the North.",
+       "nodes": []
+      },
+      {
+       "node_id": "0032",
+       "title": "OSD views",
+       "start_page": 63,
+       "end_page": 64,
+       "summary": "OSD consistently favored acknowledging GVN maritime operations and saw negotiations, after pressure began to hurt, as the way to end the war. McNamara worried about readiness, ordered JCS studies of POL and ordnance stocks, and backed the JCS against MACV's request for more base-security troops.",
+       "nodes": []
+      },
+      {
+       "node_id": "0033",
+       "title": "State views",
+       "start_page": 64,
+       "end_page": 64,
+       "summary": "State's views largely became policy: strengthening the GVN and pressure short of overt attack. Its support for acknowledging GVN maritime operations failed only because the GVN objected, and it favored fitting reprisals in principle but not in every case.",
+       "nodes": []
+      },
+      {
+       "node_id": "0034",
+       "title": "CIA views",
+       "start_page": 64,
+       "end_page": 65,
+       "summary": "Apart from McCone's opinions, CIA documents gave few policy views. Estimates held that Hanoi would more likely ease off than send its army south under U.S. air attack, that Chinese intervention was unlikely unless China or North Vietnamese territory was invaded, and that the communists hoped to win through a neutralist coalition.",
+       "nodes": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "node_id": "0035",
+   "title": "Tab A: Text of original congressional resolution, c. May 1964",
+   "start_page": 66,
+   "end_page": 73,
+   "summary": "Top secret draft resolution on Southeast Asia dated 25 May 1964. It cites North Vietnamese aggression against South Vietnam and Laos, declares their independence vital to U.S. interests, says the U.S. is prepared at their request to use all measures including armed forces, and leaves blank the aid sums for fiscal 1964 and 1965. Blank pages precede and follow.",
+   "nodes": []
+  },
+  {
+   "node_id": "0036",
+   "title": "Tab B: Secretary McNamara's prepared testimony, 20 February 1968",
+   "start_page": 74,
+   "end_page": 91,
+   "summary": "Pages 3-19 of the Senate Foreign Relations Committee hearing of 20 February 1968, in which McNamara restated his August 1964 account of the Tonkin Gulf attacks and answered doubts raised by the committee staff study.",
+   "nodes": [
+    {
+     "node_id": "0037",
+     "title": "Committee debate on releasing the statement",
+     "start_page": 74,
+     "end_page": 78,
+     "summary": "End of Chairman Fulbright's letter asking McNamara to update his 6 August 1964 testimony, then a dispute among Fulbright, Morse, Hickenlooper and Lausche over whether McNamara's statement could be released before the committee's staff report, and complaints about leaks from closed sessions.",
+     "nodes": []
+    },
+    {
+     "node_id": "0038",
+     "title": "Staff study refused and addendum",
+     "start_page": 78,
+     "end_page": 79,
+     "summary": "McNamara says he was denied the committee's staff study; Fulbright replies it rests on Pentagon documents. Lausche questions an addendum reporting that three or four unnamed men in the Gulf said no torpedoes were fired.",
+     "nodes": []
+    },
+    {
+     "node_id": "0039",
+     "title": "Essential facts are the same today",
+     "start_page": 79,
+     "end_page": 80,
+     "summary": "McNamara says that three and a half years later the facts of both attacks stand as he gave them in 1964, backed by highly classified intelligence, and that U.S. destroyers had no part in or knowledge of the South Vietnamese raids of 30 July to 4 August.",
+     "nodes": []
+    },
+    {
+     "node_id": "0040",
+     "title": "Review of facts of attack",
+     "start_page": 80,
+     "end_page": 82,
+     "summary": "McNamara recounts the daylight 2 August attack on Maddox 28 miles offshore, with torpedoes, machine-gun fire and a recovered bullet, the protest note of 3 August, and the 4 August engagement reports.",
+     "nodes": []
+    },
+    {
+     "node_id": "0041",
+     "title": "Contradictions examined and reconciled",
+     "start_page": 82,
+     "end_page": 83,
+     "summary": "McNamara describes meetings that reconciled conflicting reports on 4 August, the NSC session that approved strikes on boat bases, and his insistence to CINCPAC that the reprisal not go ahead until the attack was certain.",
+     "nodes": []
+    },
+    {
+     "node_id": "0042",
+     "title": "Accuracy of details still questioned",
+     "start_page": 83,
+     "end_page": 86,
+     "summary": "McNamara addresses whether the patrol was legitimate and whether the attacks were provoked: Maddox stayed at least 8 miles off the coast, North Vietnam claimed no 12-mile sea until a 1 September 1964 broadcast, and the task group knew nothing of the South Vietnamese raids, 70 to 130 miles away.",
+     "nodes": []
+    },
+    {
+     "node_id": "0043",
+     "title": "Was there a second attack?",
+     "start_page": 86,
+     "end_page": 89,
+     "summary": "Details of the 4 August night engagement: radar contacts, torpedo noises, a wake seen by four named Turner Joy crewmen, a searchlight, gunfire hits and black smoke, intelligence intercepts reporting the attack and two boats lost, Admirals Johnson and Moorer's conclusions, and captured North Vietnamese sailors' accounts.",
+     "nodes": []
+    },
+    {
+     "node_id": "0044",
+     "title": "Sufficient evidence available to support conclusion",
+     "start_page": 89,
+     "end_page": 90,
+     "summary": "McNamara lists the intelligence reports and other information in the President's hands before the reprisal was ordered, which he says established beyond doubt that an attack had taken place.",
+     "nodes": []
+    },
+    {
+     "node_id": "0045",
+     "title": "Monstrous insinuations",
+     "start_page": 90,
+     "end_page": 91,
+     "summary": "McNamara calls suggestions that the government provoked the 4 August incident monstrous, noting the 11-mile limit and the improbability of a conspiracy spanning the whole chain of command. Questioning then turns to the internal troubles of the Khanh government. The last page is blank.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0046",
+   "title": "Tab C: Southeast Asia Resolution, 7 August 1964",
+   "start_page": 92,
+   "end_page": 92,
+   "summary": "Text of the joint resolution, Public Law 88-408, approved 10 August 1964: Congress backs the President as Commander in Chief in taking all necessary measures to repel attacks on U.S. forces and prevent aggression, and the U.S. is prepared to use armed force to aid any SEATO member or protocol state that asks.",
+   "nodes": []
+  },
+  {
+   "node_id": "0047",
+   "title": "Footnotes",
+   "start_page": 93,
+   "end_page": 103,
+   "summary": "Footnotes 1 to 155 behind a Footnotes tab divider, citing newspapers, State and Defense cables, JCS and McNaughton papers, NSAMs 308 and 314, SNIEs 10-3-64 and 53-2-64, McNamara's 1968 testimony and the Rostow thesis analysis, mostly marked top secret.",
+   "nodes": []
+  }
+ ]
+}

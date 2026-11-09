@@ -1,0 +1,520 @@
+{
+ "id": "ufo-roswell-case-closed",
+ "title": "The Roswell Report: Case Closed",
+ "source": {
+  "url": "https://www.af.mil/The-Roswell-Report/",
+  "publisher": "US Air Force",
+  "date": "1997",
+  "pages": 232,
+  "released": "1997-06-24",
+  "file": "https://archive.org/download/AFD-101027-030/AFD-101027-030.pdf",
+  "sha256": "0379450bd1e9c3a5cb285596813fa072308e2838bb871826c022b0882b9d6c90",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "ufo",
+ "summary": "The US Air Force's 1997 report on the Roswell legend. It concludes that the \"alien bodies\" witnesses described were anthropomorphic test dummies carried aloft by high-altitude balloons, and that stories of bodies at the base hospital blended a 1956 KC-97 crash and a 1959 balloon accident.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/ufo/ufo-roswell-case-closed/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Cover and title pages",
+   "start_page": 1,
+   "end_page": 4,
+   "summary": "Cover of The Roswell Report: Case Closed, Headquarters United States Air Force, stamped approved for public release. An inside note says the cover image is a solarized frame from a Project High Dive film (Figure 37). Title page and Library of Congress cataloging data: James McAndrew, 1997, sold by the Government Printing Office.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "Foreword",
+   "start_page": 5,
+   "end_page": 5,
+   "summary": "Secretary of the Air Force Sheila E. Widnall says the Air Force set out to find and declassify all Roswell records for the General Accounting Office. This volume follows the July 1994 report, The Roswell Report: Fact vs. Fiction in the New Mexico Desert, and appears in the Air Force's 50th anniversary year.",
+   "nodes": []
+  },
+  {
+   "node_id": "0002",
+   "title": "Guide for readers and the author",
+   "start_page": 6,
+   "end_page": 7,
+   "summary": "The report has two sections and three appendices: A lists High Dive and Excelsior launch and landing sites, B holds sworn witness statements with addresses deleted (Kaufman's unsworn), C holds interview transcripts from the Fund for UFO Research, Karl Pflock and Kevin Randle. Author Capt. James McAndrew serves on the Air Force declassification and review team.",
+   "nodes": []
+  },
+  {
+   "node_id": "0003",
+   "title": "Contents, tables and figures",
+   "start_page": 8,
+   "end_page": 13,
+   "summary": "Table of contents for the introduction, both sections and their subsections, notes, appendices A to C with each witness and interviewee named, bibliography and index, followed by the list of tables 1.1 to 2.3 and the numbered list of figures for each section.",
+   "nodes": []
+  },
+  {
+   "node_id": "0004",
+   "title": "Introduction",
+   "start_page": 14,
+   "end_page": 16,
+   "summary": "Recaps the 1994 search, prompted by a GAO inquiry for Rep. Steven Schiff, that traced the 1947 debris to Project Mogul. New research finds the alien-body stories merge years of events: anthropomorphic dummies dropped from high altitude balloons, balloon recovery crews, a 1956 KC-97 crash that killed 11, and a 1959 balloon mishap that injured two pilots.",
+   "nodes": []
+  },
+  {
+   "node_id": "0005",
+   "title": "Section one: Flying saucer crashes and alien bodies",
+   "start_page": 17,
+   "end_page": 83,
+   "summary": "Examines the two alleged crash sites with alien bodies, north of Roswell and on the San Agustin Plains, and concludes that witnesses saw Air Force anthropomorphic dummies dropped from high altitude balloons between 1953 and 1959, and the Holloman Balloon Branch crews and vehicles that recovered them.",
+   "nodes": [
+    {
+     "node_id": "0006",
+     "title": "Project Mogul and the first body claims",
+     "start_page": 17,
+     "end_page": 21,
+     "summary": "Project Mogul, a balloon train carrying acoustic sensors to detect Soviet nuclear tests, explains the 1947 'flying disc' found by rancher W.W. Brazel. Claims of bodies appeared only from the late 1970s, from second- and thirdhand witnesses. Includes a Mogul train drawing, Maj. Jesse Marcel with the debris, the 1947 newspaper story and a 1992 ad seeking witnesses.",
+     "nodes": []
+    },
+    {
+     "node_id": "0007",
+     "title": "1.1 The \"crash sites,\" scenarios, and research methods",
+     "start_page": 22,
+     "end_page": 32,
+     "summary": "Sets out how the alleged crash sites multiplied, how researchers filtered hundreds of accounts into a profile of what witnesses saw, and the history of the test dummies that fit it.",
+     "nodes": [
+      {
+       "node_id": "0008",
+       "title": "The \"crash sites\" and the scenarios",
+       "start_page": 22,
+       "end_page": 23,
+       "summary": "Until the late 1970s only one site existed, the Mogul debris field on the Foster Ranch 75 miles northwest of Roswell. Later witnesses added sites north of Roswell and 175 miles northwest on the San Agustin Plains, with bodies. Scenarios have the craft crash again and the bodies autopsied at Roswell AAF, then sent to Wright-Patterson AFB.",
+       "nodes": []
+      },
+      {
+       "node_id": "0009",
+       "title": "Research methods, common threads and the research profile",
+       "start_page": 23,
+       "end_page": 29,
+       "summary": "Facts from the 1994 report eliminated most accounts. Testimony from both sites shared details: four-fingered, bald beings in one-piece gray suits, and wreckers, six-by-sixes and weapons carriers. Missiles, drones and aircraft were ruled out, leaving high altitude balloons carrying anthropomorphic dummies as the likely source.",
+       "nodes": []
+      },
+      {
+       "node_id": "0010",
+       "title": "Test dummies used by the U.S. Air Force",
+       "start_page": 30,
+       "end_page": 32,
+       "summary": "From 'Dummy Joe' rope-and-sandbag parachute dummies of 1918 to the 1944 Ted Smith ejection-seat dummy and Col. John P. Stapp's call for lifelike models. Sierra Engineering's 'Sierra Sam' (1950) and Alderson Research Laboratories dummies (1952), 72 inches tall and 200 pounds, were most likely the 'aliens.'",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0011",
+     "title": "1.2 High altitude balloon dummy drops",
+     "start_page": 33,
+     "end_page": 46,
+     "summary": "Describes the Aero Medical Laboratory's balloon dummy drops for Projects High Dive and Excelsior, their publicity, and the drop and recovery methods that match witness descriptions.",
+     "nodes": [
+      {
+       "node_id": "0012",
+       "title": "Dummy drops and landing locations",
+       "start_page": 33,
+       "end_page": 35,
+       "summary": "High Dive and Excelsior used dummies to study escape from extreme altitude. Forty-three balloon flights carried 67 dummies up to 98,000 feet between June 1954 and February 1959, many landing off-range near Roswell. A map shows launch and landing sites. Capt. Joseph Kittinger later jumped from 102,800 feet on August 16, 1960.",
+       "nodes": []
+      },
+      {
+       "node_id": "0013",
+       "title": "A cover-up?",
+       "start_page": 36,
+       "end_page": 37,
+       "summary": "The dummy and manned projects were unclassified and widely publicized, in Kittinger's book The Long, Lonely Leap, David Simons' Man High, National Geographic, Life, Collier's, Popular Mechanics, Time and even MAD. The pages reproduce Kittinger's National Geographic article and magazine covers.",
+       "nodes": []
+      },
+      {
+       "node_id": "0014",
+       "title": "Dummy drop procedures",
+       "start_page": 38,
+       "end_page": 46,
+       "summary": "Dummies in gray or olive one-piece flightsuits fell from racks at 30,000 to 98,000 feet; 8 to 12 Balloon Branch staff recovered them with wreckers, six-by-sixes, weapons carriers, L-20 and C-47 aircraft. A sidebar profiles Col. John Paul Stapp. Dummies lost fingers and heads, rode stretchers or insulation bags, and one vanished near Roswell in 1955.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0015",
+     "title": "1.3 High altitude balloon operations",
+     "start_page": 47,
+     "end_page": 63,
+     "summary": "Surveys about 2,500 Holloman AFB balloon flights since 1947, the unusual payloads they carried, and the recovery crews whose work around Roswell resembles the reported saucer recoveries.",
+     "nodes": [
+      {
+       "node_id": "0016",
+       "title": "Balloon operations and On the Threshold of Space",
+       "start_page": 47,
+       "end_page": 49,
+       "summary": "Holloman AFB has launched about 2,500 high altitude balloons since the June 4, 1947 Mogul flight. A sidebar covers the 1956 Twentieth Century Fox film On the Threshold of Space, shot at Holloman with the real dummies, and notes that Robert Stack, host of a 1990 Unsolved Mysteries Roswell segment, was listed for its premiere.",
+       "nodes": []
+      },
+      {
+       "node_id": "0017",
+       "title": "Polyethylene balloons, satellites and space probes",
+       "start_page": 50,
+       "end_page": 56,
+       "summary": "Charles B. Moore's polyethylene balloons, developed for Mogul, drew saucer reports, lifted payloads of several tons and, aluminum-coated, served as missile targets. Balloon tests helped Discoverer XIII achieve the first recovery from orbit in August 1960. Saucer-shaped Viking and Voyager-Mars probes were launched from the former Roswell AAF, and a 1965 tethered 'Vee' balloon resembles a published UFO drawing.",
+       "nodes": []
+      },
+      {
+       "node_id": "0018",
+       "title": "Balloon and payload recoveries",
+       "start_page": 57,
+       "end_page": 63,
+       "summary": "Recovery crews regularly worked target areas around Roswell, positioned by meteorologist Bernard 'Duke' Gildenberg. Under 'Interaction with civilians,' the report says crews coordinated with sheriffs, kept good relations and never threatened anyone; one supervisor likened recoveries to a circus. Photos show crews, borrowed equipment, an M-43 communications ambulance and unusual payloads.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0019",
+     "title": "1.4 Comparison of witnesses accounts to U.S. Air Force activities",
+     "start_page": 64,
+     "end_page": 83,
+     "summary": "Compares the actual words of the crash-site witnesses with documented High Dive and Excelsior equipment, vehicles and procedures, site by site, and summarizes the matches in Table 1.1.",
+     "nodes": [
+      {
+       "node_id": "0020",
+       "title": "\"Crash\" site 1 (allegedly north of Roswell)",
+       "start_page": 64,
+       "end_page": 67,
+       "summary": "Restates the research profile, then examines James Ragsdale's account, from a 1993 interview by Donald Schmitt, of a crash with 'either bodies or dummies' and a convoy of six-by-sixes, a wrecker, weapons carriers and a '47 Ford. The report says his words 'they was using dummies' and the site cleanup describe a dummy recovery.",
+       "nodes": []
+      },
+      {
+       "node_id": "0021",
+       "title": "\"Crash\" site 2 (allegedly 175 miles northwest of Roswell)",
+       "start_page": 67,
+       "end_page": 75,
+       "summary": "Secondhand accounts by Alice Knight and Vern Maltais of Barney Barnett's story, and Gerald Anderson's firsthand account from age five: he 'thought they were plastic dolls' and the craft a 'blimp.' The report matches the bald, four-fingered, gray-suited crew, cold-soaked craft, C-47, L-20 and radio truck to dummy recoveries and rejects the alleged threats.",
+       "nodes": []
+      },
+      {
+       "node_id": "0022",
+       "title": "Summary",
+       "start_page": 76,
+       "end_page": 77,
+       "summary": "Concludes with high certainty that both 'crashes' were launches or recoveries of balloons and anthropomorphic dummies. Ragsdale likely saw one of nine dummy recoveries near Roswell; Knight and Maltais may have confused the San Agustin Plains with San Agustin Pass near White Sands. Anyone sent away was moved off test ranges for safety, not secrecy.",
+       "nodes": []
+      },
+      {
+       "node_id": "0023",
+       "title": "Table 1.1: Comparison of testimony to Air Force equipment",
+       "start_page": 78,
+       "end_page": 83,
+       "summary": "Fifty-three numbered witness quotes from Ragsdale, Anderson, Maltais, Knight and others, grouped as aliens, craft, vehicles, aircraft and procedures, each matched to dummy-project equipment or practice: plastic-skinned dummies, missing fingers, gray flightsuits, red tape, cold-soaked payloads, wreckers, six-by-sixes, L-20 and C-47 aircraft, and road closures.",
+       "nodes": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "node_id": "0024",
+   "title": "Section two: Reports of bodies at Roswell AAF hospital",
+   "start_page": 84,
+   "end_page": 127,
+   "summary": "Examines mortician W. Glenn Dennis's account of alien bodies at the Roswell AAF hospital and traces it to real people who served there in later years, the June 26, 1956 KC-97 crash that killed 11 airmen, and the May 21, 1959 balloon training mishap that injured Capts. Dan Fulgham and Joseph Kittinger.",
+   "nodes": [
+    {
+     "node_id": "0025",
+     "title": "The account",
+     "start_page": 84,
+     "end_page": 88,
+     "summary": "W. Glenn Dennis, first telling his story in 1989, said that in July 1947 the base asked the Ballard Funeral Home about child-sized caskets, he saw wreckage in ambulances, was threatened by a redheaded officer and a black sergeant, and a nurse told him of autopsies before vanishing to London. Researchers found his dates off by up to 12 years.",
+     "nodes": []
+    },
+    {
+     "node_id": "0026",
+     "title": "2.1 The \"missing\" nurse and the pediatrician",
+     "start_page": 89,
+     "end_page": 99,
+     "summary": "Uses personnel records to show that no nurse went missing and that the nurse, pediatrician and officers Dennis described were real people who served at Roswell AAF or Walker AFB at different times between 1946 and 1960.",
+     "nodes": [
+      {
+       "node_id": "0027",
+       "title": "The \"missing\" nurse",
+       "start_page": 89,
+       "end_page": 91,
+       "summary": "Morning reports show no nurse left on July 8 or 9, 1947, and none named Naomi Selff. 1st Lt. Eileen M. Fanton, petite, Catholic and of Italian descent, matches the description: she served in England from 1952 to 1955 and left Roswell suddenly on September 4, 1947 for treatment at Brooke General Hospital.",
+       "nodes": []
+      },
+      {
+       "node_id": "0028",
+       "title": "The pediatrician",
+       "start_page": 91,
+       "end_page": 93,
+       "summary": "The only Roswell doctor who moved to Farmington, N.M. was pediatrician Capt. Frank B. Nordstrom, at Walker AFB from 1951 to 1953, who does not recall Dennis; pharmacist Charles Clouthier confirms he was Farmington's first pediatrician. A sidebar recounts the Aztec, N.M. crashed-saucer hoax, promoted in Frank Scully's 1950 book and exposed by True magazine.",
+       "nodes": []
+      },
+      {
+       "node_id": "0029",
+       "title": "Descriptions of other Air Force members",
+       "start_page": 94,
+       "end_page": 99,
+       "summary": "Dennis's 'airman' rank dates from 1952. The 'big redheaded colonel' fits Col. Lee F. Ferrell, hospital commander 1954-1960; 'Slatts Wilson' merges Capt. Lucille Slattery, arriving August 1947, and Maj. Idabelle Wilson, there 1956-1960. Results of the research and Table 2.1 list each person and dates of service, and a profile of events to search for.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0030",
+     "title": "2.2 Aircraft accidents",
+     "start_page": 100,
+     "end_page": 107,
+     "summary": "Reviews eight fatal aircraft accidents near Walker AFB from 1947 to 1960 and finds that only the June 1956 KC-97 crash fits Dennis's description of burned, autopsied bodies at the base hospital.",
+     "nodes": [
+      {
+       "node_id": "0031",
+       "title": "Fatal accidents and the KC-97 mishap",
+       "start_page": 100,
+       "end_page": 102,
+       "summary": "Tables 2.2 and 2.3 list eight fatal crashes near Walker AFB from 1948 to 1960; only one had burned victims taken to the base hospital and autopsied. On June 26, 1956 a 509th Aerial Refueling Squadron KC-97G suffered a propeller failure, caught fire and crashed 8.8 miles south of the base, killing all 11 crewmen.",
+       "nodes": []
+      },
+      {
+       "node_id": "0032",
+       "title": "Comparison of the account to the KC-97 mishap",
+       "start_page": 103,
+       "end_page": 107,
+       "summary": "Autopsies at the Ballard Funeral Home describe burned bodies with missing limbs and a missing face, like Dennis's 'little bodies'; the stench forced remains to a refrigerated commissary. A Wright-Patterson identification specialist and civilian consultant Dr. Alfred Blauw explain the 'strange doctors.' Sidebar on aircraft crashes and UFOs. Continuing research turns to balloons.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0033",
+     "title": "2.3 High altitude research projects",
+     "start_page": 108,
+     "end_page": 114,
+     "summary": "Manned balloon projects Man High, Excelsior and Stargazer made seven flights from 1957 to 1962 (Table 2.4), with a sidebar on them. On a May 21, 1959 training flight 10 miles northwest of Walker AFB, a gust overturned the gondola; Fulgham suffered a head injury, Kittinger a cut, and a helicopter took them to the Walker AFB hospital.",
+     "nodes": []
+    },
+    {
+     "node_id": "0034",
+     "title": "2.4 Comparison of the hospital account to the balloon mishap",
+     "start_page": 115,
+     "end_page": 127,
+     "summary": "Matches the remaining elements of Dennis's story, the redheaded captain, ambulance wreckage, heavy security and large-headed body, to the May 1959 balloon mishap.",
+     "nodes": [
+      {
+       "node_id": "0035",
+       "title": "The \"redheaded captain\"",
+       "start_page": 115,
+       "end_page": 118,
+       "summary": "The redheaded captain was probably red-haired Capt. Joseph Kittinger, who wanted to leave Walker AFB before a safety investigation and kept Excelsior out of the press, though it was unclassified. None present recalled Dennis. A sidebar profiles Kittinger: record 102,800-foot jump, Vietnam combat, 11 months as a POW, first solo balloon crossing of the Atlantic.",
+       "nodes": []
+      },
+      {
+       "node_id": "0036",
+       "title": "The \"wreckage\" in the rear of the ambulance",
+       "start_page": 119,
+       "end_page": 121,
+       "summary": "The 'bluish-purplish wreckage' with 'hieroglyphics' was likely the blue panels and stenciled lettering of a Balloon Branch M-43 ambulance converted to a communications van, and the sharp debris like broken glass was the 30-foot polyethylene balloon. Communications technician Ole Jorgeson parked near the hospital ramp.",
+       "nodes": []
+      },
+      {
+       "node_id": "0037",
+       "title": "Additional security at the Walker AFB hospital",
+       "start_page": 121,
+       "end_page": 123,
+       "summary": "Walker AFB hosted the nuclear-armed 6th Bombardment Wing, so the unannounced helicopter was met by armed security police who escorted the pilots until Col. Stapp confirmed who they were. Medic Roland Lutz recalled a flight surgeon telling him to 'go home and sleep it off.' A sidebar covers Kittinger's work with Dr. J. Allen Hynek.",
+       "nodes": []
+      },
+      {
+       "node_id": "0038",
+       "title": "The alien at the hospital and \"bodies\" with large heads",
+       "start_page": 124,
+       "end_page": 127,
+       "summary": "Fulgham's hematoma swelled his face until his eyes closed, a likely source of a 'creature' seen walking into the hospital. Three days later the pilots flew to Wright-Patterson AFB on a C-131, matching claims that large-headed bodies went there. Fulgham recovered. The section summary says the account is unrelated to July 1947.",
+       "nodes": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "node_id": "0039",
+   "title": "Conclusion",
+   "start_page": 128,
+   "end_page": 130,
+   "summary": "The 1947 saucer-and-crew claims are a compilation of real Air Force activities, mostly from the 1950s: scientific achievements, plus distorted references to airmen killed or injured on duty. The Air Force answered because GAO asked, and to honor balloon and escape-system research and the people, including balloon crew members killed in crashes, who carried it out.",
+   "nodes": []
+  },
+  {
+   "node_id": "0040",
+   "title": "Notes",
+   "start_page": 131,
+   "end_page": 158,
+   "summary": "Numbered endnotes for Section One and Section Two, citing the 1994 Roswell Report, UFO books such as Crash at Corona and The Truth About the UFO Crash at Roswell, technical reports, morning reports, personnel records at the National Personnel Records Center, accident reports and interviews with project participants.",
+   "nodes": []
+  },
+  {
+   "node_id": "0041",
+   "title": "Appendix A: Anthropomorphic dummy launch and landing locations",
+   "start_page": 159,
+   "end_page": 162,
+   "summary": "A map and a table of 43 High Dive and Excelsior balloon dummy drops from June 23, 1954 to February 16, 1959, giving date, launch site and landing site, with several landings near Roswell, Artesia, Dunkin and Hatch, and one west of San Agustin Pass.",
+   "nodes": []
+  },
+  {
+   "node_id": "0042",
+   "title": "Appendix B: Witness statements",
+   "start_page": 163,
+   "end_page": 187,
+   "summary": "Ten statements, most signed and sworn in 1995-1996 before James McAndrew, by former hospital staff and balloon project members. Each describes their service, denies any knowledge of aliens, and states they are part of no conspiracy and have not been threatened.",
+   "nodes": [
+    {
+     "node_id": "0043",
+     "title": "Charles E. Clouthier",
+     "start_page": 163,
+     "end_page": 165,
+     "summary": "Farmington pharmacist Charles E. Clouthier, at the Walker AFB hospital from 1955 to 1956, states on April 26, 1996 that Dr. Frank Nordstrom was Farmington's first and, until about 1970, only pediatrician and the only local doctor who had served at Walker, and that he never heard of saucers or aliens there.",
+     "nodes": []
+    },
+    {
+     "node_id": "0044",
+     "title": "Charles A. Coltman, Jr.",
+     "start_page": 166,
+     "end_page": 167,
+     "summary": "Col. Charles A. Coltman, Jr., a Walker AFB flight surgeon from 1958, states on May 25, 1995 that he drove an old ambulance to a May 1959 balloon crash north of Roswell and treated a pilot whose head swelled from a hematoma. The small hospital was never involved with UFOs or aliens.",
+     "nodes": []
+    },
+    {
+     "node_id": "0045",
+     "title": "Dan D. Fulgham",
+     "start_page": 168,
+     "end_page": 169,
+     "summary": "Col. Dan D. Fulgham states on May 25, 1995 that in May 1959, training as Kittinger's backup pilot, the gondola flipped during touch-and-go landings north of Roswell and pinned his head. He was treated at Walker AFB, had blood drawn from his scalp at Holloman, and his wife wept at his swollen face. Nothing involved UFOs.",
+     "nodes": []
+    },
+    {
+     "node_id": "0046",
+     "title": "Bernard D. Gildenberg",
+     "start_page": 170,
+     "end_page": 172,
+     "summary": "Balloon Branch meteorologist Bernard D. Gildenberg (1951-1981) states on May 28, 1995 that Project Mogul caused part of the Roswell story, that dummies often landed near Roswell and some fell still on the rack, and that crews waited along Highway 285. He explained every Project Blue Book sighting he reviewed and launched Viking and Voyager probes from Roswell.",
+     "nodes": []
+    },
+    {
+     "node_id": "0047",
+     "title": "Ole Jorgeson",
+     "start_page": 173,
+     "end_page": 174,
+     "summary": "MSgt. Ole Jorgeson states on May 28, 1995 that he followed the May 1959 training balloon overnight in a converted 'crackerbox' ambulance and saw it land north of Roswell. He describes more than 100 recoveries around Roswell, giving civilians a Holloman phone number and cleaning up debris, and four unclassified Viking launches from Roswell in 1972.",
+     "nodes": []
+    },
+    {
+     "node_id": "0048",
+     "title": "William C. Kaufman",
+     "start_page": 175,
+     "end_page": 177,
+     "summary": "Lt. Col. William C. Kaufman states on October 28, 1996, unsworn, that a wind gust overturned the gondola on May 21, 1959 northwest of Roswell, injuring Fulgham and Kittinger. Military police with machine guns met their helicopter at Walker AFB. He recalls no male civilians or altercation, and saw no sign of aliens at Wright-Patterson.",
+     "nodes": []
+    },
+    {
+     "node_id": "0049",
+     "title": "Joseph W. Kittinger, Jr.",
+     "start_page": 178,
+     "end_page": 181,
+     "summary": "Col. Joseph W. Kittinger, Jr. states on June 24, 1995 that he supervised dummy drops and recoveries, once hurrying a dummy away before horrified officers' wives, and that crews carried no weapons and made no threats. He describes the May 1959 accident, leaving Walker AFB to avoid an accident report, and Dr. J. Allen Hynek's balloon explanation of UFOs.",
+     "nodes": []
+    },
+    {
+     "node_id": "0050",
+     "title": "Roland H. Lutz",
+     "start_page": 182,
+     "end_page": 183,
+     "summary": "CMSgt. Roland H. Lutz, an aeromedical technician, states on May 31, 1995 that he followed the May 1959 balloon by ambulance and helicopter, saw the crash, and took the injured pilots to Walker AFB, where a flight surgeon at first told him to 'go home and sleep it off.' It was a balloon crash and nothing else.",
+     "nodes": []
+    },
+    {
+     "node_id": "0051",
+     "title": "Raymond A. Madson",
+     "start_page": 184,
+     "end_page": 185,
+     "summary": "Lt. Col. Raymond A. Madson, High Dive and Excelsior dummy-drop project officer from 1956 to 1959, states on June 20, 1995 that he recovered dummies near the Jornada test range and searched on horseback at a ranch southwest of Roswell. Many dummies were not found at once, and someone could have mistaken them for something else.",
+     "nodes": []
+    },
+    {
+     "node_id": "0052",
+     "title": "Frank B. Nordstrom",
+     "start_page": 186,
+     "end_page": 187,
+     "summary": "Dr. Frank B. Nordstrom, Walker AFB pediatrician from July 1951 to June 1953 and Farmington's first pediatrician from 1954, states on April 25, 1996 that he is probably the doctor Glenn Dennis described, but he does not remember Dennis, was never visited by him, and recalls no saucers, aliens or missing nurse.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0053",
+   "title": "Appendix C: Interviews",
+   "start_page": 188,
+   "end_page": 221,
+   "summary": "Transcripts of interviews with five alleged witnesses presented by UFO theorists, supplied by the Fund for UFO Research, Karl Pflock and Kevin Randle.",
+   "nodes": [
+    {
+     "node_id": "0054",
+     "title": "Gerald Anderson",
+     "start_page": 188,
+     "end_page": 198,
+     "summary": "Gerald Anderson recalls finding, as a boy hunting agates near Horse Springs on the Plains of San Agustin, a 35-foot silver disc with four beings, two dead, in shiny one-piece suits. An older man and five students arrived, then soldiers under a redheaded captain and a black sergeant threatened the families; he saw a C-47, wreckers, ambulances and roadblocks.",
+     "nodes": []
+    },
+    {
+     "node_id": "0055",
+     "title": "W. Glenn Dennis",
+     "start_page": 199,
+     "end_page": 214,
+     "summary": "Karl Pflock's November 2, 1992 interview with W. Glenn Dennis, with Bob Shirkey present: the mortuary officer's calls, ambulances holding blue-purple debris, being thrown out of the hospital, the nurse who meant to join a religious order and fell sick, meeting her at the Officers' Club, her letter from London, and 'Slatts Wilson.'",
+     "nodes": []
+    },
+    {
+     "node_id": "0056",
+     "title": "Alice Knight and Vern Maltais",
+     "start_page": 215,
+     "end_page": 216,
+     "summary": "Secondhand accounts from Recollections of Roswell, Part II. Alice Knight recalls the eyewitness saw a UFO fall on the San Agustin Plains and creatures that did not look human, before government trucks sent him away. Vern Maltais says the beings were three and a half to four feet tall, hairless, pear-headed, with four fingers.",
+     "nodes": []
+    },
+    {
+     "node_id": "0057",
+     "title": "James Ragsdale",
+     "start_page": 217,
+     "end_page": 221,
+     "summary": "Donald Schmitt's January 26, 1993 interview with James Ragsdale, who says he was camping with a woman near the Foster ranch in 1947 during a storm, saw something fall, and next day found a wreck with 'either bodies or dummies' before Army trucks, a wrecker and a '47 Ford arrived. He describes debris later stolen from him.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0058",
+   "title": "Selected bibliography of technical reports",
+   "start_page": 222,
+   "end_page": 225,
+   "summary": "Technical reports on balloon operations, Man High, High Dive dummy drops, Project Moby Dick, biodynamics and escape physiology at Holloman AFB, and anthropomorphic dummies, with NTIS and Library of Congress order numbers and contact details.",
+   "nodes": []
+  },
+  {
+   "node_id": "0059",
+   "title": "Index",
+   "start_page": 226,
+   "end_page": 232,
+   "summary": "Alphabetical index of names, places, projects and terms, from accelerometers and the Aero Medical Laboratory to Wimpole Park, Cambridge, England, with page references and pointers to the Appendix B statements and Appendix C interviews.",
+   "nodes": []
+  }
+ ]
+}

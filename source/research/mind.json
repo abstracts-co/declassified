@@ -1,0 +1,342 @@
+{
+ "topic": "mind",
+ "items": [
+  {
+   "id": "mind-mkultra-hearing",
+   "title": "Project MKULTRA Senate Hearing",
+   "type": "document",
+   "date": "1977-08-03",
+   "released": "1977",
+   "agency": "US Senate",
+   "summary": "Transcript of the August 1977 joint Senate hearing where CIA Director Stansfield Turner described newly found MKULTRA records covering 149 subprojects on drugs, hypnosis and behavior modification, some involving tests on unwitting people. The records had survived the CIA's 1973 destruction of the MKULTRA files because they had been filed with financial records.",
+   "source": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+   "file": "https://archive.org/download/project-mkultra-the-cias-program-of-research-in-behavioral-modification_202305/Project%20MKULTRA%2C%20the%20CIA%27s%20Program%20of%20Research%20in%20Behavioral%20Modification.pdf",
+   "file_name": "95mkultra.pdf",
+   "bytes": 9249865,
+   "pages": 173,
+   "credit": "U.S. Senate Select Committee on Intelligence and Subcommittee on Health and Scientific Research",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The joint hearing before the Select Committee on Intelligence and the Subcommittee on Health and Scientific Research was held on August 3, 1977, and printed by the U.S. Government Printing Office in 1977.",
+     "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+    },
+    {
+     "claim": "Turner grouped the recovered material into 149 subprojects, including 6 subprojects involving tests on unwitting subjects.",
+     "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+    },
+    {
+     "claim": "Most MKULTRA files were destroyed in January 1973; the recovered boxes survived because they were retired with the Budget and Fiscal Section's records.",
+     "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+    },
+    {
+     "claim": "The archive.org file is byte-identical (MD5 b4b929dd2689c7f6829f1dddac321ac3) to the Senate committee's 95mkultra.pdf as captured by the Wayback Machine.",
+     "url": "https://web.archive.org/web/20250506172333/https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+    }
+   ]
+  },
+  {
+   "id": "mind-lsd-troops-film",
+   "title": "Effects of LSD on Troops Marching",
+   "type": "video",
+   "date": "1958",
+   "released": "1963-05-29",
+   "agency": "US Army",
+   "summary": "U.S. Army Chemical Warfare Laboratories film in which volunteer soldiers try to do close-order drill after being given LSD, and the drill falls apart. The Army was testing LSD as a battlefield incapacitant in the same years as the CIA's drug experiments.",
+   "source": "https://catalog.archives.gov/id/2123707",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Effects_of_Lysergic_Acid_Diethylamide_%28LSD%29_on_Troops_Marching.webm",
+   "file_name": "Effects_of_Lysergic_Acid_Diethylamide_(LSD)_on_Troops_Marching.webm",
+   "bytes": 200409939,
+   "duration": 328.605,
+   "width": 1920,
+   "height": 1080,
+   "credit": "U.S. Army Chemical Warfare Laboratories (National Archives, Record Group 175)",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The National Archives holds the film as NAID 2123707 (local ID 175.19), dated 1958, in the series Motion Picture Films on the U.S. Military's Chemical and Biological Warfare Program.",
+     "url": "https://catalog.archives.gov/id/2123707"
+    },
+    {
+     "claim": "The film opens with a card saying it was regraded UNCLASSIFIED (marked For Official Use Only) on 29 May 1963 on the authority of the Army Chemical R&D Labs, Edgewood Arsenal.",
+     "url": "https://commons.wikimedia.org/wiki/File:Effects_of_Lysergic_Acid_Diethylamide_(LSD)_on_Troops_Marching.webm"
+    },
+    {
+     "claim": "Its title cards read 'U.S. Army Chemical Warfare Laboratories, Technical Film Report No. 2' and say LSD-25 causes confusion and hallucinations and that tests with volunteers performing close-order drill are shown.",
+     "url": "https://commons.wikimedia.org/wiki/File:Effects_of_Lysergic_Acid_Diethylamide_(LSD)_on_Troops_Marching.webm"
+    },
+    {
+     "claim": "The test, circa 1958, was conducted at Edgewood Arsenal in Maryland as part of a Chemical Corps program seeking psychochemical incapacitants.",
+     "url": "https://www.npr.org/sections/pictureshow/2010/12/01/131724898/lsd-testing"
+    }
+   ]
+  },
+  {
+   "id": "mind-subproject-35",
+   "title": "MKULTRA Subproject 35",
+   "type": "document",
+   "date": "1954-10-05",
+   "released": "1977",
+   "agency": "CIA",
+   "summary": "CIA file on the MKULTRA subproject that secretly put $375,000 through a front foundation toward a new wing of Georgetown University Hospital so the agency could use part of it for its chemical and biological research. It includes a May 5, 1955 draft listing what the CIA's Chemical Division was trying to develop, from substances that 'promote illogical thinking' to methods that cause amnesia.",
+   "source": "https://www.cia.gov/readingroom/document/00017432",
+   "file": "https://archive.org/download/cia-readingroom-document-00017432/00017432.pdf",
+   "file_name": "00017432.pdf",
+   "bytes": 5618044,
+   "pages": 71,
+   "credit": "Central Intelligence Agency",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "Authorization to contribute CIA funds toward construction of Georgetown's Gorman Annex is contained in Subproject 35 of MKULTRA; Turner described it as a $375,000 contribution to a building fund made through an intermediary.",
+     "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+    },
+    {
+     "claim": "The May 5, 1955 TSS Chemical Division draft lists 17 materials and methods, including substances that 'promote illogical thinking' and ones that would 'produce amnesia'.",
+     "url": "https://nsarchive.gwu.edu/briefing-book/dnsa-intelligence/2024-12-23/cia-behavior-control-experiments-focus-new-scholarly"
+    },
+    {
+     "claim": "The CIA file holds 23 documents dated October 5, 1954 to January 10, 1958.",
+     "url": "https://archive.org/details/cia-readingroom-document-00017432"
+    },
+    {
+     "claim": "Pages in the file carry CIA downgrade stamps dated June 1977, when the agency was screening the newly found subproject files for Freedom of Information Act release.",
+     "url": "https://archive.org/details/cia-readingroom-document-00017432"
+    }
+   ]
+  },
+  {
+   "id": "mind-midnight-climax",
+   "title": "Subproject 42 (Midnight Climax)",
+   "type": "document",
+   "date": "1956-08-17",
+   "released": "1977",
+   "agency": "CIA",
+   "summary": "One-page memo in which Sidney Gottlieb, who ran MKULTRA, explains that people who covertly gave drugs to unwitting subjects for a CIA safehouse run by narcotics agent George White would be paid in cash, without receipts. Subproject 42 funded White's San Francisco safehouse, the operation known as Midnight Climax.",
+   "source": "https://www.cia.gov/readingroom/document/00748553",
+   "file": "https://nsarchive.gwu.edu/sites/default/files/documents/1956-08-17%20JM%20Box%207%20F21%20MKUltra%20Subproject%2042-ocr.pdf",
+   "file_name": "1956-08-17 JM Box 7 F21 MKUltra Subproject 42-ocr.pdf",
+   "bytes": 396799,
+   "pages": 1,
+   "credit": "Central Intelligence Agency (John Marks FOIA collection, National Security Archive)",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "Gottlieb's August 17, 1956 memo says Subproject 42 provided a facility for 'the covert administration of physiologically active materials to unwitting subjects', at a safehouse run by George White; the Archive's copy comes from the CIA documents John Marks obtained under the Freedom of Information Act.",
+     "url": "https://nsarchive.gwu.edu/briefing-book/dnsa-intelligence/2024-12-23/cia-behavior-control-experiments-focus-new-scholarly"
+    },
+    {
+     "claim": "A CIA memo printed with the August 1977 hearing says Subproject 42 continued Subproject 16 and moved its testing facilities to a new location from March 1, 1955.",
+     "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+    },
+    {
+     "claim": "White was reassigned to the narcotics bureau's San Francisco office in March 1955 and brought the operation known as Midnight Climax with him.",
+     "url": "https://en.wikipedia.org/wiki/George_Hunter_White"
+    },
+    {
+     "claim": "The memo is also in the CIA reading room's 879-page Subproject 42 file.",
+     "url": "https://archive.org/details/cia-readingroom-document-00748553"
+    }
+   ]
+  },
+  {
+   "id": "mind-ford-olson-meeting",
+   "title": "Ford Meets the Olson Family",
+   "type": "image",
+   "date": "1975-07-21",
+   "released": "2011",
+   "agency": "White House",
+   "summary": "Contact sheet of White House photographer David Hume Kennerly's pictures of President Ford meeting Frank Olson's widow, children and son-in-law in the Oval Office. Ford apologized on behalf of the government for the circumstances of Olson's death in 1953, about a week after the CIA secretly gave the Army scientist LSD.",
+   "source": "https://www.fordlibrarymuseum.gov/Library/whphotos/19750721whpo.pdf",
+   "file": "https://www.fordlibrarymuseum.gov/sites/default/files/pdf_documents/library/whphotos/a5602_nlgrf.jpg",
+   "file_name": "a5602_nlgrf.jpg",
+   "bytes": 3047315,
+   "width": 1680,
+   "height": 2180,
+   "credit": "David Hume Kennerly, White House Photographic Office (Gerald R. Ford Presidential Library)",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The Ford Library photo log lists roll A5602, taken July 21, 1975 by Kennerly in the Oval Office, as the meeting with the widow, sons, daughter and son-in-law of Frank Olson.",
+     "url": "https://www.fordlibrarymuseum.gov/Library/whphotos/19750721whpo.pdf"
+    },
+    {
+     "claim": "Ford's daily diary records the 2:02 to 2:19 pm meeting with Mrs. Olson, Nils and Eric Olson and Lisa and Gregory Hayward, held to apologize on behalf of the U.S. Government for the circumstances of Dr. Olson's death.",
+     "url": "https://catalog.archives.gov/medialz/presidential-libraries/ford/grf-0036/640073/4685010/pdd750721.pdf"
+    },
+    {
+     "claim": "Olson, a civilian Army employee at Fort Detrick, died in 1953 about a week after the CIA gave him LSD without his knowledge.",
+     "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+    },
+    {
+     "claim": "The Ford Library's scan of the contact sheet was made in February 2011 (embedded file date) and was online at the library by September 2012.",
+     "url": "https://web.archive.org/web/20120924204311/http://www.fordlibrarymuseum.gov/library/whphotos/A5602_NLGRF.jpg"
+    }
+   ]
+  },
+  {
+   "id": "mind-ig-report-1963",
+   "title": "Report of Inspection of MKULTRA",
+   "type": "document",
+   "date": "1963-07-26",
+   "released": "2019-04-03",
+   "agency": "CIA",
+   "summary": "The CIA Inspector General's report on MKULTRA, prepared in a single copy, which found that the agency had been covertly testing drugs and other materials on unwitting US citizens since 1955 and recommended ending that testing in the United States. It was the main source on MKULTRA for the 1975 investigations.",
+   "source": "https://www.cia.gov/readingroom/document/06767515",
+   "file": "https://archive.org/download/cia-readingroom-document-06767515/06767515.pdf",
+   "file_name": "06767515.pdf",
+   "bytes": 2003143,
+   "pages": 46,
+   "credit": "Central Intelligence Agency, Office of the Inspector General",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "Inspector General John S. Earman's 'Report of Inspection of MKULTRA/TSD' is dated July 26, 1963; its cover memo says it was prepared in one copy only because of its sensitivity.",
+     "url": "https://nsarchive.gwu.edu/briefing-book/dnsa-intelligence/2024-12-23/cia-behavior-control-experiments-focus-new-scholarly"
+    },
+    {
+     "claim": "This copy is stamped 'Approved for Release: 2019/04/03 C06767515'.",
+     "url": "https://archive.org/details/cia-readingroom-document-06767515"
+    },
+    {
+     "claim": "The report says TSD began covert testing of materials on unwitting U.S. citizens in 1955 and recommends terminating such testing in the United States.",
+     "url": "https://archive.org/details/cia-readingroom-document-06767515"
+    },
+    {
+     "claim": "Most of what was known about MKULTRA during the 1975 investigations came from the 1963 Inspector General report.",
+     "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+    }
+   ]
+  },
+  {
+   "id": "mind-project-bluebird",
+   "title": "Project Bluebird",
+   "type": "document",
+   "date": "1950-04-05",
+   "released": "2004-01-29",
+   "agency": "CIA",
+   "summary": "April 1950 memo asking the Director of Central Intelligence to approve Project Bluebird, interrogation teams that would use the polygraph, drugs and hypnotism, sent to him directly rather than through the Projects Review Committee because of its sensitivity. The file also holds 1952 memos on its successor, Project ARTICHOKE.",
+   "source": "https://www.cia.gov/readingroom/document/cia-rdp83-01042r000800010003-1",
+   "file": "https://archive.org/download/cia-readingroom-document-cia-rdp83-01042r000800010003-1/cia-rdp83-01042r000800010003-1.pdf",
+   "file_name": "cia-rdp83-01042r000800010003-1.pdf",
+   "bytes": 1386267,
+   "pages": 29,
+   "credit": "Central Intelligence Agency",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The April 5, 1950 memo from the Chief, Inspection and Security Staff asks the DCI to approve Project Bluebird teams that would 'utilize the polygraph, drugs, and hypnotism'.",
+     "url": "https://nsarchive.gwu.edu/briefing-book/dnsa-intelligence/2024-12-23/cia-behavior-control-experiments-focus-new-scholarly"
+    },
+    {
+     "claim": "The pages are stamped 'Approved For Release 2004/01/29 : CIA-RDP83-01042R000800010003-1'.",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp83-01042r000800010003-1"
+    },
+    {
+     "claim": "The file includes a May 20, 1952 memo on special interrogations under Project ARTICHOKE.",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp83-01042r000800010003-1"
+    }
+   ]
+  },
+  {
+   "id": "mind-subproject-119",
+   "title": "MKULTRA Subproject 119",
+   "type": "document",
+   "date": "1959-07-01",
+   "released": "1998-11-16",
+   "agency": "CIA",
+   "summary": "CIA file on an MKULTRA subproject that paid for a survey of research on recording bioelectric signals from the human body and 'activation of human behavior by remote means'. Its 1960 project memo lists remote electronic activation of the human organism as one of five study areas.",
+   "source": "https://www.cia.gov/readingroom/document/00017376",
+   "file": "https://archive.org/download/cia-readingroom-document-00017376/00017376.pdf",
+   "file_name": "00017376.pdf",
+   "bytes": 3012637,
+   "pages": 48,
+   "credit": "Central Intelligence Agency",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The Subproject 119 memo, drafted August 17, 1960 and approved September 9, 1960, covers 'recording, analysis and interpretation of bioelectric signals from the human organism, and activation of human behavior by remote means'.",
+     "url": "https://archive.org/details/cia-readingroom-document-00017376"
+    },
+    {
+     "claim": "The memo lists 'techniques of activation of the human organism by remote electronic means' as the fifth of five study areas.",
+     "url": "https://commons.wikimedia.org/wiki/File:MKUltra_119.pdf"
+    },
+    {
+     "claim": "The CIA reading room lists the file (35 documents dated July 1, 1959 to November 2, 1965, 48 pages) with a release date of November 16, 1998.",
+     "url": "https://web.archive.org/web/20250402013122/https://www.cia.gov/readingroom/document/00017376"
+    }
+   ]
+  }
+ ],
+ "rejected": [
+  {
+   "title": "Sidney Gottlieb photo (Commons / National Security Archive)",
+   "reason": "Described only as a 'CIA staff photo'; no record of when or how it was officially released, so provenance fails the brief."
+  },
+  {
+   "title": "Frank Olson portrait (Commons)",
+   "reason": "Sourced from a Reddit image with unknown author; not a government release."
+  },
+  {
+   "title": "George Hunter White photos (Commons)",
+   "reason": "From White's private papers at Stanford, not a government release."
+  },
+  {
+   "title": "Schizophrenic Model Psychosis Induced by LSD (NARA 1662201, CIA records)",
+   "reason": "Film of University of California medical tests; maker unclear and NARA flags possible copyright, so not clearly a government work."
+  },
+  {
+   "title": "Rockefeller Commission report (1975)",
+   "reason": "Only downloadable copies are scans of a Manor Books commercial reprint (328 pages, over the limit); the drug-testing section is about three pages."
+  },
+  {
+   "title": "Church Committee Book I (1976)",
+   "reason": "Far over 300 pages and the drug-testing chapter is not available as a separate official file."
+  },
+  {
+   "title": "ARTICHOKE 'Successful Application of Narco-Hypnotic Interrogation' memo (1952)",
+   "reason": "Could not verify when it was released (CIA's copy has no stamp and lacks the attachment); the Bluebird file already includes 1952 ARTICHOKE memos."
+  },
+  {
+   "title": "January 1952 ARTICHOKE 'Can we get control of an individual' memo",
+   "reason": "Could not find the primary document; only secondary quotations."
+  },
+  {
+   "title": "Full MKULTRA Subproject 42 file (CIA 00748553)",
+   "reason": "879 pages and 78 MB; used the one-page Gottlieb memo from it instead."
+  },
+  {
+   "title": "Individual Ford Library prints of the Olson meeting",
+   "reason": "Not digitized; only the contact sheet is online."
+  },
+  {
+   "title": "Senate Intelligence Committee hearing PDF (direct)",
+   "reason": "Host returns 403 to scripts; used the byte-identical archive.org copy."
+  },
+  {
+   "title": "Other copies of the 1977 hearing (Commons NYT copy, CIA reading room 00163357)",
+   "reason": "Commons copy has no text layer; CIA copy has unreadable OCR. The Senate-identical copy has a clean text layer."
+  },
+  {
+   "title": "Ford White House 'Olson, Frank' file (Cheney Files, NARA 1561485)",
+   "reason": "Good 12-page source on the apology, but overlaps the Ford-Olson photo item and its release date is not stated."
+  },
+  {
+   "title": "Destruction of Records on Drugs and Toxins (CIA IG memo, 1975)",
+   "reason": "Release date could not be verified."
+  },
+  {
+   "title": "MKULTRA document page images on Commons (Mkultra-lsd-doc.jpg, DeclassifiedMKULTRA.jpg)",
+   "reason": "Low-resolution page scans, one taken from a personal website; not a real image item."
+  },
+  {
+   "title": "MK-ULTRA and Midnight Climax.pdf (Commons)",
+   "reason": "A user's own essay under CC BY-SA, not a government record."
+  },
+  {
+   "title": "Audio item",
+   "reason": "No officially released MKULTRA-related audio found."
+  }
+ ]
+}

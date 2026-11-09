@@ -1,0 +1,17 @@
+{
+ "topic": "ufo",
+ "item": "ufo-gimbal",
+ "kind": "video",
+ "source": "raw/ufo-gimbal/DOD_110891172.mp4",
+ "start": 22.5,
+ "duration": 9,
+ "crop": [
+  921,
+  500,
+  70,
+  70
+ ],
+ "motion": "loop",
+ "why": "The Gimbal object is the most recognisable UFO image: one dark saucer shape with a soft halo that slowly turns from tilted to level and back, cropped inside the tracking brackets so no HUD shows.",
+ "zoom": 0.42
+}

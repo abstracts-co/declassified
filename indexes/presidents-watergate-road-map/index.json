@@ -1,0 +1,505 @@
+{
+ "id": "presidents-watergate-road-map",
+ "title": "Watergate Road Map",
+ "source": {
+  "url": "https://www.archives.gov/research/investigations/watergate/roadmap",
+  "publisher": "Watergate Grand Jury",
+  "date": "1974-03-01",
+  "pages": 62,
+  "released": "2018-10-31",
+  "file": "https://www.archives.gov/files/research/investigations/watergate/roadmap/docid-70105890.pdf",
+  "sha256": "9eb116e1ab4993206599f2831fb8f61d9939cfccf00ad6bee40cf296d4f7b3b8",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "presidents",
+ "summary": "The sealed report the Watergate grand jury sent, through Judge John Sirica, to the House Judiciary Committee in March 1974, setting out evidence about President Nixon in 53 numbered statements of fact so the House could weigh impeachment. It stayed sealed until a federal judge ordered its public portions released in 2018.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/presidents/presidents-watergate-road-map/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Report and recommendation",
+   "start_page": 1,
+   "end_page": 2,
+   "summary": "Filed under seal 1 March 1974 and unsealed 11 October 2018 by Chief Judge Beryl A. Howell. The June 5, 1972 grand jury, returning an indictment, reports evidence bearing on the House Judiciary Committee's inquiry into impeaching Richard M. Nixon and unanimously recommends it go to the Committee forthwith, with care for fair trials. Signed by the foreman.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "Title page: Material in the grand jury's possession",
+   "start_page": 3,
+   "end_page": 3,
+   "summary": "Title page for the material bearing on matters within the House Judiciary Committee's jurisdiction relating to impeachment, listing its four parts: the $75,000 payment to E. Howard Hunt, the President's \"investigation,\" events up to 17 March 1973, and the President's public statements.",
+   "nodes": []
+  },
+  {
+   "node_id": "0002",
+   "title": "I. Material bearing on a $75,000 payment to E. Howard Hunt and related events",
+   "start_page": 4,
+   "end_page": 19,
+   "summary": "Statements 1 to 14 trace Hunt's March 1973 demand for money, the President's 21 March meeting with Dean, Mitchell's authorization and LaRue's delivery of $75,000 to Hunt's lawyer, and the meetings of 22 March, each followed by the testimony, logs and tapes that support it.",
+   "nodes": [
+    {
+     "node_id": "0003",
+     "title": "1. Hunt demands about $120,000",
+     "start_page": 4,
+     "end_page": 5,
+     "summary": "After the part title page: on or about 16 March 1973 Hunt told Paul O'Brien he wanted about $120,000 and asked him to tell John Dean that he had done \"seamy things\" for the White House and Ehrlichman and would \"review his options\" if not paid. Evidence: O'Brien and Hunt grand jury testimony.",
+     "nodes": []
+    },
+    {
+     "node_id": "0004",
+     "title": "2. O'Brien relays Hunt's message to Dean",
+     "start_page": 6,
+     "end_page": 6,
+     "summary": "On or about 19 March 1973 Paul O'Brien passed Hunt's message to John Dean. Evidence: Dean's grand jury testimony of 14 February 1974 and a Secret Service White House appointment record for O'Brien at 5:20 p.m. that day.",
+     "nodes": []
+    },
+    {
+     "node_id": "0005",
+     "title": "3. Dean tells Ehrlichman of the message",
+     "start_page": 7,
+     "end_page": 7,
+     "summary": "On or about 19 March 1973 Dean told John Ehrlichman of Hunt's message, and Ehrlichman asked Dean to relay it to John Mitchell. Evidence: grand jury testimony of Ehrlichman and Egil Krogh, and Dean's testimony.",
+     "nodes": []
+    },
+    {
+     "node_id": "0006",
+     "title": "4. Dean speaks with Mitchell",
+     "start_page": 8,
+     "end_page": 8,
+     "summary": "On or about 20 March 1973 Dean talked with John Mitchell about Hunt's message. Evidence: Dean's grand jury testimony of 14 February 1974 and the tape of the 21 March morning meeting.",
+     "nodes": []
+    },
+    {
+     "node_id": "0007",
+     "title": "5. The President meets Dean on the morning of March 21, 1973",
+     "start_page": 9,
+     "end_page": 10,
+     "summary": "From about 10:15 a.m. to noon the President met Dean, joined by Haldeman, and discussed possible obstruction and perjury by aides, Hunt's $120,000 demand, how much money would keep the defendants silent and how to deliver it, clemency expectations, and paying Hunt to \"buy time.\" Evidence: the tape, the President's dictabelt recollections and later tapes.",
+     "nodes": []
+    },
+    {
+     "node_id": "0008",
+     "title": "6. Haldeman telephones Mitchell",
+     "start_page": 11,
+     "end_page": 11,
+     "summary": "At about 12:30 p.m. on 21 March 1973 Haldeman spoke with Mitchell by telephone. Evidence: Haldeman's telephone log furnished to the FBI on 13 February 1974, and grand jury testimony of Haldeman and Dean.",
+     "nodes": []
+    },
+    {
+     "node_id": "0009",
+     "title": "7. Mitchell authorizes LaRue to pay Hunt",
+     "start_page": 12,
+     "end_page": 12,
+     "summary": "In the early afternoon of 21 March 1973 Mitchell telephoned Fred LaRue and authorized him to pay about $75,000 to E. Howard Hunt. Evidence: LaRue's grand jury testimony of 13 February 1974.",
+     "nodes": []
+    },
+    {
+     "node_id": "0010",
+     "title": "8. Haldeman meets Ehrlichman and Dean",
+     "start_page": 13,
+     "end_page": 13,
+     "summary": "At about 3:45 p.m. on 21 March 1973 Haldeman met Ehrlichman and Dean to discuss what to do about the matters raised with the President that morning. Evidence: Dean's testimony, Haldeman and Ehrlichman meeting logs, and the tape of the later meeting.",
+     "nodes": []
+    },
+    {
+     "node_id": "0011",
+     "title": "9. The President meets Dean, Haldeman and Ehrlichman that evening",
+     "start_page": 14,
+     "end_page": 14,
+     "summary": "From about 5:20 to 6:00 p.m. on 21 March 1973 the group rejected a new grand jury or an independent panel and again discussed Hunt's demand and remaining options. Evidence: the tape and transcript of the meeting and the President's dictabelt.",
+     "nodes": []
+    },
+    {
+     "node_id": "0012",
+     "title": "10. $75,000 left in Bittman's mailbox",
+     "start_page": 15,
+     "end_page": 15,
+     "summary": "Late on 21 March 1973 Fred LaRue had $75,000 in cash for Hunt placed in the mailbox at the home of Hunt's attorney, William O. Bittman. Evidence: testimony of LaRue, Manyon Millican, Sherman Unger, Bittman and Hunt, and exhibits SU-1 to SU-7.",
+     "nodes": []
+    },
+    {
+     "node_id": "0013",
+     "title": "11. Mitchell says Hunt is no longer a problem",
+     "start_page": 16,
+     "end_page": 16,
+     "summary": "On the morning of 22 March 1973 Mitchell met Haldeman, Ehrlichman and Dean and said Hunt was no longer a problem. Evidence: grand jury testimony of Dean, Haldeman and Ehrlichman.",
+     "nodes": []
+    },
+    {
+     "node_id": "0014",
+     "title": "12. The President proposes a Dean report",
+     "start_page": 17,
+     "end_page": 17,
+     "summary": "On the afternoon of 22 March 1973 the President met Mitchell, Haldeman, Ehrlichman and Dean and discussed having Dean write a \"report\" saying senior White House officials were not involved in the break-in, which the President could later rely on. Evidence: the tape and Haldeman's notes.",
+     "nodes": []
+    },
+    {
+     "node_id": "0015",
+     "title": "13. Ehrlichman tells Krogh to hang tough",
+     "start_page": 18,
+     "end_page": 18,
+     "summary": "On or about 22 March 1973 Ehrlichman told Egil Krogh to \"hang tough\" and said Hunt was \"more stable\" and would not \"disclose all.\" Evidence: Krogh's grand jury testimony of 29 January 1974.",
+     "nodes": []
+    },
+    {
+     "node_id": "0016",
+     "title": "14. Redacted statement",
+     "start_page": 19,
+     "end_page": 19,
+     "summary": "Statement 14 and its supporting item 14.1 are redacted in full under FOIA exemption (b)(3) and grand jury secrecy rule 6(e).",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0017",
+   "title": "II. Material bearing on the President's \"investigation\"",
+   "start_page": 20,
+   "end_page": 34,
+   "summary": "Statements 15 to 28 cover the President's public support for Dean, Ehrlichman's new role, the 15 and 16 April 1973 meetings with Justice officials and Dean, contacts with Petersen, the Ellsberg break-in instruction, and the review of tapes.",
+   "nodes": [
+    {
+     "node_id": "0018",
+     "title": "15. Ziegler voices total confidence in Dean",
+     "start_page": 20,
+     "end_page": 21,
+     "summary": "After the part title page: on 26 March 1973, on the President's instruction, Ronald Ziegler announced that the President had \"absolute and total\" confidence in counsel John Dean. Evidence: Ziegler's testimony and AP and UPI wire clips.",
+     "nodes": []
+    },
+    {
+     "node_id": "0019",
+     "title": "16. Ehrlichman calls Kleindienst about Mitchell",
+     "start_page": 22,
+     "end_page": 22,
+     "summary": "On the President's instruction, Ehrlichman told Attorney General Kleindienst on about 28 March 1973 that no one in the White House had prior knowledge of the break-in, but that questions were being raised about Mitchell, and asked him to report privately on Mitchell. Evidence: a dictabelt recording and the 15 August 1973 statement.",
+     "nodes": []
+    },
+    {
+     "node_id": "0020",
+     "title": "17. Ehrlichman told to take over from Dean",
+     "start_page": 23,
+     "end_page": 23,
+     "summary": "On or about 30 March 1973 the President told Ehrlichman to \"step into what Dean has been doing,\" advise on executive and attorney-client privilege, and set strategy for testimony before the Senate committee and grand jury. Evidence: Ehrlichman's Senate testimony of 27 July 1973.",
+     "nodes": []
+    },
+    {
+     "node_id": "0021",
+     "title": "18. Ziegler denies White House involvement",
+     "start_page": 24,
+     "end_page": 24,
+     "summary": "On 30 March 1973 Ronald Ziegler said publicly that \"no one in the White House had any involvement\" in Watergate. Evidence: Ziegler's grand jury testimony and the press briefing transcript.",
+     "nodes": []
+    },
+    {
+     "node_id": "0022",
+     "title": "19. Kleindienst and Petersen urge firing Haldeman and Ehrlichman",
+     "start_page": 25,
+     "end_page": 25,
+     "summary": "On Sunday 15 April 1973 Kleindienst and Henry Petersen told the President what prosecutors had learned partly from Dean and Jeb Magruder, and urged him to fire Haldeman and Ehrlichman at once. Evidence: Petersen's testimony and interview and the President's notes.",
+     "nodes": []
+    },
+    {
+     "node_id": "0023",
+     "title": "20. The President meets Dean on April 15, 1973",
+     "start_page": 26,
+     "end_page": 26,
+     "summary": "On the evening of 15 April 1973 the President told Dean he had been \"joking\" about the million dollars and had been foolish to discuss clemency for Hunt with Charles Colson. Evidence: the President's Daily Diary and Dean's testimony.",
+     "nodes": []
+    },
+    {
+     "node_id": "0024",
+     "title": "21. Late call to Petersen",
+     "start_page": 27,
+     "end_page": 27,
+     "summary": "At about 11:45 p.m. on 15 April 1973 the President telephoned Henry Petersen. Evidence: testimony of Petersen, Ehrlichman and L. Patrick Gray, and the President's Daily Diary.",
+     "nodes": []
+    },
+    {
+     "node_id": "0025",
+     "title": "22. The President meets Dean on the morning of April 16",
+     "start_page": 28,
+     "end_page": 28,
+     "summary": "On 16 April 1973 the President and Dean discussed what the President would say publicly next day, what Dean would testify about their talks including the 21 March discussion of Hunt's demand, and the payment to Hunt. Evidence: the tape of the meeting and the 21 March tape.",
+     "nodes": []
+    },
+    {
+     "node_id": "0026",
+     "title": "23. Afternoon meeting with Dean, April 16",
+     "start_page": 29,
+     "end_page": 29,
+     "summary": "On the afternoon of 16 April 1973 the President met again with John Dean. Evidence: the tape recording and transcript of that meeting.",
+     "nodes": []
+    },
+    {
+     "node_id": "0027",
+     "title": "24. Conversations with Petersen",
+     "start_page": 30,
+     "end_page": 30,
+     "summary": "From about 15 to 28 April 1973 the President had many conversations with Henry Petersen. Evidence: logs of the conversations and Petersen's grand jury testimony of February 1974 and August 1973.",
+     "nodes": []
+    },
+    {
+     "node_id": "0028",
+     "title": "25. Meetings with Haldeman, Ehrlichman and their attorneys",
+     "start_page": 31,
+     "end_page": 31,
+     "summary": "From 15 to 30 April 1973 the President met many times with Ehrlichman and Haldeman and also with their attorneys. Evidence: logs of their conversations and the President's Daily Diary for 19 April.",
+     "nodes": []
+    },
+    {
+     "node_id": "0029",
+     "title": "26. Petersen told not to investigate the Ellsberg break-in",
+     "start_page": 32,
+     "end_page": 32,
+     "summary": "On or about 18 April 1973 the President told Petersen not to investigate the September 1971 break-in at the office of Daniel Ellsberg's psychiatrist. Evidence: Petersen's testimony of 23 August 1973 and the President's 22 May 1973 statement.",
+     "nodes": []
+    },
+    {
+     "node_id": "0030",
+     "title": "27. Haldeman listens to the March 21 tape",
+     "start_page": 33,
+     "end_page": 33,
+     "summary": "On or about 25 and 26 April 1973 Haldeman, on the President's instructions, listened to tapes including the 21 March morning meeting, took notes and reported to the President. Evidence: Haldeman's testimony and notes.",
+     "nodes": []
+    },
+    {
+     "node_id": "0031",
+     "title": "28. The President reviews tapes with Haig",
+     "start_page": 34,
+     "end_page": 34,
+     "summary": "On 4 June 1973 the President listened to several tapes and talked with Alexander Haig about the tape of the 21 March morning meeting. Evidence: a recording and transcript of parts of the Haig conversation; supporting item 28.2 is redacted.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0032",
+   "title": "III. Material bearing on events up to and including March 17, 1973",
+   "start_page": 35,
+   "end_page": 50,
+   "summary": "Statements 29 to 43 run from the April 1972 approval of Liddy's intelligence budget through the June 1972 conversations, hush money, clemency talk and the President's meetings with Dean up to 17 March 1973.",
+   "nodes": [
+    {
+     "node_id": "0033",
+     "title": "29. Liddy's $250,000 intelligence budget",
+     "start_page": 35,
+     "end_page": 36,
+     "summary": "After the part title page: on 4 April 1972 the President met Haldeman and Mitchell to review campaign decisions Mitchell made at Key Biscayne about 30 March, including a $250,000 budget for a CRP intelligence program under G. Gordon Liddy. Evidence: testimony of Magruder, LaRue, Reisner and Dean, and Haldeman's log.",
+     "nodes": []
+    },
+    {
+     "node_id": "0034",
+     "title": "30. Haldeman knew of surveillance meetings",
+     "start_page": 37,
+     "end_page": 37,
+     "summary": "The opening of statement 30 is redacted. It says Haldeman had been told of meetings in Mitchell's office in January and February 1972, attended by Magruder, Liddy and Dean, that discussed unlawful electronic surveillance. Item 30.1 is redacted.",
+     "nodes": []
+    },
+    {
+     "node_id": "0035",
+     "title": "31. The 18-minute gap",
+     "start_page": 38,
+     "end_page": 38,
+     "summary": "On 20 June 1972 Haldeman met the President from about 11:30 a.m. to 12:45 p.m. and discussed Watergate; about 18 minutes of the subpoenaed tape, including all the Watergate discussion, has been obliterated. Evidence: the Daily Diary and Haldeman's notes.",
+     "nodes": []
+    },
+    {
+     "node_id": "0036",
+     "title": "32. Missing Mitchell call of June 20, 1972",
+     "start_page": 39,
+     "end_page": 39,
+     "summary": "The tape of the President's 20 June 1972 phone call with Mitchell was subpoenaed but not produced, on the ground that the phone was not connected to the taping system. Evidence: the President's dictabelt recollections and Daily Diary.",
+     "nodes": []
+    },
+    {
+     "node_id": "0037",
+     "title": "33. Kalmbach approved to raise cash",
+     "start_page": 40,
+     "end_page": 40,
+     "summary": "On or about 28 June 1972 Haldeman and Ehrlichman approved using Herbert Kalmbach to raise and distribute covert cash for those involved in the break-in. Evidence: Dean's grand jury testimony of 19 November 1973.",
+     "nodes": []
+    },
+    {
+     "node_id": "0038",
+     "title": "34. June 30, 1972 meeting with Haldeman and Mitchell",
+     "start_page": 41,
+     "end_page": 41,
+     "summary": "On 30 June 1972 the President met with Haldeman and Mitchell. Evidence: a tape recording and transcript of part of the meeting.",
+     "nodes": []
+    },
+    {
+     "node_id": "0039",
+     "title": "35. Gray warns the President",
+     "start_page": 42,
+     "end_page": 42,
+     "summary": "On 6 July 1972 FBI Director L. Patrick Gray warned the President by phone that his aides were \"mortally wounding\" him, were not cooperating with the FBI, or that Watergate \"might lead higher.\" Evidence: Gray's testimony and the President's statements.",
+     "nodes": []
+    },
+    {
+     "node_id": "0040",
+     "title": "36. Clemency discussed with Ehrlichman",
+     "start_page": 43,
+     "end_page": 43,
+     "summary": "In or about July 1972 Ehrlichman spoke with the President about possible executive clemency for those involved in Watergate. Evidence: Ehrlichman's grand jury testimony of 13 September 1973 and the President's statements.",
+     "nodes": []
+    },
+    {
+     "node_id": "0041",
+     "title": "37. September 15, 1972 meeting with Haldeman and Dean",
+     "start_page": 44,
+     "end_page": 44,
+     "summary": "The President, Haldeman and Dean discussed how Watergate had been \"kept away from the White House\"; the President praised Dean's handling, keeping his \"fingers in the dike,\" and said to \"button it up as well as you can.\" Evidence: the tape and Haldeman's notes.",
+     "nodes": []
+    },
+    {
+     "node_id": "0042",
+     "title": "38. Haldeman approves the $350,000 fund transfer",
+     "start_page": 45,
+     "end_page": 45,
+     "summary": "In early December 1972 and early January 1973 Haldeman approved transferring money from a secret $350,000 White House cash fund for payments to and for the Watergate defendants. Evidence: grand jury testimony of Dean and Haldeman.",
+     "nodes": []
+    },
+    {
+     "node_id": "0043",
+     "title": "39. Dean doubts Executive Privilege would hold",
+     "start_page": 46,
+     "end_page": 46,
+     "summary": "In late February 1973 Dean told Ehrlichman that a claim of Executive Privilege over his testimony might fail because he had met the President so rarely. Evidence: Dean's grand jury testimony of 14 February 1974.",
+     "nodes": []
+    },
+    {
+     "node_id": "0044",
+     "title": "40. Redacted statement",
+     "start_page": 47,
+     "end_page": 47,
+     "summary": "Statement 40 and its supporting item 40.1 are redacted in full under FOIA exemption (b)(3) and grand jury secrecy rule 6(e).",
+     "nodes": []
+    },
+    {
+     "node_id": "0045",
+     "title": "41. February 28, 1973 meeting with Dean",
+     "start_page": 48,
+     "end_page": 48,
+     "summary": "On 28 February 1973 the President and John Dean discussed Watergate, possible clemency for the defendants, and the role of CRP and John Mitchell. Evidence: the tape recording and transcript.",
+     "nodes": []
+    },
+    {
+     "node_id": "0046",
+     "title": "42. March 13, 1973 meeting with Dean",
+     "start_page": 49,
+     "end_page": 49,
+     "summary": "The President and Dean discussed Gordon Strachan's and Jeb Magruder's roles before 17 June 1972, possible testimony by Stans, Kalmbach and Sloan, Haldeman's status, Mitchell's and Haldeman's roles in Liddy's program, and the inadvisability of full disclosure. Evidence: the tape and transcript.",
+     "nodes": []
+    },
+    {
+     "node_id": "0047",
+     "title": "43. March 17, 1973 meeting with Dean",
+     "start_page": 50,
+     "end_page": 50,
+     "summary": "On 17 March 1973 the President and Dean discussed the involvement of Strachan and others in Watergate. Evidence: Dean's grand jury testimony of 14 February 1974.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0048",
+   "title": "IV. The President's public statements and related grand jury material",
+   "start_page": 51,
+   "end_page": 62,
+   "summary": "Statements 44 to 53 set the President's public statements of 1972 and 1973 on payments, clemency, the cover-up and his own investigation beside the tapes and testimony that bear on them.",
+   "nodes": [
+    {
+     "node_id": "0049",
+     "title": "44. Statements on funds for the defendants",
+     "start_page": 51,
+     "end_page": 52,
+     "summary": "After the part title page: on 22 May 1973 the President said he knew of no efforts to fund the defendants until his 21 March investigation; on 15 August he said he was told money was for legal fees and family support, not silence. Evidence: his statements, the 22 August news conference and the 21 March tape.",
+     "nodes": []
+    },
+    {
+     "node_id": "0050",
+     "title": "45. Statements on executive clemency",
+     "start_page": 53,
+     "end_page": 53,
+     "summary": "On 22 May 1973 the President said he never knew of any clemency offer; on 15 August he said he had ruled it out since July 1972; on 17 November he said he turned it down whenever suggested. Evidence: his statements and the 28 February and 21 March 1973 tapes.",
+     "nodes": []
+    },
+    {
+     "node_id": "0051",
+     "title": "46. Statements on knowledge of a cover-up",
+     "start_page": 54,
+     "end_page": 54,
+     "summary": "On 15 August 1973 the President said he was unaware of any cover-up until 21 March and first learned then that CRP people were involved; on 22 August he said Dean found no \"scintilla of evidence\" of staff involvement. Evidence: tapes of 30 June and 15 September 1972 and 28 February and 13 March 1973.",
+     "nodes": []
+    },
+    {
+     "node_id": "0052",
+     "title": "47. Statements on getting out the facts and Dean's investigation",
+     "start_page": 55,
+     "end_page": 56,
+     "summary": "On 15 August 1973 the President said he always sought to get out the facts; he cited Clark MacGregor's inquiry and Dean's \"complete investigation,\" on which he said in August 1972 and March 1973 no one in the White House was involved. Items 47.3 to 47.6 are redacted; Dean's testimony is also cited.",
+     "nodes": []
+    },
+    {
+     "node_id": "0053",
+     "title": "48. Statement on ordering full cooperation",
+     "start_page": 57,
+     "end_page": 57,
+     "summary": "On 30 April 1973 the President said that after new information on 21 March he again ordered everyone in government and the Re-election Committee to cooperate fully with the FBI, prosecutors and grand jury. Evidence: the statement and tapes of 21 March and 16 April 1973.",
+     "nodes": []
+    },
+    {
+     "node_id": "0054",
+     "title": "49. Statement on pressing to get the story out",
+     "start_page": 58,
+     "end_page": 58,
+     "summary": "On 22 August 1973 the President said that at the 22 March meeting with Mitchell, Haldeman, Ehrlichman and Dean he kept pressing to \"get the truth out, whatever and whoever it's going to hurt.\" Evidence: tapes of 21 and 22 March and 16 April 1973.",
+     "nodes": []
+    },
+    {
+     "node_id": "0055",
+     "title": "50. Statement on Ehrlichman's inquiry",
+     "start_page": 59,
+     "end_page": 59,
+     "summary": "On 15 August 1973 the President said that when Dean could not finish his report on 30 March he had Ehrlichman make an independent inquiry, received the findings on 14 April and had them sent to the Attorney General. Evidence: testimony of Ehrlichman and Kleindienst.",
+     "nodes": []
+    },
+    {
+     "node_id": "0056",
+     "title": "51. Statement on the April 15 meeting with Kleindienst and Petersen",
+     "start_page": 60,
+     "end_page": 60,
+     "summary": "On 17 April 1973 the President said he met Kleindienst and Petersen on 15 April \"to review the facts which had come to me in my investigation.\" Evidence: the statement, Petersen's grand jury testimony and the 16 April morning tape.",
+     "nodes": []
+    },
+    {
+     "node_id": "0057",
+     "title": "52. Statement on informing the prosecutors",
+     "start_page": 61,
+     "end_page": 61,
+     "summary": "Asked on 22 August 1973 why he did not give prosecutors evidence of crimes in March and April, the President said he assumed Dean was telling Petersen everything, and implied the same of Ehrlichman after 30 March. Evidence: the news conference and the 21 March tapes.",
+     "nodes": []
+    },
+    {
+     "node_id": "0058",
+     "title": "53. Statement on the March 21 allegations",
+     "start_page": 62,
+     "end_page": 62,
+     "summary": "On 15 August 1973 the President said the 21 March allegations were general and largely unsupported, but by 15 April were filled out by Ehrlichman's 14 April report, Kleindienst and Petersen, and his own inquiries. Evidence: the statement and the 21 March morning tape.",
+     "nodes": []
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,298 @@
+{
+ "topic": "ufo",
+ "items": [
+  {
+   "id": "ufo-flir1-tic-tac",
+   "title": "FLIR1 (Tic Tac)",
+   "type": "video",
+   "date": "2004-11-14",
+   "released": "2020-04-27",
+   "agency": "US Navy",
+   "summary": "Infrared targeting-pod video from a US Navy F/A-18 of the USS Nimitz strike group, recorded off Southern California on 14 November 2004 during the encounter pilots described as a white \"Tic Tac\". It leaked in 2007, the Pentagon released it officially in April 2020, and AARO lists it as unresolved.",
+   "source": "https://www.dvidshub.net/video/955825/flir-uap",
+   "file": "https://d34w7g4gy10iej.cloudfront.net/video/2503/DOD_110872545/DOD_110872545.mp4",
+   "file_name": "DOD_110872545.mp4",
+   "bytes": 3953189,
+   "duration": 76.23,
+   "width": 352,
+   "height": 264,
+   "credit": "U.S. Navy",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "On April 27, 2020 the Department of Defense authorized the release of three unclassified Navy videos, one taken in November 2004 and two in January 2015, which had circulated after unauthorized releases in 2007 and 2017.",
+     "url": "https://www.defense.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+    },
+    {
+     "claim": "The FLIR video was recorded during the 14 November 2004 USS Nimitz encounter off the coast of southern California.",
+     "url": "https://en.wikipedia.org/wiki/Pentagon_UFO_videos"
+    },
+    {
+     "claim": "AARO lists it as \"NAVAIR - FOIA: Unresolved Case: FLIR Video\".",
+     "url": "https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/"
+    }
+   ]
+  },
+  {
+   "id": "ufo-gimbal",
+   "title": "Gimbal",
+   "type": "video",
+   "date": "2015-01",
+   "released": "2020-04-27",
+   "agency": "US Navy",
+   "summary": "Infrared video from a US Navy F/A-18 of the USS Theodore Roosevelt strike group off the US East Coast in January 2015, in which the aircrew track an object that appears to rotate. It leaked in 2017, the Pentagon released it officially in April 2020, and AARO lists it as unresolved.",
+   "source": "https://www.dvidshub.net/video/956955/gimbal-uap",
+   "file": "https://d34w7g4gy10iej.cloudfront.net/video/2503/DOD_110891172/DOD_110891172.mp4",
+   "file_name": "DOD_110891172.mp4",
+   "bytes": 28531994,
+   "duration": 34.47,
+   "width": 1920,
+   "height": 1080,
+   "credit": "U.S. Navy",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The Department of Defense authorized the release of the Navy videos on April 27, 2020; two of them were taken in January 2015.",
+     "url": "https://www.defense.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+    },
+    {
+     "claim": "GIMBAL was recorded by the crew of the USS Theodore Roosevelt off the US East Coast.",
+     "url": "https://en.wikipedia.org/wiki/Pentagon_UFO_videos"
+    },
+    {
+     "claim": "The New York Times published the FLIR and GIMBAL videos on 16 December 2017.",
+     "url": "https://en.wikipedia.org/wiki/Pentagon_UFO_videos"
+    },
+    {
+     "claim": "AARO lists it as \"NAVAIR - FOIA: Unresolved Case: Gimbal Video\".",
+     "url": "https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/"
+    }
+   ]
+  },
+  {
+   "id": "ufo-hottel-memo",
+   "title": "Hottel Memo",
+   "type": "document",
+   "date": "1950-03-22",
+   "released": "1977",
+   "agency": "FBI",
+   "summary": "A one-page memo of 22 March 1950 from Guy Hottel, head of the FBI's Washington field office, to J. Edgar Hoover, passing on a third party's story that an Air Force investigator said three \"flying saucers\" with three-foot-tall occupants had been recovered in New Mexico. It is the most viewed file in the FBI Vault; the FBI says it never investigated the claim and sees no reason to link it to Roswell.",
+   "source": "https://vault.fbi.gov/hottel_guy",
+   "file": "https://web.archive.org/web/20250204110125id_/https://vault.fbi.gov/hottel_guy/Guy%20Hottel%20Part%2001%20(Final)/at_download/file",
+   "file_name": "Guy Hottel Part 01 (Final).pdf",
+   "bytes": 125931,
+   "pages": 2,
+   "credit": "Federal Bureau of Investigation",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The memo is dated March 22, 1950 and was written by Guy Hottel, then head of the FBI's Washington, D.C. field office.",
+     "url": "https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo"
+    },
+    {
+     "claim": "It is the most viewed document in the FBI Vault and relays an unconfirmed report that the FBI never followed up on; the FBI sees no reason to connect it to Roswell.",
+     "url": "https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo"
+    },
+    {
+     "claim": "The FBI says the memo was first released publicly in the late 1970s and was on the FBI website for several years before the Vault launched in April 2011.",
+     "url": "https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo"
+    },
+    {
+     "claim": "It was released in 1977 to physicist Bruce Maccabee in response to a Freedom of Information request.",
+     "url": "https://www.ksl.com/article/24636962/most-viewed-fbi-file-is-about-ufos-and-aliens"
+    }
+   ]
+  },
+  {
+   "id": "ufo-apollo-17-dots",
+   "title": "Apollo 17 Three Dots",
+   "type": "image",
+   "date": "1972-12",
+   "released": "2026-05-08",
+   "agency": "NASA",
+   "summary": "A NASA photograph from the Apollo 17 mission in December 1972, published in the Pentagon's first PURSUE release with an enlarged inset of three faint dots in a triangle in the lunar sky. The Pentagon said there is no consensus on what they are; critics note the Apollo photos had been public for decades.",
+   "source": "https://www.war.gov/UFO/",
+   "file": "https://web.archive.org/web/20260508130942id_/https://www.war.gov/medialink/ufo/release_1/nasa-uap-vm6-apollo-17-1972.jpg",
+   "file_name": "nasa-uap-vm6-apollo-17-1972.jpg",
+   "bytes": 1778754,
+   "width": 4400,
+   "height": 4600,
+   "credit": "NASA (inset added by the Department of War)",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The photo was taken in December 1972 during Apollo 17 and shows three \"dots\" in a triangular formation in the lunar sky.",
+     "url": "https://www.cbsnews.com/news/ufo-files-apollo-17-crew-mysterious-objects-1972-mission/"
+    },
+    {
+     "claim": "The Pentagon released it on May 8, 2026, saying there is no consensus about the nature of the anomaly but a preliminary analysis indicated it could be a physical object.",
+     "url": "https://www.cbsnews.com/news/ufo-files-apollo-17-crew-mysterious-objects-1972-mission/"
+    },
+    {
+     "claim": "Space.com notes that the Apollo \"UFO\" images had been public for decades before the release.",
+     "url": "https://www.space.com/space-exploration/search-for-life/not-a-big-reveal-apollo-ufo-images-have-been-public-for-decades"
+    }
+   ]
+  },
+  {
+   "id": "ufo-roswell-case-closed",
+   "title": "The Roswell Report: Case Closed",
+   "type": "document",
+   "date": "1997",
+   "released": "1997-06-24",
+   "agency": "US Air Force",
+   "summary": "The US Air Force's 1997 report on the Roswell legend. It concludes that the \"alien bodies\" witnesses described were anthropomorphic test dummies carried aloft by high-altitude balloons, and that stories of bodies at the base hospital blended a 1956 KC-97 crash and a 1959 balloon accident.",
+   "source": "https://www.af.mil/The-Roswell-Report/",
+   "file": "https://archive.org/download/AFD-101027-030/AFD-101027-030.pdf",
+   "file_name": "AFD-101027-030.pdf",
+   "bytes": 19650279,
+   "pages": 232,
+   "credit": "U.S. Air Force (Capt. James McAndrew)",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The report concludes that \"aliens\" observed in the New Mexico desert were anthropomorphic test dummies carried aloft by Air Force high-altitude balloons.",
+     "url": "https://www.af.mil/The-Roswell-Report/"
+    },
+    {
+     "claim": "It attributes reports of bodies at the Roswell base hospital to a 1956 KC-97 accident and a 1959 manned balloon mishap.",
+     "url": "https://www.af.mil/The-Roswell-Report/"
+    },
+    {
+     "claim": "Air Force officers handed out copies of the report at a Pentagon press briefing on June 24, 1997.",
+     "url": "https://spokesman.com/stories/1997/jun/25/dummies-tell-no-tales-air-force-tries-to-close"
+    }
+   ]
+  },
+  {
+   "id": "ufo-gemini-7-bogey",
+   "title": "Gemini 7 Bogey Audio",
+   "type": "audio",
+   "date": "1965-12",
+   "released": "2026-05-08",
+   "agency": "NASA",
+   "summary": "NASA air-to-ground and public-affairs audio from the December 1965 Gemini VII flight, in which Frank Borman reports an unidentified object he calls a \"bogey\" to mission control in Houston. The Pentagon published it in its first PURSUE release in May 2026; space historian James Oberg attributes it to debris from the mission's own booster.",
+   "source": "https://www.dvidshub.net/video/1006119/nasa-audio-12-5-1965-low-earth-orbit",
+   "file": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111689232/DOD_111689232.mp4",
+   "file_name": "DOD_111689232.mp4",
+   "bytes": 19126276,
+   "duration": 371.61,
+   "credit": "NASA",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The excerpt, recorded during the Gemini VII flight in December 1965, has Frank Borman reporting to Houston an unidentified object he called a \"bogey\", with comments from Jim Lovell.",
+     "url": "https://www.dvidshub.net/video/1006119/nasa-audio-12-5-1965-low-earth-orbit"
+    },
+    {
+     "claim": "PURSUE Release 01, which included Apollo- and Gemini-era NASA material, was published on May 8, 2026.",
+     "url": "https://en.wikipedia.org/wiki/United_States_UFO_files"
+    },
+    {
+     "claim": "The first UFO file drop included transcripts and/or audio excerpts from Gemini 7.",
+     "url": "https://www.space.com/space-exploration/search-for-life/not-a-big-reveal-apollo-ufo-images-have-been-public-for-decades"
+    },
+    {
+     "claim": "James Oberg says the \"bogey\" was most likely a piece of booster-associated debris from Gemini 7's own launch.",
+     "url": "https://cosmiclog.com/2026/05/08/pentagon-releases-ufo-files-from-moon-trips-and-more/"
+    }
+   ]
+  },
+  {
+   "id": "ufo-gofast",
+   "title": "Go Fast",
+   "type": "video",
+   "date": "2015-01",
+   "released": "2020-04-27",
+   "agency": "US Navy",
+   "summary": "Infrared video from a US Navy F/A-18F off the coast of Florida in January 2015 that seems to show a small object racing low over the ocean. The Pentagon released it officially in April 2020; AARO's February 2025 case resolution put the object at about 13,000 feet and found with high confidence that it did not move at anomalous speeds.",
+   "source": "https://www.dvidshub.net/video/956683/gofast-uap",
+   "file": "https://d34w7g4gy10iej.cloudfront.net/video/2503/DOD_110886776/DOD_110886776.mp4",
+   "file_name": "DOD_110886776.mp4",
+   "bytes": 43033179,
+   "duration": 34.47,
+   "width": 1920,
+   "height": 1080,
+   "credit": "U.S. Navy",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The Department of Defense authorized the release of the Navy videos on April 27, 2020; two of them were taken in January 2015.",
+     "url": "https://www.defense.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+    },
+    {
+     "claim": "AARO's case resolution dated February 6, 2025 says a Navy F/A-18F recorded the object in January 2015 about 13,000 feet above the Atlantic off Florida, and assesses with high confidence that it did not move at anomalous speeds.",
+     "url": "https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf"
+    },
+    {
+     "claim": "AARO's imagery page lists the video as NAVAIR - FOIA: Case: \"GO FAST\" Video, with a link to its case resolution.",
+     "url": "https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/"
+    }
+   ]
+  },
+  {
+   "id": "ufo-odni-preliminary-assessment",
+   "title": "ODNI Preliminary Assessment on UAP",
+   "type": "document",
+   "date": "2021-06-25",
+   "released": "2021-06-25",
+   "agency": "ODNI",
+   "summary": "The Director of National Intelligence's unclassified report to Congress on UAP, drafted with the Pentagon's UAP Task Force. Of 144 US government reports from 2004 to 2021 it could explain only one, a large deflating balloon, and it noted 18 incidents with unusual movement patterns or flight characteristics.",
+   "source": "https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/item/2223-preliminary-assessment-unidentified-aerial-phenomena",
+   "file": "https://web.archive.org/web/20210625203612id_/https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
+   "file_name": "Prelimary-Assessment-UAP-20210625.pdf",
+   "bytes": 385812,
+   "pages": 9,
+   "credit": "Office of the Director of National Intelligence",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The report is dated 25 June 2021 and covers US government reporting from November 2004 to March 2021, with 144 reports from USG sources.",
+     "url": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+    },
+    {
+     "claim": "Only one report was explained with high confidence, as a large deflating balloon; in 18 incidents observers reported unusual movement patterns or flight characteristics.",
+     "url": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+    },
+    {
+     "claim": "ODNI released the preliminary report on 25 June 2021.",
+     "url": "https://en.wikipedia.org/wiki/Pentagon_UFO_videos"
+    }
+   ]
+  }
+ ],
+ "rejected": [
+  {
+   "title": "AARO Historical Record Report, Volume 1 (2024)",
+   "reason": "Verified (63 pages; Wayback copy of the aaro.mil PDF is byte-identical to the Commons copy) but cut to stay at 8 items; it is less discussed than the 2021 ODNI report. Good swap-in: https://web.archive.org/web/20240308172457id_/https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+  },
+  {
+   "title": "CIA 1952 flying saucer memos",
+   "reason": "Not pursued: less widely known than the items chosen and cia.gov blocks scripts. The related Robertson Panel report (CIA-UAP-002) is in PURSUE Release 03 if wanted."
+  },
+  {
+   "title": "Project Blue Book photos and case files (NARA)",
+   "reason": "Found no single famous, high-resolution Blue Book photo of clear government authorship; Commons has many Blue Book case-file PDFs (e.g. 1952 Beverly, Mass.) but none as recognisable as the items chosen."
+  },
+  {
+   "title": "Roswell crash-test-dummy photos (separate image)",
+   "reason": "The official af.mil copies are ~24 KB thumbnails and the Commons copies are 450 px wide; the same photos are inside the Case Closed PDF, which is included."
+  },
+  {
+   "title": "Navy videos as Commons WebM files",
+   "reason": "Commons files are re-encodes and NAVAIR's FOIA originals return 403; used the AARO uploads on DVIDS (official DoD host) instead."
+  },
+  {
+   "title": "FLIR1 1920x1080 DVIDS rendition",
+   "reason": "An upscale (29 MB) of the native 352x264 file; used the original upload DOD_110872545.mp4."
+  },
+  {
+   "title": "archive.org item hottel-memo",
+   "reason": "Only a WebP screenshot; used the FBI Vault PDF via its Wayback capture."
+  },
+  {
+   "title": "PURSUE 'orbs launching orbs' and 2022 Iran four-object videos",
+   "reason": "Could not tie them to a specific DVIDS file and official description in time; many PURSUE videos run 5-10 minutes and up to ~500 MB."
+  }
+ ]
+}

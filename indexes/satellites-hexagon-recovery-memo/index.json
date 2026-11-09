@@ -1,0 +1,218 @@
+{
+ "id": "satellites-hexagon-recovery-memo",
+ "title": "Deep Sea Recovery of HEXAGON RV 1201-3",
+ "source": {
+  "url": "https://www.cia.gov/readingroom/collection/underwater-ice-station-zebra-recovering-secret-spy-satellite-capsule-16400-feet-below",
+  "publisher": "CIA",
+  "date": "1972-05-24",
+  "pages": 39,
+  "released": "2012-08",
+  "file": "https://archive.org/download/cia-hexagon-recovery/1972-05-24.pdf",
+  "sha256": "ba5153d9bb28f2abe6ec393a59fbdcabc007707ea95c7b1365b0b9c737fb5fdd",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "satellites",
+ "summary": "A 24 May 1972 CIA memorandum, with trip reports and photographs, on the effort to raise a film capsule from the first HEXAGON mission from 16,000 feet of Pacific water with the Navy bathyscaphe Trieste II. It records three dives, the film stacks being hooked on 25 April 1972, and the film breaking apart on the way up, leaving 25 feet.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/satellites/satellites-hexagon-recovery-memo/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Memorandum for the record: deep sea recovery of HEXAGON RV 1201-3",
+   "start_page": 1,
+   "end_page": 3,
+   "summary": "Memo BYE-108849-72 of 24 May 1972 summarizing the effort to recover the third HEXAGON film recovery vehicle from 16,000 feet of Pacific water with the bathyscaph Trieste II, the partial film recovery and the lessons learned. It introduces Attachments I to IV.",
+   "nodes": [
+    {
+     "node_id": "0001",
+     "title": "Loss of the RV and the recovery attempts",
+     "start_page": 1,
+     "end_page": 1,
+     "summary": "On 10 July 1971 the RV's parachute failed; it hit the water at about 2,600 g and sank in 16,000 feet. Recovery aimed at the film's intelligence and a deep-ocean capability. USNS De Steiger under Dr. Fred Spiess found it in October; Trieste II dived on 3 and 30 November 1971 and 25 April 1972, recovering 25 feet of film.",
+     "nodes": []
+    },
+    {
+     "node_id": "0002",
+     "title": "Analysis and lessons learned",
+     "start_page": 2,
+     "end_page": 2,
+     "summary": "The RV broke up on impact and the film spools separated, with little corrosion; cuts in the stacks made film break off. Lessons: integrate search and recovery, since the first dive searched the wrong spot; winter weather hampered work; Trieste II had a major failure on every dive; the slow operating unit needed three days from Pearl Harbor.",
+     "nodes": []
+    },
+    {
+     "node_id": "0003",
+     "title": "Summary and distribution",
+     "start_page": 3,
+     "end_page": 3,
+     "summary": "After the 1202 mission the film's intelligence value fell, and the main aim became proving a deep-sea recovery capability, achieved when both film stacks were recovered on the third dive. The crews are commended for their persistence. Distribution list of copies, headed by D/OSP.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0004",
+   "title": "Attachment I: search photographs of the RV",
+   "start_page": 4,
+   "end_page": 8,
+   "summary": "Five black-and-white photographs taken from the De Steiger's search fish, showing the broken, round recovery vehicle lying on the sea floor with scattered debris and trailing wires. Each is stamped Secret HEXAGON, Attachment I, BYE-108849-72.",
+   "nodes": []
+  },
+  {
+   "node_id": "0005",
+   "title": "Attachment II: trip report, RV-3 recovery operations",
+   "start_page": 9,
+   "end_page": 16,
+   "summary": "Top Secret memo BYE-107195-72 of 9 February 1972 to the Director of Special Projects, covering the search, the first two Trieste dives and the plans for another attempt.",
+   "nodes": [
+    {
+     "node_id": "0006",
+     "title": "Background",
+     "start_page": 9,
+     "end_page": 11,
+     "summary": "RV-3 hit the sea at about 310 mph near 24°48'N 162°01'W. NRO and OSP asked the Navy for help; NRO paid for the search. A leased refrigerator kept the RV at 40°F for Kodak; a black shroud and night surfacing protected the film; the crew's cover story was a Scripps instrument package. De Steiger found the RV from 8 October.",
+     "nodes": []
+    },
+    {
+     "node_id": "0007",
+     "title": "Integrated operating unit operations",
+     "start_page": 11,
+     "end_page": 15,
+     "summary": "The White Sands, Apache and Trieste II and their three sorties to the site between October 1971 and February 1972.",
+     "nodes": [
+      {
+       "node_id": "0008",
+       "title": "First dive, 3 to 5 November 1971",
+       "start_page": 11,
+       "end_page": 13,
+       "summary": "Loading 67,000 gallons of aviation gasoline and 32 tons of shot takes about 2.5 days of calm seas. Five transponders marked the site; Trieste dived at 1815 to a bottom at 16,400 feet. Its trail ball failed and confused transponder positions misled it, so the target was never seen. Storm damage forced a return to Pearl Harbor on 16 November.",
+       "nodes": []
+      },
+      {
+       "node_id": "0009",
+       "title": "Second dive and later sorties",
+       "start_page": 14,
+       "end_page": 15,
+       "summary": "Trieste dived on 30 November with a 25-degree list from a leaking shot releaser. After eight hours the crew saw the payload pass two feet from the starboard skeg, but low battery power forced surfacing on 1 December. A gale then damaged Trieste. A third sortie from 12 January to 5 February 1972 never launched because of seas.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0010",
+     "title": "Future plans",
+     "start_page": 15,
+     "end_page": 16,
+     "summary": "The Navy intends to recover RV-3 if at all possible. The unit will return to the site about 15 March after the White Sands is dry-docked to repair two of its three station keepers. The writer will fly out by helicopter once Trieste is launched, since it takes about 60 hours to prepare a dive. Distribution list.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0011",
+   "title": "Attachment III: trip report, recovery of 1201-3",
+   "start_page": 17,
+   "end_page": 21,
+   "summary": "Day-by-day memo for the record, 24 May 1972, on the 16 to 26 April 1972 voyage that recovered the film stacks from RV-3.",
+   "nodes": [
+    {
+     "node_id": "0012",
+     "title": "Voyage to the recovery zone, 16 to 23 April",
+     "start_page": 17,
+     "end_page": 18,
+     "summary": "The writer flew to Honolulu, where Lt. Bazzel and Lt. Col. Tweedy planned dry ice to keep the film cold for Eastman Kodak, then sailed on the salvage ship Safeguard and transferred to the Bolster. Seas of 10 to 15 feet halted work. Radio silence was kept because a Russian ship was listening; a sailor was sent home by helicopter.",
+     "nodes": []
+    },
+    {
+     "node_id": "0013",
+     "title": "Dive preparations, 24 and 25 April",
+     "start_page": 18,
+     "end_page": 20,
+     "summary": "In 8 to 10 foot seas, rougher than ever before attempted, the crew loaded shot through a ground fault and a collapsed hose. On 25 April a wave soaked Trieste's electronics, and shorts were found in the computer power supply and the inverter; spares and redundancy let the dive go ahead.",
+     "nodes": []
+    },
+    {
+     "node_id": "0014",
+     "title": "Third dive and recovery of the film stacks",
+     "start_page": 20,
+     "end_page": 21,
+     "summary": "Trieste dived at 1700 on 25 April, found a debris field and an object about 3.5 by 3 feet, and hooked it on the sixth try. On surfacing at 0235 the payload had disintegrated in silt, with pieces falling through the hook; divers saved some film. Pilots blamed extensive corrosion. The writer left for Pearl Harbor on the Bolster.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0015",
+   "title": "Attachment IV: analysis of recovered takeup",
+   "start_page": 22,
+   "end_page": 33,
+   "summary": "Analysis of the Trieste II photographs and the recovered film, followed by ten figures, IV A to IV J.",
+   "nodes": [
+    {
+     "node_id": "0016",
+     "title": "Analysis of recovered takeup",
+     "start_page": 22,
+     "end_page": 22,
+     "summary": "The photographs show pieces of the gold canister, support pallet, takeup arms, encoder and motor drive electronics, and the film stacks, which were recovered intact but disintegrated while being raised. Eastman Kodak found the 25 feet of recovered film physically unchanged but torn into five pieces, probably cut by spokes on impact, with film flaking off as pressure dropped.",
+     "nodes": []
+    },
+    {
+     "node_id": "0017",
+     "title": "Photographs cover sheet",
+     "start_page": 23,
+     "end_page": 23,
+     "summary": "Cover sheet for the Attachment IV photographs, pages 4-2 through 4-11 of BYE-108849-72, included with copy 1 only. Secret HEXAGON, handle via BYEMAN control system.",
+     "nodes": []
+    },
+    {
+     "node_id": "0018",
+     "title": "Figures IV A to IV D: debris and film stacks on the sea floor",
+     "start_page": 24,
+     "end_page": 27,
+     "summary": "Trieste II photographs of the wreckage: a piece of gold canister and grey support pallet, black takeup support arms, the main canister with the film spools, and a close view looking down on the film stacks with the shattered beryllium core.",
+     "nodes": []
+    },
+    {
+     "node_id": "0019",
+     "title": "Figures IV E and IV F: film stacks in the recovery hook",
+     "start_page": 28,
+     "end_page": 29,
+     "summary": "Color photographs of the film stacks held in the recovery hook beneath Trieste II, first intact and then disintegrating as they are brought toward the surface.",
+     "nodes": []
+    },
+    {
+     "node_id": "0020",
+     "title": "Figures IV G and IV H: RV and takeup configuration",
+     "start_page": 30,
+     "end_page": 31,
+     "summary": "Reference photographs of an undamaged recovery vehicle with its gold-lined canister, and of the takeup assembly in its frame, showing what the hardware looked like before the loss.",
+     "nodes": []
+    },
+    {
+     "node_id": "0021",
+     "title": "Figures IV I and IV J: encoder and motor drive electronics",
+     "start_page": 32,
+     "end_page": 33,
+     "summary": "Reference photographs of the takeup encoder, whose white serial lettering was identified on the sea floor, and of the motor drive electronics.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0022",
+   "title": "Photographs of Trieste II and the recovery gear",
+   "start_page": 34,
+   "end_page": 39,
+   "summary": "Six unlabeled photographs: foam cups shrunk by Trieste II at 16,400 feet; Trieste II lifted by crane at a pier; the bathyscaph with the recovery hook mounted beneath it; a close view of its underside; the claw-shaped recovery hook on deck; and Trieste II in the well deck of the White Sands.",
+   "nodes": []
+  }
+ ]
+}

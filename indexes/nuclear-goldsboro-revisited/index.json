@@ -1,0 +1,45 @@
+{
+ "id": "nuclear-goldsboro-revisited",
+ "title": "Goldsboro Revisited",
+ "source": {
+  "url": "https://prologue.blogs.archives.gov/2021/01/22/brush-with-catastrophe-the-day-the-u-s-almost-nuked-itself/",
+  "publisher": "Sandia Laboratories",
+  "date": "1969",
+  "pages": 2,
+  "released": "2013-09-20",
+  "file": "https://archive.org/download/796426-goldsboro-revisited-pp-1-2-copy/796426-goldsboro-revisited-pp-1-2-copy.pdf",
+  "sha256": "be23ae8d11cca778ea2f6f1b13d573b1dfc26557a89d12cb682700ba8e05ebd7",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "nuclear",
+ "summary": "A two-page 1969 memo by Sandia weapons safety supervisor Parker F. Jones about the January 1961 B-52 breakup over North Carolina, which dropped two Mark 39 hydrogen bombs near Goldsboro. Jones concluded that the bomb lacked adequate safety for the B-52 airborne alert role and that one low-voltage switch stood between the United States and a major catastrophe.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/nuclear/nuclear-goldsboro-revisited/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Goldsboro revisited: the report and the facts",
+   "start_page": 1,
+   "end_page": 1,
+   "summary": "Quotes page 127 of Ralph Lapp's book \"Kill and Overkill\": a B-52 jettisoned a 24-megaton bomb over North Carolina and five of six interlocks were set off by the fall. A facing column of \"facts\" replies: it was an accident, the aircraft broke up, the bomb had four safety devices, not six, and only one switch held. Parts are redacted.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "Conclusions on the Mk 39 Mod 2 bomb",
+   "start_page": 2,
+   "end_page": 2,
+   "summary": "Lapp's report lacks accuracy, but its central point stands: one low-voltage switch stood between the United States and a major catastrophe. The Mk 39 Mod 2 bomb lacked adequate safety for B-52 airborne alert; Alt 197 added little, and the ready-safe switch was the only effective safing device. A short to an arm line could have caused a nuclear burst.",
+   "nodes": []
+  }
+ ]
+}

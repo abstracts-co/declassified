@@ -1,0 +1,513 @@
+{
+ "id": "satellites-corona-story",
+ "title": "The CORONA Story",
+ "source": {
+  "url": "https://www.nro.gov/Portals/65/documents/foia/docs/HOSR/SC-2017-00006m.pdf",
+  "publisher": "NRO",
+  "date": "1987-11",
+  "pages": 182,
+  "released": "2018-09-11",
+  "file": "https://archive.org/download/nro-freq-scrape/The%20CORONA%20Story%2C%201988%20%282018%20Release%29.pdf",
+  "sha256": "79b6b582e24ef3e3e942965762efd7195adbe68d050f688f67aae6a58a2189e7",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "satellites",
+ "summary": "The National Reconnaissance Office's once-classified history of CORONA, finished in November 1987 by Frederic Oder, James Fitzpatrick and Paul Worthman, tracing the program from its 1950s origins through its first successes and later camera improvements, with an appendix of sample CORONA images. The NRO first released it in 2010 and released this re-reviewed copy in September 2018.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/satellites/satellites-corona-story/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Cover, warning notice and contents",
+   "start_page": 1,
+   "end_page": 6,
+   "summary": "Cover of The CORONA Story (BYE 140001-88, December 1988, copy 16 of 25) with the NRO seal and NOFORN-ORCON and BYEMAN-TALENT-KEYHOLE handling marks; a warning notice on intelligence sources and dissemination controls; the table of contents for five sections and two appendices; and a list of illustrations of officials, organization charts and flight summaries.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "Preface",
+   "start_page": 7,
+   "end_page": 8,
+   "summary": "Describes CORONA as Eisenhower's 1958 answer to the Iron Curtain, publicly named Discoverer. Notes earlier histories by Robert Perry (1974) and CIA historian Helen Kleyla (1976), and that NRO Deputy Director Jimmie D. Hill proposed this independent history in 1984. Signed November 1987 in Sunnyvale by Frederic C.E. Oder, James C. Fitzpatrick and Paul E. Worthman.",
+   "nodes": []
+  },
+  {
+   "node_id": "0002",
+   "title": "Problem: a closed society",
+   "start_page": 9,
+   "end_page": 10,
+   "summary": "Section 1. After World War II the closed Soviet police state left US policymakers short of intelligence; signals sites and agents gave little, so overflight was needed, first by the U-2. Project RAND began satellite studies in 1946 and in 1954 concluded that satellite photography of Soviet territory would reverse the US strategic intelligence position.",
+   "nodes": []
+  },
+  {
+   "node_id": "0003",
+   "title": "Faith: the space potential",
+   "start_page": 11,
+   "end_page": 66,
+   "summary": "Section 2. Traces satellite reconnaissance from WS-117L and its funding and policy obstacles through 'Second Story' and Sputnik to the birth of covert CORONA under CIA and Air Force management with Discoverer as cover, contractor and camera choices, ARPA funding fights, security, launch and recovery arrangements, and the failed early flights of 1959-60.",
+   "nodes": [
+    {
+     "node_id": "0004",
+     "title": "Origins of Weapon System 117L (the Advanced Reconnaissance System)",
+     "start_page": 11,
+     "end_page": 13,
+     "summary": "Opens with the U-2's expected short life and the first air catch of a satellite film capsule on 19 August 1960. Traces WS-117L from Project RAND (1946) and a 1954 Air Force requirement to Western Development Division management under Schriever, the April 1956 development plan ($114.7 million) with three test phases, and Lockheed's selection as prime contractor in October 1956.",
+     "nodes": []
+    },
+    {
+     "node_id": "0005",
+     "title": "Policy obstacles to WS-117L development",
+     "start_page": 13,
+     "end_page": 15,
+     "summary": "Air Force Secretary Donald Quarles barred mockups and test vehicles without his approval, and fiscal 1957 funds fell from a $39.1 million request to $13.9 million. Richard Leghorn's open-skies ideas, the 'space for peace' policy and the 1955 decision to keep International Geophysical Year satellites free of military hardware kept missiles out of space work.",
+     "nodes": []
+    },
+    {
+     "node_id": "0006",
+     "title": "Open Skies",
+     "start_page": 15,
+     "end_page": 18,
+     "summary": "Covers the unsettled legality of satellite overflight, Eisenhower's July 1955 'mutual air reconnaissance' proposal and its Soviet rejection, Leghorn's case for covert satellite overflight, and the GENETRIX balloon flights of early 1956. In June 1957 Schriever rejustified the program to Killian's intelligence board, while spending ceilings held WS-117L to about $10 million for the year.",
+     "nodes": []
+    },
+    {
+     "node_id": "0007",
+     "title": "An alternative: 'Second Story'",
+     "start_page": 18,
+     "end_page": 21,
+     "summary": "In 1957 Colonel Frederic Oder proposed 'Second Story': announce the cancellation of WS-117L, start an overt Air Force scientific satellite, and continue reconnaissance covertly under CIA. Schriever briefed Killian and Goodpaster, and Ritland and Oder approached Richard Bissell. An unenthusiastic ARDC endorsement and the revived Stewart Committee stalled the plan.",
+     "nodes": []
+    },
+    {
+     "node_id": "0008",
+     "title": "Sputnik-I breaks the impasse",
+     "start_page": 21,
+     "end_page": 23,
+     "summary": "After Sputnik-I on 4 October 1957, General White told the Air Staff to drop the scientific satellite and accelerate WS-117L. On 29 October Defense Secretary McElroy reversed Quarles and soon authorized acceleration 'at the maximum rate consistent with good management.' The press called WS-117L 'Big Brother', and the President's intelligence board urged an interim photo reconnaissance system.",
+     "nodes": []
+    },
+    {
+     "node_id": "0009",
+     "title": "CORONA is born",
+     "start_page": 23,
+     "end_page": 29,
+     "summary": "Between December 1957 and February 1958 the most promising part of WS-117L was split off as a covert CIA-Air Force project on the U-2 model, led by Bissell and Ritland. Proposals from Teller's group, Horner, RAND, General Electric and Lockheed led to a Thor-Agena design. On 7 February 1958 Killian and Land briefed Eisenhower, who wanted CIA control under ARPA.",
+     "nodes": []
+    },
+    {
+     "node_id": "0010",
+     "title": "The ARPA factor",
+     "start_page": 29,
+     "end_page": 30,
+     "summary": "DoD Directive 5101.15 created ARPA on 7 February 1958, partly to cover covert WS-117L work, and George Kucera named the project CORONA after a cigar wrapper. A 28 February ARPA memo, written by Bissell, Ritland and Sheppard, cancelled the interim Thor-boosted system; contracts were cancelled and a few cleared people reactivated it covertly under a 'biomedical capsule' cover.",
+     "nodes": []
+    },
+    {
+     "node_id": "0011",
+     "title": "Discoverer and CORONA",
+     "start_page": 31,
+     "end_page": 31,
+     "summary": "CORONA was disguised as Discoverer, an Air Force scientific program, so boosters, Agena second stages and launch facilities could be bought openly while only the reconnaissance parts were procured covertly. On 28 February 1958 Schriever and Oder were meeting CIA and Lockheed when the ARPA directive arrived, and they arranged to brief General Electric and Fairchild.",
+     "nodes": []
+    },
+    {
+     "node_id": "0012",
+     "title": "CORONA design evolution and contractor selections",
+     "start_page": 31,
+     "end_page": 34,
+     "summary": "Lockheed, RAND, General Electric and Itek offered competing spin-stabilized and stable-body designs. Film recovery was chosen, with General Electric building the capsule. An 18 March 1958 panel in Cambridge picked Itek for a backup camera, and meetings in San Mateo on 24-26 March chose Cooke (later Vandenberg) AFB as launch site and an initial buy of 10 vehicles.",
+     "nodes": []
+    },
+    {
+     "node_id": "0013",
+     "title": "The choice of a CORONA camera",
+     "start_page": 34,
+     "end_page": 35,
+     "summary": "Fairchild's spin-stabilized camera promised only 40-60 foot resolution, while Itek offered a 24-inch f/5.0 panoramic camera in a three-axis stabilized vehicle promising about 20 feet. Bissell chose Itek and dropped Fairchild within days of his 9 April 1958 proposal; the estimate rose from $20 million to $31 million, $7 million of it covert CIA procurement.",
+     "nodes": []
+    },
+    {
+     "node_id": "0014",
+     "title": "Formal CORONA proposal to the president",
+     "start_page": 35,
+     "end_page": 36,
+     "summary": "The plan called for a short-lived satellite dropping a film capsule into a preselected ocean area, with 20-foot resolution and 12 launches from about June 1959. ARPA would supervise the vehicle, BMD build and launch it, and CIA handle covert camera procurement and security. The proposal went to Goodpaster on 16 April 1958 and approved; 10 launches were funded.",
+     "nodes": []
+    },
+    {
+     "node_id": "0015",
+     "title": "CORONA management arrangements",
+     "start_page": 36,
+     "end_page": 39,
+     "summary": "Bissell as CIA project director and Ritland at BMD ran CORONA jointly under loose ARPA oversight, with vague authority. A BMD project officer was the contractor's daily contact, but Bissell kept direct control through suppliers' meetings and a CIA liaison at Lockheed from June 1959. A 1958 organization chart shows BMD, CIA, Lockheed, Itek, General Electric and Douglas roles.",
+     "nodes": []
+    },
+    {
+     "node_id": "0016",
+     "title": "CORONA scheduling",
+     "start_page": 40,
+     "end_page": 40,
+     "summary": "The 19-week countdown from 1 July 1958 set at San Mateo proved unrealistic, and Bissell's proposal put the first launch around June 1959. CORONA was planned as an interim 12-vehicle program pending more advanced WS-117L systems, with no expectation that it would still be operating a decade later.",
+     "nodes": []
+    },
+    {
+     "node_id": "0017",
+     "title": "Special CORONA security arrangements",
+     "start_page": 40,
+     "end_page": 42,
+     "summary": "From 1 April 1958 Lockheed assembled the covert hardware in leased space at Hiller Helicopters in Menlo Park, 'The Ranch', under an Advanced Projects cover kept until 1969, when the work moved to Sunnyvale. Secondary cover stories answered supply questions, CIA headquarters controlled all briefings, and more ARPA and ARDC staff knew of the program than authorized.",
+     "nodes": []
+    },
+    {
+     "node_id": "0018",
+     "title": "Problems of growth and change",
+     "start_page": 42,
+     "end_page": 43,
+     "summary": "The $31 million estimate assumed free Thor boosters; $18 million more was needed, sending the program back to the president. On 1 January 1959 Bissell became CIA Deputy Director for Plans and formed a new Development Projects Division. Colonel Sheppard, Air Force CORONA director from April 1958, used CIA pressure to stop a plan to use Jupiter boosters.",
+     "nodes": []
+    },
+    {
+     "node_id": "0019",
+     "title": "Separating CORONA from WS-117L",
+     "start_page": 43,
+     "end_page": 44,
+     "summary": "Because WS-117L was publicly linked to reconnaissance, the photo program was split into two ostensibly unrelated series: Discoverer (Thor-boosted CORONA) and Sentry, later Samos (Atlas-boosted). A January 1959 press release described Discoverer as vehicle and space-environment tests carrying mice and a primate; only Discoverer-III carried animals, and it failed.",
+     "nodes": []
+    },
+    {
+     "node_id": "0020",
+     "title": "The CORONA launching site",
+     "start_page": 44,
+     "end_page": 45,
+     "summary": "Vandenberg AFB (formerly Camp Cooke) near Point Arguello allowed safe southward launches into near-polar orbit over the Pacific, had Thor pads, and let capsule recovery be timed for the Hawaii area. Launches could not be hidden from the public, and Southern Pacific trains crossing the base broke the daylight launch windows into short periods.",
+     "nodes": []
+    },
+    {
+     "node_id": "0021",
+     "title": "The CORONA recovery capability",
+     "start_page": 45,
+     "end_page": 46,
+     "summary": "Air catch, with water recovery as backup, was chosen; Colonel Paul Worthman and veterans of the GENETRIX balloon program knew the method. Because hundreds of people would be involved, recovery was run openly by the 6593d Test Squadron (Special) with C-119J aircraft, activated 1 August 1958 and bound for Hawaii, backed by tracking stations and a seaborne force.",
+     "nodes": []
+    },
+    {
+     "node_id": "0022",
+     "title": "CORONA contractor arrangements and progress",
+     "start_page": 46,
+     "end_page": 47,
+     "summary": "Lockheed and General Electric clashed from April to June 1958 over General Electric's proposed separate third stage and whether it would deliver basic hardware or a sealed package; work statements settled the roles in June. Designs favored proven, simple techniques, and Lockheed met design review on 14 May, design freeze on 26 July and drawings on 23 October.",
+     "nodes": []
+    },
+    {
+     "node_id": "0023",
+     "title": "CORONA management arrangements: the ARPA factor revisited",
+     "start_page": 47,
+     "end_page": 51,
+     "summary": "From September 1958 ARPA tried to steer and expand the program; the vehicle count grew to 19 and the estimate reached $129 million, which Bissell said CORONA was not worth. Schriever, Ritland and Sheppard settled the crisis. On 4 December 1958 a separate Thor program named Discoverer was created, and ARPA agreed to fund 13 flights, eight of them CORONA.",
+     "nodes": []
+    },
+    {
+     "node_id": "0024",
+     "title": "Improving CORONA cover and security",
+     "start_page": 51,
+     "end_page": 54,
+     "summary": "With Sentry openly a reconnaissance program, new cover stories explained ARPA's role, polar orbits, recoverable capsules and cameras. A $20 million grant from the President's Reserve in April 1959 kept 19 vehicles going, and a staged Horner directive and Lockheed-BMD letters denied Discoverer any reconnaissance role. ARGON, an Army mapping satellite, was placed under CORONA in July 1959.",
+     "nodes": []
+    },
+    {
+     "node_id": "0025",
+     "title": "The early flight program",
+     "start_page": 55,
+     "end_page": 66,
+     "summary": "Discoverer flights from the aborted 21 January 1959 launch to August 1960: a capsule lost near Spitzbergen, Agena, camera and recovery failures, and repeated stand-downs for analysis. Includes the 1959 flight summary, the switch to polyester film, Discoverer-XIII's sea recovery on 10 August 1960, 'Moose' Mathison's publicity tour with its capsule to the White House, and launch and recovery drawings.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0026",
+   "title": "Achievement: a new vantage",
+   "start_page": 67,
+   "end_page": 116,
+   "summary": "Section 3. Covers the first successful CORONA missions of 1960, why the Soviets may have accepted Discoverer, UN and national security policy, the creation of the NRO in 1961, camera improvements from C' to Mural, CORONA-J with two capsules, and growing CIA-NRO friction through 1966.",
+   "nodes": [
+    {
+     "node_id": "0027",
+     "title": "Discoverer-XIV and the first CORONA photography",
+     "start_page": 67,
+     "end_page": 70,
+     "summary": "Discoverer-XIV, launched 18 August 1960, carried a working camera; Captain Harold Mitchell's C-119 crew caught the capsule in the air. Its 3,000 feet of film covered over 1.65 million square miles of the USSR, more than all U-2 missions, showing 35-foot objects. Discoverer-XVIII in December 1960 doubled coverage and resolved 25-foot objects. Bissell gets most credit.",
+     "nodes": []
+    },
+    {
+     "node_id": "0028",
+     "title": "CORONA security: assessment and conjectures",
+     "start_page": 71,
+     "end_page": 72,
+     "summary": "Fifteen CORONA missions were attempted between 21 January 1959 and 18 August 1960. The authors weigh why the Soviets may have accepted Discoverer at face value: CORONA was tiny, with a 92-pound camera, it was developed cheaply and conservatively unlike usual US programs, Soviet camera technology lagged, and it was one of many minor post-Sputnik space projects.",
+     "nodes": []
+    },
+    {
+     "node_id": "0029",
+     "title": "CORONA security: the United Nations and national policy",
+     "start_page": 72,
+     "end_page": 75,
+     "summary": "UN resolutions 1472 (1959) and 1721 (1961) asked states to register space launches; DoD limited US reports, and Scoville opposed renouncing satellite reconnaissance. The BYEMAN security system was created, the 23 March 1962 Gilpatric Directive classified military space details, and under NSAM 156 the NSC agreed on 10 July 1962 not to identify military launches.",
+     "nodes": []
+    },
+    {
+     "node_id": "0030",
+     "title": "The National Reconnaissance Office",
+     "start_page": 75,
+     "end_page": 83,
+     "summary": "Reconnaissance costs near $300 million by 1961 and Air Force ambitions in space led Charyk and Bissell to an agreement, signed 6 September 1961, creating the National Reconnaissance Program and NRO; the Air Force saw it as distrust. After Bissell resigned, a 1962 agreement made Charyk sole NRO director, with Programs A to D. Includes a 1962 organization chart.",
+     "nodes": []
+    },
+    {
+     "node_id": "0031",
+     "title": "System improvement: C' to Mural",
+     "start_page": 83,
+     "end_page": 88,
+     "summary": "After the May 1960 U-2 shootdown CORONA had to last longer and improve. The C' (KH-2) camera gave about 35-foot resolution; Land persuaded Eisenhower to back Itek's faster f/3.5 C''' (KH-3), which reached 20-25 feet. Covers costs, 1961 failures and recoveries, and the 1960 Discoverer flight summary; 12 of the first 30 photographic missions largely succeeded.",
+     "nodes": []
+    },
+    {
+     "node_id": "0032",
+     "title": "CORONA-Mural",
+     "start_page": 88,
+     "end_page": 97,
+     "summary": "Lockheed's 1960 'GEMINI' plan paired two C''' cameras for stereo; Charyk approved six systems in February 1961. Mural (KH-4) flew from February 1962 while Samos E-5, LANYARD and E-6 recovery failed, and E-6 was cancelled. Includes a table of camera configurations, the 1961 Discoverer flight summary, a Sacramento airport test image, and the CORONA-J double-capsule concept.",
+     "nodes": []
+    },
+    {
+     "node_id": "0033",
+     "title": "CORONA and the NRO",
+     "start_page": 97,
+     "end_page": 101,
+     "summary": "Opens with the 1962 flight summary. Bissell's departure in early 1962 split CIA's plans directorate, and Scoville's new research directorate lost cohesion. Friction grew under DNRO Brockway McMillan, who tried to move CORONA to General Greer's Program A. The 1963 agreements, Scoville's resignation, PFIAB criticism and Albert Wheelon's appointment to head CIA science and technology followed.",
+     "nodes": []
+    },
+    {
+     "node_id": "0034",
+     "title": "CORONA-J",
+     "start_page": 101,
+     "end_page": 116,
+     "summary": "CORONA-J (KH-4A) added a second recovery capsule and a thrust-augmented Thor; it first flew in August 1963. Covers the 1964 capsule that fell in Venezuela and was looted, zombie-mode problems, 1963-65 flight summaries, the 13 August 1965 NRO agreement, Flax's 22 June 1966 directive dividing CORONA management between SAFSP and CIA, and CIA's Office of Special Projects.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0035",
+   "title": "Fulfillment: the struggle to maturity",
+   "start_page": 117,
+   "end_page": 128,
+   "summary": "Section 4, the CORONA improvement program (J-3). The J-3 (KH-4B) constant-rotator camera first flew 15 September 1967 and reached six-foot resolution. Covers the J-4 proposal, HEXAGON delays and cost comparisons, color and crop-yield film tests, NASA interest, and 1970-71 debates over buying more CORONAs, which were refused. Ends with the 1966-1972 flight summary, last mission 25 May 1972.",
+   "nodes": []
+  },
+  {
+   "node_id": "0036",
+   "title": "Summary",
+   "start_page": 129,
+   "end_page": 130,
+   "summary": "Section 5. CORONA returned the first space reconnaissance photos in 1960 at 35-40 foot resolution, improving to 6-10 feet within 12 years. It flew 145 launches, used 2 million feet of film, covered 750 million square nautical miles and cost $850 million against a 1958 estimate of $59 million. Includes a diagram of the CORONA reconnaissance system.",
+   "nodes": []
+  },
+  {
+   "node_id": "0037",
+   "title": "Appendix A: the intelligence community and CORONA",
+   "start_page": 131,
+   "end_page": 136,
+   "summary": "How intelligence committees set CORONA's collection requirements, how its product was protected under TALENT-KEYHOLE, and what CORONA imagery revealed about Soviet missiles, submarines, air defenses and military geography.",
+   "nodes": [
+    {
+     "node_id": "0038",
+     "title": "ARC, COMOR and COMIREX",
+     "start_page": 131,
+     "end_page": 133,
+     "summary": "DCI Dulles set up the Ad Hoc Requirements Committee for the U-2 in December 1955 and a satellite requirements committee in January 1959; they merged as COMOR in August 1960 under James Reber, and COMIREX later took over imagery collection and exploitation. Describes NPIC under Arthur Lundahl, punched-tape camera control, coverage categories and a 0-9 priority scale.",
+     "nodes": []
+    },
+    {
+     "node_id": "0039",
+     "title": "Overhead reconnaissance product security",
+     "start_page": 133,
+     "end_page": 134,
+     "summary": "CIA's TALENT system protected aircraft reconnaissance product; satellite product was added under TALENT-KEYHOLE (TK), which required a special clearance and need-to-know. Photo-interpreters received a 'KH-4 System Manual' and per-mission data. Because most analysts were cleared at TK rather than BYEMAN level, CORONA was known by its KH designator.",
+     "nodes": []
+    },
+    {
+     "node_id": "0040",
+     "title": "CORONA intelligence achievements",
+     "start_page": 134,
+     "end_page": 136,
+     "summary": "The U-2 covered about one million of the USSR's ten million square miles; CORONA photographed millions per mission. It imaged all Soviet MRBM, IRBM and ICBM complexes, found the Plesetsk test range and Severodvinsk submarine yard, revealed ABM work around Moscow, Leningrad and Tallinn, located SAM sites, cued GAMBIT, and became almost the sole source of Defense Mapping Agency data.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0041",
+   "title": "Appendix B: representative CORONA imagery",
+   "start_page": 137,
+   "end_page": 168,
+   "summary": "Fifteen captioned CORONA photographs, 1960-1969, of Soviet bomber, missile, space, naval and air defense sites, a Chinese nuclear plant and Egyptian SA-2 sites at the Suez Canal, each with a locator map.",
+   "nodes": [
+    {
+     "node_id": "0042",
+     "title": "Introduction",
+     "start_page": 137,
+     "end_page": 138,
+     "summary": "A one-paragraph introduction says the examples that follow represent some of the more significant and dramatic contributions of the CORONA system to national intelligence production. The facing page is blank.",
+     "nodes": []
+    },
+    {
+     "node_id": "0043",
+     "title": "B-1 Mys Shmidta",
+     "start_page": 139,
+     "end_page": 140,
+     "summary": "Soviet bomber base on the far northeast coast, about 400 miles from Nome, Alaska. It was the first image taken by the first successful CORONA mission, 9009, on 18 August 1960 with the KH-1 camera. Later KH-3 (13 October 1961) and KH-4A (20 March 1969) photos of its runway and parking apron show how resolution improved.",
+     "nodes": []
+    },
+    {
+     "node_id": "0044",
+     "title": "B-2 Stalingrad (Volgograd), Kapustin Yar",
+     "start_page": 141,
+     "end_page": 142,
+     "summary": "On its eighth pass over the USSR, mission 9009's KH-1 camera photographed a newly deployed SA-2 GUIDELINE site east of Stalingrad and, on the next frame, the defensive-missile launch area at the Kapustin Yar test complex, 60 miles away, showing a prototype SA-1 site and SA-1 test and training facilities.",
+     "nodes": []
+    },
+    {
+     "node_id": "0045",
+     "title": "B-3 Yurya",
+     "start_page": 143,
+     "end_page": 144,
+     "summary": "Yurya, 500 miles east of Moscow, was the first deployed Soviet ICBM complex identified in overhead photography. The SS-7 site was first seen by the KH-2 camera on mission 9017, launched June 1961, and later by the KH-4 Mural camera on mission 9038. Photos label launch sites and a rail transfer point.",
+     "nodes": []
+    },
+    {
+     "node_id": "0046",
+     "title": "B-4 Olovyannaya",
+     "start_page": 145,
+     "end_page": 146,
+     "summary": "In the mid-1960s the Soviets began deploying the SS-11 ICBM in hardened silos in remote areas. One SS-11 complex, at Olovyannaya just north of Mongolia, was found in KH-4A imagery from CORONA mission 1012-1 in October 1964.",
+     "nodes": []
+    },
+    {
+     "node_id": "0047",
+     "title": "B-5 Tyuratam",
+     "start_page": 147,
+     "end_page": 148,
+     "summary": "The Tyuratam Missile Test Center in Soviet Central Asia, the main Soviet site for space launches and ICBM development; its Launch Complex A began operating in 1957. Photos from August 1964 show the original space-launch pads, assembly and electronics areas, and Complex G sites for testing SS-10 and SS-11 ICBMs.",
+     "nodes": []
+    },
+    {
+     "node_id": "0048",
+     "title": "B-6 Tatishchevo",
+     "start_page": 149,
+     "end_page": 150,
+     "summary": "CORONA also located deployed missiles. The SS-11 ICBM complex at Tatishchevo, found in KH-4A imagery in December 1964, is typical of such sites: it lies in a remote area and consists of nine clusters of silos.",
+     "nodes": []
+    },
+    {
+     "node_id": "0049",
+     "title": "B-7 Uzhur",
+     "start_page": 151,
+     "end_page": 152,
+     "summary": "KH-4A imagery from November 1964 revealed an SS-9 ICBM complex under construction near Uzhur; the photo marks the route to launch area C.",
+     "nodes": []
+    },
+    {
+     "node_id": "0050",
+     "title": "B-8 Kartaly",
+     "start_page": 153,
+     "end_page": 154,
+     "summary": "Improved CORONA cameras let analysts find, in KH-4A imagery by November 1967, probable dummy Type-IIIC single silos at the Kartaly ICBM complex southeast of Moscow.",
+     "nodes": []
+    },
+    {
+     "node_id": "0051",
+     "title": "B-9 Plesetsk",
+     "start_page": 155,
+     "end_page": 156,
+     "summary": "The Plesetsk Missile and Space Test Range north of Moscow, a frequent CORONA target, photographed by the KH-4A camera in October 1964. The range handled a wide range of work, from testing mobile ICBMs to launching military satellites.",
+     "nodes": []
+    },
+    {
+     "node_id": "0052",
+     "title": "B-10 Tallinn",
+     "start_page": 157,
+     "end_page": 158,
+     "summary": "KH-4A imagery from August 1964 of the SA-5 missile site near Tallinn could not resolve the missiles and antennas well enough to settle whether it was an ABM weapon, as the Air Force believed, or an anti-bomber system, as CIA believed. Later high-resolution imagery showed it targeted high-altitude bombers.",
+     "nodes": []
+    },
+    {
+     "node_id": "0053",
+     "title": "B-11 Nikolayev",
+     "start_page": 159,
+     "end_page": 160,
+     "summary": "CORONA also supplied naval order of battle. KH-4A imagery from September 1964 shows several vessels under construction at Nosenko Shipyard 444 in the Black Sea port of Nikolayev.",
+     "nodes": []
+    },
+    {
+     "node_id": "0054",
+     "title": "B-12 Severodvinsk",
+     "start_page": 161,
+     "end_page": 162,
+     "summary": "The Severodvinsk naval base and Shipyard 402 on the White Sea, the main producer of Soviet ballistic-missile submarines and a frequent CORONA target, imaged by a KH-4A camera in August 1964.",
+     "nodes": []
+    },
+    {
+     "node_id": "0055",
+     "title": "B-13 Yumenzhan",
+     "start_page": 163,
+     "end_page": 164,
+     "summary": "A KH-4A photo from August 1964 of the chemical and plutonium facilities at Yumenzhan in north-central China, built with Soviet help; many buildings resemble those at the Soviet nuclear site near Tomsk. Labels mark a reactor building and concrete basing under construction and perimeter security.",
+     "nodes": []
+    },
+    {
+     "node_id": "0056",
+     "title": "B-14 Suez Canal",
+     "start_page": 165,
+     "end_page": 166,
+     "summary": "CORONA also covered Third World areas. KH-4A photos from December 1964 revealed Soviet-made SA-2 GUIDELINE missiles in Egypt protecting the Suez Canal, including an SA-2 site under construction.",
+     "nodes": []
+    },
+    {
+     "node_id": "0057",
+     "title": "B-15 Krasnoyarsk",
+     "start_page": 167,
+     "end_page": 168,
+     "summary": "KH-4A imagery from November 1964 revealed Plant 580 at Krasnoyarsk, which tested solid-propellant air-to-air missiles, and the main fabrication building of the Voroshilov Arms Plant, which made submarine-launched ballistic missiles, both close to the TETS power plant.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0058",
+   "title": "References",
+   "start_page": 169,
+   "end_page": 174,
+   "summary": "116 numbered source notes: RAND reports, Air Force, BMD, ARPA, CIA and DoD memos and messages, interviews, NRO agreements, NRP Executive Committee minutes, HEXAGON Review Committee reports, and earlier histories by Robert Perry and the CIA's CORONA Program History.",
+   "nodes": []
+  },
+  {
+   "node_id": "0059",
+   "title": "Index",
+   "start_page": 175,
+   "end_page": 182,
+   "summary": "Alphabetical CORONA index of people, organizations, programs, systems and places with page references, running from Ad Hoc Requirements Committee and Agena through Bissell, HEXAGON, Lockheed and Schriever to Tyuratam, with photo, footnote and appendix references.",
+   "nodes": []
+  }
+ ]
+}

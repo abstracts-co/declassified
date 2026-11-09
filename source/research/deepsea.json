@@ -1,0 +1,298 @@
+{
+ "topic": "deepsea",
+ "items": [
+  {
+   "id": "deepsea-azorian-history",
+   "title": "Project AZORIAN",
+   "type": "document",
+   "date": "1985",
+   "released": "2010-01-04",
+   "agency": "CIA",
+   "summary": "A 50-page history of Project AZORIAN from the fall 1985 issue of the CIA's in-house journal Studies in Intelligence, describing the secret effort to raise the sunken Soviet missile submarine K-129 from 16,500 feet down in the Pacific with the Hughes Glomar Explorer, a ship presented to the public as a Howard Hughes deep-sea mining vessel. Released in redacted form in 2010, it was the CIA's first substantive declassification about the operation.",
+   "source": "https://www.cia.gov/readingroom/document/0005301269",
+   "file": "https://archive.org/download/cia-readingroom-document-0005301269/0005301269.pdf",
+   "file_name": "0005301269.pdf",
+   "bytes": 3412383,
+   "pages": 50,
+   "credit": "Central Intelligence Agency (author's name withheld)",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "A 50-page Secret article from the fall 1985 issue of the CIA journal Studies in Intelligence, written by an unnamed participant (internal evidence suggests it was written in 1978); the National Security Archive published it on 12 February 2010 after a FOIA request filed on 12 December 2007.",
+     "url": "https://nsarchive2.gwu.edu/nukevault/ebb305/index.htm"
+    },
+    {
+     "claim": "The CIA's copy, document C05301269, is stamped 'Approved for release 01-04-2010'.",
+     "url": "https://archive.org/download/cia-readingroom-document-0005301269/0005301269.pdf"
+    },
+    {
+     "claim": "The article says a Soviet G-II class submarine was lost with all hands 16,500 feet below the Pacific in March 1968, and that on 8 August 1974 a (redacted) part of it was brought to the surface by a recovery system built for the mission.",
+     "url": "https://archive.org/download/cia-readingroom-document-0005301269/0005301269.pdf"
+    },
+    {
+     "claim": "The public believed the Hughes Glomar Explorer was a deep-sea mining ship; the CIA was using it to recover the sunken Soviet submarine K-129.",
+     "url": "https://www.cia.gov/legacy/museum/exhibit/project-azorian/"
+    }
+   ]
+  },
+  {
+   "id": "deepsea-k129-burial-film",
+   "title": "Burial at Sea of Soviet Submariners",
+   "type": "video",
+   "date": "1974-09-04",
+   "released": "1992",
+   "agency": "CIA",
+   "summary": "CIA film of the burial at sea, conducted from the Hughes Glomar Explorer on 4 September 1974, of six Soviet submariners whose bodies were in the section of K-129 the ship raised. CIA Director Robert Gates gave the film to Russian President Boris Yeltsin in 1992, and the CIA posted it on its YouTube channel in 2014.",
+   "source": "https://commons.wikimedia.org/wiki/File:Burial_At_Sea_of_Soviet_Submariners_from_Hughes_Glomar_Explorer.webm",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Burial_At_Sea_of_Soviet_Submariners_from_Hughes_Glomar_Explorer.webm",
+   "file_name": "Burial_At_Sea_of_Soviet_Submariners_from_Hughes_Glomar_Explorer.webm",
+   "bytes": 69360846,
+   "duration": 843.057,
+   "width": 640,
+   "height": 480,
+   "credit": "Central Intelligence Agency",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The bodies of six Soviet submariners were in the recovered section of K-129; they were given a formal military burial at sea on 4 September 1974 (CIA video description, posted on the CIA YouTube channel on 25 August 2014).",
+     "url": "https://www.youtube.com/watch?v=aJAJUJ41PBI"
+    },
+    {
+     "claim": "In 1992 DCI Robert Gates presented a film of the burial ceremony to Russian President Boris Yeltsin.",
+     "url": "https://www.cia.gov/legacy/museum/exhibit/project-azorian/"
+    },
+    {
+     "claim": "In the 1990s the CIA declassified the videotape it had given to Yeltsin; for decades it was the only official AZORIAN material made public.",
+     "url": "https://nsarchive2.gwu.edu/nukevault/ebb305/index.htm"
+    },
+    {
+     "claim": "The Wikimedia Commons file is a copy of the CIA's YouTube upload (same title and 843-second length), tagged public domain as a CIA work; the film opens with the title card 'Burial at Sea, September 4, 1974'.",
+     "url": "https://commons.wikimedia.org/wiki/File:Burial_At_Sea_of_Soviet_Submariners_from_Hughes_Glomar_Explorer.webm"
+    }
+   ]
+  },
+  {
+   "id": "deepsea-thresher-inquiry",
+   "title": "Thresher Court of Inquiry",
+   "type": "document",
+   "date": "1963",
+   "released": "2020-09-23",
+   "agency": "US Navy",
+   "summary": "Volume I of the Navy's court of inquiry record on the loss of the nuclear submarine USS Thresher, which sank with all on board during a deep test dive on 10 April 1963. Released in 2020 under a court order, it includes the court's findings and Thresher's last message to the escort ship Skylark: 'Experiencing minor difficulties. Have positive up angle. Am attempting to blow.'",
+   "source": "https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2358204/department-of-navy-releases-records-related-to-loss-of-uss-thresher/",
+   "file": "https://archive.org/download/thresher-report/THRESHER-Report.pdf",
+   "file_name": "THRESHER-Report.pdf",
+   "bytes": 28043872,
+   "pages": 300,
+   "credit": "U.S. Navy",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The file is Volume I of 12 volumes of the record of proceedings of the court of inquiry ordered on 10 April 1963 into the loss of USS Thresher (SSN-593); the archive.org copy was posted on 24 September 2020.",
+     "url": "https://archive.org/details/thresher-report"
+    },
+    {
+     "claim": "On 23 September 2020 the Navy released the first 300 pages of the inquiry after a federal judge ordered it in a FOIA lawsuit by retired Capt. James Bryant, with further batches to follow monthly.",
+     "url": "https://www.yahoo.com/news/navy-declassifies-300-pages-probe-193943635.html"
+    },
+    {
+     "claim": "The findings record Thresher's 0913 message to Skylark ('Experiencing minor difficulties. Have positive up angle. Am attempting to blow. Will keep you informed.'), a garbled '...test depth' at about 0916, and a noise like an implosion at 0918.1, in water about 8,500 feet deep.",
+     "url": "https://archive.org/download/thresher-report/THRESHER-Report.pdf"
+    },
+    {
+     "claim": "The archive.org file is byte-identical (same size and MD5) to the Navy's own copy, 'THRESHER pg 1-300.pdf', in the Secretary of the Navy FOIA reading room.",
+     "url": "https://www.secnav.navy.mil/foia/readingroom/HotTopics/THRESHER%20RELEASE/THRESHER%20pg%201-300.pdf"
+    }
+   ]
+  },
+  {
+   "id": "deepsea-k129-wreck-model",
+   "title": "CIA Model of the Sunken K-129",
+   "type": "image",
+   "date": "2022-09-12",
+   "released": "2022-10-26",
+   "agency": "CIA",
+   "summary": "A CIA photograph of the model of the sunken, deteriorated Soviet submarine K-129 that the agency made during Project AZORIAN, shown for the first time in the modernized CIA Museum in 2022.",
+   "source": "https://www.flickr.com/photos/59094030@N08/52456418661/",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Model_of_the_sunken_and_deteriorated_K-129_submarine_was_created_by_the_CIA_during_the_AZORIAN_mission_that_has_never_been_displayed_before_at_the_CIA_Museum_in_2022.jpg",
+   "file_name": "Model_of_the_sunken_and_deteriorated_K-129_submarine_was_created_by_the_CIA_during_the_AZORIAN_mission_that_has_never_been_displayed_before_at_the_CIA_Museum_in_2022.jpg",
+   "bytes": 5740268,
+   "width": 3598,
+   "height": 2400,
+   "credit": "Central Intelligence Agency",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The CIA's Flickr photo 'K-129 Model', uploaded on 26 October 2022, says the model of the sunken and deteriorated K-129 was created by the CIA during the AZORIAN mission and had never been displayed before.",
+     "url": "https://www.flickr.com/photos/59094030@N08/52456418661/"
+    },
+    {
+     "claim": "On 24 September 2022, for its 75th anniversary, the CIA unveiled a modernized museum that includes never-before-seen artifacts from Project AZORIAN.",
+     "url": "https://www.cia.gov/stories/story/modernized-cia-museum"
+    },
+    {
+     "claim": "The photo was taken on 12 September 2022 and is tagged public domain as a CIA work.",
+     "url": "https://commons.wikimedia.org/wiki/File:Model_of_the_sunken_and_deteriorated_K-129_submarine_was_created_by_the_CIA_during_the_AZORIAN_mission_that_has_never_been_displayed_before_at_the_CIA_Museum_in_2022.jpg"
+    }
+   ]
+  },
+  {
+   "id": "deepsea-scorpion-wreck",
+   "title": "Wreck of USS Scorpion",
+   "type": "image",
+   "date": "1986-08",
+   "released": "1995",
+   "agency": "US Navy",
+   "summary": "The bow section of the nuclear submarine USS Scorpion on the Atlantic floor, 10,000 feet down about 400 miles southwest of the Azores, photographed by the Woods Hole Oceanographic Institution in August 1986. Scorpion was lost with all hands in May 1968; the photo was released with its caption in 1995.",
+   "source": "https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/nh-series/NH-97000/NH-97220-KN.html",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Bow_Scorpion.jpg",
+   "file_name": "Bow_Scorpion.jpg",
+   "bytes": 110633,
+   "width": 740,
+   "height": 508,
+   "credit": "U.S. Navy (photographed by Woods Hole Oceanographic Institution)",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "NH 97220-KN: 'Atlantic Ocean (August 1986)... Depth 10,000 feet, 400 miles southwest of the Azores; view of the bow section' of USS Scorpion (SSN-589), quoted from the caption released with the photo in 1995; taken by Woods Hole Oceanographic Institution; Official U.S. Navy Photograph.",
+     "url": "https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/nh-series/NH-97000/NH-97220-KN.html"
+    },
+    {
+     "claim": "Scorpion was lost with all hands in May 1968 returning to Norfolk from the Mediterranean; USNS Mizar found her hull at the end of October 1968 in more than 10,000 feet of water, and the submersible Alvin surveyed the wreck site in 1986.",
+     "url": "https://www.history.navy.mil/browse-by-topic/ships/submarines/scorpion-ssn-589.html"
+    }
+   ]
+  },
+  {
+   "id": "deepsea-thresher-rudder",
+   "title": "Thresher's Rudder on the Seafloor",
+   "type": "image",
+   "date": "1964",
+   "released": "1964-10-01",
+   "agency": "US Navy",
+   "summary": "Overhead view of the upper rudder of the sunken submarine USS Thresher, showing its draft markings, photographed more than 8,000 feet down by a camera towed from USNS Mizar during the Navy's summer 1964 survey of the wreck. The Defense Department announced the survey and made its photographs available on 1 October 1964.",
+   "source": "https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/nh-series/NH-97000/NH-97557.html",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/e/ef/330-PSA-309-64_%28USN_1105520%29_%2822754398826%29.jpg",
+   "file_name": "330-PSA-309-64_(USN_1105520)_(22754398826).jpg",
+   "bytes": 511938,
+   "width": 2612,
+   "height": 2016,
+   "credit": "U.S. Navy (Naval Research Laboratory, USNS Mizar)",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "NH 97557: overhead view of Thresher's upper rudder showing draft markings and a navigation light, photographed from a deep-sea vehicle deployed from USNS Mizar; the original print bears the date October 1964.",
+     "url": "https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/nh-series/NH-97000/NH-97557.html"
+    },
+    {
+     "claim": "Print 330-PSA-309-64 (USN 1105520), posted by the National Museum of the U.S. Navy: photographs were taken at more than 8,000 feet with a camera-magnetometer device towed by USNS Mizar and operated by Naval Research Laboratory personnel.",
+     "url": "https://commons.wikimedia.org/wiki/File:330-PSA-309-64_(USN_1105520)_(22754398826).jpg"
+    },
+    {
+     "claim": "Defense Department news release 710-64 of 1 October 1964 announced the end of a June-August program in the Thresher area by Trieste II, USNS Mizar and USS Hoist that photographed the tail section with stern draft numbers and the sail.",
+     "url": "https://commons.wikimedia.org/wiki/File:330-PSA-309-64a_(22791587391).jpg"
+    }
+   ]
+  },
+  {
+   "id": "deepsea-matador-meeting",
+   "title": "The Matador Meeting",
+   "type": "document",
+   "date": "1975-03-19",
+   "released": "2012-05-14",
+   "agency": "White House",
+   "summary": "White House record of a 19 March 1975 meeting, held the day The New York Times ran Seymour Hersh's story on the Glomar Explorer, in which President Ford, Defense Secretary Schlesinger and CIA Director Colby discuss whether to confirm the submarine operation. Schlesinger calls it 'a marvel' and urges admitting the bare facts, but Colby's advice to stay silent prevailed.",
+   "source": "https://catalog.archives.gov/id/1552992",
+   "file": "https://www.fordlibrarymuseum.gov/sites/default/files/pdf_documents/library/document/0314/1552992.pdf",
+   "file_name": "1552992.pdf",
+   "bytes": 122343,
+   "pages": 3,
+   "credit": "White House, National Security Council (Gerald R. Ford Presidential Library)",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "Memorandum of conversation, Wednesday 19 March 1975, 11:20 a.m., Cabinet Room; participants Ford, Schlesinger, Buchen, Marsh, Rumsfeld, Scowcroft and Colby; subject 'Matador Meeting'; stamped declassified by NARA on 5/14/12.",
+     "url": "https://www.fordlibrarymuseum.gov/sites/default/files/pdf_documents/library/document/0314/1552992.pdf"
+    },
+    {
+     "claim": "Schlesinger: 'This episode has been a major American accomplishment. The operation is a marvel -- technically, and with maintaining secrecy', and 'If we don't confirm the mission details -- acknowledge the bare facts... \"no comment\" will be taken as a confirmation.'",
+     "url": "https://www.fordlibrarymuseum.gov/sites/default/files/pdf_documents/library/document/0314/1552992.pdf"
+    },
+    {
+     "claim": "Hersh's New York Times exposé ran on 19 March 1975; at this meeting Schlesinger recommended acknowledging the 'bare facts', but Colby's advice prevailed. The National Security Archive first published a redacted copy of the memo in 2010.",
+     "url": "https://nsarchive2.gwu.edu/nukevault/ebb305/index.htm"
+    },
+    {
+     "claim": "The Ford Administration neither confirmed nor denied the stories, and the 'neither confirm nor deny' answer came to be known as the Glomar response.",
+     "url": "https://www.cia.gov/stories/story/the-exposing-of-project-azorian/"
+    }
+   ]
+  }
+ ],
+ "rejected": [
+  {
+   "title": "Full USS Thresher court of inquiry record (all releases, 2020-2022)",
+   "reason": "Thousands of pages over many monthly releases, far over the 300-page limit; kept Volume I (300 pages), which holds the findings and Thresher's last messages. The SECNAV FOIA reading room is a SharePoint site and the Navy press release returns 403 to scripts, so the file comes from the archive.org copy of the first release."
+  },
+  {
+   "title": "Thresher wreck photos NH 97560 (sail mosaic) and NH 97562/97563 (Trieste sonar dome, 1963)",
+   "reason": "Only 740px copies exist on Commons; the NHHC originals (history.navy.mil, up to 6000px TIFF) fail curl's certificate check because the server omits its intermediate certificate. Used the 2612px Navy Museum print of the 1964 rudder view instead."
+  },
+  {
+   "title": "NARA Trieste break-at-frame-78 photo of Thresher (Commons DPLA copy, 1965)",
+   "reason": "High resolution but a dim, hard-to-read print with redaction blocks; the 1964 rudder view with draft markings reads at a glance."
+  },
+  {
+   "title": "Search for USS Thresher: Trieste Test Dive (NARA 428-NPC-32798, 1963) and other 428-NPC Thresher search films",
+   "reason": "Downloads work (183 MB, 11 min), but the footage shows only ships and the bathyscaph on the surface, with no wreck; weaker than the wreck photographs."
+  },
+  {
+   "title": "Palomares H-bomb recovered aboard USS Petrel (1966) and NARA Palomares salvage films",
+   "reason": "Only 425-662px copies of the bomb photos were found (Commons, from Navy web pages and a magazine scan); the NARA 428-NPC Palomares films are unedited salvage footage that does not show the bomb; the story also overlaps the nuclear topic."
+  },
+  {
+   "title": "USS Scorpion court of inquiry findings (declassified 1993)",
+   "reason": "No official copy found online; the old Navy JAG investigations library is only on the Wayback Machine, which returned 429 errors from this machine."
+  },
+  {
+   "title": "USS Scorpion wreck photos from October 1968 (USN 1136656, USN 1136658)",
+   "reason": "740px black-and-white copies only; the 1986 color bow view (NH 97220-KN) is clearer and adds the 1995 release."
+  },
+  {
+   "title": "7 February 1975 Ford-Kissinger-Schlesinger-Colby memo (National Security Archive doc02)",
+   "reason": "Opens with SALT and other press leaks and touches the Glomar story only in passing; the 19 March 1975 memo is the one centred on the Glomar disclosure."
+  },
+  {
+   "title": "National Security Archive copy of the 19 March 1975 memo (doc03, 2009 redacted version)",
+   "reason": "Superseded by the Ford Library copy, fully declassified in 2012, which restores the subject line and Schlesinger's full remarks."
+  },
+  {
+   "title": "NOAA 'Bloop' recording (1997)",
+   "reason": "Officially released audio, but not a secret or declassified record, and NOAA attributes it to an icequake; off-topic for a declassified community."
+  },
+  {
+   "title": "The Debrief: Behind the Artifact - Glomar (CIA video, 2021)",
+   "reason": "A modern CIA explainer clip, not a historical record."
+  },
+  {
+   "title": "Hughes Glomar Explorer: Mining Minerals in the Deep Ocean (archive.org 21054sciencescreenreportvwr)",
+   "reason": "Appears to be a commercial Science Screen Report newsreel about the mining cover story, not a government work."
+  },
+  {
+   "title": "Glomar Explorer photos at Long Beach (Commons, Ted Quackenbush) and Glomar Explorer infographic",
+   "reason": "Private photos and diagrams under CC BY-SA, not government works."
+  },
+  {
+   "title": "CIA AZORIAN images: K-129 at sea (511x345), ship launch (356x477), AZORIAN painting and crew patch (800px)",
+   "reason": "Low resolution or minor; the ship photo and the 3598px K-129 wreck model cover the story better."
+  },
+  {
+   "title": "Operation Ivy Bells (Navy/NSA cable tap in the Sea of Okhotsk)",
+   "reason": "No declassified primary record found; only press clippings in the CIA CREST collection."
+  },
+  {
+   "title": "Hughes Glomar Explorer color photo (Commons USNS_Glomar_Explorer_(T-AG-193).jpg)",
+   "reason": "Dropped in fact-check: undated, no government release on record (the 2010 date was a National Security Archive web posting, not a government release), and the 1280px Commons version was uploaded in 2014 without a source; only a 300px copy is traceable to the National Security Archive page."
+  }
+ ]
+}

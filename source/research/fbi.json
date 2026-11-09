@@ -1,0 +1,324 @@
+{
+ "topic": "fbi",
+ "items": [
+  {
+   "id": "fbi-einstein",
+   "title": "Albert Einstein's FBI File",
+   "type": "document",
+   "date": "1932",
+   "released": "2000-01-28",
+   "agency": "FBI",
+   "summary": "Part 1 of the FBI's 1,427-page file on Albert Einstein, which the Bureau opened in December 1932. It begins with the Woman Patriot Corporation's 1932 demand that he be barred from the United States as a communist and runs to 1950.",
+   "source": "https://vault.fbi.gov/Albert%20Einstein",
+   "file": "https://web.archive.org/web/20250204080144id_/https://vault.fbi.gov/Albert%20Einstein/Albert%20Einstein%20Part%2001/at_download/file",
+   "file_name": "einstein1a.pdf",
+   "bytes": 6709763,
+   "pages": 92,
+   "credit": "Federal Bureau of Investigation",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The FBI's 2000 reading-room page lists the Einstein file at 1,427 pages and says he was a member, sponsor or affiliate of 34 communist fronts between 1937 and 1954.",
+     "url": "https://web.archive.org/web/20000613072501/http://foia.fbi.gov:80/einstein.htm"
+    },
+    {
+     "claim": "The FBI's Famous Persons listing gives January 28, 2000 as the date the Einstein file was posted to its electronic reading room.",
+     "url": "https://web.archive.org/web/20000619131540/http://foia.fbi.gov:80/famous.htm"
+    },
+    {
+     "claim": "The FBI started its dossier on Einstein in December 1932, and it reached 1,427 pages by his death on April 18, 1955.",
+     "url": "https://www.historynewsnetwork.org/article/why-the-fbi-kept-a-1400-page-file-on-einstein"
+    },
+    {
+     "claim": "Part 1 opens with the Woman Patriot Corporation memorandum sent to the State Department on November 22, 1932, arguing Einstein was inadmissible to the United States, and ends with a February 1950 FBI summary memo on him.",
+     "url": "https://web.archive.org/web/20250204080144id_/https://vault.fbi.gov/Albert%20Einstein/Albert%20Einstein%20Part%2001/at_download/file"
+    }
+   ]
+  },
+  {
+   "id": "fbi-lennon",
+   "title": "John Lennon's FBI File",
+   "type": "document",
+   "date": "1972",
+   "released": "1997",
+   "agency": "FBI",
+   "summary": "Part 1 of the FBI's file on John Lennon, mostly from 1972, when the Bureau followed his links to anti-war activists planning protests at the Republican National Convention while immigration authorities tried to deport him. Historian Jon Wiener first asked for the file in 1981; most of it was released in 1997 and the last 10 documents in 2006.",
+   "source": "https://vault.fbi.gov/john-winston-lennon",
+   "file": "https://web.archive.org/web/20250206082005id_/https://vault.fbi.gov/john-winston-lennon/John%20Winston%20Lennon%20Part%2001/at_download/file",
+   "file_name": "LENWEB1.pdf",
+   "bytes": 7720234,
+   "pages": 204,
+   "credit": "Federal Bureau of Investigation",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The FBI described its Lennon investigation as starting when it learned he had contributed $75,000 to a group planning to disrupt the 1972 Republican National Convention.",
+     "url": "https://web.archive.org/web/19991012163229/http://foia.fbi.gov:80/lennon.htm"
+    },
+    {
+     "claim": "Jon Wiener first requested the files in 1981; most of the roughly 300 pages were released to him in 1997 in a settlement, and the last 10 documents came out in December 2006.",
+     "url": "https://www.aclu.org/national-security/after-25-years-fbi-finally-releases-last-10-documents-john-lennon-fbi-file"
+    },
+    {
+     "claim": "Part 1 records that Lennon and Yoko Ono appeared at the Immigration and Naturalization Service in New York on March 16, 1972 for deportation proceedings.",
+     "url": "https://web.archive.org/web/20250206082005id_/https://vault.fbi.gov/john-winston-lennon/John%20Winston%20Lennon%20Part%2001/at_download/file"
+    },
+    {
+     "claim": "The downloaded file is the FBI Vault's 'John Winston Lennon Part 01' PDF as captured by the Wayback Machine; its SHA-1 (base32 R2X76456IAFH4XNFTAECNYPNTVCYUH42) matches the capture digest.",
+     "url": "https://web.archive.org/cdx/search/cdx?url=vault.fbi.gov/john-winston-lennon/John%20Winston%20Lennon%20Part%2001/at_download/file&fl=timestamp,digest,mimetype"
+    }
+   ]
+  },
+  {
+   "id": "fbi-monroe",
+   "title": "Marilyn Monroe's FBI File",
+   "type": "document",
+   "date": "1955",
+   "released": "2013-01-04",
+   "agency": "FBI",
+   "summary": "The FBI's file on Marilyn Monroe, reprocessed in 2012 with fewer redactions. It tracks her travels and leftist contacts from 1955, including a reported Soviet visa application and her 1962 Mexico trip, where she met the American leftist Frederick Vanderbilt Field.",
+   "source": "https://vault.fbi.gov/Marilyn%20Monroe",
+   "file": "https://web.archive.org/web/20251223022327id_/https://vault.fbi.gov/Marilyn%20Monroe/Marilyn%20Monroe%20Part%2003%20(Final)/at_download/file",
+   "file_name": "Monroe Part 01.pdf",
+   "bytes": 7800672,
+   "pages": 85,
+   "credit": "Federal Bureau of Investigation",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The FBI first released its Monroe file references under FOIA in the 1980s, reprocessed them in 2012 and posted the fuller version on the Vault on January 4, 2013.",
+     "url": "https://web.archive.org/web/20170107012356/https://vault.fbi.gov/Marilyn%20Monroe"
+    },
+    {
+     "claim": "The file begins in 1955, reports that Monroe sought a visa to visit Russia that year, and covers her 1962 Mexico trip and contact with Frederick Vanderbilt Field; it contains no new information about her death.",
+     "url": "https://www.cbsnews.com/news/fbis-marilyn-monroe-files-re-issued-new-details-about-suspected-communist-ties/"
+    },
+    {
+     "claim": "The downloaded file is the Vault's reprocessed-2012 Monroe PDF (now listed as 'Marilyn Monroe Part 03 (Final)') as captured by the Wayback Machine; its SHA-1 (base32 JEFOBIZ627BSQQCKLDYAJD4DRYXOIYM6) matches the capture digest.",
+     "url": "https://web.archive.org/cdx/search/cdx?url=vault.fbi.gov/Marilyn%20Monroe/marilyn-monroe-re-processed-2012/at_download/file&fl=timestamp,digest,mimetype"
+    }
+   ]
+  },
+  {
+   "id": "fbi-elvis",
+   "title": "Elvis Presley's FBI File",
+   "type": "document",
+   "date": "1956",
+   "released": "1997-07-24",
+   "agency": "FBI",
+   "summary": "Part 1 of the FBI's records on Elvis Presley, who was never investigated but appears in many files. It includes a 1956 letter to Hoover calling him 'a definite danger to the security of the United States' and the memo on his December 31, 1970 tour of FBI headquarters, where he offered to help the Bureau and blamed the Beatles for problems with young people.",
+   "source": "https://vault.fbi.gov/Elvis%20Presley%20",
+   "file": "https://web.archive.org/web/20250302003846id_/https://vault.fbi.gov/Elvis%20Presley%20/Elvis%20Presley%20Part%2001/at_download/file",
+   "file_name": "elvis1.pdf",
+   "bytes": 3495608,
+   "pages": 51,
+   "credit": "Federal Bureau of Investigation",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The FBI's reading-room listings give July 24, 1997 as the date its Presley records were posted.",
+     "url": "https://web.archive.org/web/19991013110651/http://foia.fbi.gov:80/famous.htm"
+    },
+    {
+     "claim": "The FBI says Presley was not investigated, though his name appears in many files, and that the release spans 1956 to 1980 and includes correspondence about his interest in meeting J. Edgar Hoover.",
+     "url": "https://web.archive.org/web/20160414115227/https://vault.fbi.gov/Elvis%20Presley%20"
+    },
+    {
+     "claim": "Part 1 contains a January 4, 1971 memo on Presley's December 31, 1970 FBI headquarters tour, in which he offered his services to the Bureau and said the Beatles laid the groundwork for problems with young people, and a May 16, 1956 La Crosse Register letter calling him 'a definite danger to the security of the United States'.",
+     "url": "https://web.archive.org/web/20250302003846id_/https://vault.fbi.gov/Elvis%20Presley%20/Elvis%20Presley%20Part%2001/at_download/file"
+    },
+    {
+     "claim": "The downloaded file is the FBI Vault's 'Elvis Presley Part 01' PDF as captured by the Wayback Machine; its SHA-1 (base32 D6PUYMK4WBQ2M634QKTGE6RL66QSHMGI) matches the capture digest.",
+     "url": "https://web.archive.org/cdx/search/cdx?url=vault.fbi.gov/Elvis%20Presley%20/Elvis%20Presley%20Part%2001/at_download/file&fl=timestamp,digest,mimetype"
+    }
+   ]
+  },
+  {
+   "id": "fbi-elvis-nixon-photo",
+   "title": "Elvis Meets Nixon",
+   "type": "image",
+   "date": "1970-12-21",
+   "released": "1997-07-29",
+   "agency": "White House",
+   "summary": "White House photograph of Elvis Presley shaking hands with President Nixon in the Oval Office on December 21, 1970, the meeting at which Presley asked for and got a federal narcotics badge. It is the most requested photograph in the National Archives.",
+   "source": "https://catalog.archives.gov/id/1634221",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Richard_M._Nixon_and_Elvis_Presley_at_the_White_House_%283679494978%29.jpg",
+   "file_name": "Richard_M._Nixon_and_Elvis_Presley_at_the_White_House_(3679494978).jpg",
+   "bytes": 957606,
+   "width": 3150,
+   "height": 2154,
+   "credit": "Ollie Atkins, White House Photo Office (National Archives)",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "National Archives Identifier 1634221 (37-whpo-5364-18), dated 12/21/1970, is the most requested photograph in the holdings of the National Archives.",
+     "url": "https://docsteach.org/document/nixon-elvis-photo/"
+    },
+    {
+     "claim": "On July 29, 1997 the National Archives launched the online exhibit 'When Nixon Met Elvis' with the 28 photographs taken at the meeting.",
+     "url": "https://www.archives.gov/press/press-releases/1997/nr97-80"
+    },
+    {
+     "claim": "The FBI memo on Presley's December 31, 1970 tour says Nixon had given him an agent's badge of the Bureau of Narcotics and Dangerous Drugs.",
+     "url": "https://web.archive.org/web/20250302003846id_/https://vault.fbi.gov/Elvis%20Presley%20/Elvis%20Presley%20Part%2001/at_download/file"
+    },
+    {
+     "claim": "The Commons file is the National Archives' own upload to Flickr (photo 3679494978) of description 1634221.",
+     "url": "https://commons.wikimedia.org/wiki/File:Richard_M._Nixon_and_Elvis_Presley_at_the_White_House_(3679494978).jpg"
+    }
+   ]
+  },
+  {
+   "id": "fbi-steve-jobs",
+   "title": "Steve Jobs's FBI File",
+   "type": "document",
+   "date": "1991",
+   "released": "2012-02-09",
+   "agency": "FBI",
+   "summary": "The FBI's 1991 background check on Steve Jobs, run when he was considered for the President's Export Council, plus a 1985 bomb threat case against Apple. Interviewees praised his drive, while some said he would 'twist the truth and distort reality' to reach his goals.",
+   "source": "https://vault.fbi.gov/steve-jobs",
+   "file": "https://archive.org/download/SteveJobsFBI/Jobs.pdf",
+   "file_name": "Jobs.pdf",
+   "bytes": 4105145,
+   "pages": 191,
+   "credit": "Federal Bureau of Investigation",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The release consists of the FBI's 1991 background investigation of Jobs for the President's Export Council and a 1985 investigation of a bomb threat against Apple.",
+     "url": "https://web.archive.org/web/20170104215816/https://vault.fbi.gov/steve-jobs"
+    },
+    {
+     "claim": "The FBI made the 191-page file public on February 9, 2012.",
+     "url": "https://www.nbcnews.com/tech/tech-news/steve-jobs-fbi-file-released-bomb-threats-deception-more-flna23077"
+    },
+    {
+     "claim": "The file records interviewees saying Jobs 'will twist the truth and distort reality in order to achieve his goals.'",
+     "url": "https://www.csmonitor.com/Technology/Horizons/2012/0209/Steve-Jobs-FBI-file-says-Apple-CEO-could-distort-reality"
+    },
+    {
+     "claim": "archive.org's Jobs.pdf is byte-identical to the Vault file (SHA-1 base32 RL2H7OVFGPDVEZN7264BUOWDT5SWTXND, the Wayback digest of vault.fbi.gov/steve-jobs; MD5 d4bd3c78408ac280dfe31fd996b32b42 on both).",
+     "url": "https://web.archive.org/cdx/search/cdx?url=vault.fbi.gov/steve-jobs/steve-jobs-part-01-of-01/at_download/file&fl=timestamp,digest,mimetype"
+    }
+   ]
+  },
+  {
+   "id": "fbi-hemingway",
+   "title": "Ernest Hemingway's FBI File",
+   "type": "document",
+   "date": "1942",
+   "released": "1983",
+   "agency": "FBI",
+   "summary": "The FBI's file on Ernest Hemingway, which opens in 1942 when he ran a network of informants in Havana with the US Embassy's backing. It includes a January 1961 report that he was at the Mayo Clinic under an assumed name, that doctors had considered electroshock treatment, and that he was worried about an FBI investigation.",
+   "source": "https://vault.fbi.gov/ernest-miller-hemingway",
+   "file": "https://web.archive.org/web/20251222053145id_/https://vault.fbi.gov/ernest-miller-hemingway/Ernest%20Hemingway%20Part%2001%20(Final)/at_download/file",
+   "file_name": "Hemmingway Part 01.pdf",
+   "bytes": 9154446,
+   "pages": 122,
+   "credit": "Federal Bureau of Investigation",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The FBI's own summary notes Hemingway lived in Cuba from about 1940 and was a patient at the Mayo Clinic in Rochester, Minnesota in January 1961.",
+     "url": "https://web.archive.org/web/20090105090003/http://foia.fbi.gov/foiaindex/ernesthemingway.htm"
+    },
+    {
+     "claim": "By March 1983 Jeffrey Meyers had the 124-page FBI file on Hemingway, which runs from October 8, 1942 to January 25, 1974.",
+     "url": "https://www.nybooks.com/articles/1983/03/31/wanted-by-the-fbi/"
+    },
+    {
+     "claim": "The file includes an October 8, 1942 Havana letter on Hemingway's intelligence work for the Embassy and a January 13, 1961 Minneapolis airtel saying he was at the Mayo Clinic, that electroshock had been considered and that he was worried about an FBI investigation.",
+     "url": "https://web.archive.org/web/20251222053145id_/https://vault.fbi.gov/ernest-miller-hemingway/Ernest%20Hemingway%20Part%2001%20(Final)/at_download/file"
+    },
+    {
+     "claim": "The downloaded file is the Vault's current 'Ernest Hemingway Part 01 (Final)' PDF as captured by the Wayback Machine; its SHA-1 (base32 BMUXMIQJLNN46PXNX2MGVQNN3YEU3EKC) matches the capture digest.",
+     "url": "https://web.archive.org/cdx/search/cdx?url=vault.fbi.gov/ernest-miller-hemingway/Ernest%20Hemingway%20Part%2001%20(Final)/at_download/file&fl=timestamp,digest,mimetype"
+    }
+   ]
+  },
+  {
+   "id": "fbi-hitler",
+   "title": "Adolf Hitler's FBI File",
+   "type": "document",
+   "date": "1945",
+   "released": "1998-06-03",
+   "agency": "FBI",
+   "summary": "Part 1 of the FBI's file on Adolf Hitler, mostly 1945 to 1948 tips that he had survived the war, such as a Los Angeles informant's story that Hitler landed in Argentina by submarine. The FBI followed up some of the reports; none was confirmed.",
+   "source": "https://vault.fbi.gov/adolf-hitler",
+   "file": "https://web.archive.org/web/20250206053641id_/https://vault.fbi.gov/adolf-hitler/Adolf%20Hitler%20Part%2001/at_download/file",
+   "file_name": "hitweb1.pdf",
+   "bytes": 8601655,
+   "pages": 203,
+   "credit": "Federal Bureau of Investigation",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The FBI's reading-room alphabetical listing gives June 3, 1998 as the date its Hitler file was posted.",
+     "url": "https://web.archive.org/web/19991008050729/http://foia.fbi.gov:80/alpha.htm"
+    },
+    {
+     "claim": "The FBI's 1999 reading-room page says unconfirmed information about Hitler's possible whereabouts was received for years after the war.",
+     "url": "https://web.archive.org/web/19991127104205/http://foia.fbi.gov:80/hitler.htm"
+    },
+    {
+     "claim": "The FBI says the file's documents mostly fall in 1933 or 1945-1947 and that the Bureau investigated some rumors of Hitler's survival.",
+     "url": "https://web.archive.org/web/20170107154906/https://vault.fbi.gov/adolf-hitler"
+    },
+    {
+     "claim": "Part 1 opens with a September 1945 Los Angeles field office report on an informant who said he met Hitler's party when they landed from submarines in Argentina, and includes 1948 memos on supposed sightings.",
+     "url": "https://web.archive.org/web/20250206053641id_/https://vault.fbi.gov/adolf-hitler/Adolf%20Hitler%20Part%2001/at_download/file"
+    }
+   ]
+  }
+ ],
+ "rejected": [
+  {
+   "title": "Martin Luther King Jr. 'suicide letter'",
+   "reason": "Excluded by the task instructions."
+  },
+  {
+   "title": "Walt Disney FBI file",
+   "reason": "Downloadable from archive.org (WaltDisneyFBI), but cut to keep the topic at 8 in favour of more widely discussed files."
+  },
+  {
+   "title": "Jimi Hendrix FBI file",
+   "reason": "Downloadable from archive.org (JamesMarshallJimiHendrix), but cut to keep the topic at 8."
+  },
+  {
+   "title": "Amelia Earhart FBI file",
+   "reason": "The archive.org item mixes a short FBI file with Navy and State Department records about her disappearance; cut to keep the topic at 8."
+  },
+  {
+   "title": "Al Capone fingerprint card (FBI image)",
+   "reason": "FBI-made and public domain on Commons, but no verifiable release date and it would push the topic past 8 items; the Elvis-Nixon photo is the stronger image."
+  },
+  {
+   "title": "John Dillinger FBI wanted poster",
+   "reason": "Only a 592x990 GIF from the National Archives or a Reddit-sourced antique scan on Commons; no good official high-resolution copy."
+  },
+  {
+   "title": "archive.org nsia-fbi-files mirrors (einstein1a.pdf, monroe1.pdf, ELVIS1.PDF, Hemingw1.pdf)",
+   "reason": "Older FBI reading-room scans that are not byte-identical to the current Vault PDFs; used Wayback captures of the Vault files, whose SHA-1 matches the capture digest. Jobs.pdf is the exception (identical) and is used."
+  },
+  {
+   "title": "Marilyn Monroe original release, Part 1 (monroe1.pdf, 34 pages)",
+   "reason": "Superseded by the FBI's 2012 reprocessed version with dozens of redactions removed."
+  },
+  {
+   "title": "Ernest Hemingway old Vault release (Part 1 of 3)",
+   "reason": "The Vault replaced it with a single 'Ernest Hemingway Part 01 (Final)' (122 pages); the old page now 404s, so the current file is used."
+  },
+  {
+   "title": "Elvis-Nixon NARA TIFF (NAID 1667921, 19.7 MB)",
+   "reason": "A different handshake frame in TIFF format; used the JPEG of NAID 1634221, the famous most-requested frame. The NARA S3 original returns 403."
+  },
+  {
+   "title": "Princess Diana, Michael Jackson, Kurt Cobain FBI files",
+   "reason": "Available on archive.org mirrors of the Vault, but cut to keep the topic at 8."
+  },
+  {
+   "title": "Bigfoot FBI file",
+   "reason": "Popular, but not a person, so off-topic here."
+  }
+ ]
+}

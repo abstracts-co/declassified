@@ -1,0 +1,517 @@
+{
+ "id": "nuclear-project-a119",
+ "title": "Project A119: Lunar Research Flights",
+ "source": {
+  "url": "https://www.govinfo.gov/app/details/GOVPUB-D301-PURL-gpo32511",
+  "publisher": "US Air Force",
+  "date": "1959-06-19",
+  "pages": 190,
+  "released": "2000",
+  "file": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo32511/pdf/GOVPUB-D301-PURL-gpo32511.pdf",
+  "sha256": "d2e4d1241357f10528f7d6bd1debfea40fabfc4bb8852708204195b1dbd3bdcf",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "nuclear",
+ "summary": "Volume I of a 1959 study by Leonard Reiffel of the Armour Research Foundation for the Air Force Special Weapons Center on what a nuclear explosion near the Moon could reveal; Carl Sagan is listed as a contributor. The plan, later known as Project A119, was never carried out and became publicly known when Reiffel described it in 2000.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/nuclear/nuclear-project-a119/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Front matter",
+   "start_page": 1,
+   "end_page": 8,
+   "summary": "Catalog cover, report cover, command and title pages, acknowledgment, abstract and contents of Air Force Special Weapons Center report TR-59-39, Volume I, \"A Study of Lunar Research Flights\" by L. Reiffel of the Armour Research Foundation, dated 19 June 1959.",
+   "nodes": [
+    {
+     "node_id": "0001",
+     "title": "Defense Documentation Center cover and notice",
+     "start_page": 1,
+     "end_page": 2,
+     "summary": "Unclassified Defense Documentation Center catalog sheet for document AD 425380, Cameron Station, Alexandria, Virginia, followed by the standard notice that supplying government drawings or data creates no government obligation and grants no license to patented inventions.",
+     "nodes": []
+    },
+    {
+     "node_id": "0002",
+     "title": "Report cover",
+     "start_page": 3,
+     "end_page": 3,
+     "summary": "Cover of AFSWC-TR-59-39, Vol I, from Headquarters, Air Force Special Weapons Center, Air Research and Development Command, Kirtland Air Force Base, New Mexico, with the center's emblem: \"A Study of Lunar Research Flights\" by L. Reiffel, Armour Research Foundation of Illinois Institute of Technology, 19 June 1959.",
+     "nodes": []
+    },
+    {
+     "node_id": "0003",
+     "title": "Headquarters, Air Force Special Weapons Center",
+     "start_page": 4,
+     "end_page": 4,
+     "summary": "Command page listing Major General Charles M. McCorkle, Commander; Colonel Carey L. O'Bryan, Jr., Deputy Commander; and Colonel Leonard A. Eddy, Director, Research Directorate, at Kirtland Air Force Base, New Mexico.",
+     "nodes": []
+    },
+    {
+     "node_id": "0004",
+     "title": "Title page",
+     "start_page": 5,
+     "end_page": 5,
+     "summary": "Title \"A Study of Lunar Research Flights\" by L. Reiffel, with contributions by R. W. Benson, J. J. Brophy, I. Filosofo, N. S. Kapany, D. Langford, W. E. Loewe, D. Mergerian, O. H. Olson, V. J. Raelson, C. E. Sagan and P. N. Slater. Dated 19 June 1959; approved by Lt Col David R. Jones and Col Leonard A. Eddy.",
+     "nodes": []
+    },
+    {
+     "node_id": "0005",
+     "title": "Acknowledgment",
+     "start_page": 6,
+     "end_page": 6,
+     "summary": "Thanks G. P. Kuiper, director of Yerkes Observatory, for discussions on the moon's structure, origin and surface; Kaj Strand of the Naval Research Observatory for advice on spectroscopy; W. E. Loewe of ARF for administrative help; and Lt. A. Guenther of AFSWC for encouragement and assistance.",
+     "nodes": []
+    },
+    {
+     "node_id": "0006",
+     "title": "Abstract and publication review",
+     "start_page": 7,
+     "end_page": 7,
+     "summary": "The report considers nuclear detonations near the moon and the scientific information they could yield; military aims include study of the space environment, detection of nuclear tests and weapons capability in space. Topics: lunar structure and origin, optics, seismology, surface and magnetic fields, plasma effects and organic matter. Approved by Col. C. L. O'Bryan, Jr.",
+     "nodes": []
+    },
+    {
+     "node_id": "0007",
+     "title": "Table of contents",
+     "start_page": 8,
+     "end_page": 8,
+     "summary": "Lists Chapter I, Introduction; Chapters III to VIII on optical studies, seismic observations, the high energy radiation environment, lunar surface and magnetic field, plasma and magnetic field effects, and organic matter, with their appendices. Chapters II and IX are in Volume II of the report.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0008",
+   "title": "Chapter I. Introduction",
+   "start_page": 9,
+   "end_page": 12,
+   "summary": "Space progress calls for evaluating experiments near the moon, including a nuclear detonation on or near its surface, with scientific, military and political motives. Obstacles are environmental disturbance and biological and radiological contamination. Up to three identical instrument packages, located by markers, would be placed on the visible face before any detonation. The study surveys many problems without being exhaustive.",
+   "nodes": []
+  },
+  {
+   "node_id": "0009",
+   "title": "Chapter II (see Vol. II of report)",
+   "start_page": 13,
+   "end_page": 13,
+   "summary": "Placeholder page: Chapter II is printed in Volume II of the report.",
+   "nodes": []
+  },
+  {
+   "node_id": "0010",
+   "title": "Chapter III. Optical studies related to the lunar research flights",
+   "start_page": 14,
+   "end_page": 43,
+   "summary": "Optical work in three areas: visibility of markers for tracking and locating vehicles and packages, spectroscopy of the lunar blast with existing telescopes and balloon-borne instruments, and infrared measurement of the lunar surface's thermal conductivity after a detonation.",
+   "nodes": [
+    {
+     "node_id": "0011",
+     "title": "Chapter title and overview",
+     "start_page": 14,
+     "end_page": 16,
+     "summary": "Chapter title page and overview: visibility data for markers seen against the moon's uneven background, high speed spectroscopy of the blast to learn surface composition, a balloon telescope above 130,000-150,000 feet to extend ultraviolet spectra, and infrared detectors using the detonation as a heat source to measure thermal conductivity.",
+     "nodes": []
+    },
+    {
+     "node_id": "0012",
+     "title": "Marker visibility",
+     "start_page": 16,
+     "end_page": 29,
+     "summary": "Optical tracking and location of a lunar vehicle and instrument package by self-luminous or sunlit markers, judged against full moon, dark moon and night sky backgrounds, with telescopes, sphere reflectors, color, flashing, shape and sodium vapor clouds.",
+     "nodes": [
+      {
+       "node_id": "0013",
+       "title": "A. Visual thresholds of disks of light",
+       "start_page": 17,
+       "end_page": 19,
+       "summary": "Blackwell's and Tousey's data on the threshold illumination from a point source detectable by the naked eye against backgrounds of varying brightness, plotted in Fig. 1, and converted to source intensities needed at lunar distance; Fig. 2(a) gives brightness of light moon, dark moon and nearby night sky.",
+       "nodes": []
+      },
+      {
+       "node_id": "0014",
+       "title": "B. Telescopes and improvement of visual thresholds by magnification",
+       "start_page": 19,
+       "end_page": 21,
+       "summary": "Tousey and Hulbert's formula for the gain from a telescope. Table I shows a source needs 13,000,000 megacandles to be seen against the full moon by eye, but about 50 megacandles with a 40-inch and 14.5 with a 200-inch telescope. Fig. 2 shows sources and white spheres visible to the naked eye.",
+       "nodes": []
+      },
+      {
+       "node_id": "0015",
+       "title": "C. Visibility of diffuse and specular spheres",
+       "start_page": 21,
+       "end_page": 26,
+       "summary": "Luminosity of sunlit specular and diffuse spheres after Tousey: the specular sphere is equally bright in all directions; the diffuse one has phases and is brighter when seen full; they match at about 83.7 degrees. Figures give sphere sizes visible by eye and with a 40-inch telescope; lunar albedo varies from 4 to 30 percent.",
+       "nodes": []
+      },
+      {
+       "node_id": "0016",
+       "title": "D. Identification of markers",
+       "start_page": 26,
+       "end_page": 27,
+       "summary": "Ways to identify a marker positively against the moon: a source far above threshold intensity, colored pyrotechnics or fluorescent paints, and flashing at a known frequency, though short pulses raise intensity requirements.",
+       "nodes": []
+      },
+      {
+       "node_id": "0017",
+       "title": "E. Marker configuration",
+       "start_page": 27,
+       "end_page": 28,
+       "summary": "Lamar's studies of how target size, shape and contrast affect detection apply only partly to lunar backgrounds; a line target has an advantage over a point source against the moon's uneven background.",
+       "nodes": []
+      },
+      {
+       "node_id": "0018",
+       "title": "F. Sodium vapor",
+       "start_page": 28,
+       "end_page": 29,
+       "summary": "Sodium vapor clouds, used in U.S. upper-atmosphere tests since 1955 and released by a Soviet probe on 3 January 1959, glow by resonance fluorescence. Seen by eye at lunar distance they need about 10 kg against sky, 100 kg against the dark moon and 100,000 kg against the bright moon; sodium-bearing rocket propellants could serve.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0019",
+     "title": "Spectrographic studies",
+     "start_page": 29,
+     "end_page": 38,
+     "summary": "Exposure times for recording emission spectra of the lunar blast with existing telescope-spectrographs, by stellar magnitude at three resolving powers (Table II), with atmospheric transmission by zenith angle. Calls for faster high speed cameras. A 24-inch balloon telescope at 150,000 feet, above the ozone layer, would be 2.4 times as fast as Mount Wilson's 100-inch in fair seeing.",
+     "nodes": []
+    },
+    {
+     "node_id": "0020",
+     "title": "Infrared measurements for determination of lunar thermal conductivity",
+     "start_page": 38,
+     "end_page": 42,
+     "summary": "Recording the cooling of a one-square-mile area around ground zero would give lunar thermal conductivity at higher temperatures than eclipse studies. Tabulated flux into a one-square-meter mirror from 200 to 3000 degrees C shows a lead sulfide detector gives the best signal-to-noise and can resolve 10-degree differences at 1500 degrees C.",
+     "nodes": []
+    },
+    {
+     "node_id": "0021",
+     "title": "References",
+     "start_page": 43,
+     "end_page": 43,
+     "summary": "Nine references for the chapter, including Blackwell on contrast thresholds of the eye, Knoll, Tousey and Hulbert on visual thresholds, Tousey on satellite optics, Van Allen's Scientific Uses of Earth Satellites, Lamar on target detection, Dunham, Eastman Kodak plates and Kapany.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0022",
+   "title": "Chapter IV. Seismic observations on the moon",
+   "start_page": 44,
+   "end_page": 69,
+   "summary": "Seismology of the moon could settle questions about its structure, origin and history. The chapter reviews terrestrial seismology, the case for lunar seismometers, instrument design, and how far seismic waves from a kiloton or megaton explosion above the lunar surface could be detected.",
+   "nodes": [
+    {
+     "node_id": "0023",
+     "title": "Chapter title and overview",
+     "start_page": 44,
+     "end_page": 45,
+     "summary": "Chapter title page and introduction: finding the structure of the moon's outer layers and core would help choose among theories of its origin. A large explosion would help a first seismic experiment succeed, but placing seismographs first and measuring interference before choosing the explosive is the scientifically obvious course.",
+     "nodes": []
+    },
+    {
+     "node_id": "0024",
+     "title": "The nature of seismic observations",
+     "start_page": 46,
+     "end_page": 51,
+     "summary": "Treats the earth and moon as elastic spheres carrying compressional P waves and transverse S waves, plus surface waves. Explains reflections and refractions at internal boundaries, the naming of ray paths such as PKP and PcP, and travel-time tables built from arrivals at many stations (Figs. 1 and 2).",
+     "nodes": []
+    },
+    {
+     "node_id": "0025",
+     "title": "The structure of the earth's interior",
+     "start_page": 51,
+     "end_page": 55,
+     "summary": "Seismic velocities reveal the crust (30-40 km under continents, 5-6 km under oceans), an olivine-rich mantle to about 2,900 km, and a dense molten iron core with an inner core near 5,121 km. Bullen's tables give layer depths and density, gravity and pressure with depth.",
+     "nodes": []
+    },
+    {
+     "node_id": "0026",
+     "title": "Why a seismological investigation of the moon?",
+     "start_page": 55,
+     "end_page": 60,
+     "summary": "A single seismometer would first measure lunar background noise, expected to be far below earth's because the moon lacks civilization, weather and surf. Few moonquakes are expected without a liquid core or crust. Three seismometers would allow rough travel-time tables; a nuclear or chemical explosion would reveal subsurface layers.",
+     "nodes": []
+    },
+    {
+     "node_id": "0027",
+     "title": "The nature of the requirement for instrumentation",
+     "start_page": 60,
+     "end_page": 68,
+     "summary": "Principles of spring-mass and pendulum seismometers and a proposed compact lunar seismometer with impact blocks doubling as an accelerometer (Fig. 5). Using the Blanca, Logan, Rainier and Tamalpais underground shots, a kiloton burst above the moon would be detectable 300-400 miles away and a megaton anywhere on the moon (Table III).",
+     "nodes": []
+    },
+    {
+     "node_id": "0028",
+     "title": "References",
+     "start_page": 69,
+     "end_page": 69,
+     "summary": "References for the chapter, including Bullen's Introduction to the Theory of Seismology (1953) and a Livermore report on the Rainier underground nuclear detonation of 19 September 1957.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0029",
+   "title": "Chapter V. The high energy radiation environment of the moon",
+   "start_page": 70,
+   "end_page": 97,
+   "summary": "Feasibility of radiation measurements by instrument packages on the moon: using cosmic rays to estimate the lunar magnetic field, measuring natural and induced radioactivity of the crust, cosmic ray background with depth, age dating, and contamination from a nuclear burst.",
+   "nodes": [
+    {
+     "node_id": "0030",
+     "title": "Chapter title and overview",
+     "start_page": 70,
+     "end_page": 72,
+     "summary": "Chapter title page and introduction: with no atmosphere and perhaps a weak magnetic field, the moon is a good site to measure low-energy cosmic radiation; intensity at different points could estimate its magnetic field, and crust radioactivity could inform its history. The chapter is limited to feasibility.",
+     "nodes": []
+    },
+    {
+     "node_id": "0031",
+     "title": "Cosmic ray latitude effect and moon's magnetic field",
+     "start_page": 72,
+     "end_page": 77,
+     "summary": "Uses Stoermer cone theory and detectors at lunar latitudes of 20 and 60 degrees, assuming a dipole 80 times weaker than earth's, to test whether cosmic ray latitude effects reveal a lunar field. The method could detect a dipole about two orders of magnitude below earth's and is unaffected by local iron masses.",
+     "nodes": []
+    },
+    {
+     "node_id": "0032",
+     "title": "Radioactivity on the moon",
+     "start_page": 77,
+     "end_page": 80,
+     "summary": "Expected natural radioactivity (potassium-40, uranium and thorium) and cosmic-ray-induced radioactivity of a crust assumed to resemble meteorites. Table II lists isotopes and activities; tritium is the main induced source. The counting rate, about 5 counts per square centimeter per minute, would need special low-level techniques.",
+     "nodes": []
+    },
+    {
+     "node_id": "0033",
+     "title": "Cosmic ray intensity on the moon",
+     "start_page": 80,
+     "end_page": 86,
+     "summary": "Primary cosmic rays of about 0.25 particles per square centimeter per second per steradian would give 47 counts per minute, swamping crust radioactivity; albedo adds about 25 percent. Table III and Fig. 1 trace the cascade through the crust; even several feet down, shielding is insufficient for low-level measurement.",
+     "nodes": []
+    },
+    {
+     "node_id": "0034",
+     "title": "Cosmic ray and age determination",
+     "start_page": 86,
+     "end_page": 88,
+     "summary": "Considers dating the deposition of lunar surface material from helium-3 and tritium produced by cosmic rays. Because meteoric material is irradiated in space at about the same rate, and the nucleonic transition effect may erase depth gradients, the method may be invalid.",
+     "nodes": []
+    },
+    {
+     "node_id": "0035",
+     "title": "The question of lunar contamination",
+     "start_page": 88,
+     "end_page": 95,
+     "summary": "Estimates contamination from a one-megaton burst with 500 kilotons fission yield, half the products retained and spread evenly: activity falls to cosmic ray background within one or two months. X-ray vaporized lunar gas and orbit calculations suggest most debris escapes. Pre-placed instruments could still distinguish this modest contamination.",
+     "nodes": []
+    },
+    {
+     "node_id": "0036",
+     "title": "References",
+     "start_page": 96,
+     "end_page": 97,
+     "summary": "References for the chapter, including T. H. Johnson and Lemaitre and Vallarta on cosmic ray latitude effects, Peters, Baldwin's The Face of the Moon, Urey, Kohman and Ehmann on meteorite radioactivity, and Rossi.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0037",
+   "title": "Chapter VI. Composition of the lunar surface and the magnetic field of the moon",
+   "start_page": 98,
+   "end_page": 112,
+   "summary": "How the composition of a cloud raised from the lunar maria by a detonation could test competing theories of the maria, and how magnetometers on the moon could measure its magnetic field and reveal whether it has a liquid iron core.",
+   "nodes": [
+    {
+     "node_id": "0038",
+     "title": "Composition of the lunar surface",
+     "start_page": 98,
+     "end_page": 102,
+     "summary": "Chapter title page and six views of the maria: lunar lava from large impacts, meteoritic or asteroidal material, cometary material such as Mare Imbrium, micrometeoritic dust high in iron and nickel, early cometary-composition dust, or dust chipped off by solar radiation. Iron, nickel, carbon, nitrogen and oxygen in a blast cloud would favor different views.",
+     "nodes": []
+    },
+    {
+     "node_id": "0039",
+     "title": "Lunar magnetic field and magnetometers",
+     "start_page": 102,
+     "end_page": 110,
+     "summary": "An earth-like field would suggest a liquid iron core; Kuiper, Urey and Schmidt disagree. Table I predicts 5-100 gammas without a liquid core and 50,000 with one; above 500 implies a liquid center. Three surface packages over three months are needed. The proton precession magnetometer is preferred over rubidium vapor, rotating coil and fluxgate types.",
+     "nodes": []
+    },
+    {
+     "node_id": "0040",
+     "title": "References",
+     "start_page": 111,
+     "end_page": 112,
+     "summary": "References for the chapter, including Baldwin's The Face of the Moon, Kuiper, Urey's The Planets, Kopal, Whipple, Hoyle, Gold, Bullard, Vestine's RAND memorandum on measuring the lunar magnetic field with a moon rocket, and Van Allen.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0041",
+   "title": "Chapter VII. Some aspects of plasma and magnetic field effects",
+   "start_page": 113,
+   "end_page": 153,
+   "summary": "How the interplanetary environment would affect a nuclear detonation near the moon: the solar plasma, interplanetary magnetic field, motion of single particles from the lunar vapor cloud, and damage by solar plasma to lightweight structures, with an appendix on electron acceleration.",
+   "nodes": [
+    {
+     "node_id": "0042",
+     "title": "Chapter title and overview",
+     "start_page": 113,
+     "end_page": 114,
+     "summary": "Chapter title page and introduction: an exploratory look at the particle population, magnetic fields and solar radiation near earth's orbit and their effect on detonation debris. Full magnetohydrodynamics is beyond the time available, so the chapter treats single-particle dynamics and solar plasma effects on instruments.",
+     "nodes": []
+    },
+    {
+     "node_id": "0043",
+     "title": "The quiescent solar plasma and solar streams",
+     "start_page": 115,
+     "end_page": 123,
+     "summary": "Comet tail accelerations (Biermann) and other data imply solar streams of about 1000 km/sec with 10^3 to 10^5 particles per cubic centimeter; Kuiper suggests 600 protons for quiet conditions. Earth's field shields to about 8,000 miles, so 22,000-mile satellites may be affected. Objections by Block and Opik's meteorite sputtering estimates are discussed.",
+     "nodes": []
+    },
+    {
+     "node_id": "0044",
+     "title": "The interplanetary magnetic field",
+     "start_page": 123,
+     "end_page": 125,
+     "summary": "Pending direct measurement, the field is estimated from the sun's average surface field, about one gauss per the Babcocks, giving roughly 2.2 x 10^-5 gauss near earth's orbit; Hoyle suggests 10^-3 gauss beyond ten earth radii. Large uncertainties make quantitative results depend on future measurements.",
+     "nodes": []
+    },
+    {
+     "node_id": "0045",
+     "title": "Single particle dynamics",
+     "start_page": 125,
+     "end_page": 133,
+     "summary": "Follows a typical charged olivine particle from the rarefying lunar vapor: Larmor radii at 10^4 to 10^8 K (Table II), at least 40 days to the solar mirror point, stopping by solar streams in 10^4 to 10^5 seconds, and slow ionization. A cloud of 10^6 kg of debris would be visible with a one-inch telescope.",
+     "nodes": []
+    },
+    {
+     "node_id": "0046",
+     "title": "Influence of solar plasmas on experimental apparatus",
+     "start_page": 133,
+     "end_page": 143,
+     "summary": "Solar plasma pressure is 0.11 times maximum light pressure when quiet and up to 75 times in storms, affecting reflective balloon markers and solar sails. Sputtering could strip a 300-angstrom aluminum coating in under a month, or about 10^4 seconds in a storm; protons and heavy ions char thin plastics. Durability looks seriously limited.",
+     "nodes": []
+    },
+    {
+     "node_id": "0047",
+     "title": "References",
+     "start_page": 144,
+     "end_page": 146,
+     "summary": "References for the chapter, including Biermann on comet tails, Unsold and Chapman, Behr and Siedentopf, Kiepenheuer, Kuiper, Parker, Opik, Urey, Babcock, Hoyle, Wehner on sputtering, and Garwin and others on solar sailing.",
+     "nodes": []
+    },
+    {
+     "node_id": "0048",
+     "title": "Appendix I. Acceleration of electrons in mirroring plasmas",
+     "start_page": 147,
+     "end_page": 152,
+     "summary": "Following Veksler, a neutral plasma cloud moving into an inhomogeneous magnetic field is polarized and slowed, transferring ion energy to electrons; applied to bomb-case plasma, this could produce MeV electrons without beta decay. The argument is not rigorous, and laboratory experiments are suggested to establish the process.",
+     "nodes": []
+    },
+    {
+     "node_id": "0049",
+     "title": "Appendix I references",
+     "start_page": 153,
+     "end_page": 153,
+     "summary": "References for the appendix: Veksler in Soviet Physics Doklady (1958), Argo and others on nuclear explosions in space for scientific purposes at the Second Plowshare Symposium, Reiffel, and Kellogg in Physical Review.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0050",
+   "title": "Chapter VIII. Organic matter and the moon",
+   "start_page": 154,
+   "end_page": 185,
+   "summary": "Whether terrestrial organisms carried by lunar packages could survive and be confused with organic matter native to the moon, how such matter could have formed in the moon's early history, and current committee views on contamination.",
+   "nodes": [
+    {
+     "node_id": "0051",
+     "title": "Chapter title and overview",
+     "start_page": 154,
+     "end_page": 155,
+     "summary": "Chapter title page and introduction: organisms and organic matter deposited with a lunar package could obscure indigenous organic matter, an unparalleled scientific disaster for studying the early solar system and origin of life. The chapter asks whether terrestrial life could survive and whether ancient lunar organic matter exists.",
+     "nodes": []
+    },
+    {
+     "node_id": "0052",
+     "title": "Survival of terrestrial organisms on the moon",
+     "start_page": 155,
+     "end_page": 163,
+     "summary": "Hazards are temperature, from about +100 to -150 C, and solar and cosmic radiation, which reach the surface if the lunar field is under 10^-2 gauss. Exposed microorganisms die from ultraviolet within hours, ruling out panspermia for unprotected organisms, but those shielded in surface dust could survive long; charring takes months to thousands of years.",
+     "nodes": []
+    },
+    {
+     "node_id": "0053",
+     "title": "Production of organic matter in the early history of the moon",
+     "start_page": 163,
+     "end_page": 173,
+     "summary": "Solar ultraviolet acting on methane, ammonia and water in the solar nebula and early lunar atmospheres would have produced amino acids and other organic molecules (Table II). Deposits may exceed 10 grams per square centimeter beneath the dust, as in the southern highlands. Raises the speculative possibility that life arose on the moon.",
+     "nodes": []
+    },
+    {
+     "node_id": "0054",
+     "title": "Conclusion",
+     "start_page": 173,
+     "end_page": 173,
+     "summary": "Native lunar organic matter may not be distinguishable from deposited terrestrial matter, but it should lie beneath the dust layer while contaminants stay near the surface. Landing on lava maria is preferable to the highlands; the surface microstructure and magnetic field should be studied first, and packages made as aseptic as practical.",
+     "nodes": []
+    },
+    {
+     "node_id": "0055",
+     "title": "Appendix I. Survival time of an irradiated population",
+     "start_page": 174,
+     "end_page": 177,
+     "summary": "Derives the time for a population of organisms of given density, size and mean lethal dose to be reduced from N0 to N under a flux of ionizing or ultraviolet radiation, using Beer's law, with simplified forms for nearly transparent organisms; used to build the chapter's Table I.",
+     "nodes": []
+    },
+    {
+     "node_id": "0056",
+     "title": "References",
+     "start_page": 178,
+     "end_page": 179,
+     "summary": "References for the chapter, including Lederberg and Cowie in Science (1958), the CETEX reports, Stormer's The Polar Aurora, Bacq and Alexander, Lea, Abelson, Kuiper, Miller and Urey on organic synthesis, and Whipple.",
+     "nodes": []
+    },
+    {
+     "node_id": "0057",
+     "title": "Appendix II. Attitudes on biological contamination of extraterrestrial bodies",
+     "start_page": 180,
+     "end_page": 185,
+     "summary": "Describes CETEX of the International Council of Scientific Unions, the National Academy's EASTEX and WESTEX groups (members include Lederberg, Calvin and Sagan) and a new Armed Forces-NRC panel. CETEX sees little lunar risk; EASTEX and WESTEX urge no moonfall until more is known and rigorous decontamination. Notes Soviet absence and decontamination tests.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0058",
+   "title": "Chapter IX (see Vol. II of report)",
+   "start_page": 186,
+   "end_page": 186,
+   "summary": "Placeholder page: Chapter IX is printed in Volume II of the report.",
+   "nodes": []
+  },
+  {
+   "node_id": "0059",
+   "title": "Distribution list",
+   "start_page": 187,
+   "end_page": 190,
+   "summary": "Distribution of TR-59-39 copies to Headquarters USAF, major air commands and ARDC centers, the CIA (Dr. Herbert Scoville), NASA (Robert Jastrow), the National Academy of Sciences (Dr. Harold Urey), contractors including Lockheed and Armour Research Foundation, RAND, Army, Navy, ARPA, the Atomic Energy Commission, Sandia, Los Alamos and Lawrence Radiation Laboratory.",
+   "nodes": []
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+import { build } from 'esbuild';
+import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
+import { dirname, join } from 'node:path';
+import { fileURLToPath } from 'node:url';
+const root = join(dirname(fileURLToPath(import.meta.url)), '..');
+const out = process.env.OUT || join(root, 'out');
+const assets = process.env.ASSETS || './data/';
+mkdirSync(out, { recursive: true });
+await build({ entryPoints: [join(root, 'src/app.js')], bundle: true, format: 'esm', minify: !process.env.DEV, target: 'es2020', outfile: join(out, 'app.js'), legalComments: 'none', logLevel: 'warning', absWorkingDir: join(root, 'build'), nodePaths: [join(root, 'build/node_modules')] });
+const html = readFileSync(join(root, 'src/index.html'), 'utf8').replace('globalThis.__ASSETS__ = "./data/"', `globalThis.__ASSETS__ = ${JSON.stringify(assets)}`);
+writeFileSync(join(out, 'index.html'), html);
+console.log('built', out, assets);

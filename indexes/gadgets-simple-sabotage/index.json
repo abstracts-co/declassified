@@ -1,0 +1,190 @@
+{
+ "id": "gadgets-simple-sabotage",
+ "title": "Simple Sabotage Field Manual",
+ "source": {
+  "url": "https://www.cia.gov/stories/story/the-art-of-simple-sabotage/",
+  "publisher": "OSS",
+  "date": "1944-01-17",
+  "pages": 20,
+  "released": "2008-04-02",
+  "file": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Simple_Sabotage_Field_Manual.pdf",
+  "sha256": "fd17c15721996e97a9186fa01cd76adba3b3ace17447a855f85e6a0be582aa96",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "gadgets",
+ "summary": "1944 Office of Strategic Services manual on how ordinary citizens in enemy or occupied territory could quietly sabotage the Axis war effort, from damaging machines to stalling meetings. Its advice for slowing down organizations, such as insisting on doing everything through \"channels\", is still often quoted.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/gadgets/gadgets-simple-sabotage/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Cover",
+   "start_page": 1,
+   "end_page": 1,
+   "summary": "Cover of the Simple Sabotage Field Manual, Strategic Services (Provisional), Strategic Services Field Manual No. 3, marked Unclassified. A CIA note dated 4/2/2008 says that, per the Chief of the CIA Declassification Center, the document may be considered declassified, and asks users to strike through its classification markings.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "Issuing note from William J. Donovan",
+   "start_page": 2,
+   "end_page": 2,
+   "summary": "Office of Strategic Services, Washington, 17 January 1944. Director William J. Donovan issues the manual as basic doctrine for Strategic Services training. Its contents must be tightly controlled; it may be split into pamphlets by category but not widely distributed, used for radio broadcasts only as the theater commander directs, and handled under AR 380-5 on secret documents.",
+   "nodes": []
+  },
+  {
+   "node_id": "0002",
+   "title": "Contents",
+   "start_page": 3,
+   "end_page": 3,
+   "summary": "Five sections with manual page numbers: Introduction (1), Possible effects (2), Motivating the saboteur (2), Tools, targets and timing (6), Specific suggestions for simple sabotage (8).",
+   "nodes": []
+  },
+  {
+   "node_id": "0003",
+   "title": "Introduction",
+   "start_page": 4,
+   "end_page": 5,
+   "summary": "Simple sabotage is done by ordinary citizens without special tools or links to an organized group, at minimum risk of detection. Its weapons are salt, nails, candles, pebbles and thread from the kitchen shelf or toolkit. A second kind uses no tools at all: faulty decisions, non-cooperation and surliness, enlarging the normal 'margin for error' in one's work.",
+   "nodes": []
+  },
+  {
+   "node_id": "0004",
+   "title": "Possible effects",
+   "start_page": 5,
+   "end_page": 5,
+   "summary": "Simple sabotage is already happening across Europe. Multiplied by thousands of citizens, slashed tires, drained fuel tanks, fires, arguments, stupidity and short circuits waste enemy materials, manpower and time. It also harasses enemy administrators and police, may lead saboteurs to bigger acts and ties them to the United Nations war effort before Allied invasion.",
+   "nodes": []
+  },
+  {
+   "node_id": "0005",
+   "title": "Motivating the saboteur",
+   "start_page": 5,
+   "end_page": 7,
+   "summary": "Citizens need concrete motives, such as a hated official's ouster or the arrival of food, and a sense of belonging to a large unseen group, spread by radio and leaflets. They should think backwards: let tools grow dull, be lazy and careless. For safety, use innocent-looking materials, pick acts anyone could have done, apologize profusely and never linger.",
+   "nodes": []
+  },
+  {
+   "node_id": "0006",
+   "title": "Tools, targets and timing",
+   "start_page": 7,
+   "end_page": 8,
+   "summary": "Citizen-saboteurs cannot be closely controlled, so suggestions should fit each area. They should harm only enemy materials, avoid explosives and food crops without special knowledge, and prefer military objects. In quiet periods, target industrial production; during an offensive, prefer direct, immediate effects on transport, communications and critical materials such as oil, gasoline, tires, food and water.",
+   "nodes": []
+  },
+  {
+   "node_id": "0007",
+   "title": "Specific suggestions for simple sabotage",
+   "start_page": 8,
+   "end_page": 20,
+   "summary": "A growing list of specific acts, sorted by target: buildings, manufacturing, metals, mining, agriculture, railways, road transport, water transport, communications, electric power, organizations and morale.",
+   "nodes": [
+    {
+     "node_id": "0008",
+     "title": "Buildings",
+     "start_page": 8,
+     "end_page": 9,
+     "summary": "Warehouses, barracks, offices and factories burn easily. Delayed fires from a candle wrapped in paper or a greased string with gunpowder; burn records after hours; let oily waste and dirt pile up; fill a vacant room with gas around a candle. Set off sprinklers, plug toilets with a dried sponge, put coins under bulbs and jam locks.",
+     "nodes": []
+    },
+    {
+     "node_id": "0009",
+     "title": "Industrial production: manufacturing",
+     "start_page": 9,
+     "end_page": 12,
+     "summary": "Let tools grow dull and break files and drills. Put emery dust, sand or hair into lubrication, grain into cooling systems, and sugar, water or urine into fuel tanks. Overheat electric motors with rheostats, dirt and nicked wires; pour water into transformers; leave turbine covers loose; ruin boilers with lime deposits or by running them dry.",
+     "nodes": []
+    },
+    {
+     "node_id": "0010",
+     "title": "Production: metals",
+     "start_page": 13,
+     "end_page": 13,
+     "summary": "Iron and steel: put extra tar in blast furnace lining bricks so they wear out fast, make casting cores full of air bubbles or poorly supported, and overheat metal when tempering. No suggestions are given for other metals.",
+     "nodes": []
+    },
+    {
+     "node_id": "0011",
+     "title": "Production: mining and mineral extraction",
+     "start_page": 13,
+     "end_page": 13,
+     "summary": "Coal miners can knock out their Davy lamps and take a long time relighting them, harden pneumatic picks poorly or pour water into them, dent conveyor chains so they break, derail mine cars at passing points and send up rock with the coal.",
+     "nodes": []
+    },
+    {
+     "node_id": "0012",
+     "title": "Production: agriculture",
+     "start_page": 13,
+     "end_page": 13,
+     "summary": "Farm machinery can be sabotaged as in manufacturing. Crops and livestock should be destroyed only where there are food surpluses or the enemy requisitions food: feed crops to livestock, harvest too early or late, and let stored grain, fruit and vegetables rot.",
+     "nodes": []
+    },
+    {
+     "node_id": "0013",
+     "title": "Transportation: railways",
+     "start_page": 13,
+     "end_page": 14,
+     "summary": "Issue wrong or duplicate tickets, post false train times, serve bad food and make noise at night, mislay enemy luggage and run trains slow. Swap signal wires and lenses, spike switch points, salt switch connections, unbolt rails on curves, and misuse brakes, boilers and journal boxes.",
+     "nodes": []
+    },
+    {
+     "node_id": "0014",
+     "title": "Transportation: automotive",
+     "start_page": 14,
+     "end_page": 16,
+     "summary": "Turn signposts, remove danger signals, give false directions and rumors of closed bridges, rut soft roads and scatter nails. Bus drivers skip stops and taxis take long routes. Disconnect oil pumps, jam ignition locks, drain or wreck batteries, loosen gear cases and slash, underinflate or misalign tires.",
+     "nodes": []
+    },
+    {
+     "node_id": "0015",
+     "title": "Transportation: water",
+     "start_page": 16,
+     "end_page": 16,
+     "summary": "Barge crews spread false rumors about waterways, take slow channels, creep past locks and bridges and run aground. Bridge attendants delay traffic; compasses can be thrown off with hidden steel bars. Load cargo so heavy crates crush light ones, cover hatches sloppily and let tanks overflow onto perishables.",
+     "nodes": []
+    },
+    {
+     "node_id": "0016",
+     "title": "Communications",
+     "start_page": 16,
+     "end_page": 17,
+     "summary": "Switchboard operators delay or cut enemy calls; make false reports of fires and air raids; disable switchboard batteries with nails. Delay and garble telegrams, cut lines, delay enemy mail. Ruin propaganda films by bad projection, loud coughing or releasing moths into the projector beam, and blow fuses or overmodulate broadcasts to jam radio.",
+     "nodes": []
+    },
+    {
+     "node_id": "0017",
+     "title": "Electric power",
+     "start_page": 17,
+     "end_page": 18,
+     "summary": "Turbines, motors and transformers are covered earlier. Linesmen can loosen and dirty insulators, or tie salt-soaked string between parallel transmission lines so that rain turns it into a conductor and shorts the lines.",
+     "nodes": []
+    },
+    {
+     "node_id": "0018",
+     "title": "General interference with organizations and production",
+     "start_page": 18,
+     "end_page": 19,
+     "summary": "In meetings: do everything through 'channels', make long speeches, refer matters to committees of at least five, haggle over wording and reopen settled decisions. Managers demand written orders and assign key jobs to poor workers. Office workers misfile and prolong correspondence. Employees work slowly, pretend not to understand and never pass on their skills.",
+     "nodes": []
+    },
+    {
+     "node_id": "0019",
+     "title": "General devices for lowering morale and creating confusion",
+     "start_page": 19,
+     "end_page": 20,
+     "summary": "Give long, incomprehensible explanations, report imaginary spies to the Gestapo, act stupid and be irritable. Misunderstand rationing and traffic rules, complain about ersatz goods, snub Axis nationals and quislings, cry hysterically before clerks, boycott entertainment tied to quisling authorities and refuse to help salvage schemes.",
+     "nodes": []
+    }
+   ]
+  }
+ ]
+}

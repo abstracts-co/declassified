@@ -1,0 +1,519 @@
+{
+ "id": "space-project-horizon",
+ "title": "Project Horizon",
+ "source": {
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB479/",
+  "publisher": "US Army",
+  "date": "1959-06-09",
+  "pages": 121,
+  "released": "1961-09-21",
+  "file": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB479/docs/EBB-Moon01_sm.pdf",
+  "sha256": "0bca0adf4a87e136cbdca4a76582bda6fbd8dc4c8ab20678f07c26dadd984661",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "space",
+ "summary": "Volume I of the US Army's 1959 study for a military outpost on the Moon, prepared by the Army Ballistic Missile Agency. It proposed a first manned landing in spring 1965 and an operational 12-man outpost by late 1966 at an estimated cost of six billion dollars.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/space/space-project-horizon/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Cover",
+   "start_page": 1,
+   "end_page": 1,
+   "summary": "Cover of Project HORIZON Volume I, Summary and Supporting Considerations, issued by the United States Army. The artwork shows a large multi-engine rocket standing over a diagram of the solar system, with a stamp regrading the volume unclassified.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "Proposal to establish a lunar outpost: funding memo",
+   "start_page": 2,
+   "end_page": 2,
+   "summary": "Lt. Gen. Arthur G. Trudeau, Chief of Research and Development, writes to the Chief of Ordnance on 20 March 1959. Army Ballistic Missile Agency staff asked how the preliminary study would be funded. Trudeau calls the outpost critical to the future Army, notes the Chief of Staff's endorsement, says no extra money exists and leaves the funding source to Ordnance.",
+   "nodes": []
+  },
+  {
+   "node_id": "0002",
+   "title": "Draft requirement for a lunar outpost",
+   "start_page": 3,
+   "end_page": 6,
+   "summary": "Draft requirement for a manned military outpost on the moon to protect US interests, develop moon-based surveillance of earth and space and communications relay, and support exploration. It envisions 10-20 men, a Manhattan Project-style effort under a unified space command, warns the Soviets could land by 1968, and proposes orbital assembly of 500,000-pound vehicles.",
+   "nodes": []
+  },
+  {
+   "node_id": "0003",
+   "title": "Proposal to establish a lunar outpost: letter of 20 March 1959",
+   "start_page": 7,
+   "end_page": 8,
+   "summary": "Trudeau's letter calls a manned lunar outpost the Army's most challenging and perhaps most urgent space objective, so the US can deny Soviet territorial, commercial or technological claims. It orders a SECRET plan with schedules and costs, testing a manned landing by 1966. Engineers would build the base, the Signal Corps handle communications; results due 15 May 1959.",
+   "nodes": []
+  },
+  {
+   "node_id": "0004",
+   "title": "Title page",
+   "start_page": 9,
+   "end_page": 9,
+   "summary": "Title page: Volume I, Summary and Supporting Considerations, dated 9 June 1959. Project HORIZON report, a U.S. Army study for the establishment of a lunar outpost, regraded unclassified by order of the Secretary of the Army.",
+   "nodes": []
+  },
+  {
+   "node_id": "0005",
+   "title": "Table of contents and list of figures",
+   "start_page": 10,
+   "end_page": 13,
+   "summary": "Contents of Volume I: four chapters (introduction, technical considerations and plans, management and planning, non-technical considerations) and Appendices A to C on space policy, legal and political implications, and Technical Services capabilities. Lists 28 figures, six tables and four charts, from the HORIZON outpost in late 1965 to Signal Corps laboratory data.",
+   "nodes": []
+  },
+  {
+   "node_id": "0006",
+   "title": "Chapter I: Introduction",
+   "start_page": 14,
+   "end_page": 19,
+   "summary": "Introduces Project HORIZON, the Army study for a US lunar outpost, and argues it is justified on political, scientific and security grounds. Concludes the US can land men in spring 1965 and have an operational outpost by late 1966, and describes how the two-volume report was prepared.",
+   "nodes": [
+    {
+     "node_id": "0007",
+     "title": "A. General",
+     "start_page": 14,
+     "end_page": 14,
+     "summary": "HORIZON's objective is a US lunar outpost. The study was directed by the 20 March 1959 letter from the Army's Chief of R&D to the Chief of Ordnance and assigned to the Commanding General, Army Ordnance Missile Command, with all Technical Services taking part. It is a limited feasibility study of methods, purposes and political, scientific and security implications.",
+     "nodes": []
+    },
+    {
+     "node_id": "0008",
+     "title": "B. Justification",
+     "start_page": 14,
+     "end_page": 17,
+     "summary": "Lists the outpost's purposes: demonstrating US leadership, science, reconnaissance and surveillance, a communications relay, a research laboratory, a low-gravity launch site and rescue staging. A first US manned landing could come by 1965. The Soviets plan to mark the October Revolution's 50th anniversary (1967) on the moon, and being first would preserve US options, like rights from first occupancy.",
+     "nodes": []
+    },
+    {
+     "node_id": "0009",
+     "title": "C. Conclusions",
+     "start_page": 17,
+     "end_page": 18,
+     "summary": "Four conclusions: the US must establish a lunar outpost at the earliest practicable date; HORIZON can deliver an operational outpost by late 1966 after first manned landings in spring 1965; an early decision with adequate funding is vital, since delay or a later crash program would lose the race and cost more; and the Army can contribute in every aspect.",
+     "nodes": []
+    },
+    {
+     "node_id": "0010",
+     "title": "D. Organization and content of the report",
+     "start_page": 18,
+     "end_page": 19,
+     "summary": "Volume I summarizes the study and covers non-technical matters and Army resources; Volume II is the technical investigation with funding by fiscal year. It was prepared by the Future Projects Design Branch of the Army Ballistic Missile Agency with resident representatives of the seven Technical Services, guided by 'enlightened conservatism': an unsophisticated success beats advanced failures that 'almost worked.'",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0011",
+   "title": "Chapter II: Technical considerations and plans",
+   "start_page": 20,
+   "end_page": 52,
+   "summary": "Summarizes the technical plan: Saturn I and II carriers, a buried 12-man outpost, earth-orbit refueling, communications, an equatorial launch site, logistics and a six-phase research and development program. The first manned landing comes in April 1965, the outpost is fully manned by November 1966, and the program costs about six billion dollars.",
+   "nodes": [
+    {
+     "node_id": "0012",
+     "title": "A. Objectives and scope of the study",
+     "start_page": 20,
+     "end_page": 20,
+     "summary": "This part presents technical information supporting the feasibility of an expedited lunar outpost and relates US capabilities to the task. It covers design criteria for the outpost, the earth-moon transportation system, communications and earth support facilities, using assumptions described as realistic yet conservative.",
+     "nodes": []
+    },
+    {
+     "node_id": "0013",
+     "title": "B. Resume of the technical program",
+     "start_page": 20,
+     "end_page": 21,
+     "summary": "Saturn I (operational October 1963) and Saturn II (developed 1962-1964) are the carriers. Cargo landings begin January 1965, two men land in April 1965, and 12 men occupy the outpost in November 1966 after 149 launches carrying 490,000 pounds of cargo. Another 64 launches follow in 1967. The 8.5-year program costs about $6 billion, roughly $700 million a year.",
+     "nodes": []
+    },
+    {
+     "node_id": "0014",
+     "title": "C. Outpost",
+     "start_page": 21,
+     "end_page": 28,
+     "summary": "The proposed outpost is a permanent facility for 12 men, designed on realistic requirements so men can stake their lives on it. Covers site location, design criteria, facilities and their installation, suits and equipment, and environmental research.",
+     "nodes": [
+      {
+       "node_id": "0015",
+       "title": "1. Location",
+       "start_page": 21,
+       "end_page": 21,
+       "summary": "The exact site awaits an exploratory probe and mapping program, but the area within 20 degrees latitude and longitude of the moon's optical center looks favorable, and three candidate sites have been chosen. Lunar maps at 1:5,000,000 and 1:1,000,000 are due by December 1960 and August 1962.",
+       "nodes": []
+      },
+      {
+       "node_id": "0016",
+       "title": "2. Design criteria",
+       "start_page": 22,
+       "end_page": 22,
+       "summary": "Design is driven by the lunar environment and transport capacity: essentially no atmosphere, one-sixth earth gravity, a radius of about 1,000 miles, surface temperatures from +248 to -202 degrees F, and a subsurface maximum of -40 degrees F at the equator. No problem lies beyond the available state of the art.",
+       "nodes": []
+      },
+      {
+       "node_id": "0017",
+       "title": "3. Outpost facilities and their installation",
+       "start_page": 22,
+       "end_page": 26,
+       "summary": "Two men land in April 1965 and live in their vehicle cabin; a nine-man construction crew follows in July 1965. The outpost uses buried double-walled metal tanks 10 by 20 feet, powered by nuclear reactors, with an oxygen-nitrogen atmosphere. Figures I-1 to I-4 show the outpost in late 1965, compartment sections, the construction camp and the 12-man layout.",
+       "nodes": []
+      },
+      {
+       "node_id": "0018",
+       "title": "4. Personnel equipment",
+       "start_page": 26,
+       "end_page": 28,
+       "summary": "A body-conformation suit with a metal outer surface is needed for pressure, meteoroid protection, reflectivity and durability; a 300-pound man and suit would weigh 50 pounds on the moon. Special tools are planned, food starts pre-cooked, and hydroponic salads are considered. Figure I-5 shows a typical lunar suit.",
+       "nodes": []
+      },
+      {
+       "node_id": "0019",
+       "title": "5. Environmental research",
+       "start_page": 27,
+       "end_page": 27,
+       "summary": "A series of unmanned experiments will confirm environmental data on radiation, meteoroid impacts, temperatures, the magnetic field, surface conditions, ionization, radio propagation and biological effects.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0020",
+     "title": "D. Space transportation system",
+     "start_page": 27,
+     "end_page": 40,
+     "summary": "Describes trajectories, the Saturn I and Saturn II carriers, earth-orbit refueling, the lunar landing and orbital return vehicles, and guidance accuracy for the earth-moon transport system.",
+     "nodes": [
+      {
+       "node_id": "0021",
+       "title": "1. Flight mechanics",
+       "start_page": 27,
+       "end_page": 32,
+       "summary": "A 50-60 hour transit balances payload and sensitivity. Compares direct flight with staging through a 96-minute earth orbit: a direct two-man round trip needs a six-stage, 12-million-pound-thrust rocket, so the orbital approach with 2-million-pound vehicles is mandatory. Returns use aerodynamic braking in a nose cone like JUPITER's. Figures I-6 and I-7 illustrate.",
+       "nodes": []
+      },
+      {
+       "node_id": "0022",
+       "title": "2. Orbital carrier and space vehicles",
+       "start_page": 32,
+       "end_page": 40,
+       "summary": "Saturn I has 1,504,000 pounds of thrust from eight H-1 engines and lifts 30,000 pounds to orbit; Saturn II, with H-2 engines and hydrogen-oxygen upper stages, lifts 70,000 pounds. Direct flights land 6,000 pounds; orbital refueling by about ten men lands 48,000 pounds. An orbital return vehicle carries 10-16 men. Figures I-8 to I-14.",
+       "nodes": []
+      },
+      {
+       "node_id": "0023",
+       "title": "3. Guidance and control",
+       "start_page": 40,
+       "end_page": 40,
+       "summary": "Known guidance hardware and techniques, adapted and slightly extended, meet HORIZON's needs. Mid-course guidance brings the lunar landing vehicle within about 20 km (11 nautical miles) of the chosen point, and target-oriented terminal guidance cuts the three-sigma landing error to about 1.5 km.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0024",
+     "title": "E. Transportation system integration",
+     "start_page": 41,
+     "end_page": 43,
+     "summary": "By the end of 1967 some 252 people will have gone into earth orbit, 42 on to the moon and 26 back. About 756,000 pounds of cargo reach the lunar surface, needing 229 Saturn firings but only 73 boosters thanks to booster recovery. Figures I-15 and I-16 chart personnel transport and the 1964-1967 launch schedule.",
+     "nodes": []
+    },
+    {
+     "node_id": "0025",
+     "title": "F. Communications electronics",
+     "start_page": 41,
+     "end_page": 46,
+     "summary": "Earth-based and lunar-based complexes handle communications and surveillance, using a 24-hour communications satellite system and world-wide surveillance net stations expanded with two 85-foot antennas. On the moon, relay stations extend the radio horizon, with helmet radios, TV, homing devices, emergency packs and infrared and radar detectors. Figures I-17 to I-19.",
+     "nodes": []
+    },
+    {
+     "node_id": "0026",
+     "title": "G. Launch site",
+     "start_page": 45,
+     "end_page": 47,
+     "summary": "A survey found neither the Atlantic nor the Pacific Missile Range suitable, so a new equatorial site with eight launch pads is needed. Brazil and Christmas Island stand out; the study assumes Brazil. Site acquisition and construction are among the program's most critical lead-time items. Figure I-20 shows the terrestrial launch site.",
+     "nodes": []
+    },
+    {
+     "node_id": "0027",
+     "title": "H. Program logistics",
+     "start_page": 48,
+     "end_page": 48,
+     "summary": "Logistics studies covered manufacturing, transportation, personnel and training, and show military participation in HORIZON's logistics is mandatory. The level of military participation was not set, since the world political situation will weigh on the decision.",
+     "nodes": []
+    },
+    {
+     "node_id": "0028",
+     "title": "I. Research and development",
+     "start_page": 48,
+     "end_page": 52,
+     "summary": "Six phases: the feasibility study completed 9 June 1959; an eight-month, $5.4 million development and funding plan; hardware development and integration; outpost construction; initial operation from December 1966; and expansion assumed from January 1968. Lists basic research needs. Figures I-21 to I-23 show the schedule, the LERUT lunar environment simulator and a flight simulator.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0029",
+   "title": "Chapter III: Management and planning considerations",
+   "start_page": 53,
+   "end_page": 62,
+   "summary": "Sets out the operational elements of HORIZON (an equatorial launch site, an orbital station and the lunar outpost) and the organization needed to run them: a US-based project management agency with co-equal subordinate activities and early staffing.",
+   "nodes": [
+    {
+     "node_id": "0030",
+     "title": "A. Scope of operations",
+     "start_page": 53,
+     "end_page": 57,
+     "summary": "An equatorial terrestrial launch site is needed because existing ranges limit firing times and are saturated. The orbital station starts as an austere refueling point and grows into stations built from vehicle shells. The outpost moves from 30-90 days of life support and exploration to 18 months of construction, then 12-man occupancy and industrial self-regeneration.",
+     "nodes": []
+    },
+    {
+     "node_id": "0031",
+     "title": "B. Organizational and operational concepts",
+     "start_page": 58,
+     "end_page": 62,
+     "summary": "The project needs support from the Operations Coordinating Board, CIA, State Department, FBI, Coast and Geodetic Survey, Geological Survey and Atomic Energy Commission. Launch site rights might need a treaty, a perpetual lease like the Panama Canal Zone, or purchase. A US-based project management agency would direct the launch site, orbital station, outpost and support activities (Figure I-24).",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0032",
+   "title": "Chapter IV: Non-technical supporting considerations",
+   "start_page": 63,
+   "end_page": 66,
+   "summary": "Argues that being first on the moon is essential for political, psychological and security reasons, that general national policy implies the requirement, and that military applications beyond the 12-man outpost need further evaluation.",
+   "nodes": [
+    {
+     "node_id": "0033",
+     "title": "A. General",
+     "start_page": 63,
+     "end_page": 63,
+     "summary": "The primary national security implication is the importance of being first: the US cannot choose between peaceful and military uses unless it is first. Anything short of being first on the lunar surface would be catastrophic, and being second again cannot be tolerated.",
+     "nodes": []
+    },
+    {
+     "node_id": "0034",
+     "title": "B. Policy",
+     "start_page": 63,
+     "end_page": 64,
+     "summary": "No specific policy on a lunar outpost exists; Executive and Legislative policy after about a year and a half is still general and is summarized in Appendix A. Intelligence estimates credit the Soviet Union with the capability to achieve the study's objectives any time after 1965, so a requirement can be inferred from national policy.",
+     "nodes": []
+    },
+    {
+     "node_id": "0035",
+     "title": "C. Political, psychological and security implications",
+     "start_page": 64,
+     "end_page": 66,
+     "summary": "Failure to be first would lower US prestige; the Soviets plan to celebrate their government's 50th anniversary (1967) on the moon. A first outpost would be seen like rights from first occupancy. The 12-man outpost is only a point of departure for security, and seven questions, from threats to the outpost to booster improvements, need further evaluation.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0036",
+   "title": "Appendix A: Policy of the United States with respect to activities in space",
+   "start_page": 67,
+   "end_page": 76,
+   "summary": "Quotes recent Executive and Legislative statements on US space policy used as background for the study.",
+   "nodes": [
+    {
+     "node_id": "0037",
+     "title": "1. Statements by the President of the United States",
+     "start_page": 67,
+     "end_page": 69,
+     "summary": "Quotes the President's State of the Union message of 9 January 1959 (five satellites in orbit), his Budget Message of 19 January 1959 (space exploration, a million-pound-thrust engine and a nuclear rocket engine), and his 2 April 1958 message proposing a civilian space agency, with Defense keeping space activities tied to military weapons and operations.",
+     "nodes": []
+    },
+    {
+     "node_id": "0038",
+     "title": "2. Policy declarations by the Congress",
+     "start_page": 69,
+     "end_page": 76,
+     "summary": "Quotes congressional reports on the National Aeronautics and Space Act of 1958, House Report 1758 of 21 May 1958, Section 102 of Public Law 85-568, and the House Select Committee report of 3 January 1959. They call a national space program a matter of highest urgency, favor civilian control, and stress that military and peaceful space capabilities are inseparable.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0039",
+   "title": "Appendix B: Legal and political implications",
+   "start_page": 77,
+   "end_page": 91,
+   "summary": "Legal analysis concluding that no binding space law limits HORIZON, that lunar claims would rest on actual occupation, and that disputes with the Soviet Union would be settled politically or by force rather than by courts.",
+   "nodes": [
+    {
+     "node_id": "0040",
+     "title": "1. General",
+     "start_page": 77,
+     "end_page": 78,
+     "summary": "No principles or rules of law recognize rights or duties beyond the atmosphere or on the lunar surface. International law governs relations among nations on earth, and the many writings on space law are only the wishes or fears of their authors. For now there is no definable body of space law.",
+     "nodes": []
+    },
+    {
+     "node_id": "0041",
+     "title": "2. Possible precedents",
+     "start_page": 78,
+     "end_page": 80,
+     "summary": "Discovery-and-occupation precedents are inconclusive, and title disputes are political, not judicial (Ex parte Peru). US Antarctic policy traces to Secretary of State Charles Evans Hughes's 1924 insistence on actual settlement, as in his letter on Amundsen's polar claims. Without a lunar base, America would have no more say than Nepal or Ecuador.",
+     "nodes": []
+    },
+    {
+     "node_id": "0042",
+     "title": "3. The law of space",
+     "start_page": 80,
+     "end_page": 83,
+     "summary": "Nothing in HORIZON violates settled international law. The US should pursue its aims without conjuring legal impediments or defining rules too early, since the Soviet Union uses law selectively. Quotes Soviet scholars Korovin and Zadorozhnyi on satellites and sovereignty, and holds that space law should develop as a web of arrangements suited to it.",
+     "nodes": []
+    },
+    {
+     "node_id": "0043",
+     "title": "4. Political implications",
+     "start_page": 83,
+     "end_page": 85,
+     "summary": "Citing Spengler and Justice Holmes, notes that force is the ultimate sanction of law and international affairs a struggle for power. Reviews US space policy putting security first and quotes congressional reports, concluding that US policy requires HORIZON and that failing to pursue it would disregard the intent of the Executive and Congress.",
+     "nodes": []
+    },
+    {
+     "node_id": "0044",
+     "title": "5. Specific problems",
+     "start_page": 85,
+     "end_page": 91,
+     "summary": "Legal opinions on six hypothetical US-Soviet lunar problems submitted by members of the committee on the Army study.",
+     "nodes": [
+      {
+       "node_id": "0045",
+       "title": "Problem 1: Soviet claims to the whole lunar surface",
+       "start_page": 86,
+       "end_page": 86,
+       "summary": "Would a Soviet flag, monument, radio or crew landed on the moon support a claim to the whole surface, even with a threat to destroy any aggressor? Opinion: symbolic occupation has never been recognized; only actual settlement counts. Answering the threat would be a political decision, ultimately settled by force.",
+       "nodes": []
+      },
+      {
+       "node_id": "0046",
+       "title": "Problem 2: Soviet claim to a reasonable area",
+       "start_page": 86,
+       "end_page": 87,
+       "summary": "If Soviets land first and claim about 2,000 square miles, must the US respect it? Opinion: the reasonableness of the area is not the test; effective occupation or actual settlement is required, and settling on the fringe gives no wider rights. Such disputes are political questions that may require national strength or even war.",
+       "nodes": []
+      },
+      {
+       "node_id": "0047",
+       "title": "Problems 3 and 4: Claims to valuable resources",
+       "start_page": 87,
+       "end_page": 88,
+       "summary": "Who may claim the only known concentration of valuable lunar resources, and what if the other side trespasses? Opinion: discovery and possession count for nothing once occupation ends; peaceful holdings should be respected. No tribunal could hear a trespass case, so it would go to diplomacy or, at worst, war.",
+       "nodes": []
+      },
+      {
+       "node_id": "0048",
+       "title": "Problem 5: Incidents between US and Soviet sectors",
+       "start_page": 88,
+       "end_page": 90,
+       "summary": "With both nations on the moon on a cold-war basis: accidental landings in the other's sector, vehicles destroyed or approaching. Opinion: these are political matters; entry in distress is recognized (Lissitzyn); the US could not destroy an unidentified vehicle without an established threat; interfering with supply vehicles would have no legal basis.",
+       "nodes": []
+      },
+      {
+       "node_id": "0049",
+       "title": "Problem 6: Return vehicle landing in Russia",
+       "start_page": 90,
+       "end_page": 91,
+       "summary": "If a US return vehicle accidentally landed in Russia and the USSR withheld crew and information, international law would seem to require its return, but no tribunal can enforce that. The appendix concludes that experience, not logic, is the life of the law, and US aims can proceed without hindrance from legal rules.",
+       "nodes": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "node_id": "0050",
+   "title": "Appendix C: Technical services support capabilities",
+   "start_page": 92,
+   "end_page": 121,
+   "summary": "Surveys the research and development skills, facilities, personnel and budgets of the Army's seven Technical Services and concludes they make up a substantial part of what Project HORIZON requires.",
+   "nodes": [
+    {
+     "node_id": "0051",
+     "title": "Overview of the Army Technical Services",
+     "start_page": 92,
+     "end_page": 92,
+     "summary": "The seven Technical Services (Ordnance, Engineers, Signal, Quartermaster, Chemical, Transportation and Medical Service) own about $1 billion of R&D facilities, employ about 40,000 R&D personnel at over $400 million a year, and draw about $3/4 billion from industry. Their work covers missiles and space vehicles, human performance, electronics, and construction and mapping.",
+     "nodes": []
+    },
+    {
+     "node_id": "0052",
+     "title": "A. Ordnance",
+     "start_page": 93,
+     "end_page": 95,
+     "summary": "Covers the Diamond Ordnance Fuze Laboratory, Picatinny Arsenal's atomic weapons labs, the Tank-Automotive Command, and Watertown's materials reactor due December 1959. The Army Ordnance Missile Command includes ABMA (400 military, 5,000 civilians; development under Wernher von Braun), the Rocket and Guided Missile Agency and White Sands. Table I-1 lists Ordnance R&D resources.",
+     "nodes": []
+    },
+    {
+     "node_id": "0053",
+     "title": "B. Engineer",
+     "start_page": 95,
+     "end_page": 101,
+     "summary": "The Corps of Engineers' R&D includes the Fort Belvoir laboratories (about 1,300 civilians), Waterways Experiment Station, the Army Nuclear Power Program with the AEC, SIPRE, the Arctic frost laboratory and the Army Map Service. Tables I-2 to I-6 give staff and funding. The Corps is the world's largest construction agency, with about $2.25 billion in yearly contracts.",
+     "nodes": []
+    },
+    {
+     "node_id": "0054",
+     "title": "C. Signal",
+     "start_page": 101,
+     "end_page": 108,
+     "summary": "The Signal Research and Development Laboratory at Fort Monmouth has about 3,500 staff and over 650 contracts (Charts 1-4). The Signal Corps has some 37,000 people and a $700 million budget, and runs Army world-wide communications, the Electronics Proving Ground at Fort Huachuca, White Sands missile tracking and the Army Pictorial Center.",
+     "nodes": []
+    },
+    {
+     "node_id": "0055",
+     "title": "D. Army Medical Service",
+     "start_page": 108,
+     "end_page": 111,
+     "summary": "The Medical Service's mission includes biomedical experiments in space flight. Its R&D program uses 1,519 people in eleven laboratories, led by nutrition and radiation research, including Walter Reed, Fort Totten, Fort Detrick, Fort Knox and units in Malaya, Puerto Rico, Panama and Germany. R&D budgets were $12.5 million in FY1959 and $13.3 million in FY1960.",
+     "nodes": []
+    },
+    {
+     "node_id": "0056",
+     "title": "E. Quartermaster",
+     "start_page": 111,
+     "end_page": 115,
+     "summary": "The Quartermaster Corps supplies food, clothing, equipment and petroleum. Its research organization of 1,620 civilians and 617 military works at Natick, Chicago, Fort Lee and Maynard, with 385 contracts in FY1958 and 45 no-cost agreements. It runs depots worldwide and spends about $750 million a year on food. Figures I-25 and I-26 show skills and contracts.",
+     "nodes": []
+    },
+    {
+     "node_id": "0057",
+     "title": "F. Transportation",
+     "start_page": 115,
+     "end_page": 118,
+     "summary": "The Transportation Corps moves personnel and materiel for the Army and other services and manages over $1 billion of equipment, about 30 percent aircraft. Figures I-27 and I-28 show its research resources and FY1953-1960 R&D funding. Its US facilities are worth over $500 million, with some 30,000 personnel and a $283 million operating budget.",
+     "nodes": []
+    },
+    {
+     "node_id": "0058",
+     "title": "G. Chemical",
+     "start_page": 118,
+     "end_page": 120,
+     "summary": "Lists eleven Chemical Corps programs relevant to space, from radiation measurement and shielding to oxygen production and propellant toxicity. Chemical R&D ($17.4 million, 2,250 people) and biological R&D ($18.9 million, 2,400 people) run at Army Chemical Center, Fort Detrick and Dugway; radiological work employs 80. Five installations cover 516,322 acres.",
+     "nodes": []
+    },
+    {
+     "node_id": "0059",
+     "title": "H. Conclusions",
+     "start_page": 121,
+     "end_page": 121,
+     "summary": "The Army Technical Services' research and development skills and resources make up a substantial portion of what Project HORIZON requires; these capabilities exist today and have proven their value to national programs. A fuller account is in the publication 'U.S. Army Capabilities in the Space Age.'",
+     "nodes": []
+    }
+   ]
+  }
+ ]
+}

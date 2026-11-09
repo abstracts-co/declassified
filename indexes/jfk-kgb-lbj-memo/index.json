@@ -1,0 +1,118 @@
+{
+ "id": "jfk-kgb-lbj-memo",
+ "title": "Hoover Memo on the KGB and LBJ",
+ "source": {
+  "url": "https://www.archives.gov/research/jfk/release-2017-2018",
+  "publisher": "FBI",
+  "date": "1966-12-01",
+  "pages": 8,
+  "released": "2017-10-26",
+  "file": "https://www.archives.gov/files/research/jfk/releases/docid-32204484.pdf",
+  "sha256": "011a59048777925034673d90dc962c4a942cfc9d247d1018edb846d12302f553",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "jfk",
+ "summary": "J. Edgar Hoover's report to White House aide Marvin Watson on how Soviet and Communist Party officials reacted to the assassination. It passes on an FBI source's 1965 report that KGB headquarters said it had data purporting to show President Johnson was responsible.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/jfk/jfk-kgb-lbj-memo/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "JFK Assassination System identification form",
+   "start_page": 1,
+   "end_page": 1,
+   "summary": "Record 178-10003-10131, Church Committee series, released 10-23-2017 under the JFK Records Act. FBI report from J. Edgar Hoover to Marvin Watson titled \"Reaction of Soviet and Communist Party officials to JFK assassination\", dated 12/01/1963, 7 pages, Top Secret. Subjects include Oswald's Russian period, the Warren Commission, Yuri Nosenko, Pravda, Izvestia and ultraright coup theories.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "Hoover's cover letter to Marvin Watson",
+   "start_page": 2,
+   "end_page": 2,
+   "summary": "Top Secret letter of December 2, 1966, by liaison, from FBI Director J. Edgar Hoover to Marvin Watson, Special Assistant to the President. At Watson's November 29, 1966 request, Hoover attaches a memorandum from FBI files on Soviet and Communist Party reaction to Kennedy's assassination, noting the data has not been given to the Acting Attorney General.",
+   "nodes": []
+  },
+  {
+   "node_id": "0002",
+   "title": "Reaction of Soviet and Communist Party officials to the assassination of JFK",
+   "start_page": 3,
+   "end_page": 8,
+   "summary": "FBI memorandum of December 1, 1966, classified Top Secret. Sources report Soviet shock and fear of an ultraright coup, Fedorenko's and KGB New York's reactions, and a 1965 KGB claim to hold data purporting to show President Johnson was responsible. It adds Nosenko's account of Oswald, Gus Hall's views, and communist and Soviet press attacks on the Warren Commission.",
+   "nodes": [
+    {
+     "node_id": "0003",
+     "title": "Soviet reaction reported by a source in Russia",
+     "start_page": 3,
+     "end_page": 4,
+     "summary": "A source in Russia on the day of the assassination reported on December 4, 1963 that the news caused shock and church bells tolled. Soviet officials suspected an ultraright plot to stage a coup, stop negotiations and attack Cuba, put the USSR on national alert, feared a rogue missile launch, and called Oswald a neurotic maniac with no Soviet ties.",
+     "nodes": []
+    },
+    {
+     "node_id": "0004",
+     "title": "Fedorenko at the Soviet UN mission",
+     "start_page": 4,
+     "end_page": 4,
+     "summary": "A second source reported on November 27, 1963 that Nikolai T. Fedorenko, Soviet Permanent Representative to the UN, told mission staff on November 23 that the USSR deeply regretted Kennedy's death and would have preferred him in power, since he had tried to improve relations. Little was known about President Johnson or his future policies.",
+     "nodes": []
+    },
+    {
+     "node_id": "0005",
+     "title": "KGB New York and President Johnson",
+     "start_page": 4,
+     "end_page": 5,
+     "summary": "On November 25, 1963 Colonel Boris Ivanov, KGB resident in New York, told staff the killing was likely planned by a group and ordered all data on Lyndon Johnson. On September 16, 1965 Moscow said the KGB had data purporting to show Johnson was responsible for the assassination and asked about his ties to Robert and Ted Kennedy.",
+     "nodes": []
+    },
+    {
+     "node_id": "0006",
+     "title": "Nosenko on Oswald in the Soviet Union",
+     "start_page": 5,
+     "end_page": 6,
+     "summary": "Defector Yuri Nosenko, whose bona fides were not established, said on March 3, 1964 that the KGB judged Oswald mentally unstable in 1959; he cut his wrist, was hospitalized and allowed to stay. The KGB opposed his re-entry request via Mexico, never recruited him or Marina, and posted about 20 English speakers by the US Embassy after the killing.",
+     "nodes": []
+    },
+    {
+     "node_id": "0007",
+     "title": "Soviet consular and hospital records on Oswald",
+     "start_page": 6,
+     "end_page": 6,
+     "summary": "After the assassination Soviet Ambassador Anatoli Dobrynin gave the Secretary of State what was said to be the complete Soviet Embassy consular file on Lee and Marina Oswald. The Soviet Government later supplied Oswald's hospital record, which corroborated that he had attempted suicide in the Soviet Union.",
+     "nodes": []
+    },
+    {
+     "node_id": "0008",
+     "title": "Communist Party, USA, and the Warren Report",
+     "start_page": 6,
+     "end_page": 7,
+     "summary": "Party reaction followed the Soviet line. On December 4, 1963 Gus Hall said only the ultraright could have done it, that Oswald was killed to silence him, and that Oswald may have worked for the FBI in Moscow. The Worker of October 11, 1964 said the Warren Report brushed off evidence of an ultra-rightist conspiracy.",
+     "nodes": []
+    },
+    {
+     "node_id": "0009",
+     "title": "Splinter groups and Progressive Labor",
+     "start_page": 7,
+     "end_page": 8,
+     "summary": "No concerted drive by the Progressive Labor Party, Socialist Workers Party or Workers World Party to attack the Warren Commission was found, though isolated articles criticized it. Progressive Labor's November 27, 1963 supplement and December 1963 issue suggested Oswald may have been framed and the inquiry was not thorough.",
+     "nodes": []
+    },
+    {
+     "node_id": "0010",
+     "title": "Soviet press on the Warren Commission",
+     "start_page": 8,
+     "end_page": 8,
+     "summary": "Pravda on September 28, 1964 said the Warren Report did not dispel all doubts about the \"crime of the century.\" Izvestia's V. Zorin on September 21, 1965 said the mystery remains a mystery. In September 1966 New Times quoted Professor Richard Popkin, reviewing Weisberg's \"Whitewash\" and Epstein's \"Inquest\", that the killing was a plot involving influential quarters.",
+     "nodes": []
+    }
+   ]
+  }
+ ]
+}

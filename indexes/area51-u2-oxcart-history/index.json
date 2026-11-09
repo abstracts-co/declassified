@@ -1,0 +1,214 @@
+{
+ "id": "area51-u2-oxcart-history",
+ "title": "The U-2 and OXCART Programs",
+ "source": {
+  "url": "https://www.cia.gov/readingroom/document/0000190094",
+  "publisher": "CIA",
+  "date": "1992",
+  "pages": 54,
+  "released": "2013-06-25",
+  "file": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/docs/U2%20-%20Chapter%202.pdf",
+  "sha256": "ae2ccb38f341fab6ba4f3d887515709a9834f82b3fe4d58396c8e341dccfcd67",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "area51",
+ "summary": "Chapter 2 of the CIA's 1992 internal history of its U-2 and OXCART spy-plane programs, from the less-redacted version released in 2013 that names Area 51. It tells how the CIA and Lockheed chose Groom Lake in 1955 and says U-2 and OXCART flights accounted for more than half of all UFO reports in the late 1950s and most of the 1960s.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/area51/area51-u2-oxcart-history/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Chapter 2: Developing the U-2",
+   "start_page": 1,
+   "end_page": 52,
+   "summary": "CIA history of the U-2's creation from November 1954 to mid-1956: Project AQUATONE's staff and funding, Lockheed's design, the cameras, the Groom Lake (Area 51) test site, security, the Air Force partnership, test flights, pilots and crashes, targeting, photo interpretation, the GENETRIX balloons, congressional briefings and the cover story.",
+   "nodes": [
+    {
+     "node_id": "0001",
+     "title": "The establishment of the U-2 project",
+     "start_page": 1,
+     "end_page": 5,
+     "summary": "On 26 November 1954 Allen Dulles put Richard Bissell in charge of a secret overflight program Eisenhower had approved. At a 3 December Pentagon meeting the Air Force offered J57 engines but no one would pay for airframes, so CIA used its Contingency Reserve Fund. A chart shows Project AQUATONE's planned 357 personnel; the staff moved offices several times.",
+     "nodes": []
+    },
+    {
+     "node_id": "0002",
+     "title": "Funding arrangements for Project AQUATONE",
+     "start_page": 5,
+     "end_page": 7,
+     "summary": "Kelly Johnson started work with 25 engineers before any contract. Unvouchered funds under Public Law 110 allowed covert procurement. Eisenhower authorized $35 million in December 1954 and CIA signed a letter contract with Lockheed on 22 December. Lockheed delivered 20 aircraft on time and under budget for $18,977,597, less than $1 million each.",
+     "nodes": []
+    },
+    {
+     "node_id": "0003",
+     "title": "Major design features of the U-2",
+     "start_page": 7,
+     "end_page": 10,
+     "summary": "Johnson built the plane, nicknamed the \"Angel,\" in Lockheed's Skunk Works at Burbank. His December 1954 report promised a 2.5-g airframe flying at Mach 0.8 up to 73,100 feet, and a first flight by 2 August 1955. Sailplane ideas shaped the bolted-on wings and tail, the fuel-filled wings, gust control and bicycle landing gear with droppable pogos.",
+     "nodes": []
+    },
+    {
+     "node_id": "0004",
+     "title": "The development of the camera system",
+     "start_page": 10,
+     "end_page": 18,
+     "summary": "Existing cameras were too crude above 33,000 feet. James Baker and Richard Perkin adapted Hycon K-38 cameras into the A-1 system, then the A-2 with Baker's 24-inch aspheric lenses. The 36-inch B camera, resolving 100 lines per millimeter, became the workhorse; the 180-inch C camera was shelved in 1957. Baker also designed a navigation periscope.",
+     "nodes": []
+    },
+    {
+     "node_id": "0005",
+     "title": "Preparations for testing the U-2",
+     "start_page": 18,
+     "end_page": 19,
+     "summary": "On 12 April 1955 Bissell, Col. Osmund Ritland, Kelly Johnson and pilot Tony LeVier flew over Nevada and found an old airstrip by Groom Lake. AEC Chairman Lewis Strauss and Eisenhower added the strip, known on maps as Area 51, to the Nevada Test Site. Johnson called it the Paradise Ranch; the base was ready by July 1955.",
+     "nodes": []
+    },
+    {
+     "node_id": "0006",
+     "title": "Map of Area 51",
+     "start_page": 20,
+     "end_page": 20,
+     "summary": "Map of California and Nevada locating Area 51 at Groom Lake, northeast of the AEC Nevada Test Site, with an inset of the Mojave Desert area and Edwards AFB, Burbank, Los Angeles, Las Vegas and Indian Springs marked.",
+     "nodes": []
+    },
+    {
+     "node_id": "0007",
+     "title": "Security for the U-2 project",
+     "start_page": 21,
+     "end_page": 22,
+     "summary": "On 29 April 1955 the Air Force and Navy agreed that CIA held primary responsibility for all security. A new compartmented system controlled U-2 photographs. Aircraft were called \"articles\" and pilots \"drivers,\" with cable codenames KWEXTRA and KWGLITTER. Altimeters calibrated to 80,000 feet got a cover story about experimental rocket planes.",
+     "nodes": []
+    },
+    {
+     "node_id": "0008",
+     "title": "The CIA-Air Force partnership",
+     "start_page": 22,
+     "end_page": 23,
+     "summary": "Air Force Chief of Staff Nathan Twining wanted SAC to run operations; Eisenhower ruled it must be a civilian operation. The 3 August 1955 Project OILSTONE agreement gave the Air Force pilots, training, weather and mission plotting, and CIA cameras, security, contracts and film. Col. Ritland became Bissell's deputy; Lt. Col. Leo Geary served until 1966.",
+     "nodes": []
+    },
+    {
+     "node_id": "0009",
+     "title": "Technical challenges to high-altitude flight",
+     "start_page": 23,
+     "end_page": 28,
+     "summary": "Shell made a special low-volatility fuel, LF-1A, causing a national shortage of Flit bug spray. Doctors Donald Flickinger and Randolph Lovelace advised on survival; David Clark Company built MC-2 and MC-3 partial-pressure suits. Pilots prebreathed oxygen, ate from squeeze tubes and lost 3-6 pounds per mission. Each was offered a cyanide L-pill before missions.",
+     "nodes": []
+    },
+    {
+     "node_id": "0010",
+     "title": "Delivery of the first U-2",
+     "start_page": 28,
+     "end_page": 30,
+     "summary": "On 25 July 1955 article 341 was flown in a C-124 to Groom Lake. Geary and Col. Allman Culbertson placed it in the utility category as the U-2. The first U-2s used heavier, weaker J57/P-37 engines instead of the P-31. Fuel filled the wings, and the first 50 aircraft had mechanical fuel counters instead of gauges.",
+     "nodes": []
+    },
+    {
+     "node_id": "0011",
+     "title": "Initial testing of the U-2",
+     "start_page": 30,
+     "end_page": 34,
+     "summary": "Tony LeVier became airborne by accident during a taxi test on 1 August 1955. After hard landings, the first planned flight came on 4 August and the official first flight on 8 August. The U-2 reached 65,600 feet on 8 September, but P-37 engines flamed out. A C-54 shuttle crash on 17 November 1955 killed 14 people.",
+     "nodes": []
+    },
+    {
+     "node_id": "0012",
+     "title": "U-2s, UFOs, and Operation BLUE BOOK",
+     "start_page": 34,
+     "end_page": 35,
+     "summary": "U-2s flying above 60,000 feet, still lit by the sun at dusk, led airline pilots and ground observers to report UFOs. Operation BLUE BOOK investigators checked sightings against U-2 flight logs but could not reveal the cause. U-2 and later OXCART flights caused more than half of all UFO reports in the late 1950s and most of the 1960s.",
+     "nodes": []
+    },
+    {
+     "node_id": "0013",
+     "title": "Hiring U-2 pilots",
+     "start_page": 35,
+     "end_page": 37,
+     "summary": "Eisenhower wanted non-US pilots. The Directorate of Plans' Air/Maritime Division recruited foreign fliers, whose details are redacted, but few passed training and they left by autumn 1955. CIA then hired SAC reserve fighter pilots who resigned and became civilians (\"sheep-dipping\") for high pay and a promised return. The Lovelace Foundation screened candidates from November 1955.",
+     "nodes": []
+    },
+    {
+     "node_id": "0014",
+     "title": "Pilot training",
+     "start_page": 37,
+     "end_page": 38,
+     "summary": "Under OILSTONE, SAC ran training under Col. William F. Yancey; Lockheed test pilots trained six SAC pilots, qualified by September 1955, who then trained CIA pilots. There was no two-seat U-2 for almost 15 years. At altitude only 6 knots separated stall from buffet, the \"coffin corner.\" Pilots navigated by sextant and periscope.",
+     "nodes": []
+    },
+    {
+     "node_id": "0015",
+     "title": "Final tests of the U-2",
+     "start_page": 38,
+     "end_page": 41,
+     "summary": "By January 1956 SAC wanted its own U-2s; the Air Force bought 31 through CIA under Project DRAGON LADY. From 10 to 14 April 1956 U-2s made eight overflights of the United States, and Col. Yancey declared the unit ready. On 14 April pilot Jacob Kratt flamed out and glided more than 300 miles to Kirtland AFB.",
+     "nodes": []
+    },
+    {
+     "node_id": "0016",
+     "title": "Three fatal crashes in 1956",
+     "start_page": 41,
+     "end_page": 42,
+     "summary": "Wilburn Rose died on 15 May 1956 when a pogo would not drop; Frank Grace stalled article 354 at night on 31 August; Howard Carey died when article 346 broke apart near Wiesbaden on 17 September. On 19 December hypoxia led Robert Ericson to overspeed article 357 over Arizona; he bailed out unhurt.",
+     "nodes": []
+    },
+    {
+     "node_id": "0017",
+     "title": "Coordination of collection requirements",
+     "start_page": 42,
+     "end_page": 44,
+     "summary": "Following Edwin Land's November 1954 advice, Bissell created the Ad Hoc Requirements Committee on 1 December 1955, chaired by James Q. Reber. With the Army, Navy, Air Force, CIA offices and later NSA and State, it ranked targets on Soviet bombers, guided missiles and nuclear energy to guide U-2 flight plans.",
+     "nodes": []
+    },
+    {
+     "node_id": "0018",
+     "title": "Preparations to handle the product of U-2 missions",
+     "start_page": 44,
+     "end_page": 45,
+     "summary": "On 13 December 1954 Dulles and Bissell briefed Arthur Lundahl of CIA's Photo-Intelligence Division, which began Project EQUINE. PID grew from 13 to 44 people in May 1955 and doubled in January 1956 under Project HTAUTOMAT, moving to the Steuart Building. Interpreters practiced on April 1956 photos of US installations.",
+     "nodes": []
+    },
+    {
+     "node_id": "0019",
+     "title": "The impact of the Air Force Project GENETRIX balloons",
+     "start_page": 46,
+     "end_page": 50,
+     "summary": "Eisenhower approved Air Force camera balloons on 27 December 1955; 516 were launched by February 1956, but only 34 returned useful photos. Soviet and East European protests led him to halt the project on 7 February 1956. The balloons still gave baseline photos, high-altitude wind data and locations of Soviet TOKEN radars.",
+     "nodes": []
+    },
+    {
+     "node_id": "0020",
+     "title": "AQUATONE briefings for selected members of Congress",
+     "start_page": 50,
+     "end_page": 50,
+     "summary": "On 24 February 1956 Dulles briefed Senators Leverett Saltonstall and Richard Russell, then House Appropriations members John Taber and Clarence Cannon. Congressional knowledge stayed with this small group for four years; House Armed Services was briefed only after Francis Gary Powers's U-2 was lost in May 1960.",
+     "nodes": []
+    },
+    {
+     "node_id": "0021",
+     "title": "The U-2 cover story",
+     "start_page": 51,
+     "end_page": 52,
+     "summary": "Bissell chose a cover of high-altitude weather research by NACA, approved at the end of March 1956. On 21 June 1956 James Killian and Edwin Land urged admitting overflights if a U-2 was lost, but the weather cover stayed the policy, even for a captured pilot, a course that proved disastrous in May 1960.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0022",
+   "title": "Blank pages",
+   "start_page": 53,
+   "end_page": 54,
+   "summary": "Pages 91 and 92 of the history, marked \"Blank\" by hand.",
+   "nodes": []
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "topic": "cuba",
+ "item": "cuba-low-level-san-cristobal",
+ "kind": "image",
+ "source": "raw/cuba-low-level-san-cristobal/306-PSD-62-6778_001.jpg",
+ "start": null,
+ "duration": null,
+ "crop": [
+  685,
+  1998,
+  1300,
+  1300
+ ],
+ "motion": "drift",
+ "why": "The low-level San Cristobal photo shows the Soviet missile trucks and a row of oxidizer tank trailers in a bright clearing cut by sweeping tire tracks beside dark forest, which reads at small size as one missile site, and this crop sits between the print's labels and leader lines so no annotation shows, while the U-2 frame is mostly mottled treetops crossed by labels.",
+ "zoom": 0.6
+}

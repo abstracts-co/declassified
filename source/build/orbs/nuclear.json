@@ -1,0 +1,17 @@
+{
+ "topic": "nuclear",
+ "item": "nuclear-operation-ivy-film",
+ "kind": "video",
+ "source": "raw/nuclear-operation-ivy-film/342-usaf-21553.mp4",
+ "start": 565.3,
+ "duration": 6.5,
+ "crop": [
+  96,
+  0,
+  528,
+  480
+ ],
+ "motion": "loop",
+ "why": "The Ivy Mike fireball swells as one bright dome over the black Eniwetok skyline and dark sky, the clearest rising event in the topic, cropped 528x480 source pixels because the film's 10:11 pixels make that a true square, after the camera reframe at 565.2 s and before the white cut at 574.1 s.",
+ "zoom": 0.42
+}

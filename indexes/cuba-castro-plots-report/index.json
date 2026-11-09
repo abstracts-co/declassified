@@ -1,0 +1,518 @@
+{
+ "id": "cuba-castro-plots-report",
+ "title": "Report on Plots to Assassinate Castro",
+ "source": {
+  "url": "https://www.archives.gov/research/jfk/release-2022",
+  "publisher": "CIA",
+  "date": "1967-04",
+  "pages": 143,
+  "released": "2022-12-15",
+  "file": "https://www.archives.gov/files/research/jfk/releases/2022/104-10213-10101.pdf",
+  "sha256": "c044798947a90be220807c76fa2ecb1f53d06c9c28f6689bf33407b13b78f1a6",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "cuba",
+ "summary": "The CIA Inspector General's 1967 internal report on agency plots to kill Fidel Castro, written for Director Richard Helms after President Johnson ordered an investigation. It covers poisoned cigars, a diving suit dusted with fungus, a booby-trapped sea shell and the use of a gambling syndicate; first released in censored form in the 1990s, this copy comes from the National Archives' December 2022 release.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/cuba/cuba-castro-plots-report/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "HSCA file access sheet",
+   "start_page": 1,
+   "end_page": 1,
+   "summary": "Access sheet for the unsanitized IG report file held by CIA's PCS/LOC in room 2D 11, logging House Select Committee on Assassinations staff who reviewed it between September and December 1978, including MacDonald, Blackmer, Pfeiffer, Lopez, Palmer, Berk and Genzman. Stamped: no documents may be copied or removed.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "Memorandum for the record on the report's custody",
+   "start_page": 2,
+   "end_page": 2,
+   "summary": "Inspector General J. S. Earman, 23 May 1967: Helms ordered the report on 23 March and got it in installments from 24 April. Notes and the burn copy were destroyed on 23 May; this ribbon copy, the only text, was read only by Helms, Earman, Greer and Breckinridge. Filed with it: Security file, Harvey memos, MONGOOSE papers, Pearson columns.",
+   "nodes": []
+  },
+  {
+   "node_id": "0002",
+   "title": "Outline and table of contents",
+   "start_page": 3,
+   "end_page": 7,
+   "summary": "A one-page outline of the report's chapters, then a four-page table of contents listing every subsection with page numbers, from the introductory section through the gambling syndicate phases, the wiretapping incident, the 1963 schemes and Project AMLASH, ending with a memo to Secretary of State Rusk of 7 March 1966 on Cubela's arrest.",
+   "nodes": []
+  },
+  {
+   "node_id": "0003",
+   "title": "Introductory section",
+   "start_page": 8,
+   "end_page": 15,
+   "summary": "The 25 April 1967 memorandum opening the report: why the history is imperfect, how assassination plotting tracked US policy toward Cuba in five phases, the risks of removing a leader, loose language about 'disposing of' Castro, intelligence publications, and how much of Drew Pearson's story is true.",
+   "nodes": [
+    {
+     "node_id": "0004",
+     "title": "Scarcity of documentary evidence",
+     "start_page": 8,
+     "end_page": 9,
+     "summary": "No official records were kept of planning, approval or execution. The authors relied on Harvey's skeletal notes, Dr. Edward Gunn's and Ray Treichler's dated records, operational files and fading memories. They interviewed everyone identifiable except Dulles and Cabell (list at Tab A) and expect any errors to lie in the order of events.",
+     "nodes": []
+    },
+    {
+     "node_id": "0005",
+     "title": "Relationship of assassination planning to government policy",
+     "start_page": 9,
+     "end_page": 11,
+     "summary": "Plotting rose and fell with US efforts against Castro, in five phases: schemes before August 1960 to discredit him; aggressive plots tied to the Bay of Pigs; a dormant period after April 1961; revival in 1962 under Project MONGOOSE pressure; and termination in early 1963, when two further impracticable plots arose. Officers felt intense administration pressure.",
+     "nodes": []
+    },
+    {
+     "node_id": "0006",
+     "title": "Risk of assassination when a government is overthrown",
+     "start_page": 11,
+     "end_page": 12,
+     "summary": "Killing a dominant leader need not topple his government, as an October 1961 CIA draft paper for General Maxwell Taylor argued about Castro. Conversely, overthrowing a government means removing its leaders, with a risk that forces the US encourages but does not control will kill them.",
+     "nodes": []
+    },
+    {
+     "node_id": "0007",
+     "title": "Resort to synecdoche; published intelligence",
+     "start_page": 12,
+     "end_page": 13,
+     "summary": "Officials spoke loosely of 'disposing of Castro' to mean ousting his regime, or vaguely of 'doing something about Castro' when they meant killing him. A review of National Intelligence Estimates and other publications from 1960 to 1966 found only brief notes on successors, so they did not unduly influence the plotters.",
+     "nodes": []
+    },
+    {
+     "node_id": "0008",
+     "title": "Accuracy of the story Drew Pearson has",
+     "start_page": 13,
+     "end_page": 15,
+     "summary": "Pearson's column of 7 March 1967 and his unpublished information have a basis in fact: a CIA officer gave a Cuban asset a ballpoint-pen syringe in Paris on 22 November 1963; the Special Group (Augmented) discussed liquidating Cuban leaders on 10 August 1962; and CIA twice gave gangsters lethal pills. The events are real but not one connected story.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0009",
+   "title": "Miscellaneous schemes prior to August 1960",
+   "start_page": 16,
+   "end_page": 20,
+   "summary": "Three or four early schemes, probably between March and August 1960, aimed mostly at discrediting Castro rather than killing him: an aerosol spray in his radio studio, treated cigars and a thallium depilatory to make his beard fall out. None was approved above division level.",
+   "nodes": [
+    {
+     "node_id": "0010",
+     "title": "Dating the early schemes",
+     "start_page": 16,
+     "end_page": 17,
+     "summary": "J. D. Esterline, then head of the Cuba task force, is the best witness on timing. He thinks no such scheme reached the stage of choosing means before US policy on Cuba was set around March 1960, and that by late 1960 the task force had no time for them. No approval above division level was found.",
+     "nodes": []
+    },
+    {
+     "node_id": "0011",
+     "title": "Aerosol attack on radio station",
+     "start_page": 17,
+     "end_page": 18,
+     "summary": "Ray Treichler of TSD recalls a scheme to spray Castro's broadcast studio with a chemical producing LSD-like reactions; he discouraged it as unreliable and nothing came of it. Henry Bortner recalls experiments with such chemicals but cannot link them to Castro.",
+     "nodes": []
+    },
+    {
+     "node_id": "0012",
+     "title": "Contaminated cigars",
+     "start_page": 18,
+     "end_page": 19,
+     "summary": "Esterline kept a box of cigars treated to cause temporary disorientation before a Castro speech; they were never used and he destroyed them before leaving WH/4 in June 1961. Sidney Gottlieb recalls a separate, lethal cigar idea that never went beyond talk. The authors cannot tell whether these were one scheme or two.",
+     "nodes": []
+    },
+    {
+     "node_id": "0013",
+     "title": "Depilatory",
+     "start_page": 20,
+     "end_page": 20,
+     "summary": "Treichler recalls a plan to dust thallium salts into Castro's shoes during a trip abroad so his beard would fall out and destroy his image as 'The Beard.' The chemical was procured and tested on animals, but Castro did not make the trip. Bortner recalls something similar involving boots or shoes.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0014",
+   "title": "Gambling syndicate, phase 1",
+   "start_page": 21,
+   "end_page": 43,
+   "summary": "The first serious plot, August 1960 to spring 1961: Security Director Sheffield Edwards used Robert Maheu to recruit John Roselli, Sam Giancana and Santos Trafficante. TSD prepared poisoned cigars and botulinum pills, which went to Juan Orta and later to exile leader Tony Varona. It was called off after the Bay of Pigs.",
+   "nodes": [
+    {
+     "node_id": "0015",
+     "title": "Genesis of the plot; Maheu and Roselli recruited",
+     "start_page": 21,
+     "end_page": 24,
+     "summary": "In August 1960 Richard Bissell asked Edwards to reach the US gambling syndicate in Cuba. Edwards used private investigator Robert Maheu, a former FBI agent subsidized by CIA, who recruited Las Vegas figure John Roselli in New York on 14 September 1960, offering $150,000 for Castro's removal. James O'Connell of Security became case officer.",
+     "nodes": []
+    },
+    {
+     "node_id": "0016",
+     "title": "Briefing of Dulles and Cabell; Giancana and Trafficante",
+     "start_page": 24,
+     "end_page": 27,
+     "summary": "Edwards briefed DCI Allen Dulles and General Cabell, with Bissell present, describing an 'intelligence operation' running 'from A to B to C'; Dulles nodded. In Miami Roselli introduced 'Sam Gold' and 'Joe,' identified from a Parade article as Sam Giancana and Santos Trafficante. A note covers the closing of Cuba's casinos.",
+     "nodes": []
+    },
+    {
+     "node_id": "0017",
+     "title": "Lethal cigars",
+     "start_page": 27,
+     "end_page": 29,
+     "summary": "From fall 1960 TSD prepared means ahead of approval. Dr. Edward Gunn received a box of Castro's favorite cigars on 16 August 1960; Treichler contaminated all fifty with botulinum toxin, and a kept sample was still 94 percent potent in 1967. The cigars were never delivered; Gunn destroyed them after Edwards retired in 1963.",
+     "nodes": []
+    },
+    {
+     "node_id": "0018",
+     "title": "Poison prepared in pill form",
+     "start_page": 30,
+     "end_page": 33,
+     "summary": "Cornelius Roosevelt of TSD recalls four options: shellfish toxin, liquid bacteria, a treated cigarette or cigar, or a handkerchief. The gangsters wanted a pill for Castro's food or drink, so Treichler made botulinum pills, remade them after the first batch would not dissolve, and tested them on monkeys. Juan Orta, in Castro's office, was named as poisoner.",
+     "nodes": []
+    },
+    {
+     "node_id": "0019",
+     "title": "Pills passed to Roselli and Orta",
+     "start_page": 34,
+     "end_page": 36,
+     "summary": "O'Connell received about six pills after February 1961 and gave three to Roselli, who passed them via Trafficante to Orta. Orta had already lost his post on 26 January 1961, later sheltered in the Venezuelan Embassy, and reached Miami in 1965. The gangsters said he got cold feet and that a replacement tried several times without success.",
+     "nodes": []
+    },
+    {
+     "node_id": "0020",
+     "title": "Varona brought into the operation",
+     "start_page": 36,
+     "end_page": 39,
+     "summary": "Trafficante then recruited Tony Varona, head of the CIA-backed Democratic Revolutionary Front. Roselli guessed O'Connell was CIA. With deputy Robert Bannerman's approval O'Connell gave Roselli pills, money (recalled as $20,000 to $50,000) and communications equipment for Varona, whose contact worked in a restaurant Castro used. Edwards thinks it failed when Castro stopped going there. Notes cover publicist Edward K. Moss.",
+     "nodes": []
+    },
+    {
+     "node_id": "0021",
+     "title": "Edwards calls off the operation; those witting",
+     "start_page": 40,
+     "end_page": 43,
+     "summary": "After the Bay of Pigs Edwards sent word that the operation was off, though O'Connell thinks something continued. The pills were probably recovered and flushed away. Those witting included Dulles, Cabell, Bissell, Edwards, O'Connell, Roosevelt, Treichler, Gunn and Harvey, plus Maheu, Roselli, Giancana, Trafficante, Orta and Varona; others may now know through Pearson.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0022",
+   "title": "Gambling syndicate, phase 2",
+   "start_page": 44,
+   "end_page": 63,
+   "summary": "From November 1961 William Harvey took over the gangster channel under his ZRRIFLE executive action program, met Roselli in April 1962, delivered new pills and arms to Varona, and heard of teams sent to Cuba. Nothing happened, and Harvey ended the operation in early 1963, last seeing Roselli in June 1963.",
+   "nodes": [
+    {
+     "node_id": "0023",
+     "title": "Executive Action Capability and Project ZRRIFLE",
+     "start_page": 44,
+     "end_page": 48,
+     "summary": "Bissell told Harvey the White House had twice urged creation of a standby assassination capability. It became Project ZRRIFLE, using agent QJWIN, earlier recruited for a Congo operation against Lumumba. On 15 November 1961 Bissell told Harvey to take over Edwards' syndicate contacts. Harvey briefed Helms and, with his approval, did not brief the Director.",
+     "nodes": []
+    },
+    {
+     "node_id": "0024",
+     "title": "Differing views on the turnover to Harvey",
+     "start_page": 48,
+     "end_page": 53,
+     "summary": "Edwards, O'Connell and Harvey disagree on the handover. Edwards says the operation was dead until Harvey revived it in April 1962; O'Connell thinks something continued and that Maheu attended Harvey's first New York meeting with Roselli, which Harvey denies. O'Connell describes a night at the Copacabana where Roselli hid from Phyllis McGuire.",
+     "nodes": []
+    },
+    {
+     "node_id": "0025",
+     "title": "Harvey takes over \"a going operation\"",
+     "start_page": 53,
+     "end_page": 57,
+     "summary": "Treichler gave O'Connell four pills on 18 April 1962. Harvey reached Miami on 21 April to find Roselli already working with Varona on the restaurant plan; Giancana and Trafficante were dropped and a Cuban called Maceo joined. With JMWAVE chief Ted Shackley, Harvey delivered explosives, twenty rifles, twenty handguns and radios by rented truck.",
+     "nodes": []
+    },
+    {
+     "node_id": "0026",
+     "title": "Teams for Cuba and the end of the operation",
+     "start_page": 57,
+     "end_page": 61,
+     "summary": "Roselli reported the pills in Cuba and, on 21 June 1962, a three-man team sent in; a militia team was promised but never left. Harvey paid $2,700 for expenses and by January 1963 agreed nothing would happen. In June 1963 Roselli stayed with Harvey in Washington; the FBI, watching Roselli, saw them, and Sam Papich told Hoover.",
+     "nodes": []
+    },
+    {
+     "node_id": "0027",
+     "title": "Persons witting of phase 2",
+     "start_page": 62,
+     "end_page": 63,
+     "summary": "Those who knew of the second phase: Helms, Harvey, O'Connell, Edwards, J. C. King, Bruce Cheever, Ted Shackley, Treichler, Varona, his son-in-law and Maceo. Pearson's story resembles this phase and may have leaked via Roselli, Maheu, attorney Edward Morgan, Pearson, Chief Justice Warren, Secret Service chief Rowley and the FBI.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0028",
+   "title": "The wiretapping incident",
+   "start_page": 64,
+   "end_page": 82,
+   "summary": "A Las Vegas wiretap done for Giancana through Maheu exposed CIA's gangster ties to the FBI, led CIA to block prosecution, and forced a May 1962 briefing of Attorney General Robert Kennedy. Press stories in 1963 and the 1966 Long Committee inquiry threatened further exposure.",
+   "nodes": [
+    {
+     "node_id": "0029",
+     "title": "Giancana's bugging request and the Las Vegas arrest",
+     "start_page": 64,
+     "end_page": 67,
+     "summary": "Giancana suspected Phyllis McGuire of an affair with comedian Dan Rowan and called in a favor from Maheu to bug Rowan's Las Vegas room, probably in late 1961. Maheu used Edward Du Bois, who sent Balletti and Harrison; a maid found their phone tap, Balletti was arrested, and Maheu told the FBI it was a CIA matter.",
+     "nodes": []
+    },
+    {
+     "node_id": "0030",
+     "title": "CIA intervenes with the FBI and Justice Department",
+     "start_page": 67,
+     "end_page": 69,
+     "summary": "Hoover's memorandum of 23 March 1962 relayed Maheu's claim and Justice's question whether CIA objected to prosecution. Edwards told FBI liaison Sam Papich that prosecution would expose sensitive sources. General Counsel Lawrence Houston told Assistant Attorney General Herbert Miller on 16 April of CIA's involvement, without assassination details.",
+     "nodes": []
+    },
+    {
+     "node_id": "0031",
+     "title": "Edwards and Houston brief the Attorney General",
+     "start_page": 70,
+     "end_page": 75,
+     "summary": "On 7 May 1962 Edwards and Houston briefed Robert Kennedy, who dropped the case but demanded advance notice of any future CIA use of gangsters. A 14 May memorandum recorded the briefing. Edwards knew phase 2 had begun but did not say so; Helms was told and McCone was not. In March 1967 Senator Kennedy asked to reread the memo.",
+     "nodes": []
+    },
+    {
+     "node_id": "0032",
+     "title": "Press stories link Giancana and CIA",
+     "start_page": 75,
+     "end_page": 78,
+     "summary": "The Chicago Sun-Times of 16 August 1963 reported that CIA sought Giancana's help in Cuba and retold the Las Vegas bugging story; the Chicago Daily News followed on 20 August. Helms then sent McCone the Kennedy briefing memo, the earliest evidence McCone knew of the gangster plot. Rumors now tie CIA and gangsters to a Castro plot.",
+     "nodes": []
+    },
+    {
+     "node_id": "0033",
+     "title": "The Long Committee",
+     "start_page": 79,
+     "end_page": 82,
+     "summary": "In May-June 1966 Senator Edward Long's committee on invasions of privacy planned to call Maheu, who had worked for shipowner Niarchos against Onassis in 1954-55 with CIA support and had a role in the Las Vegas wiretap. CIA intervened to keep him from testifying. Maheu may have briefed his attorney, Edward Morgan, on the Castro plot.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0034",
+   "title": "Schemes in early 1963",
+   "start_page": 83,
+   "end_page": 86,
+   "summary": "Two impracticable 1963 ideas from the Cuba task force, a contaminated diving suit and an exploding sea shell, with a page listing the report's sources of information filed between them.",
+   "nodes": [
+    {
+     "node_id": "0035",
+     "title": "Skin diving suit",
+     "start_page": 83,
+     "end_page": 84,
+     "summary": "During James Donovan's talks with Castro on freeing Bay of Pigs prisoners, a plan arose to have Donovan give Castro a diving suit dusted with a fungus causing Madura foot and a breathing set contaminated with tuberculosis bacilli. A suit was bought, but Donovan had already given Castro one. Those witting included Helms, FitzGerald, Halpern, McManus, Gottlieb and Treichler.",
+     "nodes": []
+    },
+    {
+     "node_id": "0036",
+     "title": "Sources of information",
+     "start_page": 85,
+     "end_page": 85,
+     "summary": "Files came from the Director of Security, Deputy Director for Support, General Counsel, Legislative Counsel, WH Division and J. C. King. Bissell, Edwards, Harvey and Nestor Sanchez were called back for interviews, each opened by citing Pearson's 7 March 1967 column. A complete list of the twenty-odd people interviewed follows.",
+     "nodes": []
+    },
+    {
+     "node_id": "0037",
+     "title": "Booby-trapped sea shell",
+     "start_page": 86,
+     "end_page": 86,
+     "summary": "Early in 1963 Desmond FitzGerald, Chief of SAS, proposed planting an explosive-rigged, eye-catching sea shell where Castro skin-dived, and bought two books on Caribbean mollusca. FitzGerald, Sam Halpern and Bruce Cheever discussed it, but no suitable shell could be found and the idea was soon dropped as impracticable.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0038",
+   "title": "Project AMLASH: Rolando Cubela",
+   "start_page": 87,
+   "end_page": 121,
+   "summary": "CIA's 1961-1965 relationship with Rolando Cubela, a disaffected Cuban army major who wanted to kill Castro: meetings across Europe and Brazil, Desmond FitzGerald's assurances, a poison-pen syringe handed over on 22 November 1963, arms caches and silencers, contacts through Manuel Artime, termination in 1965 and Cubela's 1966 trial.",
+   "nodes": [
+    {
+     "node_id": "0039",
+     "title": "Stewart meets Cubela in Mexico City (March 1961)",
+     "start_page": 87,
+     "end_page": 89,
+     "summary": "Jack Stewart of the Mexico City Station met Cubela in March 1961, arranged by Carlos Tepedino (AMWHIP-1). Cubela, a leader of the Directorio Revolucionario and major in the Cuban army, had reportedly threatened in 1959 to kill Castro himself. A plan to exfiltrate him and Juan Orta was dropped when Cuban police learned of it.",
+     "nodes": []
+    },
+    {
+     "node_id": "0040",
+     "title": "Helsinki, Stockholm, Copenhagen and Paris meetings (1961-1962)",
+     "start_page": 89,
+     "end_page": 94,
+     "summary": "After an unused August 1961 Paris contact, Tepedino and William Wainwright met Cubela at the Helsinki Youth Festival from 1 August 1962, recruiting him in place. Cubela spoke of killing Castro; in Copenhagen he objected to the word 'assassinate.' In Paris he received secret-writing and demolition training, refused a polygraph, and headquarters barred elimination missions.",
+     "nodes": []
+    },
+    {
+     "node_id": "0041",
+     "title": "Porto Alegre and Paris meetings (September-October 1963)",
+     "start_page": 95,
+     "end_page": 97,
+     "summary": "Nestor Sanchez became case officer at Porto Alegre, Brazil, where Cubela discussed disaffected officers and Ramon Guin. In Paris that autumn, under French surveillance, Cubela insisted on meeting a senior US official, preferably Robert Kennedy, for assurances of support. Sanchez urged that his determination to act against Castro be taken seriously.",
+     "nodes": []
+    },
+    {
+     "node_id": "0042",
+     "title": "FitzGerald meets Cubela in Paris (October 1963)",
+     "start_page": 97,
+     "end_page": 100,
+     "summary": "Desmond FitzGerald, Chief of SAS, met Cubela in Red Stent's Paris house as Robert Kennedy's personal representative, alias James Clark; Helms judged Kennedy's approval unnecessary. Sanchez's memo records US support only after a real coup. FitzGerald recalls refusing Cubela's request for a high-powered rifle; Cubela still wanted technical support.",
+     "nodes": []
+    },
+    {
+     "node_id": "0043",
+     "title": "The Black Leaf 40 episode",
+     "start_page": 101,
+     "end_page": 105,
+     "summary": "Halpern and Sanchez asked Dr. Gunn for a means Cubela could use. Gunn turned a Paper-Mate pen into a hypodermic syringe for Black Leaf 40, a nicotine insecticide. Sanchez showed it to Cubela in Paris on 22 November 1963, as President Kennedy was shot; Cubela was unimpressed and asked for a rifle. FitzGerald 'didn't want to know.'",
+     "nodes": []
+    },
+    {
+     "node_id": "0044",
+     "title": "Arms caches and the FAL silencer (1964)",
+     "start_page": 105,
+     "end_page": 108,
+     "summary": "From the files: two caches for AMLASH were planned for March 1964, one in Pinar del Rio by Operation ZORRO and one in the AMTRUNK infiltration area. Cubela asked for a silencer for a Belgian FAL rifle, and SAS had TSD develop one on a crash basis. A later ZORRO cache held two FAL rifles but no silencers.",
+     "nodes": []
+    },
+    {
+     "node_id": "0045",
+     "title": "Artime and Cubela put together",
+     "start_page": 108,
+     "end_page": 114,
+     "summary": "Exile leader Manuel Artime learned of Cubela's group, and CIA funded his travel. In Paris in December 1964 Cubela was told the US could not help his plan. Artime met him in Madrid on 27 December, agreed to supply a silenced FAL, and in February 1965 delivered special items. Rafael Garcia-Bango, who had defended Trafficante, then surfaced as a link.",
+     "nodes": []
+    },
+    {
+     "node_id": "0046",
+     "title": "Headquarters terminates contacts with the Cubela group",
+     "start_page": 114,
+     "end_page": 116,
+     "summary": "The circle knowing of Cubela's plans kept widening. In June 1965 ex-trainee Victor Espinosa reported a Paris message from Cubela's associate Alberto Blanco seeking US support to kill Castro. CIA had refused Cubela $10,000 but paid smaller sums. A 23 June 1965 cable called the AMLASH group insecure and ordered all contact ended.",
+     "nodes": []
+    },
+    {
+     "node_id": "0047",
+     "title": "Arrest, trial and sentence of Cubela (March 1966)",
+     "start_page": 117,
+     "end_page": 121,
+     "summary": "Cuban police arrested Cubela and Ramon Guin; at trial in Havana in March 1966 they and others confessed to plotting to kill Castro, followed by an invasion. Castro asked that no death sentence be sought, and Cubela, expecting execution, got 25 years. The trial never mentioned his pre-1964 CIA contacts or the Black Leaf 40 pen.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0048",
+   "title": "Discussion of assassination at high-level government meetings",
+   "start_page": 122,
+   "end_page": 127,
+   "summary": "Two interagency meetings where killing Castro was raised: the Special Group (Augmented) at the State Department on 10 August 1962, probably the meeting Pearson heard of, and the 303 Committee on 30 July 1964.",
+   "nodes": [
+    {
+     "node_id": "0049",
+     "title": "Special Group (Augmented) meeting of 10 August 1962",
+     "start_page": 122,
+     "end_page": 125,
+     "summary": "Rusk, McNamara, Taylor, Bundy, Lansdale, McCone, Harvey, Murrow and others met at State. The minutes are silent, but McCone and Harvey recall McNamara raising the liquidation of Cuban leaders; McCone objected. Lansdale's 13 August MONGOOSE memo gave Harvey planning 'including elimination of leaders,' a phrase cut from all copies at Harvey's protest.",
+     "nodes": []
+    },
+    {
+     "node_id": "0050",
+     "title": "303 Committee meeting of 30 July 1964",
+     "start_page": 125,
+     "end_page": 127,
+     "summary": "Bundy, Vance, McCone, Hughes and FitzGerald, probably in the White House Situation Room, discussed a 10 June 1964 CIA report of an exile plot with Mafia overtones to kill Castro, which CIA had refused to fund. FitzGerald was to contact the FBI's Sam Papich; nothing came of the plot. The asking price matched CIA's own earlier $150,000 offer.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0051",
+   "title": "Possible ramifications of the gambling syndicate operation",
+   "start_page": 128,
+   "end_page": 143,
+   "summary": "An assessment of the leak behind Drew Pearson's story: what is true in it, who knew what, the conclusion that Roselli talked to attorney Edward Morgan, the danger from Jim Garrison's inquiry, what other agencies know, and why CIA can neither deny the plot nor call itself a mere instrument of policy.",
+   "nodes": [
+    {
+     "node_id": "0052",
+     "title": "The Drew Pearson story: the facts as we know them",
+     "start_page": 128,
+     "end_page": 128,
+     "summary": "A table setting Pearson's claims beside the facts: CIA did plot with underworld figures; Robert Kennedy did not approve, being briefed on phase 1 only after it ended; a three-man team was reported in Cuba in June 1962, fate unknown; pills went to Cuba in both phases; and assassination was raised at State on 10 August 1962.",
+     "nodes": []
+    },
+    {
+     "node_id": "0053",
+     "title": "O'Connell's findings in Las Vegas",
+     "start_page": 129,
+     "end_page": 131,
+     "summary": "O'Connell returned from Las Vegas on 2 May 1967 with key points: Maheu told his attorney Edward Morgan about phase 1 but knew nothing of phase 2; Morgan and Roselli knew each other through Las Vegas Sun publisher Hank Greenspun; Roselli is drinking heavily; and Garrison, Morgan and Roselli were all in Las Vegas in March 1967.",
+     "nodes": []
+    },
+    {
+     "node_id": "0054",
+     "title": "Who knew what: the likely source of the leak",
+     "start_page": 131,
+     "end_page": 136,
+     "summary": "A table lists who knew of the pills, the Kennedy briefing, the three-man team and the State meeting. Only Harvey knew all four, but the authors doubt he leaked. Roselli, the one outsider in both phases, is the likely source, with Morgan the channel and Jack Anderson and Pearson the recipients.",
+     "nodes": []
+    },
+    {
+     "node_id": "0055",
+     "title": "Garrison and further publicity",
+     "start_page": 136,
+     "end_page": 138,
+     "summary": "The story is out and cannot be hushed up. Roselli's March contact with Jim Garrison is disturbing, lending weight to claims that Castro retaliated for US plots by killing Kennedy. Pearson has not yet used the pills or the State meeting, and a Puerto Rican held in the Philippines claims a part in a Castro-inspired plot in Dallas.",
+     "nodes": []
+    },
+    {
+     "node_id": "0056",
+     "title": "Should we try to silence those who are talking?",
+     "start_page": 138,
+     "end_page": 140,
+     "summary": "Silencing offers little chance of success: CIA has leverage only on Maheu. Varona is bitter and poor; Giancana, deposed, Trafficante, in jail in Tampa, and Roselli, barred in Las Vegas, would use their CIA links under pressure. Maheu fears losing client Howard Hughes, and his offer to urge discretion on Morgan and Roselli may help.",
+     "nodes": []
+    },
+    {
+     "node_id": "0057",
+     "title": "What other components of government know",
+     "start_page": 140,
+     "end_page": 141,
+     "summary": "Robert Kennedy was briefed on phase 1 on 7 May 1962 and got a confirming memo on 14 May. The FBI was never told the operational details but has likely pieced them together; on 3 May 1967 Sam Papich remarked that Roselli and Giancana have CIA 'over a barrel.'",
+     "nodes": []
+    },
+    {
+     "node_id": "0058",
+     "title": "Can we plausibly deny the plot?",
+     "start_page": 141,
+     "end_page": 142,
+     "summary": "No. Nothing in writing outside government confirms Pearson's story, but non-gangster witnesses could: Maheu on Edwards' telling Roselli about the Kennedy briefing, Varona and his son-in-law on the pills and team, and Orta on the phase 1 pills. An independent investigation could learn everything the authors did, and more.",
+     "nodes": []
+    },
+    {
+     "node_id": "0059",
+     "title": "Instrument of policy; measures to lessen the damage",
+     "start_page": 142,
+     "end_page": 143,
+     "summary": "CIA cannot claim it merely followed policy: phase 1 began under Eisenhower, and phase 2 was never disclosed to the Attorney General despite his May 1962 admonition; the three-man team in Pearson's story comes only from phase 2. Approaching Maheu, Morgan or Roselli would gain little and could lend the story credence.",
+     "nodes": []
+    }
+   ]
+  }
+ ]
+}

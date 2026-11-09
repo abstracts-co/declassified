@@ -1,0 +1,143 @@
+{
+ "id": "psychic-kress-review",
+ "title": "Parapsychology in Intelligence",
+ "source": {
+  "url": "https://www.cia.gov/readingroom/document/cia-rdp96-00791r000200030040-0",
+  "publisher": "CIA",
+  "date": "1977",
+  "pages": 12,
+  "released": "2003-04-18",
+  "file": "https://archive.org/download/CIA-RDP96-00791R000200030040-0/CIA-RDP96-00791R000200030040-0.pdf",
+  "sha256": "f96dc174737cdf060779015a24d4d70067950894eae4f3186eb1ff03ab718d8a",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "psychic",
+ "summary": "CIA officer Kenneth Kress's account of the agency's psychic research, written for its classified journal Studies in Intelligence in 1977. It covers the SRI work, Pat Price's viewing of a Soviet test site and Price naming Kress's CIA job, and argues the results were never properly assessed.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/psychic/psychic-kress-review/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Cover, Studies in Intelligence, Vol. 21 No. 4, Winter 1977",
+   "start_page": 1,
+   "end_page": 1,
+   "summary": "Cover of the CIA's classified journal Studies in Intelligence, Vol. 21 No. 4, Winter 1977 (TR-SINT 77-004), marked Secret NOFORN, with the CIA seal and a note that articles reflect the authors' views, not official CIA positions.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "Parapsychology in intelligence: a personal review and conclusions",
+   "start_page": 2,
+   "end_page": 12,
+   "summary": "Dr. Kenneth A. Kress, CIA project officer, recounts the agency's sponsorship of psychokinesis and remote viewing research at SRI from 1972 to 1975, including Pat Price's viewing of a Soviet test site, embassy coderooms and Libyan sites, the disputes that ended funding, and his view that the subject was never properly assessed.",
+   "nodes": [
+    {
+     "node_id": "0002",
+     "title": "Introduction and early ESP reports",
+     "start_page": 2,
+     "end_page": 3,
+     "summary": "CIA sponsored serious research, but bias, fear of ridicule, the \"Proxmire Effect\" and inquiries into agency improprieties kept it from finishing. The paper covers psychokinetics and remote viewing. ESP reports reached US security agencies from World War II on; in 1961 OTS interest led Stephen Abrams of Oxford to review ESP under Project ULTRA, finding it real but uncontrollable.",
+     "nodes": []
+    },
+    {
+     "node_id": "0003",
+     "title": "SRI demonstrations and the first contracts, 1972",
+     "start_page": 3,
+     "end_page": 4,
+     "summary": "Physicists Russell Targ and Harold Puthoff met CIA in April 1972. Their subject disturbed a shielded magnetometer at Stanford; an $874 OTS demonstration in August 1972 produced startlingly accurate descriptions of hidden objects. By October 1972 Kress was project officer on a $50,000 effort, where the two subjects' abilities proved inconsistent and he suspected fraud.",
+     "nodes": []
+    },
+    {
+     "node_id": "0004",
+     "title": "Expansion halted, 1973",
+     "start_page": 4,
+     "end_page": 4,
+     "summary": "In February 1973 ORD joined and Pat Price arrived at SRI, starting remote viewing in earnest. William Colby sent the expanded contract to the Executive Management Committee; after a memo went to DCI James Schlesinger in May 1973, Kress was told the project was too sensitive and should be tabled, amid Watergate inquiries into OTS.",
+     "nodes": []
+    },
+    {
+     "node_id": "0005",
+     "title": "OSI remote viewing of a vacation property",
+     "start_page": 4,
+     "end_page": 5,
+     "summary": "In summer 1973 an OSI officer gave SRI only the coordinates of a vacation property in the eastern US. Two subjects, one of them Price, described a military-like facility; the officer found a sensitive government installation nearby. Price gave project titles, the site's codename and an accurate layout, though some names were wrong.",
+     "nodes": []
+    },
+    {
+     "node_id": "0006",
+     "title": "Joint ORD and OTS program and the ESP teaching machine",
+     "start_page": 5,
+     "end_page": 6,
+     "summary": "A jointly funded program began in February 1974. ORD scientists and SRI clashed over rigor. On a four-state random generator a subject scored 29 percent over 2,500 trials against 25 percent by chance; ORD suspected nonrandomness, but a computer reanalysis found none and a retest gave over 28 percent. New directors grew skeptical and support faded.",
+     "nodes": []
+    },
+    {
+     "node_id": "0007",
+     "title": "Remote viewing of URDF-3 at Semipalatinsk",
+     "start_page": 6,
+     "end_page": 9,
+     "summary": "Price, given only coordinates, viewed the Soviet Semipalatinsk test facility URDF-3 and drew a huge crane but missed four derricks. Asked to name Kress, he said \"Ken Kress\" and \"Works for CIA\". Most of his data were wrong, though analysts judged the crane accurate; ORD called the results lucky guessing.",
+     "nodes": []
+    },
+    {
+     "node_id": "0008",
+     "title": "Figure 1: comparison of target site and drawing by remote viewer",
+     "start_page": 8,
+     "end_page": 8,
+     "summary": "Two-part figure: (a) a drawing of the URDF-3 target site with its gantry crane and derrick-like structures, and (b) a crane comparison setting the site's crane beside Price's drawing of a wheeled gantry crane.",
+     "nodes": []
+    },
+    {
+     "node_id": "0009",
+     "title": "Consultant's critique and the embassy coderoom test",
+     "start_page": 9,
+     "end_page": 10,
+     "summary": "A theoretical physicist consultant concluded that ESP exists, though rare and unreliable. Told to show operational value, Price viewed two foreign embassies and correctly located the coderooms. OTS and ORD then dropped research funding at SRI, moved Price to a personal services contract and handed his testing to an OTS psychologist, judging Kress a biased advocate.",
+     "nodes": []
+    },
+    {
+     "node_id": "0010",
+     "title": "Libyan sites and the end of CIA testing",
+     "start_page": 10,
+     "end_page": 10,
+     "summary": "OTS engineers described possible SA-3 missile training construction at a Libyan site, matching an agent's report. Price described a guerrilla training site and an underwater sabotage facility, partly verified by reconnaissance. He died of a heart attack days after receiving new requirements. Since July 1975 interest has been modest; George Bush was briefed in 1976.",
+     "nodes": []
+    },
+    {
+     "node_id": "0011",
+     "title": "Postscript",
+     "start_page": 11,
+     "end_page": 12,
+     "summary": "Other agencies' reactions, public interest after SRI's publications, and Kress's conclusion that parapsychology has not been sufficiently understood or assessed for intelligence use.",
+     "nodes": [
+      {
+       "node_id": "0012",
+       "title": "Other agencies",
+       "start_page": 11,
+       "end_page": 11,
+       "summary": "DIA stayed interested at low priority. The Army Materiel Command studied Vietnam point men with unusually few casualties. DARPA staged a hostile debunking session. The Navy funded a replication at SRI, then stopped over \"mind warfare\" concerns. Funding shifted to the Air Force Foreign Technology Division, testing paranormal signalling and aircraft and missile intelligence.",
+       "nodes": []
+      },
+      {
+       "node_id": "0013",
+       "title": "Public interest and conclusions",
+       "start_page": 12,
+       "end_page": 12,
+       "summary": "Books, news reports and Director Turner's statement brought the work into the open. Kress says observations like the Stanford magnetometer, OSI remote viewing and OTS coderoom tests defy explanation, but applications-focused agencies demand quick results; he urges long-term basic research and testing only abilities reproducible enough to aid hard collection.",
+       "nodes": []
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

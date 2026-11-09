@@ -1,0 +1,17 @@
+{
+ "topic": "satellites",
+ "item": "satellites-point-in-time-film",
+ "kind": "video",
+ "source": "raw/satellites-point-in-time-film/gov.archives.arc.1678526_512kb.mp4",
+ "start": 2427.2,
+ "duration": 8,
+ "crop": [
+  61,
+  16,
+  192,
+  192
+ ],
+ "motion": "loop",
+ "why": "The CORONA film's animated Earth, a lit globe on black space turning slowly from Africa to the Americas, is the planet as the spy satellites saw it and reads as a sphere inside the glass ball.",
+ "zoom": 0.42
+}

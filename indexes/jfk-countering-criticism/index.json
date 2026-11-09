@@ -1,0 +1,298 @@
+{
+ "id": "jfk-countering-criticism",
+ "title": "CIA Dispatch 1035-960",
+ "source": {
+  "url": "https://www.cia.gov/readingroom/document/00352448",
+  "publisher": "CIA",
+  "date": "1967-04-01",
+  "pages": 53,
+  "released": "1998",
+  "file": "https://archive.org/download/cia-readingroom-document-00352448/00352448.pdf",
+  "sha256": "bbd20bd71cbafc54bb26dee5f784a4f9f49980c942363a86e7a0b2c9cce70623",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "jfk",
+ "summary": "A CIA dispatch to station chiefs, \"Countering Criticism of the Warren Report\", asking them to raise the issue with friendly politicians and editors and to use propaganda assets, such as book reviews and feature articles, to answer the Commission's critics. It states its aim as providing material \"countering and discrediting the claims of the conspiracy theorists\".",
+ "files": "https://abstracts-co.github.io/declassified-data/us/jfk/jfk-countering-criticism/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Dispatch: Countering criticism of the Warren Report",
+   "start_page": 1,
+   "end_page": 3,
+   "summary": "CIA dispatch 1035-960 of 1 April 1967 to chiefs of certain stations and bases. It says doubts about the Warren Commission concern the US government and the agency, and asks stations to brief friendly contacts and use propaganda assets to rebut the critics. It lists nine attachments, eight of them unclassified.",
+   "nodes": [
+    {
+     "node_id": "0001",
+     "title": "Our concern",
+     "start_page": 1,
+     "end_page": 1,
+     "summary": "Speculation has revived; a poll shows 46% of Americans doubt Oswald acted alone. Attacks on the Commission cast doubt on American leadership and hint at President Johnson, and conspiracy theories falsely claim Oswald worked for the agency. The aim is to counter and discredit such claims abroad. A handwritten note says 'we' furnished most source material and themes.",
+     "nodes": []
+    },
+    {
+     "node_id": "0002",
+     "title": "Action",
+     "start_page": 1,
+     "end_page": 2,
+     "summary": "Stations should not start discussion where none exists. Where it is active, they should tell liaison and friendly elite contacts, especially politicians and editors, that the charges lack foundation and partly come from Communist propagandists, and use propaganda assets, book reviews and feature articles to paint critics as biased, interested or careless. Epstein's theory is singled out for attack.",
+     "nodes": []
+    },
+    {
+     "node_id": "0003",
+     "title": "Arguments to use against the critics",
+     "start_page": 2,
+     "end_page": 3,
+     "summary": "Points for private or media discussion: no significant new evidence has emerged; critics favour eyewitnesses over ballistic, autopsy and photo evidence; a large conspiracy could not stay hidden; Oswald was nobody's sensible choice of conspirator; the report was not a rush job; the 'mysterious deaths' have natural causes. Stations should urge readers back to the Commission's Report itself.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0004",
+   "title": "Attachments",
+   "start_page": 4,
+   "end_page": 53,
+   "summary": "The attachments as filed, several pages out of order: a background survey of critics' books, an unsigned analysis of Epstein's theories, and articles and an interview defending the Warren Commission by A. L. Goodhart, Arnold Fein, Peter Kihss, Merriman Smith, Fletcher Knebel, Henry Fairlie and Arlen Specter, plus a clipping on Exhibit 399.",
+   "nodes": [
+    {
+     "node_id": "0005",
+     "title": "Background survey of books concerning the assassination of President Kennedy",
+     "start_page": 4,
+     "end_page": 8,
+     "summary": "Survey dated 4 January 1967, marked attachment 1, on the critics of the Warren Commission: their political leanings, the money in sensational books, their methods, Epstein's Inquest, Popkin's 'second Oswald', books still to come, and a stepped-up Communist propaganda campaign against the Warren Report.",
+     "nodes": [
+      {
+       "node_id": "0006",
+       "title": "Critics' politics, profits and methods",
+       "start_page": 4,
+       "end_page": 5,
+       "summary": "Joesten, Lane and Sauvage claimed a conspiracy before the Commission reported. Joesten is named as a former German Communist Party member and Lane is tied to left-wing groups and Ralph Schoenman. Rush to Judgment sold 85,000 copies by early November 1966. Weisberg, Penn Jones and Thomson are dismissed, and Lane is accused of burying readers in minor details.",
+       "nodes": []
+      },
+      {
+       "node_id": "0007",
+       "title": "Epstein's Inquest",
+       "start_page": 5,
+       "end_page": 6,
+       "summary": "Epstein's Inquest has a scholarly tone and has swayed Richard Rovere and Lord Devlin; Life magazine of 25 November 1966 spoke of 'reasonable doubt'. The survey says his research is overrated: he misstated when CIA gave the FBI a photo taken in Mexico City and spent only two days in the National Archives.",
+       "nodes": []
+      },
+      {
+       "node_id": "0008",
+       "title": "Popkin, books to come and Communist propaganda",
+       "start_page": 6,
+       "end_page": 8,
+       "summary": "Richard Popkin's 'second Oswald' theory and Barbara Garson's play MacBird hint at President Johnson. Books by Manchester, Jacob Cohen and Wesley Liebeler are pending, and Ruby's death will feed speculation. New Times, Izvestiya, Tass, Prague and Warsaw radio, the Bulgarian press and the Greek paper Avgi attack the report; Joesten's book may be a Soviet propaganda operation.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0009",
+     "title": "The theories of Mr. Epstein, by Spectator",
+     "start_page": 9,
+     "end_page": 13,
+     "summary": "Unsigned analysis dated January 1967, marked attachment 2, rebutting Edward Jay Epstein's Inquest. Epstein argues that Kennedy and Connally were either hit by one bullet or shot by two assassins, and that FBI reports of a shallow back wound show the autopsy report was changed. The analysis answers both theses point by point.",
+     "nodes": [
+      {
+       "node_id": "0010",
+       "title": "Epstein's case",
+       "start_page": 9,
+       "end_page": 10,
+       "summary": "Epstein sets the 2.3 seconds needed to work Oswald's rifle bolt against Zapruder film timing that puts the wounds within 1.8 seconds. He cites FBI reports from the Bethesda autopsy of a back wound with no exit, and clothing holes six inches below the collar. The autopsy doctors learned of the throat wound from Dallas on 23 November.",
+       "nodes": []
+      },
+      {
+       "node_id": "0011",
+       "title": "Epstein's thesis that if not hit by one bullet, there were two assassins",
+       "start_page": 10,
+       "end_page": 12,
+       "summary": "The Commission thought one bullet probably hit both men but did not rule out Connally's belief otherwise. The Zapruder film cannot fix the moment of impact, and the oak tree argument is a probability, not a certainty. Oswald's rifle and three cartridge cases were found and no other weapon; the Commission's caution shows it had no preconceived theory.",
+       "nodes": []
+      },
+      {
+       "node_id": "0012",
+       "title": "Epstein's thesis that the FBI reports were wrong or the autopsy falsified",
+       "start_page": 12,
+       "end_page": 13,
+       "summary": "FBI agents at the autopsy did not know of the throat wound seen in Dallas, and Hoover said the FBI reported only its own information. The clothing holes fit a President waving. In November 1966 two autopsy doctors viewed the photographs; Commander Boswell said his sketch misplaced the wound but its measurements, 14 cm from the shoulder joint, were correct.",
+       "nodes": []
+      },
+      {
+       "node_id": "0013",
+       "title": "Implications of Epstein's accusation",
+       "start_page": 13,
+       "end_page": 13,
+       "summary": "If Epstein were right, there was a conspiracy with no other identifiable member, and a falsified autopsy would implicate officials, lawyers, the three autopsy doctors and seven Commissioners. The author concludes that Epstein jumped to a conclusion on incomplete research 'in a rush to judgment'.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0014",
+     "title": "Legal ignorance and false logic, by A. L. Goodhart, Q.C.",
+     "start_page": 14,
+     "end_page": 16,
+     "summary": "Article of 15 December 1966, marked attachment 3, answering Hugh Trevor-Roper's introduction to Mark Lane's Rush to Judgment. Goodhart calls Lane's claim about English law 'utter nonsense', citing the 1962 Vassall tribunal; tests Lane's secret informant, Ruby's testimony and Nancy Perrin Rich's story; and calls Epstein's 'political truth' thesis 'psychology run mad'.",
+     "nodes": []
+    },
+    {
+     "node_id": "0015",
+     "title": "JFK in Dallas: the Warren Report and its critics, by Arnold L. Fein",
+     "start_page": 17,
+     "end_page": 23,
+     "summary": "Saturday Review article of 22 October 1966, marked attachment 4, by a New York Civil Court judge. Fein grants the Commission should have used independent investigators and allowed adversary counsel, and doubts the single-bullet theory, but finds Lane, Epstein, Weisberg, Popkin, Sauvage and Fox unfair and their hints of conspiracy baseless and dangerous.",
+     "nodes": []
+    },
+    {
+     "node_id": "0016",
+     "title": "Autopsy surgeon says photos support Warren Report on wound in neck",
+     "start_page": 24,
+     "end_page": 24,
+     "summary": "Report by Peter Kihss, marked attachment 5. Dr. J. Thornton Boswell says the autopsy X-rays and photographs he saw on 1 November confirm the neck wound's location; his sketch dot was too low but its notes, 14 cm from the right acromion and below the mastoid, are correct. The family deposited them in the National Archives on 31 October.",
+     "nodes": []
+    },
+    {
+     "node_id": "0017",
+     "title": "Dallas 'exposés' deflated, by Merriman Smith, pages 1-2",
+     "start_page": 25,
+     "end_page": 26,
+     "summary": "Washington Post article of 20 November 1966, marked attachment 6. The UPI White House correspondent, who rode in the motorcade, says he heard only three shots, from behind, and scoffs at a 'monstrous plot'. He lists the rumours, says some critics are in it for profit, defends Oswald's marksmanship and calls Epstein's Inquest scholarly but querulous.",
+     "nodes": []
+    },
+    {
+     "node_id": "0018",
+     "title": "A new wave of doubt, by Fletcher Knebel, pages 3-10",
+     "start_page": 27,
+     "end_page": 34,
+     "summary": "Continuation of Knebel's Look article (12 July 1966). Assigned to interview Epstein, Knebel concluded Inquest was guilty of distortion: it omits why the Commission doubted witness Arnold Rowland, and its claim that the autopsy was altered is denied by Commander Boswell, the FBI, Norman Redlich and Arlen Specter. J. Lee Rankin calls the book 'full of distortions'.",
+     "nodes": []
+    },
+    {
+     "node_id": "0019",
+     "title": "'Overwhelming evidence Oswald was assassin': interview with Arlen Specter",
+     "start_page": 35,
+     "end_page": 44,
+     "summary": "U.S. News & World Report interview of 10 October 1966, marked attachment 8, with Warren Commission assistant counsel Arlen Specter on the autopsy, the single-bullet theory, the grassy knoll, Oswald's rifle and marksmanship, and the Commission's methods. Its last page is filed separately at page 53.",
+     "nodes": [
+      {
+       "node_id": "0020",
+       "title": "The autopsy report and the FBI reports",
+       "start_page": 35,
+       "end_page": 37,
+       "summary": "Specter declines the title of chief investigator. He says the FBI's December 1963 report reflected doctors' remarks overheard on the night of 22 November, before they learned of the throat wound hidden by the Parkland tracheotomy, and that Dr. Humes burned his draft notes. Clothing fibres and Edgewood wound-ballistics tests on goat skin are described.",
+       "nodes": []
+      },
+      {
+       "node_id": "0021",
+       "title": "The autopsy pictures",
+       "start_page": 37,
+       "end_page": 37,
+       "summary": "Specter says the Commission did not see the autopsy photographs or X-rays; he was shown one unauthenticated picture of a back with a hole where the autopsy report placed it. The Commission chose not to press for them out of deference to the late President, judging them only corroborative, though Specter says more evidence is always better.",
+       "nodes": []
+      },
+      {
+       "node_id": "0022",
+       "title": "What the surgeons said",
+       "start_page": 37,
+       "end_page": 38,
+       "summary": "Specter says the photographs would only confirm what the surgeons swore to. To follow Epstein's theory that the back wound was lower than the throat wound is to call the autopsy surgeons perjurers. Proving that only one assassin was involved means proving a negative.",
+       "nodes": []
+      },
+      {
+       "node_id": "0023",
+       "title": "Officers saw no shooting from the grassy knoll",
+       "start_page": 39,
+       "end_page": 40,
+       "summary": "Specter says witnesses' sense of where shots came from is unreliable in Dealey Plaza; officers on the overpass saw no shooting from the knoll and no ballistic evidence points there. Three cartridge cases indicate three shots. Bullet 399 most probably wounded both men, but that conclusion was not needed to find Oswald the sole assassin.",
+       "nodes": []
+      },
+      {
+       "node_id": "0024",
+       "title": "There was no other bullet found anywhere in the car",
+       "start_page": 41,
+       "end_page": 42,
+       "summary": "The rifle needs 2.3 seconds between shots, and the Zapruder film cannot fix exact moments of impact. Edgewood tests on goats and cadaver wrists supported the single bullet; nothing else struck the car. Oswald was a good shot by civilian standards. He answers questions on the rifle sight, the early 'Mauser' identification and police records, and calls a cover-up impossible.",
+       "nodes": []
+      },
+      {
+       "node_id": "0025",
+       "title": "There has not been a scintilla of new evidence",
+       "start_page": 43,
+       "end_page": 43,
+       "summary": "Specter discusses re-enactments of Oswald's movements and timing and tests by wound-ballistics experts, and says the Commission considered other possible perpetrators. He maintains that the critics' books contain no new evidence and that the evidence, taken as a whole, forcefully supports the Commission's findings.",
+       "nodes": []
+      },
+      {
+       "node_id": "0026",
+       "title": "We did have time to do a responsible and thorough job",
+       "start_page": 44,
+       "end_page": 44,
+       "summary": "Specter describes questioning Parkland Hospital witnesses after preliminary interviews, says no one was denied a hearing, and explains that busy Commissioners could rely on transcripts. He rejects a critic's charge that the Commission rushed and did no adequate investigative work, calling its report exhaustive and painstaking.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0027",
+     "title": "A new wave of doubt, page 2",
+     "start_page": 45,
+     "end_page": 45,
+     "summary": "Second page of Knebel's Look article, filed out of order. It notes Inquest's publication by Viking Press with Richard Rovere's introduction and Andrew Hacker's endorsement, and lists Epstein's conclusions: the autopsy findings were changed, FBI reports of 9 December 1963 and 13 January 1964 contradict them, and the investigation was superficial.",
+     "nodes": []
+    },
+    {
+     "node_id": "0028",
+     "title": "Dallas 'exposés' deflated, page 3",
+     "start_page": 46,
+     "end_page": 46,
+     "summary": "Last page of Merriman Smith's article, filed out of order. White House aide Malcolm Kilduff also heard only three shots. Smith dismisses Weisberg's Whitewash and Popkin's 'second Oswald', finds Lane's Rush to Judgment less shrill but built on tiny variations in evidence, and quotes a close Kennedy friend objecting to critics 'twisting this dagger'.",
+     "nodes": []
+    },
+    {
+     "node_id": "0029",
+     "title": "No conspiracy, but - two assassins, perhaps? by Henry Fairlie",
+     "start_page": 47,
+     "end_page": 50,
+     "summary": "Article by English political commentator Henry Fairlie, marked attachment 7. He grants that the Commission worked hurriedly but finds 'a remarkable amount of nonevidence' for conspiracy, recalls theories he heard in the South and in Europe, mocks implausible plots, and warns that critics like Epstein and Lane risk opening the public mind to fear and hysteria.",
+     "nodes": []
+    },
+    {
+     "node_id": "0030",
+     "title": "Exhibit 399",
+     "start_page": 51,
+     "end_page": 51,
+     "summary": "Unidentified newspaper page, printed sideways, with a photo of Oswald's Mannlicher-Carcano rifle. It explains why the single-bullet theory matters: the film allows 1.8 seconds between wounds while the rifle needs 2.3, and Epstein's newly found FBI reports contradict the autopsy, leading him to call the report's conclusions 'political truth'.",
+     "nodes": []
+    },
+    {
+     "node_id": "0031",
+     "title": "A new wave of doubt, page 1",
+     "start_page": 52,
+     "end_page": 52,
+     "summary": "Opening page of Fletcher Knebel's Look article, marked attachment 8 and filed out of order. A second wave of critics led by Mark Lane and Edward Jay Epstein, a Harvard doctoral student, challenges the Commission; a Harris Survey in late 1964 found 31% of Americans thought Oswald had accomplices. Lane's Rush to Judgment is due on 15 August.",
+     "nodes": []
+    },
+    {
+     "node_id": "0032",
+     "title": "If inquiry were reopened",
+     "start_page": 53,
+     "end_page": 53,
+     "summary": "Last page of the Specter interview, filed out of order. He says relying on federal agencies was reasonable, independent Army experts checked ballistics, and a cover-up would require reputable officials to perjure themselves. He believes reopening the inquiry would reveal nothing new, though critics are free to disagree.",
+     "nodes": []
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "topic": "fbi",
+ "item": "fbi-elvis-nixon-photo",
+ "kind": "image",
+ "source": "raw/fbi-elvis-nixon-photo/Richard_M._Nixon_and_Elvis_Presley_at_the_White_House_(3679494978).jpg",
+ "start": null,
+ "duration": null,
+ "crop": [
+  780,
+  455,
+  1580,
+  1580
+ ],
+ "motion": "push",
+ "why": "Elvis in black velvet shaking hands with Nixon in a grey suit against the pale Oval Office wall is the best-known picture in the topic and reads at once at small size; a slow push in toward the handshake suits it.",
+ "zoom": 0.6
+}

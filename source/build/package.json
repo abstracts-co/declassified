@@ -1,0 +1,1 @@
+{"name":"declassified-build","private":true,"type":"module","dependencies":{"three":"0.170.0","esbuild":"0.24.0","puppeteer-core":"23.11.1","sharp":"0.33.5"}}

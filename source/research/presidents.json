@@ -1,0 +1,225 @@
+{
+ "topic": "presidents",
+ "items": [
+  {
+   "id": "presidents-smoking-gun-tape",
+   "title": "The Smoking Gun Tape",
+   "type": "audio",
+   "date": "1972-06-23",
+   "released": "1974-08-05",
+   "agency": "White House",
+   "summary": "An eight-minute excerpt of the 23 June 1972 Oval Office meeting in which Nixon and his chief of staff, H. R. Haldeman, agree to have the CIA ask the FBI to halt its Watergate investigation on national security grounds. Its release on 5 August 1974, after the Supreme Court ordered the tapes handed over, ended Nixon's remaining support in Congress, and he resigned days later.",
+   "source": "https://www.nixonlibrary.gov/watergate-trial-tapes",
+   "file": "https://www.nixonlibrary.gov/sites/default/files/forresearchers/find/tapes/watergate/trial/exhibit_01.mp3",
+   "file_name": "exhibit_01.mp3",
+   "bytes": 6636540,
+   "duration": 464.5,
+   "credit": "White House taping system; Richard Nixon Presidential Library",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The Nixon Library lists conversation 741-2, recorded in the White House Oval Office on Friday 23 June 1972 (cassette E-2, segment 1, 8 minutes), as \"The Smoking Gun\" conversation, in which Haldeman and Nixon propose having the CIA ask the FBI to halt its investigation of the Watergate break-in by claiming it was a national security operation.",
+     "url": "https://www.nixonlibrary.gov/watergate-trial-tapes"
+    },
+    {
+     "claim": "The matching trial transcript is headed 'Transcript of a recording of a meeting between the President and H.R. Haldeman in the Oval Office on June 23, 1972 from 10:04 to 11:39 AM'.",
+     "url": "https://www.nixonlibrary.gov/sites/default/files/forresearchers/find/tapes/watergate/trial/exhibit_01.pdf"
+    },
+    {
+     "claim": "On 24 July 1974 the Supreme Court ordered Nixon to release the subpoenaed tapes; the White House released them on 5 August, Nixon's political support practically vanished once the Smoking Gun transcript was public, and he resigned on the evening of 8 August 1974, effective at noon the next day.",
+     "url": "https://en.wikipedia.org/wiki/Nixon_White_House_tapes"
+    }
+   ]
+  },
+  {
+   "id": "presidents-pdb-bin-ladin",
+   "title": "Bin Ladin Determined To Strike in US",
+   "type": "document",
+   "date": "2001-08-06",
+   "released": "2004-04-10",
+   "agency": "CIA",
+   "summary": "The item in President George W. Bush's Daily Brief of 6 August 2001, five weeks before the 9/11 attacks, warning that Bin Ladin had wanted to strike inside the US since 1997 and citing FBI information on activity consistent with preparations for hijackings. It was declassified in April 2004 for the 9/11 Commission; this scan is from the CIA's September 2026 release of 71 declassified 9/11-related briefs.",
+   "source": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/seventy-one-declassified-presidents-daily-brief-products/",
+   "file": "https://web.archive.org/web/20261021130045id_/https://www.cia.gov/static/08-06-2001-Bin-Ladin-Determined-To-Strike-in-US.pdf",
+   "file_name": "08-06-2001-Bin-Ladin-Determined-To-Strike-in-US.pdf",
+   "bytes": 763998,
+   "pages": 2,
+   "credit": "Central Intelligence Agency",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The CIA delivered the President's Daily Brief to President Bush at his ranch on 6 August 2001, and it was declassified and approved for release to the 9/11 Commission on 10 April 2004.",
+     "url": "https://en.wikipedia.org/wiki/Bin_Ladin_Determined_To_Strike_in_US"
+    },
+    {
+     "claim": "The brief, marked 'For the President Only, 6 August 2001', says FBI information indicates patterns of suspicious activity consistent with preparations for hijackings, and that the FBI was conducting approximately 70 full field investigations in the US it considered Bin Ladin-related.",
+     "url": "https://web.archive.org/web/20261021130045id_/https://www.cia.gov/static/08-06-2001-Bin-Ladin-Determined-To-Strike-in-US.pdf"
+    },
+    {
+     "claim": "The CIA's collection of 71 declassified President's Daily Brief products (February 1998 to September 2001), published for the 25th anniversary of 9/11, includes 'Bin Ladin Determined To Strike in US' (2 pages).",
+     "url": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/seventy-one-declassified-presidents-daily-brief-products/"
+    }
+   ]
+  },
+  {
+   "id": "presidents-situation-room",
+   "title": "The Situation Room",
+   "type": "image",
+   "date": "2011-05-01",
+   "released": "2011-05-02",
+   "agency": "White House",
+   "summary": "Pete Souza's photograph of President Obama, Vice President Biden and the national security team in the White House Situation Room during Operation Neptune Spear, the raid on Osama bin Laden's compound in Pakistan. The White House released it the next day with a note that a classified document in the picture had been obscured.",
+   "source": "https://catalog.archives.gov/id/674695640",
+   "file": "https://catalog.archives.gov/medialz/presidential-libraries/obama/81145631/Batch_0011/M1Hi_j0008.JPG",
+   "file_name": "M1Hi_j0008.JPG",
+   "bytes": 19087051,
+   "width": 6050,
+   "height": 4033,
+   "credit": "Official White House Photo by Pete Souza",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The National Archives record describes Obama, Biden and the national security team receiving an update on the mission against Osama bin Laden in the Situation Room on 1 May 2011, and notes that a classified document seen in the photograph has been obscured.",
+     "url": "https://catalog.archives.gov/id/674695640"
+    },
+    {
+     "claim": "The White House Flickr page shows the photo was taken on 1 May 2011 and uploaded on 2 May 2011, credited 'Official White House Photo by Pete Souza'.",
+     "url": "https://www.flickr.com/photos/obamawhitehouse/5680724572/"
+    },
+    {
+     "claim": "Souza took the photo at 4:05 p.m. Washington time on 1 May 2011, during the raid on bin Laden's compound.",
+     "url": "https://en.wikipedia.org/wiki/Situation_Room_(photograph)"
+    }
+   ]
+  },
+  {
+   "id": "presidents-truman-release-when-ready",
+   "title": "Release When Ready",
+   "type": "image",
+   "date": "1945-07-30",
+   "released": "1979-05-17",
+   "agency": "White House",
+   "summary": "Truman's handwritten reply, written at the Potsdam Conference on the back of a Top Secret cable from Secretary of War Henry Stimson: \"suggestions approved Release when ready but not sooner than August 2.\" It approved the public statement announcing the atomic bomb and is sometimes read as his final go-ahead to use it; Hiroshima was bombed on 6 August 1945.",
+   "source": "https://catalog.archives.gov/id/200665",
+   "file": "https://catalog.archives.gov/medialz/arcmedia/media/images/29/4/29-0342a.TIF",
+   "file_name": "29-0342a.TIF",
+   "bytes": 25116605,
+   "width": 2537,
+   "height": 3300,
+   "credit": "Harry S. Truman; Harry S. Truman Library (George M. Elsey Papers)",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "On 30 July Stimson cabled Truman for approval of the revised statement announcing the bomb; Truman wrote on the back 'Sec. War Reply to your 41011 suggestions approved Release when ready but not sooner than August 2.' The note only authorized releasing the statement but is sometimes regarded as his approval to use the bomb.",
+     "url": "https://www.archives.gov/publications/prologue/2005/summer/truman-atomic-bomb-telegram"
+    },
+    {
+     "claim": "The National Archives dates the cable 30 July 1945 and holds it at the Harry S. Truman Library in the George M. Elsey Papers; page two carries Truman's handwritten reply asking that the release be made no sooner than 2 August, after the Potsdam Conference.",
+     "url": "https://catalog.archives.gov/id/200665"
+    },
+    {
+     "claim": "The cable's front page, marked Top Secret, carries a declassification stamp citing E.O. 11652 and an OSD letter of 3 May 1972, with a NARS date of 5-17-79.",
+     "url": "https://catalog.archives.gov/medialz/arcmedia/media/images/29/4/29-0341a.TIF"
+    }
+   ]
+  },
+  {
+   "id": "presidents-watergate-road-map",
+   "title": "Watergate Road Map",
+   "type": "document",
+   "date": "1974-03-01",
+   "released": "2018-10-31",
+   "agency": "Watergate Grand Jury",
+   "summary": "The sealed report the Watergate grand jury sent, through Judge John Sirica, to the House Judiciary Committee in March 1974, setting out evidence about President Nixon in 53 numbered statements of fact so the House could weigh impeachment. It stayed sealed until a federal judge ordered its public portions released in 2018.",
+   "source": "https://www.archives.gov/research/investigations/watergate/roadmap",
+   "file": "https://www.archives.gov/files/research/investigations/watergate/roadmap/docid-70105890.pdf",
+   "file_name": "docid-70105890.pdf",
+   "bytes": 22743592,
+   "pages": 62,
+   "credit": "June 5, 1972 Grand Jury, US District Court for the District of Columbia; Watergate Special Prosecution Force",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The Road Map, officially titled 'Grand Jury Report and Recommendation Concerning Transmission of Evidence to the House of Representatives', was delivered to the US District Court for DC under seal on 1 March 1974, and Chief Judge John Sirica provided it to the House Judiciary Committee; it consists of a two-page summary, 53 numbered statements of fact and 97 supporting documents.",
+     "url": "https://www.archives.gov/research/investigations/watergate/roadmap"
+    },
+    {
+     "claim": "On 11 October 2018 Chief Judge Beryl A. Howell ordered the National Archives to release the publicly available portions of the Road Map, which the Archives posted online on 31 October 2018.",
+     "url": "https://www.archives.gov/press/press-releases/2019/nr-19-21"
+    },
+    {
+     "claim": "The report says the grand jury heard evidence bearing on the House's inquiry into whether to impeach Richard M. Nixon and recommends the evidence be transmitted forthwith to the House Judiciary Committee; it is stamped 'Filed under seal March 1, 1974'.",
+     "url": "https://www.archives.gov/files/research/investigations/watergate/roadmap/docid-70105890.pdf"
+    }
+   ]
+  },
+  {
+   "id": "presidents-pentagon-papers-tonkin",
+   "title": "Pentagon Papers: Tonkin Gulf, 1964",
+   "type": "document",
+   "date": "1969-01-15",
+   "released": "2011-06-13",
+   "agency": "Department of Defense",
+   "summary": "The Pentagon Papers volume on July to October 1964, covering the Gulf of Tonkin incidents, the reprisal strikes and the Tonkin Gulf Resolution, and how a consensus formed in the Johnson administration to step up pressure on North Vietnam while deferring action, partly because of the coming election. It comes from the complete study the National Archives declassified and released in 2011.",
+   "source": "https://www.archives.gov/research/pentagon-papers",
+   "file": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-IV-C-2b.pdf",
+   "file_name": "Pentagon-Papers-Part-IV-C-2b.pdf",
+   "bytes": 18572689,
+   "pages": 103,
+   "credit": "Office of the Secretary of Defense Vietnam Task Force",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The Pentagon Papers, officially the 'Report of the Office of the Secretary of Defense Vietnam Task Force', were commissioned by Robert McNamara in 1967; the National Archives release presents the report as Leslie Gelb gave it to Secretary of Defense Clark Clifford on 15 January 1969.",
+     "url": "https://www.archives.gov/research/pentagon-papers"
+    },
+    {
+     "claim": "On 13 June 2011, the 40th anniversary of the New York Times leak, the National Archives and the Kennedy, Johnson and Nixon Libraries released the report in its entirety, opening about 2,384 pages (34%) for the first time compared with the Gravel Edition.",
+     "url": "https://www.archives.gov/press/press-releases/2011-225"
+    },
+    {
+     "claim": "The volume's summary says a consensus developed in the Johnson administration in mid-1964 for mounting overt pressure on North Vietnam, deferred partly because of the impending US elections, and that 'the Tonkin Gulf Resolution set U.S. public support for virtually any action.'",
+     "url": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-IV-C-2b.pdf"
+    }
+   ]
+  }
+ ],
+ "rejected": [
+  {
+   "title": "Nixon meets Elvis Presley photo (NARA 1634221)",
+   "reason": "Famous and unrestricted, but the only digital copy in the National Archives catalog is a 156 KB JPG, too small for the explorer; the meeting was also private rather than a state secret."
+  },
+  {
+   "title": "National Security Archive scan of the 6 Aug 2001 PDB (2004 release)",
+   "reason": "Same two-page brief, but a muddier scan with no usable text; replaced by the CIA's cleaner 2026 scan. Note: the cia.gov/static/ PDF downloaded fine with curl on 2026-11-09, but because the brief lists cia.gov as script-blocked, `file` points to the identical Wayback copy (same SHA-256)."
+  },
+  {
+   "title": "Nixon Library conversation pages for 741-002 (white-house-tapes/741/...)",
+   "reason": "The new Nixon Library pages show the June 23 audio as still being processed or as unrendered embeds; used the trial-exhibit MP3 under /sites/default/files/, which pairs with the official trial transcript."
+  },
+  {
+   "title": "Other Pentagon Papers volumes (Index; IV.B.5 Overthrow of Diem; IV.C.3 Rolling Thunder; V.B.4 Kennedy internal documents)",
+   "reason": "The Index is only a list of contents and V.B.4 Book I is 70 MB of back-documents. IV.B.5 on the Diem coup (21.5 MB, NARA 5890497, https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-IV-B-5.pdf) is a good swap-in; chose Tonkin Gulf because it is the name people know."
+  },
+  {
+   "title": "Reagan's 12 August 1987 Iran-Contra address (NARA 38995343)",
+   "reason": "Also downloadable (371 MB MP4), but the 4 March 1987 address, with the 'facts and the evidence' admission, is the one people quote."
+  },
+  {
+   "title": "Iran arms covert action Finding signed by Reagan, 17 January 1986",
+   "reason": "Strong document, but it would make a fifth document; the Iran-Contra story is represented by the Reagan address video to keep the type mix."
+  },
+  {
+   "title": "LBJ and Richard Russell phone call, 27 May 1964 ('I don't think it's worth fighting for')",
+   "reason": "Good secret-recording audio, not pursued to keep the topic at 8 items with the Smoking Gun tape as the one audio item; not download-checked."
+  },
+  {
+   "title": "Eisenhower 'In case of failure' D-Day note",
+   "reason": "Written as a general in 1944, not as president, and never classified; Truman's 'Release when ready' reply covers the decision-memo idea better."
+  },
+  {
+   "title": "FDR in a wheelchair photo (1941, FDR Library)",
+   "reason": "Taken by Margaret Suckley, a private person, so it is not clearly a US government work."
+  }
+ ]
+}

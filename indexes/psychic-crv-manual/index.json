@@ -1,0 +1,323 @@
+{
+ "id": "psychic-crv-manual",
+ "title": "Coordinate Remote Viewing (1985)",
+ "source": {
+  "url": "https://www.cia.gov/readingroom/document/cia-rdp96-00788r001000400001-7",
+  "publisher": "US Army",
+  "date": "1985-02",
+  "pages": 40,
+  "released": "2000-08-07",
+  "file": "https://archive.org/download/CIA-RDP96-00788R001000400001-7/CIA-RDP96-00788R001000400001-7.pdf",
+  "sha256": "8444cad08c8f6c8fbbc2efe25fc1f81ebeff8c934df37b0f06361eeee997699b",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "psychic",
+ "summary": "A secret February 1985 working paper on Coordinate Remote Viewing, the training method developed by Ingo Swann with SRI, in which a viewer tries to describe a site given only its geographic coordinates. It sets out the six training stages and includes a sample session.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/psychic/psychic-crv-manual/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Cover",
+   "start_page": 1,
+   "end_page": 1,
+   "summary": "Title page of 'Coordinate Remote Viewing, Stages I-VI and Beyond', a SECRET working paper dated February 1985. The project officer's name is redacted.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "Contents",
+   "start_page": 2,
+   "end_page": 2,
+   "summary": "Table of contents: eleven chapters, from the introduction (page 3) through Stages I to VI, a sample session (31), future stages (35) and conclusions (37), plus a glossary at page 38.",
+   "nodes": []
+  },
+  {
+   "node_id": "0002",
+   "title": "1. Introduction",
+   "start_page": 3,
+   "end_page": 7,
+   "summary": "Overview of Coordinate Remote Viewing (CRV): perceiving a remote site given only its geographic coordinates. Training runs through six stages taught in order, each until performance levels off. Covers analytical overlay, an SRI-International model of the viewer's response, the learning curve and a short description of each stage.",
+   "nodes": [
+    {
+     "node_id": "0003",
+     "title": "Purpose and stages of CRV",
+     "start_page": 3,
+     "end_page": 3,
+     "summary": "CRV is the process of perceiving information about a site remote in location or time given only its coordinates, distilled from three years of training; it must be learned by doing. Figure 1 charts the six stages with an example running from 'land surrounded by water' to a biological warfare preparation site.",
+     "nodes": []
+    },
+    {
+     "node_id": "0004",
+     "title": "Analytical overlay and the signal threshold",
+     "start_page": 4,
+     "end_page": 4,
+     "summary": "The main obstacle is the urge to visualize the site, which stirs memory and imagination and produces analytical overlay (AOL), such as reading an island as Hawaii. Figure 2, drawn from SRI-International research, shows the signal crossing a threshold of awareness and the viewer filling in the blanks. Stages I and II train control of this.",
+     "nodes": []
+    },
+    {
+     "node_id": "0005",
+     "title": "The learning curve",
+     "start_page": 5,
+     "end_page": 6,
+     "summary": "Figure 3 shows an idealized performance curve: a few very good 'first-time' sessions, a decline, a learning phase and a skill plateau. A plateau held for five to six sessions means the trainee moves to the next stage. Trainees are not told about later stages early, and the time per stage varies by person.",
+     "nodes": []
+    },
+    {
+     "node_id": "0006",
+     "title": "The six stages in brief",
+     "start_page": 6,
+     "end_page": 7,
+     "summary": "Stage I: an ideogram in response to the coordinates captures the major gestalt. Stage II: sounds, smells, textures and temperatures. Stage III: dimensions, aesthetic impact and sketches. Stage IV: analytical data such as military or religious character, the point where viewers become operational. Stage V: interrogating the signal line. Stage VI: three-dimensional models.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0007",
+   "title": "2. Ideograms",
+   "start_page": 8,
+   "end_page": 10,
+   "summary": "The ideogram, a spontaneous 'squiggle' drawn as the coordinates are read, is the foundation of CRV. It has three parts: the mark, the feeling/motion (A-) and the automatic analytical response (B-), such as land or water. Ideograms are single, double, composite or multiple, with examples for mountains, rivers and lakes.",
+   "nodes": []
+  },
+  {
+   "node_id": "0008",
+   "title": "3. Stage I: major gestalt",
+   "start_page": 11,
+   "end_page": 17,
+   "summary": "Stage I, the most important and hardest stage to train, teaches session structure: CRV does not teach the trainee to be psychic but gives him a format for recording what he perceives. Covers session classes, opening a session, the ideogram-A-B sequence, interviewer feedback and the breaks used to control analytical overlay.",
+   "nodes": [
+    {
+     "node_id": "0009",
+     "title": "Session structure",
+     "start_page": 11,
+     "end_page": 11,
+     "summary": "As long as the viewer keeps control of structure, the data can be considered generally correct. Structure covers the interviewer-viewer interaction, kept minimal to avoid cueing, and the viewer's sequence of steps for objectifying the data. The monitor gives only the date/time, coordinates and set feedback statements.",
+     "nodes": []
+    },
+    {
+     "node_id": "0010",
+     "title": "Protocols: session classes A, B and C",
+     "start_page": 12,
+     "end_page": 12,
+     "summary": "Class C training sessions use a monitor who knows the site and gives feedback during the session. Class B sessions, for confirmation and evaluation, use a blind monitor with feedback only afterwards. Class A sessions are operational, with feedback varying by task. Most training sessions are Class C.",
+     "nodes": []
+    },
+    {
+     "node_id": "0011",
+     "title": "Starting a session",
+     "start_page": 13,
+     "end_page": 14,
+     "summary": "The viewer writes his name, location, interviewer and date/time, declares 'personal inclemencies' such as back pain, and writes the coordinates read by the monitor. The ideogram, A- and B- follow; repeating the coordinates yields more detailed ideograms. A sample completed Stage I session at Fort Meade ends 'A-rising hard, B-mountain'.",
+     "nodes": []
+    },
+    {
+     "node_id": "0012",
+     "title": "Feedback statements",
+     "start_page": 15,
+     "end_page": 15,
+     "summary": "In training the interviewer answers each item with Site, Correct, Probably Correct, Near or Can't Feed-back; negative feedback is never given. The viewer notes these beside the data and may write a summary. The session ends when the interviewer feeds back 'site, end' and the end time is recorded.",
+     "nodes": []
+    },
+    {
+     "node_id": "0013",
+     "title": "Breaks",
+     "start_page": 16,
+     "end_page": 17,
+     "summary": "Breaks keep control of structure: an ordinary break, a miss break when the signal is missed, an AOL break naming the overlay (example: Devil's Tower), an AOL-drive break, a bi-location break, a too-much break and a confusion break. AOL shows as a bright, still image, qualified wording, or data unjustified by earlier data.",
+     "nodes": []
+    },
+    {
+     "node_id": "0014",
+     "title": "Phases of Stage I",
+     "start_page": 17,
+     "end_page": 17,
+     "summary": "Stage I is taught in two phases. Phase I uses coordinates for one large gestalt, such as mountain ranges, large cities or the middle of the ocean; phase II uses more detailed sites such as rivers through mountains, cities on the ocean or small islands.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0015",
+   "title": "4. Stage II: sensory contact",
+   "start_page": 18,
+   "end_page": 19,
+   "summary": "As the aperture widens, the viewer receives what he would feel at the site: tastes, smells, textures, sounds, colours, temperatures and energies. These come in clusters after the ideogram sequence and are written under 'S-2'; a lone 'floating' Stage II is less reliable. Easy to teach, Stage II leads to aesthetic impact and Stage III.",
+   "nodes": []
+  },
+  {
+   "node_id": "0016",
+   "title": "5. Stage III: dimension, motion, and mobility",
+   "start_page": 20,
+   "end_page": 22,
+   "summary": "Stage III gives broader, dimensional contact so the viewer can sketch the site. Its five elements are aesthetic impact, enhanced dimensional contact, motion and mobility, trackers and sketches, but its primary goal is 'total command of structure'.",
+   "nodes": [
+    {
+     "node_id": "0017",
+     "title": "Aesthetic impact",
+     "start_page": 20,
+     "end_page": 20,
+     "summary": "An aesthetic impact (AI) is the point where the viewer is overwhelmed by the site, shown by a shift in mood, such as 'lonely' or 'magnificent'. It usually follows three or four dimensionals and must be declared as an AI break, or it can produce AOL-drive or 'peacocking'.",
+     "nodes": []
+    },
+    {
+     "node_id": "0018",
+     "title": "Enhanced dimensional contact",
+     "start_page": 20,
+     "end_page": 21,
+     "summary": "Dimensionals describe the site's extent: horizontal, vertical, diagonal, mass, volume and space. Adding mass or volume gives a third dimension, marks a change in aperture and should produce an aesthetic impact.",
+     "nodes": []
+    },
+    {
+     "node_id": "0019",
+     "title": "Motion, mobility, trackers and sketches",
+     "start_page": 21,
+     "end_page": 22,
+     "summary": "Motion describes movement at the site; mobility lets the viewer move around it, cued in the passive voice: '300 feet north something should be perceptible'. Trackers are slow, dotted outlines; sketches follow an AI, drawn spontaneously or analytically. Completing Stage III needs dimensionals, an AI, mobility and proper structure control.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0020",
+   "title": "6. Stage IV: general qualitative analytical aspects",
+   "start_page": 23,
+   "end_page": 24,
+   "summary": "Stage IV, the threshold for operational use, describes activities, objects and the feelings of people at the site. The viewer sorts data into an eight-column matrix: sensations, dimensionals, aesthetic impact, emotional impact, tangibles, intangibles, AOL, and AOL from the signal, such as a radio tower that 'looks like' the Eiffel Tower.",
+   "nodes": []
+  },
+  {
+   "node_id": "0021",
+   "title": "7. Stage V: specific analytical aspects by interrogating the signal line",
+   "start_page": 25,
+   "end_page": 29,
+   "summary": "Stage V lets the viewer question Stage IV data without producing AOL, for example to identify the subject of the books in a library. The viewer writes an item, a category and 'emanations?', and records what comes; 'prior emanations' looks through an AOL. Includes an analysed session on U.S. Grant's farm near St. Louis.",
+   "nodes": [
+    {
+     "node_id": "0022",
+     "title": "Objects, attributes, subjects and topics",
+     "start_page": 25,
+     "end_page": 26,
+     "summary": "Stage V offers 'exciting possibilities for intelligence collection'. Objects are visible or tangible things; attributes belong to them (a school's books, desks, teachers); subjects are matters such as education; topics are narrower, such as grammar or German. Trainees find subjects and topics hardest, sometimes needing days of drills.",
+     "nodes": []
+    },
+    {
+     "node_id": "0023",
+     "title": "Prompting for emanations",
+     "start_page": 26,
+     "end_page": 27,
+     "summary": "To interrogate, the viewer writes the item, the category and 'emanations?', then records whatever flows, as when a building is interrogated for attributes (tall, brown, glass) or subjects (knowledge, learning). Stage V begins when Stage IV data slow. Writing an AOL such as 'Empire State Building' and asking for 'prior emanations' recovers the raw data behind it.",
+     "nodes": []
+    },
+    {
+     "node_id": "0024",
+     "title": "Stage V session on U.S. Grant's farm",
+     "start_page": 28,
+     "end_page": 29,
+     "summary": "Analysis of an actual Stage V session on US Grant's Farm outside St Louis, Missouri, drawn as a tree of prompts and responses: people, building, history, men, military leader, with an AOL break for 'U.S. Grant'. With Stage V complete, the viewer moves on to modeling in Stage VI.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0025",
+   "title": "8. Stage VI: three dimensional contact and modeling",
+   "start_page": 30,
+   "end_page": 30,
+   "summary": "The viewer builds a three-dimensional model of the site from clay or other materials, working by 'feel' rather than copying sketches; a model of a building where a hostage is held could help locate him. Modeling suppresses AOL and draws out more data. This completes the six-stage program developed by I. Swann.",
+   "nodes": []
+  },
+  {
+   "node_id": "0026",
+   "title": "9. Sample session, stages I-VI",
+   "start_page": 31,
+   "end_page": 34,
+   "summary": "A training session at Fort Meade at 0930 on 22 February 1985, with viewer and interviewer names redacted, on coordinates 22°47'19\"N 122°51'29\"E. It runs from land and water ideograms through Stage II, IV and V data to a clay model and Stage VII sounds, ending with the site named as the Mayan temple at Tulum.",
+   "nodes": [
+    {
+     "node_id": "0027",
+     "title": "Stages I and II",
+     "start_page": 31,
+     "end_page": 31,
+     "summary": "Ideograms give land and water ('L/W interface'), then a rising, angular, manmade structure. Stage II data: gray, dark, hard, patterned, sloping, tall, pointed, massive, followed by an aesthetic-impact break, 'this place is very interesting', and a sketch.",
+     "nodes": []
+    },
+    {
+     "node_id": "0028",
+     "title": "Stage IV matrix",
+     "start_page": 32,
+     "end_page": 32,
+     "summary": "In the eight-column matrix the viewer reports dark gray steps, tall, pointed, massive, attractive, significant, cultural, old and foreign, a second AI break ('mysterious'), then stone, Indian, Mexican, pyramid-shaped, religious and temple.",
+     "nodes": []
+    },
+    {
+     "node_id": "0029",
+     "title": "Stages V to VII and site end",
+     "start_page": 33,
+     "end_page": 33,
+     "summary": "Interrogating 'temple' for attributes, subjects and objects gives hard, rising, gray stone, historical, central, foreign and Mexican. A Stage VI model follows, then Stage VII phonetic sounds ('toolu', 'tooloo') and the answer: the Mayan temple at Tulum. Site end at 1017.",
+     "nodes": []
+    },
+    {
+     "node_id": "0030",
+     "title": "Figure 2: Tulum ruins, Mexico",
+     "start_page": 34,
+     "end_page": 34,
+     "summary": "Photograph of the Tulum ruins (the site) above a photograph of the viewer's clay model of a stepped temple (the RV response).",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0031",
+   "title": "10. Future stages",
+   "start_page": 35,
+   "end_page": 36,
+   "summary": "The writer's own ideas, from three and a half years of CRV work, for stages beyond VI: analytics, phonetics/sonics, telepathic signals, remote action (psychokinesis) and altering dimensionality, including time. He admits they are 'impossible to believe' but says they follow the 'natural flow of the signal'.",
+   "nodes": [
+    {
+     "node_id": "0032",
+     "title": "Stages VII to IX",
+     "start_page": 35,
+     "end_page": 35,
+     "summary": "Stage VII, analytics, being developed by I. Swann, gives yes/no answers and recognition of numbers and letters for search and code breaking. Stage VIII, phonetics/sonics, yields names, such as 'Carribah' for Karriba Dam. Stage IX would receive and then transmit telepathic signals, building on Stage IV emotional impact.",
+     "nodes": []
+    },
+    {
+     "node_id": "0033",
+     "title": "Stages X and XI",
+     "start_page": 36,
+     "end_page": 36,
+     "summary": "Stage X, remote action, would be psychokinesis: affecting things at the site, then teleporting things from and to it. Stage XI would alter dimensions at the site, starting with time, which could be frozen, moved forward or moved back; the writer believes this would allow altering the future.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0034",
+   "title": "11. Conclusions",
+   "start_page": 37,
+   "end_page": 37,
+   "summary": "After four years of training the writer judges CRV a usable program whose training time is shrinking. He believes viewers set their own limits, citing one who believed he could not view other time zones and so 'failed as a time traveler', and urges the office to keep an open mind toward radical ideas.",
+   "nodes": []
+  },
+  {
+   "node_id": "0035",
+   "title": "Appendix A: Glossary",
+   "start_page": 38,
+   "end_page": 40,
+   "summary": "Definitions of CRV terms, including A and B labels, aesthetic impact, analytical overlay (AOL) and AOL drive, the feedback codes (Correct, Near, Probably Correct, Can't Feed-back, Site), gestalt, ideogram, interviewer, objectify, peacocking, signal, structure and Too Much.",
+   "nodes": []
+  }
+ ]
+}

@@ -1,0 +1,342 @@
+{
+ "topic": "satellites",
+ "items": [
+  {
+   "id": "satellites-corona-first-image",
+   "title": "First CORONA Image: Mys Shmidta",
+   "type": "image",
+   "date": "1960-08-18",
+   "released": "1995-02-24",
+   "agency": "NRO",
+   "summary": "The first photograph from a US reconnaissance satellite, showing a Soviet military airfield at Mys Shmidta on the Chukchi Sea, taken on 18 August 1960 by CORONA mission 9009, publicly called Discoverer XIV. CORONA imagery was declassified by executive order in February 1995.",
+   "source": "https://www.nro.gov/foia-home/foia-declassified-nro-programs-and-projects/Declassified-Collection-of-CORONA-ARGON-and-LANYARD-Photographs/",
+   "file": "https://archive.org/download/nro-cal-photos/CAL_Photo_30.jpg",
+   "file_name": "CAL_Photo_30.jpg",
+   "bytes": 1835676,
+   "width": 3128,
+   "height": 3892,
+   "credit": "National Reconnaissance Office",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The photograph shows a military airfield near Mys Schmidta on the Chukchi Sea and was the first intelligence target imaged on the first CORONA mission, on 18 August 1960.",
+     "url": "https://irp.fas.org/imint/4_first.htm"
+    },
+    {
+     "claim": "NRO's caption calls it the first satellite reconnaissance image, taken of Mys Shmidta Airfield during the 18-19 August 1960 flight of DISCOVERER-14 (CORONA mission 9009).",
+     "url": "https://archive.org/download/nro-cal-photos/CAL_Caption_30.jpg"
+    },
+    {
+     "claim": "Executive Order 12951, 'Release of imagery acquired by space-based national intelligence reconnaissance systems', was signed on 22 February 1995.",
+     "url": "https://www.archives.gov/federal-register/executive-orders/1995.html"
+    },
+    {
+     "claim": "On 24 February 1995 Vice President Gore announced the order at CIA Headquarters, releasing CORONA, ARGON and LANYARD imagery to the public.",
+     "url": "https://www.cia.gov/stories/story/corona-declassified"
+    }
+   ]
+  },
+  {
+   "id": "satellites-hexagon-seabed-film",
+   "title": "HEXAGON Film on the Ocean Floor",
+   "type": "image",
+   "date": "1972-04-25",
+   "released": "2012-08",
+   "agency": "CIA",
+   "summary": "A Navy Trieste II photo of the film spools and gold-foil canister from a HEXAGON spy satellite capsule on the Pacific floor about 16,400 feet down, where it sank in July 1971 after its parachute failed. In April 1972 Trieste II hooked the film, but it broke apart on the way up and only about 25 feet was saved.",
+   "source": "https://www.cia.gov/readingroom/collection/underwater-ice-station-zebra-recovering-secret-spy-satellite-capsule-16400-feet-below",
+   "file": "https://archive.org/download/cia-hexagon-recovery/11.jpg",
+   "file_name": "11.jpg",
+   "bytes": 5793372,
+   "width": 6015,
+   "height": 4804,
+   "credit": "U.S. Navy (Trieste II), via Central Intelligence Agency",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The CIA caption describes the photo as film stacks from the sunken HEXAGON capsule on the ocean floor at 16,400 feet, from an attachment to the 24 May 1972 memo on the deep sea recovery.",
+     "url": "https://commons.wikimedia.org/wiki/File:Underwater_Ice_Station_Zebra,_11_-_Flickr_-_The_Central_Intelligence_Agency.jpg"
+    },
+    {
+     "claim": "The memo says the capsule was lost on 10 July 1971 when its parachute failed, that Trieste II secured the film stacks on its third dive on 25 April 1972, and that the film broke into pieces while surfacing, with 25 feet recovered; Figure IV C shows the gold canister and film spools.",
+     "url": "https://www.cia.gov/readingroom/docs/1972-05-24.pdf"
+    },
+    {
+     "claim": "On the 25 April 1972 dive the Trieste II pilots reported a debris field they had not seen before and hooked the payload on the sixth attempt; the Attachment IV photographs were taken by Trieste II.",
+     "url": "https://www.cia.gov/readingroom/docs/1972-05-24.pdf"
+    },
+    {
+     "claim": "The photo is stamped 'Approved for Release, Historical Collections Division, AR 70-14, 1 AUG 2012', and a 10 August 2012 report says the CIA released the recovery documents that Wednesday.",
+     "url": "https://www.nbcnews.com/id/wbna48621681"
+    }
+   ]
+  },
+  {
+   "id": "satellites-iran-launch-pad",
+   "title": "Trump's Tweeted Spy Satellite Photo",
+   "type": "image",
+   "date": "2019-08-29",
+   "released": "2019-08-30",
+   "agency": "White House",
+   "summary": "A US reconnaissance image of the wrecked launch pad at Iran's Imam Khomeini Space Center after a Safir rocket exploded on 29 August 2019, which President Trump posted on Twitter the next day, saying he had 'the absolute right' to release it. Amateur satellite trackers matched it to USA 224, believed to be a KH-11 reconnaissance satellite.",
+   "source": "https://twitter.com/realDonaldTrump/status/1167493371973255170",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/92/2019-08-29_Safir_launch_failure.jpg",
+   "file_name": "2019-08-29_Safir_launch_failure.jpg",
+   "bytes": 156320,
+   "width": 1200,
+   "height": 643,
+   "credit": "U.S. government; posted by President Donald J. Trump",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "Trump posted the image on 30 August 2019 with the text 'The United States of America was not involved in the catastrophic accident during final launch preparations for the Safir SLV Launch at Semnan Launch Site One in Iran.'",
+     "url": "https://twitter.com/realDonaldTrump/status/1167493371973255170"
+    },
+    {
+     "claim": "A rocket exploded at the Imam Khomeini Space Center on 29 August 2019, and Trump's tweet the next day carried a sharp image of the aftermath; a flash in the image suggests it is a photo of a briefing slide.",
+     "url": "https://www.npr.org/2019/09/05/758038714/can-president-trump-really-tweet-a-highly-classified-satellite-photo-yep-he-can"
+    },
+    {
+     "claim": "Amateur satellite trackers say the image almost certainly came from USA 224, launched by the NRO in 2011 and believed by most observers to be a KH-11.",
+     "url": "https://www.npr.org/2019/09/02/756673481/amateurs-identify-u-s-spy-satellite-behind-president-trumps-tweet"
+    },
+    {
+     "claim": "Trump told reporters: 'We had a photo and I released it, which I have the absolute right to do.'",
+     "url": "https://www.npr.org/2019/09/05/758038714/can-president-trump-really-tweet-a-highly-classified-satellite-photo-yep-he-can"
+    }
+   ]
+  },
+  {
+   "id": "satellites-c119-air-catch",
+   "title": "C-119 Air Catch of a CORONA Capsule",
+   "type": "image",
+   "date": "1960",
+   "released": "1997-11-26",
+   "agency": "NRO",
+   "summary": "An Air Force C-119 of the 6593rd Test Squadron from Hickam AFB, Hawaii, catching a parachuting CORONA film capsule in mid-air over the Pacific, the way spy satellite film came home. The squadron flew C-119s on these catches until 1962, and on 19 August 1960 one made the first mid-air recovery of a capsule returning from orbit, from Discoverer XIV.",
+   "source": "https://www.nro.gov/foia-home/foia-declassified-nro-programs-and-projects/Declassified-Collection-of-CORONA-ARGON-and-LANYARD-Photographs/",
+   "file": "https://archive.org/download/nro-cal-photos/CAL_Photo_159.jpg",
+   "file_name": "CAL_Photo_159.jpg",
+   "bytes": 1134474,
+   "width": 2945,
+   "height": 2328,
+   "credit": "U.S. Air Force, via National Reconnaissance Office",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "NRO's caption: an Air Force C-119 from the 6593rd Test Squadron (Special), based at Hickam AFB, Hawaii, making an air catch of a CORONA film return bucket over the Pacific Ocean.",
+     "url": "https://archive.org/download/nro-cal-photos/CAL_Caption_159.jpg"
+    },
+    {
+     "claim": "On 19 August 1960 a C-119J made the world's first midair recovery of a capsule returning from orbit, snagging the parachute of Discoverer XIV at 8,000 feet, 360 miles southwest of Honolulu.",
+     "url": "https://www.af.mil/News/Photos/igphoto/2000593745/"
+    },
+    {
+     "claim": "The 6593rd Test Squadron was based at Hickam AFB from November 1959 and flew C-119J Flying Boxcars from 1958 to 1962 and JC-130B Hercules from 1961 to 1972.",
+     "url": "https://en.wikipedia.org/wiki/6593d_Test_Squadron"
+    },
+    {
+     "claim": "The NRO released its declassified CORONA, ARGON and LANYARD records, about 38,000 pages plus program pictures, on 26 November 1997.",
+     "url": "https://www.nro.gov/Portals/65/documents/news/press/1997/1997-04.pdf"
+    }
+   ]
+  },
+  {
+   "id": "satellites-corona-venezuela",
+   "title": "CORONA Capsule Found in Venezuela",
+   "type": "image",
+   "date": "1964",
+   "released": "1997-11-26",
+   "agency": "NRO",
+   "summary": "Four Venezuelan villagers with the battered film capsule of CORONA mission 1005, which came down off course in 1964 on a farm near the Colombian border instead of being caught over the Pacific. Locals hacked at it for its gold parts before the US got it back that August, and afterwards CORONA capsules dropped their SECRET markings and carried a reward notice in eight languages.",
+   "source": "https://www.nro.gov/foia-home/foia-declassified-nro-programs-and-projects/Declassified-Collection-of-CORONA-ARGON-and-LANYARD-Photographs/",
+   "file": "https://archive.org/download/nro-cal-photos/CAL_Photo_167.jpg",
+   "file_name": "CAL_Photo_167.jpg",
+   "bytes": 1317625,
+   "width": 2530,
+   "height": 2832,
+   "credit": "National Reconnaissance Office",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "NRO's caption: four Venezuelan villagers discussing the film return capsule from CORONA mission 1005, which errantly impacted in Venezuela in 1964 some 500 miles south of Caracas near the Colombian border.",
+     "url": "https://archive.org/download/nro-cal-photos/CAL_Caption_167.jpg"
+    },
+    {
+     "claim": "Mission 1005 launched on 27 April 1964; farm workers found the wreckage on 7 July and hacked at it for its gold heat-dispersion discs, and the US got the capsule back on 10 August.",
+     "url": "https://thespacereview.com/article/1063/1"
+    },
+    {
+     "claim": "Afterwards classification markings were removed from CORONA vehicles and a label offering a reward for return to American authorities was added in eight languages.",
+     "url": "https://thespacereview.com/article/1063/1"
+    },
+    {
+     "claim": "The NRO released its declassified CORONA, ARGON and LANYARD records and program pictures on 26 November 1997.",
+     "url": "https://www.nro.gov/Portals/65/documents/news/press/1997/1997-04.pdf"
+    }
+   ]
+  },
+  {
+   "id": "satellites-point-in-time-film",
+   "title": "A Point in Time: The CORONA Story",
+   "type": "video",
+   "date": "1975",
+   "released": "1995-05",
+   "agency": "CIA",
+   "summary": "A once-secret CIA documentary on CORONA, the first US photo-reconnaissance satellite program, covering why it was built and how the satellite and its cameras worked. Made by the CIA's film branch between 1972 and 1975 and opening with Director Richard Helms at the program's October 1972 museum dedication, it was first shown publicly in May 1995.",
+   "source": "https://catalog.archives.gov/id/1678526",
+   "file": "https://archive.org/download/gov.archives.arc.1678526/gov.archives.arc.1678526_512kb.mp4",
+   "file_name": "gov.archives.arc.1678526_512kb.mp4",
+   "bytes": 249939030,
+   "duration": 3465.566,
+   "width": 320,
+   "height": 240,
+   "credit": "Central Intelligence Agency",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The film was produced by the CIA and premiered at the 'Piercing the Curtain' conference in May 1995; it covers how and why CORONA was created and how the satellite was built and operated.",
+     "url": "https://catalog.archives.gov/id/1678526"
+    },
+    {
+     "claim": "The CIA Office of Training film branch began 'A Point in Time' in September 1972 at the request of the Directorate of Science and Technology; the as-produced script of 4 August 1975 opens with Richard Helms on the podium at the CORONA Museum dedication in October 1972.",
+     "url": "https://www.cia.gov/readingroom/docs/CIA-RDP89B00980R000300100009-2.pdf"
+    },
+    {
+     "claim": "On 10 November 1975 the CIA sent prints of the movie 'A Point in Time' to General Electric, Itek, Eastman Kodak and Lockheed, whose staff helped produce it.",
+     "url": "https://www.cia.gov/readingroom/docs/CIA-RDP89B00980R000300100009-2.pdf"
+    }
+   ]
+  },
+  {
+   "id": "satellites-hexagon-recovery-memo",
+   "title": "Deep Sea Recovery of HEXAGON RV 1201-3",
+   "type": "document",
+   "date": "1972-05-24",
+   "released": "2012-08",
+   "agency": "CIA",
+   "summary": "A 24 May 1972 CIA memorandum, with trip reports and photographs, on the effort to raise a film capsule from the first HEXAGON mission from 16,000 feet of Pacific water with the Navy bathyscaphe Trieste II. It records three dives, the film stacks being hooked on 25 April 1972, and the film breaking apart on the way up, leaving 25 feet.",
+   "source": "https://www.cia.gov/readingroom/collection/underwater-ice-station-zebra-recovering-secret-spy-satellite-capsule-16400-feet-below",
+   "file": "https://archive.org/download/cia-hexagon-recovery/1972-05-24.pdf",
+   "file_name": "1972-05-24.pdf",
+   "bytes": 11079743,
+   "pages": 39,
+   "credit": "Central Intelligence Agency",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "On 10 July 1971 the third HEXAGON recovery vehicle was lost when its parachute failed; it hit the water at about 2,600 g and settled in 16,000 feet of water.",
+     "url": "https://www.cia.gov/readingroom/docs/1972-05-24.pdf"
+    },
+    {
+     "claim": "Trieste II made three attempts, on 3 November 1971, 30 November 1971 and 25 April 1972; the third secured the film stacks, but the film broke into pieces as Trieste surfaced and 25 feet was recovered.",
+     "url": "https://www.cia.gov/readingroom/docs/1972-05-24.pdf"
+    },
+    {
+     "claim": "The CIA released the documents in August 2012.",
+     "url": "https://www.nbcnews.com/id/wbna48621681"
+    }
+   ]
+  },
+  {
+   "id": "satellites-corona-story",
+   "title": "The CORONA Story",
+   "type": "document",
+   "date": "1987-11",
+   "released": "2018-09-11",
+   "agency": "NRO",
+   "summary": "The National Reconnaissance Office's once-classified history of CORONA, finished in November 1987 by Frederic Oder, James Fitzpatrick and Paul Worthman, tracing the program from its 1950s origins through its first successes and later camera improvements, with an appendix of sample CORONA images. The NRO first released it in 2010 and released this re-reviewed copy in September 2018.",
+   "source": "https://www.nro.gov/Portals/65/documents/foia/docs/HOSR/SC-2017-00006m.pdf",
+   "file": "https://archive.org/download/nro-freq-scrape/The%20CORONA%20Story%2C%201988%20%282018%20Release%29.pdf",
+   "file_name": "The CORONA Story, 1988 (2018 Release).pdf",
+   "bytes": 16089599,
+   "pages": 182,
+   "credit": "Frederic C. E. Oder, James C. Fitzpatrick and Paul E. Worthman, National Reconnaissance Office",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The preface is signed by Frederic C.E. Oder, James C. Fitzpatrick and Paul E. Worthman, November 1987, and every page is stamped 'Approved for Release: 2018/09/11'.",
+     "url": "https://www.nro.gov/Portals/65/documents/foia/docs/HOSR/SC-2017-00006m.pdf"
+    },
+    {
+     "claim": "An earlier NRO copy of the history is stamped 'NRO Approved for Release 30 June 2010'.",
+     "url": "https://www.nro.gov/Portals/65/documents/foia/docs/foia-corona-story.pdf"
+    },
+    {
+     "claim": "Its appendix of representative CORONA imagery runs from Mys Shmidta and Kapustin Yar to Tyuratam, Plesetsk and Severodvinsk.",
+     "url": "https://www.nro.gov/Portals/65/documents/foia/docs/HOSR/SC-2017-00006m.pdf"
+    },
+    {
+     "claim": "The preface says NRO Deputy Director Jimmie D. Hill proposed the independent history in 1984 and that the volume was prepared under that sponsorship.",
+     "url": "https://www.nro.gov/Portals/65/documents/foia/docs/HOSR/SC-2017-00006m.pdf"
+    }
+   ]
+  }
+ ],
+ "rejected": [
+  {
+   "title": "CORONA image of the Pentagon, 25 September 1967 (Commons 'Corona pentagon.jpg')",
+   "reason": "Only a 700x550 copy exists; it came from NRO's 1995 gallery (nro.gov/images/corona/highres/cor5h.jpg), which now returns 404 and was never archived in high resolution."
+  },
+  {
+   "title": "USAF photo 040314-O-9999R-001, C-119J recovering a CORONA capsule (Commons, 7214x5589)",
+   "reason": "Sharper than the NRO print and downloads fine (https://upload.wikimedia.org/wikipedia/commons/c/c3/Fairchild_C-119J_Flying_Boxcar_recovers_CORONA_Capsule_1960_USAF_040314-O-9999R-001.jpg, 23 MB), but it is an Air Force publicity photo posted on af.mil in 2004, not part of a declassified release; used NRO's declassified print instead. Swap it in if image quality matters more."
+  },
+  {
+   "title": "HEXAGON: Sentinel of Liberty (NRO/SAF Special Projects film, 38 min)",
+   "reason": "A good declassified film (opens with 'NRO Approved for Release January 2019'; 640x480, 304 MB, https://archive.org/download/f-2017-00169-hexagon-sentinel-of-liberty/F-2017-00169%20Hexagon%CB%90%20Sentinel%20of%20Liberty.mp4), but its only provenance is a FOIA release to The Black Vault with no NRO page, and HEXAGON already has two items. Best alternate video."
+  },
+  {
+   "title": "GAMBIT: Eye of the Eagle (NRO film, 52 min)",
+   "reason": "403,416,896 bytes, over the 400 MB video limit, and the same Black Vault-only provenance as the HEXAGON film."
+  },
+  {
+   "title": "Discoverer Satellite, Lookout Mountain Laboratory film 342-SFP-1012 (archive.org, 2 parts)",
+   "reason": "An unclassified Air Force briefing film about the Discoverer cover program, with faded colour and no secret content; split into two parts."
+  },
+  {
+   "title": "KH-7 GAMBIT images of Baikonur, Plesetsk and Jiuquan (Commons)",
+   "reason": "Files are 76-103 MB, over the 60 MB image limit; they are user-processed scans from USGS EarthExplorer, which needs a login to download the originals."
+  },
+  {
+   "title": "KH-4 CORONA image of Lop Nur, 20 October 1964 (Commons PNG, 5245x3290)",
+   "reason": "Interesting (China's nuclear test site four days after its first test), but a user-made crop from USGS EarthExplorer with no official page; the first CORONA image covers the imagery side better."
+  },
+  {
+   "title": "KH-9 HEXAGON city images (Houston 1972, New York 1980) and NRO HEXAGON hardware photos (Commons)",
+   "reason": "The city images are processed by a private site from USGS data, and the 2011 hardware photos are less striking than the deep-sea recovery photo."
+  },
+  {
+   "title": "An Underwater Ice Station Zebra (CIA booklet, 2012, 36 pages)",
+   "reason": "A modern CIA retelling written for the 2012 release; the 1972 memo is the primary record of the same operation."
+  },
+  {
+   "title": "NRO Hexagon 1201-3 Recovery Records (45 documents)",
+   "reason": "Mostly 1-11 page trip reports and telecons; the CIA's 24 May 1972 memo summarises the whole operation in one file."
+  },
+  {
+   "title": "Executive Order 12951 (1995)",
+   "reason": "A two-page legal text; used as a fact for the CORONA release date instead of an item."
+  },
+  {
+   "title": "CORONA: America's First Satellite Program (CIA History Staff, 1995)",
+   "reason": "About 360 pages, over the 300-page limit, and cia.gov blocks scripts; The CORONA Story covers the same history in 182 pages."
+  },
+  {
+   "title": "Manned Orbiting Laboratory / DORIAN records (NRO, 2015)",
+   "reason": "The NRO's MOL documents are only on nro.gov, which blocks scripts; the archive.org mirror holds only engineering illustration PDFs and Commons copies are 700-775 px."
+  },
+  {
+   "title": "A Point in Time, Memory Hole copy (archive.org point_in_time) and Commons .ogv",
+   "reason": "Same 320x240 film split into two parts or re-encoded; used the single-file NARA (FedFlix) copy. NARA's 640x480 MPEG-2 is 2.4 GB, over the limit."
+  },
+  {
+   "title": "Universal Newsreel 'Space Triumph: Discoverer Capsule Recovered From Orbit' (1960)",
+   "reason": "A commercial newsreel, not a government record."
+  },
+  {
+   "title": "Discoverer XIII capsule shown to Eisenhower and Kennedy (NRO CAL photos 28, 29, 184)",
+   "reason": "Publicity photos of a public event; the air catch and the first image tell the story better."
+  }
+ ]
+}

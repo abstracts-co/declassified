@@ -1,0 +1,37 @@
+{
+ "id": "mind-midnight-climax",
+ "title": "Subproject 42 (Midnight Climax)",
+ "source": {
+  "url": "https://www.cia.gov/readingroom/document/00748553",
+  "publisher": "CIA",
+  "date": "1956-08-17",
+  "pages": 1,
+  "released": "1977",
+  "file": "https://nsarchive.gwu.edu/sites/default/files/documents/1956-08-17%20JM%20Box%207%20F21%20MKUltra%20Subproject%2042-ocr.pdf",
+  "sha256": "60dff6f362f1b0285057d2a143d61c6a3db3bce9db9278cbb9acc63c0408f332",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "mind",
+ "summary": "One-page memo in which Sidney Gottlieb, who ran MKULTRA, explains that people who covertly gave drugs to unwitting subjects for a CIA safehouse run by narcotics agent George White would be paid in cash, without receipts. Subproject 42 funded White's San Francisco safehouse, the operation known as Midnight Climax.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/mind/mind-midnight-climax/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Accountability for certain expenditures under Subproject 42 of MKULTRA",
+   "start_page": 1,
+   "end_page": 1,
+   "summary": "Memorandum for the record of 17 August 1956 by Sidney Gottlieb, Chief, TSS/CD. Subproject 42 gave a man, redacted but annotated \"George White\", a safehouse (handwritten \"San Fran\") to covertly give drugs to unwitting subjects. His helpers get small cash sums without receipts; each operation is reported to the Chief, TSS/Chemical Division. Approved 20 August 1956 by Chief, DD/P/TSS.",
+   "nodes": []
+  }
+ ]
+}

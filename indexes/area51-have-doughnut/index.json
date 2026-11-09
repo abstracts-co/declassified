@@ -1,0 +1,517 @@
+{
+ "id": "area51-have-doughnut",
+ "title": "Project HAVE DOUGHNUT",
+ "source": {
+  "url": "https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs",
+  "publisher": "DIA",
+  "date": "1969-08-01",
+  "pages": 310,
+  "released": "2000-03-23",
+  "file": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB443/docs/area51_50.PDF",
+  "sha256": "992578b3cd832d8bd024cba2c2fb303f1af93aea664953d79280832f5240c82f",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "area51",
+ "summary": "The 1969 tactical report on HAVE DOUGHNUT, the 1968 project in which Air Force and Navy pilots secretly flew a Soviet-built MiG-21 at Area 51 against US fighters to learn how to beat it. Israel had lent the jet, which it got when an Iraqi pilot defected with it in 1966.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/area51/area51-have-doughnut/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Cover",
+   "start_page": 1,
+   "end_page": 2,
+   "summary": "Defense Intelligence Agency cover for report FTD-CR-20-13-69-INT, Volume II, \"Have Doughnut (U) Tactical\", with the Defense Department and DIA seals and a stamp declassifying it under E.O. 12958 after review on 23 March 2000. The inside cover is blank.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "Title page",
+   "start_page": 3,
+   "end_page": 4,
+   "summary": "Have Doughnut-Tactical, Volume II, DIA task T65-20-2, dated 1 August 1969. A Defense Department foreign materiel report by the Air Force Systems Command Foreign Technology Division, with contributions from TAC, ADC and the Navy, for DIA. Carries an espionage-law warning and a no-foreign-dissemination marking. The reverse is blank.",
+   "nodes": []
+  },
+  {
+   "node_id": "0002",
+   "title": "Frontispiece: the HAVE DOUGHNUT aircraft",
+   "start_page": 5,
+   "end_page": 6,
+   "summary": "Captioned photograph of the MiG-21F-13, the HAVE DOUGHNUT aircraft, in flight over desert terrain. The reverse is blank.",
+   "nodes": []
+  },
+  {
+   "node_id": "0003",
+   "title": "Abstract",
+   "start_page": 7,
+   "end_page": 8,
+   "summary": "The report gives the results of a tactical evaluation of a Soviet FISHBED E (MiG-21F-13) managed by the Foreign Technology Division at Wright-Patterson AFB, flown against first-line USN and USAF fighters. Technical results are in Volume I. Published estimates broadly matched the findings, and current tactics against the FISHBED E were confirmed. The reverse is blank.",
+   "nodes": []
+  },
+  {
+   "node_id": "0004",
+   "title": "Table of contents and list of illustrations",
+   "start_page": 9,
+   "end_page": 12,
+   "summary": "Contents for the three supplements: the Tactical Air Command evaluation with Annexes A to D, the US Navy evaluation with references, mission summaries and maintenance records, and the Air Defense Command evaluation. Lists figures such as the seat flap, ejection sequence, weapon effects, V-n diagrams and compressor modulation, and tables on world FISHBED order of battle and flights.",
+   "nodes": []
+  },
+  {
+   "node_id": "0005",
+   "title": "Summary: purpose and background",
+   "start_page": 13,
+   "end_page": 14,
+   "summary": "States the report's aims: to evaluate existing USAF and USN tactics against the MiG-21, exploit its capabilities and limits, refine tactics and assess its design. The Foreign Technology Division acquires foreign materiel; the MiG-21 got high priority because it is widely exported and in combat in Southeast Asia. Comprehensive data is in Volume I and study ST-CS-09-27-69.",
+   "nodes": []
+  },
+  {
+   "node_id": "0006",
+   "title": "Supplement 1: Tactical Air Command evaluation",
+   "start_page": 15,
+   "end_page": 148,
+   "summary": "The USAF Tactical Air Command's report on the MiG-21F-13 flown against the F-4, F-105, F-111, F-100, F-104, F-5, RF-101, RF-4C and B-66. It covers test scope, the aircraft's deficiencies, conclusions, recommended tactics, test methods and results, followed by mission summaries, maintenance records, cockpit ratings and weapons effects.",
+   "nodes": [
+    {
+     "node_id": "0007",
+     "title": "Title page",
+     "start_page": 15,
+     "end_page": 16,
+     "summary": "Title page of Supplement 1: Project HAVE DOUGHNUT report of tactical evaluation of project aircraft as determined by the United States Air Force Tactical Air Command. The reverse is blank.",
+     "nodes": []
+    },
+    {
+     "node_id": "0008",
+     "title": "Glossary",
+     "start_page": 17,
+     "end_page": 18,
+     "summary": "Thirty air combat terms defined, including adverse yaw, maximum rate turn, energy maneuverability, V-n diagram, break, track crossing angle (TCA), scissors, jinking, diving spiral, high and low speed yo-yo, Lufbery, element, fluid element, ACM, DCM, defensive split, in-trail and in-train.",
+     "nodes": []
+    },
+    {
+     "node_id": "0009",
+     "title": "Introduction, test item, objectives and scope",
+     "start_page": 19,
+     "end_page": 23,
+     "summary": "TAC, with the Navy, analysed the MiG-21F-13 (FISHBED E) day fighter, a point interceptor designed from 1952 and used in Southeast Asia as a medium and low altitude interceptor. Includes the world FISHBED order of battle (2,299 aircraft), a photo, general characteristics, and the list of US aircraft compared: F-4, F-105, F-111, F-100, F-104, F-5N, RF-101, RF-4C and B-66.",
+     "nodes": []
+    },
+    {
+     "node_id": "0010",
+     "title": "Deficiencies and limitations",
+     "start_page": 23,
+     "end_page": 24,
+     "summary": "FISHBED E weaknesses: poor forward and rearward visibility, with targets seen at 3 to 5 miles; a limit of .98 IMN or 595 KIAS below 15,000 feet; only 60 cannon rounds, pipper jitter and a sight useless above 3 G; heavy control forces above 510 KIAS; airspeed bleed-off; slow engine response; an afterburner puff; and poor directional stability.",
+     "nodes": []
+    },
+    {
+     "node_id": "0011",
+     "title": "Conclusions",
+     "start_page": 24,
+     "end_page": 32,
+     "summary": "The FISHBED E is capable but limited below 15,000 feet. Aircraft-by-aircraft findings: the F-4 can win by fighting low and in the vertical; the F-105, F-111, F-100 and F-104 should avoid turning fights; the F-5 matches it closely; the RF-4C's chaff denies its radar ranging. Lists operational limits, optimum lag pursuit to its 50-degree blind cone, and desirable design features.",
+     "nodes": []
+    },
+    {
+     "node_id": "0012",
+     "title": "Recommendations",
+     "start_page": 32,
+     "end_page": 35,
+     "summary": "Tactics for each US aircraft: fight below 15,000 feet above 450 knots, exploit the rear blind cone, keep mutual support and separate above 595 KIAS when needed. Recommends extending APQ-120 radar auto-acquisition to five miles, positive hostile identification equipment, aggressive dissimilar ACM training using the F-5, and further foreign aircraft exploitation.",
+     "nodes": []
+    },
+    {
+     "node_id": "0013",
+     "title": "Test environment and procedures",
+     "start_page": 35,
+     "end_page": 40,
+     "summary": "How the MiG-21 was tested: offensive and defensive engagements per AFM 3-1, acceleration and zoom checks, live 30mm cannon firing and cockpit questionnaires. Covers safety rules, mission priorities, aircrew selection, debriefings, data from cameras, tape recorders and data cards, and modifications such as a UHF radio, wooden pylons with AIM-9B training missiles and US instruments.",
+     "nodes": []
+    },
+    {
+     "node_id": "0014",
+     "title": "Test results and discussion",
+     "start_page": 40,
+     "end_page": 63,
+     "summary": "The MiG-21 flew 102 sorties for all agencies, 35 of them USAF tactical evaluations. Results compare it with each US aircraft in acceleration, zoom, turning, radar and fire control, then assess its cockpit, armament and the design features worth copying.",
+     "nodes": [
+      {
+       "node_id": "0015",
+       "title": "Sorties flown and Table 1-3 mission list",
+       "start_page": 40,
+       "end_page": 46,
+       "summary": "Opens the results with the sortie count and the first F-4 acceleration check on mission 1. Table 1-3 lists all 102 missions from 8 February to 30 March 1968 with duration, agency, chase and participating aircraft, initial posture and comparisons, ending with RF-4C chaff, B-58 and B-52 flights.",
+       "nodes": []
+      },
+      {
+       "node_id": "0016",
+       "title": "F-4 compared with the MiG-21",
+       "start_page": 47,
+       "end_page": 50,
+       "summary": "The F-4 out-accelerated the MiG-21 and out-zoomed it at subsonic speeds up to 35,000 feet, though the MiG-21 generates more instantaneous G. A 6 G descending spiral at 450 knots denied it kills. Radar detection averaged 20 NM head-on and 35 NM abeam; the APQ-120's 12,500-foot auto-acquisition range is too short.",
+       "nodes": []
+      },
+      {
+       "node_id": "0017",
+       "title": "F-105, F-111 and F-100 compared",
+       "start_page": 50,
+       "end_page": 52,
+       "summary": "The MiG-21 out-turns the F-105, which should keep 450 knots and separate when on the defensive; the APR-25 detected MiG-21 radar lock-on only at about 3.5 km. The F-111's best defence was an early turn and jinking acceleration to low altitude. The F-100, on mission 25, could force overshoots but should avoid engagements.",
+       "nodes": []
+      },
+      {
+       "node_id": "0018",
+       "title": "F-5N, RF-101, B-66 and RF-4C compared",
+       "start_page": 52,
+       "end_page": 54,
+       "summary": "The F-5N on mission 87 closely matched the MiG-21 and is an excellent trainer to simulate it. The RF-101 should dive and accelerate past 595 KIAS. The B-66's high G spiral failed to negate an attack, so escort is needed. The RF-4C's QRC-353A chaff broke MiG-21 radar lock-on, though visual attacks remained possible.",
+       "nodes": []
+      },
+      {
+       "node_id": "0019",
+       "title": "MiG-21 cockpit evaluation",
+       "start_page": 54,
+       "end_page": 57,
+       "summary": "The cockpit reflects Soviet engineering simplicity but has poor grouping of switches and instruments. Covers support needs with 30-minute turnarounds, entry and the seat parachute, canopy and controls, the instrument panel, consoles, emergency controls, stick grip and throttle quadrant.",
+       "nodes": []
+      },
+      {
+       "node_id": "0020",
+       "title": "Armament and fire control",
+       "start_page": 57,
+       "end_page": 58,
+       "summary": "Poor forward visibility limits the weapon system. The NR-30 30mm cannon holds 60 rounds, about 4.2 seconds of fire, with 20 mils of pipper jitter; two rounds wrecked a bulldozer. Covers switchology, the gunsight and range-only radar, and the 94-mil sight depression limit.",
+       "nodes": []
+      },
+      {
+       "node_id": "0021",
+       "title": "Desirable characteristics of the MiG-21F-13",
+       "start_page": 58,
+       "end_page": 63,
+       "summary": "Features worth considering for US fighters: simple maintenance, small size and light weight, soft-field capability, a semi-reclining seat for high G, a one-hand harness ratchet, a canopy-enclosed ejection seat, armor, a head-up display, three-wheel brakes, no smoke trail, an autonomous airstart system and deadbeat longitudinal stability. Includes seating and ejection sequence figures.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0022",
+     "title": "Annex A: Tactical mission summaries",
+     "start_page": 64,
+     "end_page": 126,
+     "summary": "Summaries of 31 USAF tactical missions flown with the MiG-21, called the test aircraft, between 8 February and 23 March 1968. Each gives date, duration, configuration, planned events and comments on the outcome.",
+     "nodes": [
+      {
+       "node_id": "0023",
+       "title": "Missions 1 to 9, 8 to 20 February 1968",
+       "start_page": 64,
+       "end_page": 78,
+       "summary": "Early flights against the F-4D and F-105D: handling, slow engine response, gear retraction problems and poor rearward visibility; acceleration and zoom checks; and offensive and defensive engagements. The F-4 out-zoomed the test aircraft, and the F-105 could press a lag pursuit attack and separate with a break turn.",
+       "nodes": []
+      },
+      {
+       "node_id": "0024",
+       "title": "Missions 13 to 30, February 1968",
+       "start_page": 79,
+       "end_page": 88,
+       "summary": "F-4D comparisons, a four-ship F-4D engagement where radar search failed, and single engagements with the F-100D, F-111A and F-4E. The F-100 and F-111 should avoid sustained maneuvering; the test aircraft did best at high altitude, and its poor rear visibility should be exploited.",
+       "nodes": []
+      },
+      {
+       "node_id": "0025",
+       "title": "Missions 37 to 48, 29 February to 4 March 1968",
+       "start_page": 89,
+       "end_page": 108,
+       "summary": "F-4D and F-4E engagements, from one-on-one to fluid four, with barrel roll attacks, vertical maneuvering, defensive splits and radar passes. Lag pursuit toward the blind cone and keeping above 450 knots gave the F-4s kill positions; head-on radar detection was unlikely beyond 20 miles.",
+       "nodes": []
+      },
+      {
+       "node_id": "0026",
+       "title": "Missions 50 to 87, 7 to 23 March 1968",
+       "start_page": 109,
+       "end_page": 126,
+       "summary": "Engagements with the F-105D and APR-25 warning gear, F-4D acceleration and zoom checks with missiles aboard, the RF-101, the F-104, a B-66 with F-4D escort and cannon firing, two F-4Ds, and the F-5N, which closely simulated the test aircraft up to 1.2 IMN.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0027",
+     "title": "Annex B: Maintenance summaries",
+     "start_page": 127,
+     "end_page": 138,
+     "summary": "Maintenance discrepancy lists for the test aircraft and for the US aircraft flown against it, February to March 1968.",
+     "nodes": [
+      {
+       "node_id": "0028",
+       "title": "Test aircraft maintenance discrepancies",
+       "start_page": 127,
+       "end_page": 129,
+       "summary": "Annex B title page, then Attachment 1: discrepancies on the test aircraft from 8 February to 30 March 1968, including fuel leaks, radar lock-on and ranging failures, gear retraction, weak brakes, a broken brake cable, EGT fluctuation, worn tires and UHF faults.",
+       "nodes": []
+      },
+      {
+       "node_id": "0029",
+       "title": "F-4D maintenance discrepancies",
+       "start_page": 130,
+       "end_page": 133,
+       "summary": "Attachments 2 and 3: discrepancies on the two F-4D project aircraft, 8 February to 29 March 1968, mostly radar, inertial navigation, afterburner ignition delay, weapons release and radio faults. Aircraft #1 flew 46 sorties.",
+       "nodes": []
+      },
+      {
+       "node_id": "0030",
+       "title": "F-105D and F-105F maintenance discrepancies",
+       "start_page": 134,
+       "end_page": 138,
+       "summary": "Attachments 4 and 5: discrepancies on the F-105D, 8 February to 25 March 1968, and the F-105F Wild Weasel, 21 February to 28 March 1968, including gun, radar, TACAN, UHF, drag chute, APR-25, Doppler and gunsight faults.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0031",
+     "title": "Annex C: Cockpit evaluation summaries",
+     "start_page": 139,
+     "end_page": 142,
+     "summary": "Ratings of good, fair or poor by several pilots, dated February to April 1968, for MiG-21 cockpit items: canopy, seat, visibility, flight and engine instruments, warning lights, consoles, flight controls, stick grip, emergency controls, gear, flaps, speed brake, egress, engine start, taxi, brakes and throttle.",
+     "nodes": []
+    },
+    {
+     "node_id": "0032",
+     "title": "Annex D: Weapons effects",
+     "start_page": 143,
+     "end_page": 148,
+     "summary": "A bulldozer, operational before the test but with its blade removed, was hit by two 30mm high explosive incendiary rounds fired by the test aircraft and judged damaged beyond repair. Figures 1-6 to 1-9 show the damage.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0033",
+   "title": "Supplement 2: US Navy evaluation",
+   "start_page": 149,
+   "end_page": 282,
+   "summary": "The Navy's report on the MiG-21 flown against the F-4B, F-4J, F-8E, A-4F, A-6A and A-7A, with references, aircraft descriptions, results, tactics, conclusions, recommendations, flight logs and mission summaries.",
+   "nodes": [
+    {
+     "node_id": "0034",
+     "title": "Title page and test directive",
+     "start_page": 149,
+     "end_page": 151,
+     "summary": "Title page of Supplement 2: Project HAVE DOUGHNUT report of tactical evaluation as determined by the United States Navy. A blank reverse, then the directive: conduct an operational investigation of the tactical employment of Navy combat airplanes and their weapons systems against the MiG-21.",
+     "nodes": []
+    },
+    {
+     "node_id": "0035",
+     "title": "References and previously known data",
+     "start_page": 152,
+     "end_page": 155,
+     "summary": "Lists 23 references, from FTD and DIA studies of the Fishbed to NATOPS flight and tactical manuals for the F-4B, F-4J, F-8D/E, A-4, A-6A and A-7, and a WSEG report. Summarises what they said beforehand, including that the MiG-21 was a point interceptor with little slow speed maneuverability and a zoom equal to any Free World fighter.",
+     "nodes": []
+    },
+    {
+     "node_id": "0036",
+     "title": "Acronyms and abbreviations",
+     "start_page": 156,
+     "end_page": 159,
+     "summary": "Glossary of acronyms and abbreviations used in the Navy evaluation, from A/B (afterburner), ACM and AIM-7E Sparrow to the APG-59, APQ-72 and APQ-94 radars, ATOLL, bingo, CRT, IMN, KCAS, MRT, PLM, TCA, VID and Vc (closing velocity).",
+     "nodes": []
+    },
+    {
+     "node_id": "0037",
+     "title": "Description of material",
+     "start_page": 160,
+     "end_page": 167,
+     "summary": "Descriptions of the aircraft and weapons: the MiG-21F-13 (41.1-foot fuselage, 23.5-foot span, 11,100 lb empty) with its Type 37F engine, armor, KVANT range-only radar and ASP-5ND gunsight; the F-4B and F-4J Phantom II; the F-8E Crusader; the A-4F Skyhawk; the A-6A Intruder; the A-7A Corsair II; and the AIM-9 Sidewinder.",
+     "nodes": []
+    },
+    {
+     "node_id": "0038",
+     "title": "Purpose and conduct of the test",
+     "start_page": 168,
+     "end_page": 170,
+     "summary": "Objectives of the Navy test and its conduct: the MiG-21 flew from 8 February to 30 March 1968, with 102 of 134 scheduled sorties flown and 46 tactical flights. Describes the data cameras, Sidewinder tones, debriefings, fuel and bingo assumptions and rules of engagement.",
+     "nodes": []
+    },
+    {
+     "node_id": "0039",
+     "title": "Results and discussion",
+     "start_page": 170,
+     "end_page": 195,
+     "summary": "Numbered findings on the MiG-21 itself, then on the F-4, the F-8 and the attack aircraft flown against it.",
+     "nodes": [
+      {
+       "node_id": "0040",
+       "title": "MiG-21 findings",
+       "start_page": 170,
+       "end_page": 183,
+       "summary": "The MiG-21 was simple, reliable and corrosion free, serviced by six men, with a 30-minute turnaround. Notes poor cockpit visibility and layout, the ejection seat and armor, an effective 30mm cannon, slow engine acceleration, no smoke trail, hard visual acquisition beyond 2 miles, maneuvering down to 115 KIAS, buffet above .93 IMN, high stick forces and high vulnerability.",
+       "nodes": []
+      },
+      {
+       "node_id": "0041",
+       "title": "F-4 compared with the MiG-21",
+       "start_page": 182,
+       "end_page": 191,
+       "summary": "The F-4 out-accelerated and out-zoomed the MiG-21 to 32,000 feet and had higher q limits but could not turn with it close in. Radar detection averaged 20-25 NM low and 30-35 NM higher on the APQ-72; covers the APG-59 pulse doppler, compressor modulation returns and the APR-25's limited warning.",
+       "nodes": []
+      },
+      {
+       "node_id": "0042",
+       "title": "F-8 and attack aircraft compared",
+       "start_page": 191,
+       "end_page": 195,
+       "summary": "The F-8 had inferior military power acceleration, comparable zoom and could not turn close in, but had a higher q limit. The MiG-21 looked like an A-4. The A-4F, A-6A and A-7A could thwart attacks with a break turn but could not stop the MiG-21 disengaging. The final page is blank.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0043",
+     "title": "Operational applications",
+     "start_page": 196,
+     "end_page": 210,
+     "summary": "Limits of the test's realism, then tactics: general fighter rules such as fighting in section, keeping 450 knots, forcing the fight low and using lag pursuit; F-4 section and radar tactics; F-8 tactics; and defensive maneuvers for the A-4F, A-6A and A-7A against MiG-21 attacks.",
+     "nodes": []
+    },
+    {
+     "node_id": "0044",
+     "title": "Conclusions",
+     "start_page": 211,
+     "end_page": 212,
+     "summary": "Conclusions A to Z: the MiG-21 is hard to see, highly maneuverable at low speed and out-turns the F-4 and F-8 close in, but buffets above .96 IMN below 16,000 feet, has heavy stick forces, inferior zoom to a clean F-4, slow engine acceleration, poor visibility and high vulnerability. It is easy to maintain and turns around in 30 minutes.",
+     "nodes": []
+    },
+    {
+     "node_id": "0045",
+     "title": "Recommendations",
+     "start_page": 213,
+     "end_page": 214,
+     "summary": "Commander Operational Test and Evaluation Force recommends fighting in section, strict lookout, forcing low and fast engagements, avoiding slow close-in fights, keeping an attacker at high TCA, ACM practice against small aircraft such as the A-4F and F-5, radar tactics for the APG-59, Sidewinders on attack aircraft and further foreign aircraft exploitation.",
+     "nodes": []
+    },
+    {
+     "node_id": "0046",
+     "title": "Basic conclusions",
+     "start_page": 215,
+     "end_page": 215,
+     "summary": "The aircraft was easy to fly with no dangerous characteristics and no stability augmentation. Acceleration and turning were good but below prediction. Weak lateral-directional damping and slow engine response made it a poor weapons platform in turbulence; it vibrated heavily at 0.96 to 1.15 IMN at low altitude, and the cockpit design was antiquated.",
+     "nodes": []
+    },
+    {
+     "node_id": "0047",
+     "title": "Daily maintenance and flight summaries",
+     "start_page": 216,
+     "end_page": 223,
+     "summary": "Day-by-day log of MiG-21 flights scheduled and flown from 8 February to 27 March 1968, with cancellations for weather and maintenance such as EGT wiring, brake cable and a 50-hour check, and a table of all 102 flights with duration, date, agency, participating aircraft and mission.",
+     "nodes": []
+    },
+    {
+     "node_id": "0048",
+     "title": "Mission summaries",
+     "start_page": 224,
+     "end_page": 282,
+     "summary": "Navy summaries of 24 missions, each giving external configuration, planned engagements and a summary with general comments.",
+     "nodes": [
+      {
+       "node_id": "0049",
+       "title": "Missions 1 to 12",
+       "start_page": 224,
+       "end_page": 242,
+       "summary": "Pilot familiarization and comparisons with the F-4D and F-8E, F-8 one-on-one gun tracking, F-4J single and section tactics with APG-59 radar, an F-4B and F-4J electronic intelligence flight, and F-8 loose deuce section tactics. The MiG-21 could turn with the F-8 at slow speed; the RIO proved essential.",
+       "nodes": []
+      },
+      {
+       "node_id": "0050",
+       "title": "Missions 13 to 38",
+       "start_page": 243,
+       "end_page": 262,
+       "summary": "F-4D performance comparison, F-4D fluid four and pod tactics, A-4F and A-7A defensive maneuvers, F-4E close-in tactics, F-8 one-on-one and scissors, and F-4J one-on-one engagements. Vertical maneuvering, low altitude and the MiG-21's blind area favored the F-4; slow scissors did not.",
+       "nodes": []
+      },
+      {
+       "node_id": "0051",
+       "title": "Missions 39 to 83",
+       "start_page": 263,
+       "end_page": 282,
+       "summary": "F-4E and F-4D barrel roll and lag pursuit attacks, F-4J section tactics with AWG-10 interference, fluid four radar search, F-8 two-on-one with the MiG-21 carrying missiles, F-4J and F-4B section tactics, and A-6A defensive scissors in which the A-6 repeatedly reached the MiG-21's blind cone. The last page is blank.",
+       "nodes": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "node_id": "0052",
+   "title": "Supplement 3: Aerospace Defense Command evaluation",
+   "start_page": 283,
+   "end_page": 308,
+   "summary": "ADC's evaluation of F-106 tactics against the MiG-21F-13: objectives, overall findings and summaries of the F-106 missions flown in March 1968.",
+   "nodes": [
+    {
+     "node_id": "0053",
+     "title": "Title page",
+     "start_page": 283,
+     "end_page": 284,
+     "summary": "Title page of Supplement 3: Project HAVE DOUGHNUT report of tactical evaluation as determined by Aerospace Defense Command. The reverse is blank.",
+     "nodes": []
+    },
+    {
+     "node_id": "0054",
+     "title": "Introduction, objectives and results",
+     "start_page": 285,
+     "end_page": 289,
+     "summary": "ADC sought to develop F-106 tactics against the test aircraft. Five of six scheduled missions were flown. The test aircraft was hard to see, gave radar contact at 20-25 miles and had exploitable weaknesses; the F-106 should use radar snap-up attacks, separate beyond the q limit and avoid slow turning fights. Its canopy bar should be replaced.",
+     "nodes": []
+    },
+    {
+     "node_id": "0055",
+     "title": "F-106 missions 78 and 84, 20 and 22 March 1968",
+     "start_page": 290,
+     "end_page": 294,
+     "summary": "Mission 78: an F-106 and F-4 escorted a B-66 attacked by the test aircraft, then made radar and IR passes, locking on at 12-16 NM. Mission 84: one F-106 against the test aircraft; the F-106 pulled ahead in a military power acceleration, but the test aircraft stayed inside its turns. The test aircraft also fired its 30mm cannon at a ground target.",
+     "nodes": []
+    },
+    {
+     "node_id": "0056",
+     "title": "F-106 missions 92 and 93, 25 March 1968",
+     "start_page": 295,
+     "end_page": 300,
+     "summary": "Four F-106s made radar snap-up attacks with missile simulators and one-on-one engagements; the F-106 reached gun position from the blind area and kept pace in slow scissors. Two passes list estimated AIM-4F and AIM-4G kill probabilities. Mission 93 was cancelled because the runway closed.",
+     "nodes": []
+    },
+    {
+     "node_id": "0057",
+     "title": "F-106 missions 94 and 95, 26 March 1968",
+     "start_page": 301,
+     "end_page": 308,
+     "summary": "Mission 94: four of five head-on engagements failed because neither side made contact. Mission 95: a four-ship snap-up attack from patrol formation succeeded and the flight engaged the test aircraft; its cannon jammed. Comments cover patrol speeds, exploiting the q limit and F-106 paint. Pass records give estimated missile kill probabilities.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0058",
+   "title": "Document control data sheet",
+   "start_page": 309,
+   "end_page": 309,
+   "summary": "Catalogue record for Project HAVE DOUGHNUT - Tactical, Volume II: subject tags such as aircraft flight test, vulnerability, performance, maintenance and foreign materiel exploitation of the MiG-21F; source AFSC Foreign Technology Division, Wright-Patterson AFB; monitoring agency DIA; date of information April 1968; classified Secret, no foreign dissemination; area USSR.",
+   "nodes": []
+  },
+  {
+   "node_id": "0059",
+   "title": "Back cover",
+   "start_page": 310,
+   "end_page": 310,
+   "summary": "Back cover of the report.",
+   "nodes": []
+  }
+ ]
+}

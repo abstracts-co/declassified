@@ -1,0 +1,422 @@
+{
+ "id": "cuba-khrushchev-letters",
+ "title": "Khrushchev Letters to Kennedy",
+ "source": {
+  "url": "https://catalog.archives.gov/id/6883656",
+  "publisher": "White House",
+  "date": "1962-10",
+  "pages": 104,
+  "released": "1973-11",
+  "file": "https://catalog.archives.gov/medialz/presidential-libraries/kennedy/jfk-3/193654/6883656/JFKPOF-115-010.pdf",
+  "sha256": "312d293c80cdbeecc686446b95581317ad7cf05352ed5daa72917155e8f27d6f",
+  "license": "US government records, public domain; the Soviet originals are official state correspondence"
+ },
+ "country": "us",
+ "topic": "cuba",
+ "summary": "President Kennedy's office file of Nikita Khrushchev's letters from 23 October to 19 December 1962, with Russian originals, Moscow embassy telegrams and State Department translations, including the 26 October letter about the 'knot of war'. The October letters were declassified in November 1973; the rest, including Robert Kennedy's memo on his 27 October meeting with Soviet Ambassador Anatoly Dobrynin, followed between 1991 and 1998.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/cuba/cuba-khrushchev-letters/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Withdrawal sheet: folder contents",
+   "start_page": 1,
+   "end_page": 2,
+   "summary": "JFK Library list for President's Office Files, Countries, Cuba, Box 115: 'Cuba – Missile Crisis – Khrushchev Correspondence 10/23/62–12/19/62'. It lists twelve numbered items, from the official translation of Khrushchev's 23 October letter to his 19 December letter, with page counts and declassification dates from 1973 to 1998.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "Letter of 23 October 1962",
+   "start_page": 3,
+   "end_page": 6,
+   "summary": "Khrushchev's first reply to Kennedy's 22 October speech and letter on Cuba, in the State Department's official translation and the signed Russian original.",
+   "nodes": [
+    {
+     "node_id": "0002",
+     "title": "Official translation (LS No. 45989)",
+     "start_page": 3,
+     "end_page": 4,
+     "summary": "Division of Language Services translation. Writing from Moscow on 23 October, Khrushchev calls Kennedy's 22 October measures a serious threat to peace and a violation of the UN Charter and freedom of navigation. He rejects US inspection of ships bound for Cuba, insists the arms there are defensive, and refers Kennedy to a Soviet Government statement.",
+     "nodes": []
+    },
+    {
+     "node_id": "0003",
+     "title": "Russian original",
+     "start_page": 5,
+     "end_page": 6,
+     "summary": "Khrushchev's signed letter in Russian, dated Moscow, 23 October 1962, to President John Kennedy. Same text as the translation: the US measures threaten peace, no state may inspect ships in international waters, the weapons in Cuba are defensive, and the Soviet view is set out in a government statement sent through the US ambassador in Moscow.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0004",
+   "title": "Drafts of Kennedy's reply to the 23 October letter",
+   "start_page": 7,
+   "end_page": 9,
+   "summary": "Three White House drafts of a short 'Dear Mr. Chairman' reply: the secret Soviet missile shipments started the crisis, both sides should show prudence, and Soviet ships should not challenge the quarantine set by the Organization of American States.",
+   "nodes": [
+    {
+     "node_id": "0005",
+     "title": "Draft with handwritten additions",
+     "start_page": 7,
+     "end_page": 7,
+     "summary": "Kennedy says the chain of events began with the Soviet Government secretly furnishing long-range missiles to Cuba, the matter will go to the Security Council, and asks Khrushchev to tell ships bound for Cuba not to challenge the quarantine. A handwritten addition says it takes effect at 1400 hours on 24 October.",
+     "nodes": []
+    },
+    {
+     "node_id": "0006",
+     "title": "Clean draft",
+     "start_page": 8,
+     "end_page": 8,
+     "summary": "Typed version of the same reply with one hand correction ('are' for 'will'): the missiles started the crisis, the Security Council is discussing it, both sides should avoid making the situation harder to control, and Soviet ships should not challenge the quarantine established by the Organization of American States that afternoon.",
+     "nodes": []
+    },
+    {
+     "node_id": "0007",
+     "title": "Draft dated 23 October 1962",
+     "start_page": 9,
+     "end_page": 9,
+     "summary": "Version marked 'DRAFT' that speaks of 'offensive weapons' instead of long-range missiles and asks Khrushchev to order his ships to observe the quarantine voted by the Organization of American States. A sentence saying the US has no desire to seize or fire on Soviet vessels is struck out; a hand note adds it takes effect 1400 Greenwich time, 24 October.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0008",
+   "title": "Moscow telegram 1101: embassy translation of the 26 October letter",
+   "start_page": 10,
+   "end_page": 22,
+   "summary": "Eyes-only telegram in four sections from Ambassador Kohler giving the embassy's verbatim translation of Khrushchev's letter, delivered by messenger at 4:43 p.m. Moscow time on 26 October under a cover letter from Gromyko. The sections reached Washington and were relayed to the White House that evening.",
+   "nodes": [
+    {
+     "node_id": "0009",
+     "title": "Section one of four",
+     "start_page": 10,
+     "end_page": 13,
+     "summary": "Khrushchev acknowledges Kennedy's letter of 25 October and says secret letters at a distance add little. Everyone needs peace; he has taken part in two wars. A cannon can be offensive or defensive depending on use, and all Soviet arms in Cuba are defensive, sent at Cuba's request. Relayed to the White House at 6:30 p.m.",
+     "nodes": []
+    },
+    {
+     "node_id": "0010",
+     "title": "Section two of four",
+     "start_page": 14,
+     "end_page": 16,
+     "summary": "Khrushchev asks whether Kennedy really thinks Cuba could attack the United States; only lunatics or suicides would act so. He calls the quarantine Middle Ages piracy and says ships now bound for Cuba carry only peaceful cargo, since the weapons for Cuba's defence are already there. Relayed to the White House at 8:45 p.m.",
+     "nodes": []
+    },
+    {
+     "node_id": "0011",
+     "title": "Section three of four",
+     "start_page": 17,
+     "end_page": 19,
+     "summary": "Khrushchev calls U Thant's proposals reasonable: no Soviet arms shipments to Cuba during talks and no action against ships. He says the arms followed the landing in Cuba that Kennedy called a mistake in Vienna, recalls General Graves's book on the US intervention in Siberia, and says US assurances against attacking Cuba would change everything.",
+     "nodes": []
+    },
+    {
+     "node_id": "0012",
+     "title": "Section four of four",
+     "start_page": 20,
+     "end_page": 22,
+     "summary": "Armaments bring only disasters. Khrushchev proposes that the USSR declare its ships carry no arms and the US declare it will not invade Cuba, ending the need for Soviet military specialists there. He warns against pulling on the knot of war, thanks Bertrand Russell and U Thant, and signs. The original goes by air pouch. Relayed 9:15 p.m.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0013",
+   "title": "Robert Kennedy memorandum on his meeting with Dobrynin",
+   "start_page": 23,
+   "end_page": 26,
+   "summary": "Top-secret memo of 30 October 1962 from the Attorney General to Secretary Rusk. On 27 October he told Ambassador Dobrynin that work on the missile bases continued and a U-2 had been shot down; the bases had to go, with a commitment by the next day. On Turkish missiles there could be no quid pro quo; that was for NATO.",
+   "nodes": []
+  },
+  {
+   "node_id": "0014",
+   "title": "Letter of 26 October 1962: signed original and official translation",
+   "start_page": 27,
+   "end_page": 46,
+   "summary": "State Department package sent to McGeorge Bundy on 3 November 1962 with the signed Russian original of Khrushchev's 26 October letter, Gromyko's covering note to Ambassador Kohler, and the official translation, LS No. 46118.",
+   "nodes": [
+    {
+     "node_id": "0015",
+     "title": "Brubeck memo to McGeorge Bundy, 3 November 1962",
+     "start_page": 27,
+     "end_page": 27,
+     "summary": "Eyes-only memo S/S 18181 from Executive Secretary William Brubeck to McGeorge Bundy at the White House, enclosing the signed original and an official translation of Khrushchev's 26 October letter to the President, and noting that the Moscow embassy's translation was sent as telegram 1101.",
+     "nodes": []
+    },
+    {
+     "node_id": "0016",
+     "title": "Gromyko covering note to Ambassador Kohler (Russian)",
+     "start_page": 28,
+     "end_page": 28,
+     "summary": "Russian note dated Moscow, 26 October 1962, from Foreign Minister Andrei Gromyko to US Ambassador Foy Kohler, transmitting Khrushchev's letter to President Kennedy.",
+     "nodes": []
+    },
+    {
+     "node_id": "0017",
+     "title": "Russian original of the letter",
+     "start_page": 29,
+     "end_page": 37,
+     "summary": "Khrushchev's nine-page Russian letter to Kennedy, signed and dated 26 October 1962. It answers Kennedy's letter of 25 October, defends the weapons in Cuba as defensive, condemns the quarantine as piracy, offers to declare that Soviet ships carry no arms in return for a US pledge not to invade Cuba, and warns against tightening the knot of war.",
+     "nodes": []
+    },
+    {
+     "node_id": "0018",
+     "title": "Official translation of Gromyko's note",
+     "start_page": 38,
+     "end_page": 38,
+     "summary": "Translation LS No. 46118: Andrei Gromyko, Minister of Foreign Affairs of the USSR, transmits Khrushchev's letter for President Kennedy to Ambassador Foy D. Kohler in Moscow, 26 October 1962.",
+     "nodes": []
+    },
+    {
+     "node_id": "0019",
+     "title": "Official translation of the letter",
+     "start_page": 39,
+     "end_page": 46,
+     "summary": "State Department translation. Khrushchev says war ends only after rolling through cities and villages, the arms in Cuba are defensive and were sent after the attack on Cuba, and the ships carry no armaments. He proposes a Soviet declaration on shipments for a US pledge not to invade Cuba and urges both sides to untie the knot of war.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0020",
+   "title": "Letter received 5 November 1962 on the US list of offensive weapons",
+   "start_page": 47,
+   "end_page": 49,
+   "summary": "Typed English letter signed N. Khrushchev. Kuznetsov reports that Stevenson handed him a list of weapons the US calls offensive. Khrushchev says this complicates matters when the Soviets have already dismantled the missiles and are loading them on ships, and asks Kennedy to keep to the agreed terms: missiles out, quarantine lifted, no invasion of Cuba.",
+   "nodes": []
+  },
+  {
+   "node_id": "0021",
+   "title": "Letter of 24 October 1962: signed original and official translation",
+   "start_page": 50,
+   "end_page": 58,
+   "summary": "Package sent to McGeorge Bundy on 6 November 1962 with Smirnovski's covering note, the signed Russian original of Khrushchev's 24 October answer to Kennedy's letter of 23 October, and the official translation, LS No. 46234.",
+   "nodes": [
+    {
+     "node_id": "0022",
+     "title": "Brubeck memo to McGeorge Bundy, 6 November 1962",
+     "start_page": 50,
+     "end_page": 50,
+     "summary": "Eyes-only memo from Executive Secretary William H. Brubeck enclosing the signed original and an official translation of Khrushchev's letter to the President dated 24 October; the Moscow embassy's translation had been sent as telegram 1070.",
+     "nodes": []
+    },
+    {
+     "node_id": "0023",
+     "title": "Smirnovski covering note (Russian)",
+     "start_page": 51,
+     "end_page": 51,
+     "summary": "Russian note dated Moscow, 24 October 1962, to Ambassador Foy Kohler, enclosing Khrushchev's letter to President Kennedy and asking that it be passed to him without delay.",
+     "nodes": []
+    },
+    {
+     "node_id": "0024",
+     "title": "Official translation of Smirnovski's note",
+     "start_page": 52,
+     "end_page": 52,
+     "summary": "Translation LS No. 46234: Smirnovski, officer in charge of the USA Bureau of the Soviet Foreign Ministry, sends Ambassador Kohler Khrushchev's letter to Kennedy on 24 October 1962 and asks that it be delivered without delay.",
+     "nodes": []
+    },
+    {
+     "node_id": "0025",
+     "title": "Russian original of the letter",
+     "start_page": 53,
+     "end_page": 55,
+     "summary": "Khrushchev's three-page signed Russian letter, Moscow, 24 October 1962, answering Kennedy's letter of 23 October. It rejects the quarantine as an ultimatum and says Soviet captains will not obey the US naval forces blockading Cuba.",
+     "nodes": []
+    },
+    {
+     "node_id": "0026",
+     "title": "Official translation of the letter",
+     "start_page": 56,
+     "end_page": 58,
+     "summary": "Khrushchev calls the quarantine an ultimatum, says the Organization of American States has no authority for it, and calls US policy outright banditry and the folly of degenerate imperialism, partly driven by the election campaign. Soviet captains will not obey the US Navy; against piracy the USSR will take the measures it needs.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0027",
+   "title": "Letter received 12 November 1962",
+   "start_page": 59,
+   "end_page": 67,
+   "summary": "Typed English letter: Khrushchev says the missiles and warheads are gone, urges the US to lift the quarantine and stop flights over Cuba, and gives his word that the IL-28 bombers will be removed later.",
+   "nodes": [
+    {
+     "node_id": "0028",
+     "title": "Extra copy of the first page",
+     "start_page": 59,
+     "end_page": 59,
+     "summary": "Second copy of the letter's first page, without the salutation: Khrushchev welcomes both sides carrying out their obligations, says the missiles and warheads have been dismantled and removed, and praises the talks between Kuznetsov, McCloy and Stevenson and the cooperation between Soviet and US ship captains.",
+     "nodes": []
+    },
+    {
+     "node_id": "0029",
+     "title": "Obligations met, test ban and wider security",
+     "start_page": 60,
+     "end_page": 62,
+     "summary": "Khrushchev says the Soviet side has met its obligations under the 27 and 28 October messages; now the US must lift the quarantine and stop violating Cuban waters and air space. He sees a chance to end nuclear tests, proposes observation posts against surprise attack, raises a German peace treaty, and notes Nixon's election defeat.",
+     "nodes": []
+    },
+    {
+     "node_id": "0030",
+     "title": "IL-28 bombers",
+     "start_page": 63,
+     "end_page": 67,
+     "summary": "Khrushchev calls the IL-28s twelve-year-old planes out of production, fit only for coastal defence, and flown solely by Soviet pilots. He gives a gentleman's word to remove them with their personnel later. In return the blockade should end, pledges be registered at the UN, non-invasion guaranteed and UN posts set up in the Caribbean.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0031",
+   "title": "Letter marked 14 November 1962",
+   "start_page": 68,
+   "end_page": 72,
+   "summary": "Khrushchev agrees with Kennedy's reply: the IL-28s will leave with equipment and crews, perhaps in two or three months rather than 30 days. First the quarantine should be lifted, overflights stopped and the 27-28 October commitments written into a UN document. He accepts UN posts with reciprocity and notes his former rival's election defeat.",
+   "nodes": []
+  },
+  {
+   "node_id": "0032",
+   "title": "Letter answering Kennedy's message of 15 November",
+   "start_page": 73,
+   "end_page": 86,
+   "summary": "Thirteen-page English letter with a short postscript. Khrushchev agrees to remove the IL-28 bombers within a month and presses for the quarantine to end, flights over Cuba to stop and US commitments to be formalized at the UN.",
+   "nodes": [
+    {
+     "node_id": "0033",
+     "title": "The agreement and the IL-28 bombers",
+     "start_page": 73,
+     "end_page": 75,
+     "summary": "Khrushchev restates the deal of 27-28 October: Soviet missiles out with verification, the quarantine lifted, no invasion of Cuba. The IL-28s were never mentioned, but he agrees to remove them within a month with their personnel. All 42 missiles, their nuclear warheads and the rocket crews have left Cuba.",
+     "nodes": []
+    },
+    {
+     "node_id": "0034",
+     "title": "US commitments, quarantine and overflights",
+     "start_page": 76,
+     "end_page": 78,
+     "summary": "Khrushchev complains that the UN non-invasion commitment is delayed, the quarantine stays and US planes still fly over Cuba; formalizing should take days, not weeks. He accepts a declaration instead of a protocol and asks the US to follow its own rule against double standards.",
+     "nodes": []
+    },
+    {
+     "node_id": "0035",
+     "title": "Verification and permanent supervision",
+     "start_page": 78,
+     "end_page": 81,
+     "summary": "UN verification needed Cuba's consent. US ships counted and photographed the missiles at sea, the Defense Department confirmed their removal, and talk of missiles in caves is rumour. The IL-28 removal can be watched the same way; guard units will leave later. Khrushchev rejects permanent supervision over Cuba without reciprocity.",
+     "nodes": []
+    },
+    {
+     "node_id": "0036",
+     "title": "UN presence and next steps",
+     "start_page": 82,
+     "end_page": 85,
+     "summary": "Khrushchev backs U Thant's proposal for UN posts in the Caribbean, says posts in Soviet ports have nothing to do with Cuba, and revives mutual posts at airfields, ports and railway junctions. He asks for the quarantine to be lifted, overflights stopped and an agreed UN document, and hopes Kennedy's press conference will not be one-sided.",
+     "nodes": []
+    },
+    {
+     "node_id": "0037",
+     "title": "Postscript on the news conference",
+     "start_page": 86,
+     "end_page": 86,
+     "summary": "Attached page: Fidel Castro also plans a statement that day, and Khrushchev hopes the President's news conference will add nothing that aggravates matters or hurts Cuban national feeling. Both sides should show caution and restraint to finish the crisis.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0038",
+   "title": "Letter marked 11 December 1962",
+   "start_page": 87,
+   "end_page": 95,
+   "summary": "Nine-page letter to 'Dear Mr. President' on the final stage of the crisis: formalizing commitments at the UN, Castro's five conditions, leaks from the confidential channel, a test ban and the German question.",
+   "nodes": [
+    {
+     "node_id": "0039",
+     "title": "Final stage of the Cuban settlement",
+     "start_page": 87,
+     "end_page": 91,
+     "summary": "With the missiles and IL-28s withdrawn, Khrushchev asks Kennedy to confirm the non-invasion pledge at the UN without the reservations in the US draft declaration. The Soviets compromised to protect Cuba; keeping the pledge will be a litmus test of trust. He hopes Kennedy is re-elected and serves six years.",
+     "nodes": []
+    },
+    {
+     "node_id": "0040",
+     "title": "Castro's conditions and leaks from the confidential channel",
+     "start_page": 92,
+     "end_page": 93,
+     "summary": "Khrushchev says Castro's five conditions match the UN Charter and objects to US columnists writing about the confidential exchange, warning the channel will lose its use if it leaks. He promises a confidential letter on the nuclear test ban, a minor question beside disarmament.",
+     "nodes": []
+    },
+    {
+     "node_id": "0041",
+     "title": "The German question",
+     "start_page": 93,
+     "end_page": 95,
+     "summary": "The main question is Germany. After Gromyko's talks with Rusk only the troops in West Berlin remain unresolved. Khrushchev urges a peace treaty fixing the post-war situation, asks why two great powers should be toys of an old man with one foot in the grave, and sends greetings to Kennedy's family.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0042",
+   "title": "Letter of 19 December 1962 on a nuclear test ban",
+   "start_page": 96,
+   "end_page": 101,
+   "summary": "Eyes-only English letter signed N. Khrushchev and declassified in 1998, proposing automatic seismic stations and two or three on-site inspections a year so that nuclear tests can end from 1 January 1963.",
+   "nodes": [
+    {
+     "node_id": "0043",
+     "title": "Case for ending nuclear tests",
+     "start_page": 96,
+     "end_page": 97,
+     "summary": "With the Caribbean crisis over, Khrushchev says the time has come to end nuclear tests. National means can detect tests in space, the atmosphere and under water; the obstacle is the US demand for inspection of underground tests. The USSR has accepted automatic seismic stations, an idea from British scientists at the Pugwash meeting in London.",
+     "nodes": []
+    },
+    {
+     "node_id": "0044",
+     "title": "Automatic seismic stations",
+     "start_page": 98,
+     "end_page": 99,
+     "summary": "Khrushchev offers three stations on Soviet territory, near Kokchetav, Bodaibo and Yakutsk in the Central Asian, Altai and Far Eastern seismic zones, with sealed equipment carried by Soviet crews or, if needed, foreign personnel. He accepts that Kennedy needs some on-site inspections for Senate ratification.",
+     "nodes": []
+    },
+    {
+     "node_id": "0045",
+     "title": "On-site inspections",
+     "start_page": 100,
+     "end_page": 101,
+     "summary": "Citing Ambassador Dean's 30 October remark to Kuznetsov that 2-4 inspections a year would do, Khrushchev agrees to 2-3 on-site inspections a year in seismic areas, with safeguards against espionage. Tests could end from 1 January 1963, easing the way to disarmament. Signed 19 December 1962.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0046",
+   "title": "Archivist's note on the 28 October letter",
+   "start_page": 102,
+   "end_page": 102,
+   "summary": "Note by William W. Moss, Chief Archivist of the JFK Library, dated 29 March 1978: only pages 1 and 8 of Khrushchev's letter of 28 October 1962 are present. They were used in the library's early travelling exhibit, and the whereabouts of the other six pages is unknown.",
+   "nodes": []
+  },
+  {
+   "node_id": "0047",
+   "title": "Letter of 28 October 1962, pages 1 and 8 (Russian)",
+   "start_page": 103,
+   "end_page": 104,
+   "summary": "First and last pages of Khrushchev's Russian letter. He welcomes Kennedy's message of 27 October and says the Soviet government has ordered the weapons Kennedy calls offensive dismantled, crated and returned to the USSR. Page 8 says First Deputy Foreign Minister Kuznetsov is going to New York to help U Thant. Signed 28 October 1962.",
+   "nodes": []
+  }
+ ]
+}

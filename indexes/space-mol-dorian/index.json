@@ -1,0 +1,500 @@
+{
+ "id": "space-mol-dorian",
+ "title": "The DORIAN Files Revealed",
+ "source": {
+  "url": "https://www.nro.gov/FOIA/MOL",
+  "publisher": "NRO",
+  "date": "2015-08",
+  "pages": 232,
+  "released": "2015-10-22",
+  "file": "https://web.archive.org/web/20240817064449id_/https://www.nro.gov/Portals/65/documents/history/csnr/programs/docs/MOL_Compendium_August_2015.pdf",
+  "sha256": "14bcbf07e53761c3db6ae51cd6d8a95ceac8f21219cbb0931fe87e3bfe657d5f",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "space",
+ "summary": "The NRO's 2015 compendium on the Manned Orbiting Laboratory, built around Carl Berger's declassified history of the MOL program office and an index of the documents released with it. MOL was a 1960s Air Force space station whose secret DORIAN mission was for two-man crews to photograph Soviet military targets with a giant camera; it was cancelled in June 1969 without flying a crew.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/space/space-mol-dorian/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Cover and title pages",
+   "start_page": 1,
+   "end_page": 5,
+   "summary": "Cover of The Dorian Files Revealed: A Compendium of the NRO's Manned Orbiting Laboratory Documents, edited by James D. Outzen, August 2015, and a title page noting it includes Carl Berger's \"A History of the Manned Orbiting Laboratory Program Office.\" A Center for the Study of National Reconnaissance page gives the CSNR's mission, contact details and ISBN.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "Contents",
+   "start_page": 6,
+   "end_page": 9,
+   "summary": "Table of contents listing the foreword, preface and introduction, the sixteen chapters of Carl Berger's MOL program office history from early space station planning to the post-mortem, each with its sections and page numbers, and the supplemental documents index beginning on page 175.",
+   "nodes": []
+  },
+  {
+   "node_id": "0002",
+   "title": "Foreword",
+   "start_page": 10,
+   "end_page": 11,
+   "summary": "Robert A. McDonald, CSNR director, presents the third CSNR compendium after Gambit/Hexagon and Quill. MOL was public from 1963 and announced by President Johnson in 1965, but its role as a reconnaissance platform was not. The documents cover public affairs, Air Force-NASA-NRO cooperation, space station concepts, budget battles, and how the program was terminated, and its legacy.",
+   "nodes": []
+  },
+  {
+   "node_id": "0003",
+   "title": "Preface",
+   "start_page": 12,
+   "end_page": 13,
+   "summary": "James D. Outzen describes the release of some 20,000 pages of MOL records. Berger's history is printed with bracketed substitute language where redactions occurred, the unedited version is on the documents DVD, and only a chronological index of the documents appears here. A crew oral history is planned for 2016. He thanks NRO declassification staff and the Air Force museum.",
+   "nodes": []
+  },
+  {
+   "node_id": "0004",
+   "title": "Introduction",
+   "start_page": 14,
+   "end_page": 17,
+   "summary": "Outzen sets MOL in context: Johnson's 25 August 1965 announcement, earlier aircraft and satellite reconnaissance and its limits, and the secret DORIAN compartment, under which crews would aim a Kodak camera at cloud-free targets. MOL needed NASA's Gemini and NRO sensors, suffered from Vietnam-era budgets and Hexagon's rise, ended in June 1969, and left astronauts and technology to NASA.",
+   "nodes": []
+  },
+  {
+   "node_id": "0005",
+   "title": "Chapter I: Early space station planning",
+   "start_page": 18,
+   "end_page": 31,
+   "summary": "Berger traces the military space station idea from Oberth's 1923 writings through Air Force studies after Sputnik, the 1960-1961 military test space station studies, the 1962 MODS proposal for a Gemini and Titan III station, Blue Gemini, and the 21 January 1963 McNamara-Webb Gemini agreement that put military experiments on NASA flights.",
+   "nodes": [
+    {
+     "node_id": "0006",
+     "title": "Oberth, von Braun and the first space station ideas",
+     "start_page": 18,
+     "end_page": 20,
+     "summary": "After the chapter title page: Hermann Oberth proposed observation stations with telescopes in 1923; von Braun and the Peenemunde team surrendered to US forces in 1945; General Arnold's November 1945 report foresaw space ships; von Braun described a military observation station in 1950; and Oberth wrote in 1956 that a polar-orbit telescope would make any Iron Curtain senseless.",
+     "nodes": []
+    },
+    {
+     "node_id": "0007",
+     "title": "The Air Force initiates space station planning",
+     "start_page": 20,
+     "end_page": 23,
+     "summary": "From 1957 Wright Air Development Center planners studied manned stations for reconnaissance. After Sputnik the Air Force proposed a Manned Strategic Station in January 1958, and General Boushey told Congress a 40-inch telescope in orbit could detect objects under 2 feet. NASA's creation in July 1958 then took over the Air Force's manned space projects.",
+     "nodes": []
+    },
+    {
+     "node_id": "0008",
+     "title": "The military orbital development system",
+     "start_page": 23,
+     "end_page": 27,
+     "summary": "A 1959 Air Force plan first used the term \"manned orbital laboratory.\" Five contractors studied a military test space station from August 1960 for $574,999, but OSD left 1963 study funds unfunded. McNamara's February 1962 memo endorsed a space laboratory, and AFSC proposed MODS (Program 287): a station module, Gemini spacecraft and Titan III for four men for 30 days.",
+     "nodes": []
+    },
+    {
+     "node_id": "0009",
+     "title": "MODS, Blue Gemini, and the five-year space program",
+     "start_page": 27,
+     "end_page": 28,
+     "summary": "General Ferguson's task force wrote a Five-Year USAF Space Program in mid-1962, backed by the Scientific Advisory Board. On 9 November 1962 Secretary Zuckert asked for $363 million more in fiscal 1964 for Midas, Saint, MODS ($75 million) and Blue Gemini ($102 million), which planned six Air Force Gemini flights from May 1965, conceding some overlap with NASA.",
+     "nodes": []
+    },
+    {
+     "node_id": "0010",
+     "title": "The NASA-DoD Gemini agreement",
+     "start_page": 28,
+     "end_page": 31,
+     "summary": "OSD rejected the proposals as duplicating NASA. McNamara and NASA's James Webb signed a Gemini agreement on 21 January 1963 creating a Gemini Program Planning Board; its ad hoc group recommended military experiments on Gemini flights costing about $16.1 million and an Air Force field office in Houston. The chapter's endnotes follow.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0011",
+   "title": "Chapter II: A national space station",
+   "start_page": 32,
+   "end_page": 41,
+   "summary": "NASA's 1963 plans for space station studies drew Air Force objections under the January 1963 agreement. Zuckert proposed a national station managed by DoD; McNamara reported station uses to Vice President Johnson; a new NASA-DoD agreement coordinated studies, including a $1 million Air Force station study. OSD made the Orbital Space Station a program element with little money.",
+   "nodes": []
+  },
+  {
+   "node_id": "0012",
+   "title": "Chapter III: Dyna-Soar killed, MOL approved",
+   "start_page": 42,
+   "end_page": 51,
+   "summary": "How McNamara cancelled the X-20 Dyna-Soar and approved MOL in late 1963: the Dyna-Soar/Gemini review, Brown's station alternatives and NASA's counter-proposal, Air Force efforts to save the X-20, the 10 December 1963 announcement, and the DoD-NASA MOL agreement.",
+   "nodes": [
+    {
+     "node_id": "0013",
+     "title": "The Dyna-Soar/Gemini review",
+     "start_page": 42,
+     "end_page": 45,
+     "summary": "In January 1963 McNamara ordered a review of whether the X-20 Dyna-Soar offered military capability that Gemini lacked. The Air Force called Dyna-Soar its most important project and NASA backed it, but John Rubel questioned its value. McNamara asked what missions could be done in orbit; on 5 June McMillan admitted neither vehicle yet had military significance.",
+     "nodes": []
+    },
+    {
+     "node_id": "0014",
+     "title": "Brown recommends a defense space station and NASA makes a counter-proposal",
+     "start_page": 45,
+     "end_page": 46,
+     "summary": "On 14 November 1963 Harold Brown offered McNamara six station configurations, preferring a Titan III-launched four-man station costing $983 million. NASA countered with a Titan III launching a Gemini and a module for two to four men for 30 days, at $593 million, avoiding the term \"space station.\" On 30 November McNamara and Webb agreed DoD would follow NASA's plan.",
+     "nodes": []
+    },
+    {
+     "node_id": "0015",
+     "title": "The Air Force's last effort to save Dyna-Soar",
+     "start_page": 46,
+     "end_page": 48,
+     "summary": "Told of the decision in November 1963, the Air Staff proposed the X-20 as a small station or ferry; Flax argued Gemini sea recoveries would erase savings. An Air Force team put Brown's Alternative 3 at $1.5 billion, Flax at $1.9 billion. On 5 December Gilpatric announced a Manned Orbital Program from 1 January 1964 and the X-20's cancellation.",
+     "nodes": []
+    },
+    {
+     "node_id": "0016",
+     "title": "Announcement of the MOL project",
+     "start_page": 48,
+     "end_page": 49,
+     "summary": "At a 10 December 1963 press conference McNamara announced a two-man orbital laboratory to fly in late 1967 or early 1968 \"to determine military usefulness of man in space,\" cancelled Dyna-Soar to save $100 million, and described MOL as an experimental, Air Force-managed program open to NASA participation where it did not compromise the mission.",
+     "nodes": []
+    },
+    {
+     "node_id": "0017",
+     "title": "The DoD-NASA MOL agreement",
+     "start_page": 49,
+     "end_page": 51,
+     "summary": "On 27 December 1963 Albert Hall of DDR&E and George Mueller of NASA listed their agreements: MOL would be a single military project under Air Force management to test man's military utility, using a modified Gemini B bought through NASA, a Titan III booster and NASA experiments, with the X-20 cancelled. Chapter endnotes and a blank page follow.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0018",
+   "title": "Chapter IV: Planning the Manned Orbiting Laboratory, December 1963-June 1964",
+   "start_page": 52,
+   "end_page": 63,
+   "summary": "Brown's December 1963 guidance made MOL an experiment on man's military utility, with reconnaissance the likely mission. NRO officials insisted the reconnaissance side stay \"black,\" and Eastman Kodak studied man's role in photography. McMillan's March 1964 policy, 12 primary and 18 secondary experiments, and approval of $6 million in pre-Phase I studies followed; 13 contracts cost $3,237,716. Endnotes follow.",
+   "nodes": []
+  },
+  {
+   "node_id": "0019",
+   "title": "Chapter V: Evolution of the MOL management structure",
+   "start_page": 64,
+   "end_page": 67,
+   "summary": "How the Air Force organized to manage a space station: a Deputy Director of Development Planning, Space, under Col Kenneth Schultz in September 1963, AFSC's January 1964 proposal for a MOL office under General Schriever, a MOL office in AFSC headquarters in February 1964, and the Air Staff office renamed Assistant for the MOL Program on 9 June 1964.",
+   "nodes": []
+  },
+  {
+   "node_id": "0020",
+   "title": "Chapter VI: Results of the pre-Phase I investigations",
+   "start_page": 68,
+   "end_page": 75,
+   "summary": "General Bleymaier found in June 1964 that MOL test flights could start 18 months after go-ahead, but OSD delayed the request for proposals while NASA studied Apollo stations. A 7-8 December 1964 budget conference set MOL's priorities: military observation technology and assembling structures in orbit. Simulator studies showed men could compensate for image motion to better than 0.2 percent.",
+   "nodes": []
+  },
+  {
+   "node_id": "0021",
+   "title": "Chapter VII: The laboratory vehicle design competition, January-June 1965",
+   "start_page": 76,
+   "end_page": 87,
+   "summary": "Brown's January 1965 study orders alarmed NRO officials, who guarded MOL reconnaissance under the DORIAN project. A MOL Policy Committee and General Evans took charge; NASA studied MOL/Apollo and proposed 84 experiments. Boeing, Douglas, GE and Lockheed won 60-day design studies on 1 March, and by June the Air Force planned a 60-inch mirror for very high resolution. Endnotes follow.",
+   "nodes": []
+  },
+  {
+   "node_id": "0022",
+   "title": "Chapter VIII: The MOL program decision, 25 August 1965",
+   "start_page": 88,
+   "end_page": 97,
+   "summary": "How MOL won approval: the Air Force's June 1965 proposal, reviews by science adviser Hornig, the Budget Bureau, State and CIA, McNamara's 24 August recommendation, and President Johnson's 25 August 1965 announcement with the domestic and Soviet reaction.",
+   "nodes": [
+    {
+     "node_id": "0023",
+     "title": "The Air Force proposal",
+     "start_page": 88,
+     "end_page": 90,
+     "summary": "On 28 June 1965 the Air Force sent OSD a 14-page memorandum with eight appendices proposing MOL on Titan IIIC and Gemini B: six launches, one unmanned and five manned, from late 1968 to early 1970, costing $1,653 million. Its main aim was manned optical reconnaissance with a 60-inch aperture giving about one foot resolution or better.",
+     "nodes": []
+    },
+    {
+     "node_id": "0024",
+     "title": "Dr. Hornig approves, with qualifications",
+     "start_page": 90,
+     "end_page": 91,
+     "summary": "On 30 June 1965 science adviser Donald Hornig supported MOL, finding a manned system gave higher resolution sooner despite mirror risks. He warned that automation could erase the margin, that man's performance was unproven, and that manned overflight might provoke a U-2-style crisis or be seen as a weapon, and urged high-level planning of publicity and contingencies.",
+     "nodes": []
+    },
+    {
+     "node_id": "0025",
+     "title": "The Budget Bureau expresses doubt",
+     "start_page": 91,
+     "end_page": 92,
+     "summary": "On 8 July 1965 Budget Director Charles Schultze questioned whether MOL's edge over unmanned systems justified $1 billion more in development and $200 million a year to operate, noting GAMBIT-3 would reach better than one foot for $200-300 million. When DoD cut the estimated cost difference to $300-400 million, he withdrew his objection, subject to a later reappraisal.",
+     "nodes": []
+    },
+    {
+     "node_id": "0026",
+     "title": "State Department and CIA views",
+     "start_page": 92,
+     "end_page": 92,
+     "summary": "After a 9 July 1965 Space Council meeting, Secretary of State Dean Rusk told McNamara on 16 August that he had no objection but urged tight control and publicity stressing MOL's experimental, research nature. CIA Director William Raborn gave a cautious endorsement of the highest feasible resolution, weighed against cost and time.",
+     "nodes": []
+    },
+    {
+     "node_id": "0027",
+     "title": "McNamara recommends MOL program approval",
+     "start_page": 93,
+     "end_page": 94,
+     "summary": "On 24 August 1965 McNamara asked President Johnson to release $150 million and start contract definition, aiming at photographs better than one foot from late 1968, optical technology for manned or unmanned use, other missions such as SIGINT, and tests of man in space. MOL would follow NRO security rules; Rusk, Raborn, Hornig and Webb concurred.",
+     "nodes": []
+    },
+    {
+     "node_id": "0028",
+     "title": "The President's decision and public reaction",
+     "start_page": 94,
+     "end_page": 97,
+     "summary": "After 1965 Gemini successes, including Gemini 5's crew photographing a Minuteman launch, Johnson announced MOL on 25 August 1965. The New York Times and some Congressmen objected, 45 citizens wrote in protest, Soviet press called MOL a spy and combat platform, and US officials insisted it was not a weapons system. Chapter endnotes follow.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0029",
+   "title": "Chapter IX: Organizing for contract definition",
+   "start_page": 98,
+   "end_page": 109,
+   "summary": "A 1965 dispute over control of \"black\" and \"white\" work ended in a structure with Schriever as MOL Director, a Systems Office at El Segundo and the NRO's Special Projects office managing the DORIAN payload. New officials took over, black and white financial procedures were agreed, Douglas and General Electric became contractors, and $62 million was released.",
+   "nodes": []
+  },
+  {
+   "node_id": "0030",
+   "title": "Chapter X: The manned/unmanned system studies, 1965-1966",
+   "start_page": 110,
+   "end_page": 123,
+   "summary": "The 1965-1966 debate over a manned or unmanned MOL: PSAC's push for an automatic camera, the Air Force's study of man's role, Budget Bureau demands for a reexamination, an August 1966 PSAC briefing, and Schriever's retirement before McNamara chose to keep the manned program.",
+   "nodes": [
+    {
+     "node_id": "0031",
+     "title": "Land's memorandum and the manned/unmanned agreement",
+     "start_page": 110,
+     "end_page": 112,
+     "summary": "After the chapter title page: Edwin Land of the PSAC Reconnaissance Panel told Hornig on 18 August 1965 that an unmanned system could match manned resolution and urged a fully automatic camera. On 23 August Hornig and Brown agreed DoD would develop a better-than-one-foot system, manned or unmanned, with an unmanned flight nine months after the first manned one.",
+     "nodes": []
+    },
+    {
+     "node_id": "0032",
+     "title": "PSAC reemphasizes the unmanned system",
+     "start_page": 112,
+     "end_page": 114,
+     "summary": "At a PSAC panel meeting NASA's Joseph Shea contrasted the lunar module, designed from the start for both modes, with the command module. General Martin admitted the MOL design was manned-only, and Hornig restated the panel's view on 22 November 1965. Early 1966 studies found equal unmanned resolution at a 70-nautical-mile perigee; Flight 6 became the first unmanned mission.",
+     "nodes": []
+    },
+    {
+     "node_id": "0033",
+     "title": "The role of man in the MOL",
+     "start_page": 114,
+     "end_page": 117,
+     "summary": "Fearing the unmanned option, Schriever on 17 January 1966 ordered a study of man's role. Col Lewis Norman's group interviewed more than 60 people and reported on 25 May 1966 that the case for man was as strong or stronger than in 1965, since a crew would bring earlier and more cost-effective better-than-one-foot resolution.",
+     "nodes": []
+    },
+    {
+     "node_id": "0034",
+     "title": "The Budget Bureau asks a reexamination of MOL",
+     "start_page": 117,
+     "end_page": 120,
+     "summary": "Schultze asked on 21 March 1966 whether a manned system was worth its cost. McNamara defended a dual approach, and Flax ordered unmanned DORIAN studies from Lockheed and GE. Brown's August report put the seven-launch program at $1.818 billion against $1.50 billion for an automatic MOL, arguing crews could photograph three times as many high-value targets and avoid clouds.",
+     "nodes": []
+    },
+    {
+     "node_id": "0035",
+     "title": "The Reconnaissance Panel briefing, August 1966",
+     "start_page": 120,
+     "end_page": 121,
+     "summary": "On 13 August 1966 Aerospace Corporation briefed PSAC's panel on the baseline, automatic and wholly unmanned DORIAN systems. The panel accepted man's value in weather avoidance but doubted the simulations, the 5-inch tracking scope and 30-day stays. Land wanted an assured unmanned capability without delaying contracts; Steininger said \"MOL is an experiment in which man is the experimenter.\"",
+     "nodes": []
+    },
+    {
+     "node_id": "0036",
+     "title": "General Schriever's farewell remarks",
+     "start_page": 121,
+     "end_page": 123,
+     "summary": "Schriever retired as AFSC commander and MOL Program Director at the end of August 1966, saying there was no true alternative to manned military space systems. About 33 days later McNamara told Schultze he would proceed with the manned MOL at the pace set by the optical payload, being more confident it could reach better than one foot.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0037",
+   "title": "Chapter XI: Budget, developmental, and schedule problems, 1965-1966",
+   "start_page": 124,
+   "end_page": 133,
+   "summary": "McNamara sought to hold fiscal 1967 MOL funding to $150 million, and in December 1965 Eastman Kodak said it needed ten more months for the DORIAN optics, so the first manned launch slipped from late 1968 into 1970. Contract definition was extended, and on 20 August 1966 Brown authorized engineering development with fiscal 1967 funds capped at $208 million.",
+   "nodes": []
+  },
+  {
+   "node_id": "0038",
+   "title": "Chapter XII: Congress, MOL security and the range controversy",
+   "start_page": 134,
+   "end_page": 143,
+   "summary": "Air Force officials gave DORIAN briefings to congressional staff and kept House hearings off MOL's mission. The President's January 1966 space report showed MOL would launch from Vandenberg, provoking a Florida outcry led by Senator Spessard Holland. At a 24 February 1966 Senate hearing Foster explained the need for near-polar orbits, NASA backed the Air Force, and the issue faded.",
+   "nodes": []
+  },
+  {
+   "node_id": "0039",
+   "title": "Chapter XIII: Air Force/NASA coordination",
+   "start_page": 144,
+   "end_page": 159,
+   "summary": "Air Force and NASA cooperation: a compromise let the Air Force contract directly with McDonnell for Gemini B; about $50 million of NASA Gemini hardware went to MOL; military experiments flew on Gemini; joint policy and experiments boards were formed; Air Force experiments were planned for the Apollo workshop; and OSD rejected a NASA report against using Titan III/MOL hardware.",
+   "nodes": []
+  },
+  {
+   "node_id": "0040",
+   "title": "Chapter XIV: New financial and schedule problems, 1967-1968",
+   "start_page": 160,
+   "end_page": 171,
+   "summary": "Financial and schedule trouble in 1967-1968: the fiscal 1968 budget crisis, McNamara's visit to Eastman Kodak, repeated schedule revisions, CIA and State Department doubts, and congressional cuts that pushed the first manned launch to December 1971.",
+   "nodes": [
+    {
+     "node_id": "0041",
+     "title": "The FY 1968 budget crisis",
+     "start_page": 160,
+     "end_page": 163,
+     "summary": "Late-1966 bargaining set development costs near $1.92 billion, but in January 1967 OSD cut fiscal 1968 funding to $430 million. On 12 May officials chose a 12-month slip toward a first manned flight in December 1970. Contracts gave $674.7 million to Douglas, $180.5 million to McDonnell for Gemini B and $110 million to GE; costs hit $2.35 billion.",
+     "nodes": []
+    },
+    {
+     "node_id": "0042",
+     "title": "McNamara visits Eastman Kodak",
+     "start_page": 163,
+     "end_page": 165,
+     "summary": "MOL officials prepared a \"High Resolution Photography\" report comparing KH-7 and KH-8 results with MOL's expected product, and McNamara toured Kodak in Rochester under tight security on 14 September 1967. The program still lacked $40-50 million; Congress refused an increase and held fiscal 1968 to $430 million, adding a 12-week slip that pushed the first manned launch into 1971.",
+     "nodes": []
+    },
+    {
+     "node_id": "0043",
+     "title": "The third major schedule revision of 1967",
+     "start_page": 165,
+     "end_page": 166,
+     "summary": "In December 1967 the associate contractors met at Huntington Beach and proposed a first manned launch in August 1971, assuming $661 million in fiscal 1969. A day after it was approved, McNamara asked about flying without a man for $400 million; Brown recommended at least $600 million, which went into the January 1968 budget.",
+     "nodes": []
+    },
+    {
+     "node_id": "0044",
+     "title": "CIA and State Department opposition",
+     "start_page": 166,
+     "end_page": 168,
+     "summary": "On 14 February 1968 Ambassador Charles Bohlen asked the Space Council whether MOL was worth $2.4 billion, noting $722 million already spent. CIA Director Richard Helms doubted that better-than-one-foot photography justified the cost; a CIA review in May 1968 found very high resolution valuable for Soviet and Chinese weapons intelligence but questioned the expense.",
+     "nodes": []
+    },
+    {
+     "node_id": "0045",
+     "title": "Trouble on the congressional front",
+     "start_page": 168,
+     "end_page": 171,
+     "summary": "At a 21 March 1968 NRO briefing, House Appropriations chairman Mahon heard that GAMBIT-3 was reaching 13-15 inches and suggested MOL could slip. Congress approved $515 million for fiscal 1969, and in July 1968 contractors moved the first manned launch from August to December 1971. Officials hoped the incoming Nixon administration would back DORIAN. Chapter endnotes follow.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0046",
+   "title": "Chapter XV: The project terminated",
+   "start_page": 172,
+   "end_page": 183,
+   "summary": "MOL's cancellation in 1969: the Development Concept Paper, Nixon administration reviews, Budget Director Robert Mayo's push to terminate, the 17 May 1969 White House briefing, and the 10 June 1969 announcement keeping only the camera for an unmanned system.",
+   "nodes": [
+    {
+     "node_id": "0047",
+     "title": "Development concept paper and the new administration",
+     "start_page": 172,
+     "end_page": 174,
+     "summary": "After the chapter title page: a November 1968 DDR&E Development Concept Paper rejected CIA claims that MOL was not worth its cost, and Foster recommended at least $575 million for fiscal 1970. In February 1969 General Stewart briefed Deputy Secretary Packard, who reacted favorably, but Budget Director Robert Mayo argued GAMBIT-3 and SIGINT satellites made MOL photography unnecessary.",
+     "nodes": []
+    },
+    {
+     "node_id": "0048",
+     "title": "The fight to save the program",
+     "start_page": 174,
+     "end_page": 176,
+     "summary": "Secretary Laird dropped MOL's unmanned vehicles, and on 6 March 1969 Packard approved a four-manned-flight program at $556 million for fiscal 1970, with launches from February 1972 to September 1973. Critics of military spending in Congress and the press, including a Washington Monthly article, attacked MOL, and Senator Mike Mansfield named it among 15 economy targets.",
+     "nodes": []
+    },
+    {
+     "node_id": "0049",
+     "title": "Mayo takes the MOL issue to the President",
+     "start_page": 176,
+     "end_page": 179,
+     "summary": "The Budget Bureau pressed for termination, arguing unmanned systems could police arms limits; OSD rebutted. Laird cut fiscal 1970 funds from $576 million to $525 million, then Nixon on 9 April set $360 million and cancelled HEXAGON. On 21 April Mayo urged keeping HEXAGON and cancelling MOL, citing about $150 million per MOL mission against $23 million for GAMBIT-3.",
+     "nodes": []
+    },
+    {
+     "node_id": "0050",
+     "title": "The White House meeting of 17 May 1969",
+     "start_page": 179,
+     "end_page": 183,
+     "summary": "After Aviation Week reported MOL in danger, Seamans briefed President Nixon: $1.3 billion spent, $1.9 billion to finish, 65,000 people. Nixon accepted Mayo's advice to cancel MOL and continue HEXAGON. Packard ordered termination on 9 June except for camera elements for an unmanned Titan IIID system, announced 10 June 1969. Chapter endnotes follow.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0051",
+   "title": "Chapter XVI: Post-mortem",
+   "start_page": 184,
+   "end_page": 191,
+   "summary": "The aftermath of cancellation: layoffs, final program costs of about $1.54 billion, disposal of MOL hardware to NASA and Air Force laboratories, and Berger's judgment that MOL fell to Vietnam-era budgets and the case for cheaper unmanned reconnaissance.",
+   "nodes": [
+    {
+     "node_id": "0052",
+     "title": "Reactions and contractor shutdown",
+     "start_page": 184,
+     "end_page": 185,
+     "summary": "After the chapter title page: schoolgirl Susan Kasparian wrote to the Secretary of Defense asking why her father's MOL job was gone. Contractors stopped work in June and July 1969; McDonnell Douglas cut its MOL staff from 6,263 to 369 and Kodak from 1,684 to 84. Eight MOL astronauts were reassigned to NASA, seven to crew duty.",
+     "nodes": []
+    },
+    {
+     "node_id": "0053",
+     "title": "MOL program costs",
+     "start_page": 185,
+     "end_page": 187,
+     "summary": "On 10 June 1969 General Stewart told a House subcommittee that $1.3 billion had gone to MOL research and development and $46 million to Vandenberg land and facilities, with about $125 million more needed for termination, for a total near $1.54 billion. Contractors' claims of $137 million were cut to $128 million by December 1969.",
+     "nodes": []
+    },
+    {
+     "node_id": "0054",
+     "title": "Hardware disposition",
+     "start_page": 187,
+     "end_page": 190,
+     "summary": "A group under Dr. Yarymovych placed MOL equipment. NASA got the $30 million laboratory module simulator and feeding, pressure suit and waste systems; checkout gear went to the Air Force Office of Scientific Research and the Western Test Range; classified items like the Bi-mat film processor went to the Avionics Laboratory. NASA studied GE's tracking system and Kodak's optics.",
+     "nodes": []
+    },
+    {
+     "node_id": "0055",
+     "title": "Could the program have been saved?",
+     "start_page": 190,
+     "end_page": 191,
+     "summary": "Some argued MOL might have survived by flying a man-rated system before the optics, as Evans had suggested; others recalled Momyer's 1964 warning against putting all man-in-space eggs in the reconnaissance basket. Berger concludes Vietnam war costs and CIA/Budget Bureau arguments for cheaper unmanned systems killed MOL, leaving Air Force hopes on the space shuttle. Endnotes follow.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0056",
+   "title": "Supplemental documents index",
+   "start_page": 192,
+   "end_page": 229,
+   "summary": "Chronological table of the 825 declassified MOL documents released with the compendium, giving each one's number, title, date and page count: memoranda, letters, contractor studies and briefings, policy committee minutes, monthly status reports, public affairs guidance and DORIAN studies, ending with a November 1978 MOL/DORIAN overview slide.",
+   "nodes": []
+  },
+  {
+   "node_id": "0057",
+   "title": "Blank pages and back cover",
+   "start_page": 230,
+   "end_page": 232,
+   "summary": "Two blank pages and the back cover, which repeats the title The Dorian Files Revealed: A Compendium of the NRO's Manned Orbiting Laboratory Documents, edited by James D. Outzen, August 2015.",
+   "nodes": []
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "gadgets-acoustic-kitty",
+ "title": "Acoustic Kitty",
+ "source": {
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB54/",
+  "publisher": "CIA",
+  "date": "1967-03",
+  "pages": 2,
+  "released": "1983-09",
+  "file": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB54/st27.pdf",
+  "sha256": "add689930bae70d1f09ecc56906130d9c63678b36d8488d0ef150cf761f6c834",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "gadgets",
+ "summary": "Heavily redacted March 1967 CIA memo giving the final verdict on \"Acoustic Kitty\", a Directorate of Science and Technology project to turn a cat wired with transmitting and control devices into a mobile eavesdropping platform. It accepts that cats can be trained to move short distances but concludes the technique would not be practical in a real foreign situation.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/gadgets/gadgets-acoustic-kitty/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Views on trained cats",
+   "start_page": 1,
+   "end_page": 2,
+   "summary": "Memorandum, marked 3-67 and stamped released September 1983, with the addressee and parts of the subject (\"Views on Trained Cats ... for ... Use\") redacted. It concludes that cats can be trained but the program would not meet the agency's highly specialized needs, and credits the people who led the work.",
+   "nodes": [
+    {
+     "node_id": "0001",
+     "title": "Final examination of trained cats",
+     "start_page": 1,
+     "end_page": 2,
+     "summary": "Paragraphs 1 and 2: a final examination convinced the authors the program would not lend itself to their highly specialized needs. Checks of training and equipment showed cats can be trained to move short distances, a remarkable scientific achievement, but environmental and security factors in a real foreign situation make the technique impractical. Key passages are redacted.",
+     "nodes": []
+    },
+    {
+     "node_id": "0002",
+     "title": "Credit to the personnel",
+     "start_page": 2,
+     "end_page": 2,
+     "summary": "Paragraph 3: the work done on the problem over the years reflects great credit on the personnel who guided it, particularly one person, whose name is redacted, whose energy and imagination \"could be models for scientific pioneers.\"",
+     "nodes": []
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "id": "area51-skylab-memo",
+ "title": "Skylab Photographs Area 51",
+ "source": {
+  "url": "https://www.cia.gov/readingroom/document/cia-rdp80m01048a000800210008-5",
+  "publisher": "CIA",
+  "date": "1974-04-19",
+  "pages": 5,
+  "released": "2004-10-12",
+  "file": "https://archive.org/download/cia-readingroom-document-cia-rdp80m01048a000800210008-5/cia-rdp80m01048a000800210008-5.pdf",
+  "sha256": "79d0f8007895da4d1a29f57f3a3d2021ecf04f1ca143bb4b442874e9f55fdd3e",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "area51",
+ "summary": "A 1974 memo to CIA Director William Colby reporting that Skylab astronauts had photographed the one place they had been told not to (the name is blacked out; it was Area 51), and that NASA wanted the picture released while Defense Department agencies wanted it withheld. Colby's handwritten note questions the need to protect it, since the Soviets had it from their own satellites, and asks what it really reveals.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/area51/area51-skylab-memo/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "SKYLAB imagery",
+   "start_page": 1,
+   "end_page": 2,
+   "summary": "19 April 1974 memo to the Director of Central Intelligence: the SKYLAB mission inadvertently photographed a redacted site it was specifically told not to photograph. DoD elements (USAF, NRO, JCS, ISA) want the photo withheld; NASA and largely State favor release to the Sioux Falls repository. A position paper will follow through Carl Duckett; UN issues and leaks complicate it.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "DCI routing slip with Colby's handwritten note",
+   "start_page": 3,
+   "end_page": 3,
+   "summary": "DCI/DDCI routing slip dated 4/19/74. The handwritten remarks say Rush did raise the issue: State felt strongly but he would leave the decision to the DCI. The DCI doubts the need to protect the site since the USSR has it from its own satellites, asks what the photo really reveals, and suggests saying classified USAF work is done there.",
+   "nodes": []
+  },
+  {
+   "node_id": "0002",
+   "title": "Cover note to Mr. Colby",
+   "start_page": 4,
+   "end_page": 4,
+   "summary": "Form 101 note to Mr. Colby dated 19 April 1974: the attached memo was just hand-carried in for his lunch with Deputy Secretary Rush that day. The sender's name is redacted.",
+   "nodes": []
+  },
+  {
+   "node_id": "0003",
+   "title": "Exempt pages notice",
+   "start_page": 5,
+   "end_page": 5,
+   "summary": "Withholding notice: the next seven pages of the document are exempt from release under the 25X1 exemption.",
+   "nodes": []
+  }
+ ]
+}

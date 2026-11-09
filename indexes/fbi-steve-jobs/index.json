@@ -1,0 +1,506 @@
+{
+ "id": "fbi-steve-jobs",
+ "title": "Steve Jobs's FBI File",
+ "source": {
+  "url": "https://vault.fbi.gov/steve-jobs",
+  "publisher": "FBI",
+  "date": "1991",
+  "pages": 191,
+  "released": "2012-02-09",
+  "file": "https://archive.org/download/SteveJobsFBI/Jobs.pdf",
+  "sha256": "99584a44768a9c92e969cdb2cd05b3a3f1387b41c4e88cef1b87e44ae78b6432",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "fbi",
+ "summary": "The FBI's 1991 background check on Steve Jobs, run when he was considered for the President's Export Council, plus a 1985 bomb threat case against Apple. Interviewees praised his drive, while some said he would 'twist the truth and distort reality' to reach his goals.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/fbi/fbi-steve-jobs/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR, then the tree was written in the PageIndex format from the page text, because PageIndex Flash found no layout structure in this scan.",
+  "models": []
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Records management memo, July 2007",
+   "start_page": 1,
+   "end_page": 1,
+   "summary": "FD-491 memo of July 21, 2007 from the Washington Field Office to RMD on file 161B-HQ-23908, Steven Paul Jobs. The file meets the criteria for the File Destruction Program, and two enclosed items, miscellaneous indexing documents, are forwarded.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "Case opening and appointee forms",
+   "start_page": 2,
+   "end_page": 20,
+   "summary": "Opening papers of the February 1991 background investigation: FBI lead sheets, a White House request for a Level III investigation for the President's Export Council, and the Standard Form 86 questionnaire and supplement Jobs signed on February 6, 1991.",
+   "nodes": [
+    {
+     "node_id": "0002",
+     "title": "Lead sheets and WMFO record check form",
+     "start_page": 2,
+     "end_page": 5,
+     "summary": "Presidential Expedite lead sheets for file 161B-HQ-23908, case Steven Paul Jobs, assigned February 21, 1991 with a deadline of March 7, 1991, listing Washington-area agencies and courts to check. A Washington Metropolitan Field Office form gives his birth date, San Francisco birthplace and Social Security number and lists local police and record checks.",
+     "nodes": []
+    },
+    {
+     "node_id": "0003",
+     "title": "Deleted page information sheet",
+     "start_page": 6,
+     "end_page": 6,
+     "summary": "FOIPA sheet stating that 16 pages, pages 2 through 17, were withheld as duplicates.",
+     "nodes": []
+    },
+    {
+     "node_id": "0004",
+     "title": "White House request for FBI investigation",
+     "start_page": 7,
+     "end_page": 7,
+     "summary": "White House request of February 15, 1991 to the FBI liaison for a Level III full field investigation of Steven Paul Jobs, born February 24, 1955 in San Francisco, for a presidential appointment not needing Senate confirmation: the President's Export Council. The SF-86, a supplement and a fingerprint card are attached.",
+     "nodes": []
+    },
+    {
+     "node_id": "0005",
+     "title": "Questionnaire for sensitive positions (SF-86)",
+     "start_page": 8,
+     "end_page": 17,
+     "summary": "Jobs's SF-86: 6 feet tall, 160 pounds, brown hair and eyes; homes in Woodside, Los Gatos and Los Altos; Reed College and Homestead High School; work at NeXT, Apple and Atari. He lists no organizations or military service, his late mother Clara Hagopian Jobs, a 09/85 departure from Apple, no arrests, and a signed release form.",
+     "nodes": []
+    },
+    {
+     "node_id": "0006",
+     "title": "Supplement to Standard Form 86",
+     "start_page": 18,
+     "end_page": 20,
+     "summary": "White House supplement. Jobs lists affiliations with Pixar and NeXT, property at 146 Central Park West, New York, and 460 Mountain Home Road, Woodside, and four lawsuits: Apple v. Jobs (1985), a 1987 wrongful-discharge suit, Woodside Design Associates (1987) and the 1984 Apple securities litigation. He answers no to ethics, political, club and blackmail questions.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0007",
+   "title": "Headquarters index and database checks",
+   "start_page": 21,
+   "end_page": 32,
+   "summary": "FBI headquarters searches from February 1991: ISIS six-way name searches found no names matching Jobs; the SPIN unit found no names; NCIC returned no wants for Jobs or his relatives; an ELSUR index search was requested on February 22, 1991 with a sensitive-material notice; and NEXIS was asked to search for the expedite background investigation.",
+   "nodes": []
+  },
+  {
+   "node_id": "0008",
+   "title": "Reports to the White House",
+   "start_page": 33,
+   "end_page": 56,
+   "summary": "Letters and summary memoranda the FBI sent to the White House on April 2 and April 18, 1991, with copies of interviews that support them.",
+   "nodes": [
+    {
+     "node_id": "0009",
+     "title": "Letter to the White House, April 18, 1991",
+     "start_page": 33,
+     "end_page": 33,
+     "summary": "Assistant Director William M. Baker sends a summary memorandum completing the investigation. It found that in 1984 Jobs, then Apple's chief executive, other officers and the board were named in a shareholder class action whose trial begins April 22, 1991. The FBI will not pursue it without a request.",
+     "nodes": []
+    },
+    {
+     "node_id": "0010",
+     "title": "Summary memorandum, April 18, 1991",
+     "start_page": 34,
+     "end_page": 34,
+     "summary": "Supplement to the April 2 memorandum. Only five of the ten volumes of case C-84-20148 RPA could be found in the San Jose court. On April 17, 1991 an Apple representative said Jobs and other officers were named in the 1984 shareholder class action, which goes to trial April 22, 1991.",
+     "nodes": []
+    },
+    {
+     "node_id": "0011",
+     "title": "Interview of Apple legal representative, April 17, 1991",
+     "start_page": 35,
+     "end_page": 36,
+     "summary": "An Apple representative in Cupertino says the 1984 class action arose from the 1982-83 announcement of the Lisa computer, priced near $10,000, whose failure cut Apple's stock. The appeals court left two claims, about disk drives, for trial before Judge James Ware on April 22, 1991. He believes Apple and Jobs acted in good faith.",
+     "nodes": []
+    },
+    {
+     "node_id": "0012",
+     "title": "Letter to the White House, April 2, 1991",
+     "start_page": 37,
+     "end_page": 38,
+     "summary": "Baker sends partial results of the Level III investigation opened February 21, 1991. A note says Jobs was unavailable for an interview for three weeks, several people commented on past drug use, some said he will twist the truth and distort reality, and he had not supported the mother of his daughter until recently.",
+     "nodes": []
+    },
+    {
+     "node_id": "0013",
+     "title": "Summary memorandum, April 2, 1991",
+     "start_page": 39,
+     "end_page": 52,
+     "summary": "Partial results of the investigation: Jobs's birth, education, employment and family, interviews with colleagues and associates, his own interview of March 13, 1991, the lawsuits against him, and record and agency checks.",
+     "nodes": [
+      {
+       "node_id": "0014",
+       "title": "Birth, education, employment and family",
+       "start_page": 39,
+       "end_page": 40,
+       "summary": "Jobs was born February 24, 1955 in San Francisco, graduated from Homestead High School in June 1972, has no military service, was Apple chairman and founder until September 1985, then president of NeXT, and owns Pixar. He planned to marry on March 18, 1991. His mother Clara Hagopian Jobs is deceased.",
+       "nodes": []
+      },
+      {
+       "node_id": "0015",
+       "title": "Interviews",
+       "start_page": 40,
+       "end_page": 46,
+       "summary": "Apple colleagues say he left over differences in management style and recommend him. One associate calls him deceptive, saying he will twist the truth and distort reality, and reports LSD and marijuana use in college and an unsupported daughter. A woman interviewed March 26 cites narcissism but praises his vision. Twenty-nine others were favorable; credit and arrest checks were clean.",
+       "nodes": []
+      },
+      {
+       "node_id": "0016",
+       "title": "Appointee interview, March 13, 1991",
+       "start_page": 47,
+       "end_page": 49,
+       "summary": "Jobs, interviewed at NeXT in Redwood City, says he was adopted, has a daughter, and will marry his fiancee on March 18, 1991. He was fired as head of the Macintosh division, then resigned as Apple chairman to form NeXT. He used marijuana, hashish and LSD around 1970-1974. Foreign travel details are redacted.",
+       "nodes": []
+      },
+      {
+       "node_id": "0017",
+       "title": "Lawsuits, NEXIS and agency checks",
+       "start_page": 50,
+       "end_page": 52,
+       "summary": "Court records: Apple sued Jobs on September 23, 1985 and the case was settled and dismissed January 21, 1986; a former employee's 1987 suit ended in judgment for Jobs on November 15, 1989; the Woodside Design suit was dismissed in 1988. NADDIS, Better Business Bureau, SEC, Secret Service and FBI index checks found nothing pertinent.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0018",
+     "title": "Interview at Los Gatos, March 11, 1991",
+     "start_page": 53,
+     "end_page": 54,
+     "summary": "FD-302 of an associate interviewed at Los Gatos. He calls Jobs not totally forthright, a deceptive person who will twist the truth to reach his goals, and heard that Jobs used marijuana and LSD in college. Jobs did not support his daughter and her mother at first. He still recommends Jobs, saying honesty is not needed in high political office.",
+     "nodes": []
+    },
+    {
+     "node_id": "0019",
+     "title": "Interview at Palo Alto, March 14, 1991",
+     "start_page": 55,
+     "end_page": 56,
+     "summary": "FD-302 of a former Apple colleague interviewed at his Palo Alto home. He calls Jobs basically honest but a complex man whose moral character is suspect, and is bitter that he received no Apple stock. Jobs abandoned his daughter and her mother but has since bought them a home nearby. He recommends Jobs.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0020",
+   "title": "Field office reports and teletypes",
+   "start_page": 57,
+   "end_page": 154,
+   "summary": "Reports and teletypes from the San Francisco, Atlanta, Dallas, New York, Washington, Sacramento, Cincinnati and San Diego offices, February to April 1991, giving interviews, record checks and court searches for the investigation.",
+   "nodes": [
+    {
+     "node_id": "0021",
+     "title": "San Francisco report, April 17, 1991",
+     "start_page": 57,
+     "end_page": 58,
+     "summary": "Cover page and synopsis for the period March 11 to April 17, 1991. San Francisco regrets the delay, saying Apple's legal department was less than cooperative. A company representative stated that Jobs had acted in good faith on decisions the appeals court found actionable. The case is marked RUC.",
+     "nodes": []
+    },
+    {
+     "node_id": "0022",
+     "title": "San Francisco report, April 1, 1991",
+     "start_page": 59,
+     "end_page": 66,
+     "summary": "Covers March 11 to 27, 1991. Apple, Sun Microsystems and VENT officials praise Jobs; one says Apple sued him for taking technology and staff when he resigned, and another says Eastern mysticism led him to a spartan, almost monastic life. The mother of his daughter did not answer messages, and an Apple executive did not return calls.",
+     "nodes": []
+    },
+    {
+     "node_id": "0023",
+     "title": "Atlanta teletype, March 27, 1991",
+     "start_page": 67,
+     "end_page": 68,
+     "summary": "Atlanta reports that calls to Pat Crecine, president of Georgia Tech, were not returned. On Bureau instructions it stops trying to reach him and closes its lead. Atlanta indices, including asset and ELSUR indices, were negative.",
+     "nodes": []
+    },
+    {
+     "node_id": "0024",
+     "title": "San Francisco report, March 21, 1991",
+     "start_page": 69,
+     "end_page": 74,
+     "summary": "A Pixar source, whose identity is protected, says Jobs bought Pixar's graphics technology from Lucasfilm in 1986 and owns all of the stock. He calls Jobs extremely intelligent, demanding, truthful and health conscious, and recommends him. The U.S. Attorney's Office in San Francisco found no civil or criminal record.",
+     "nodes": []
+    },
+    {
+     "node_id": "0025",
+     "title": "San Francisco report, March 20, 1991",
+     "start_page": 75,
+     "end_page": 119,
+     "summary": "Main San Francisco report for March 1 to 19, 1991: birth and school records, interviews of NeXT and Apple staff, neighbors and associates, court records including the Apple securities docket, and police and Better Business Bureau checks.",
+     "nodes": [
+      {
+       "node_id": "0026",
+       "title": "Cover pages and synopsis",
+       "start_page": 75,
+       "end_page": 77,
+       "summary": "The investigation ran past its deadline because Jobs and others were unavailable. San Francisco indices hold a reference from February 11, 1985, when Jobs was a victim of a bomb threat at Apple. The synopsis lists the interview, birth, education, employment, residence, associate, court, police and Better Business Bureau checks.",
+       "nodes": []
+      },
+      {
+       "node_id": "0027",
+       "title": "Birth and education",
+       "start_page": 78,
+       "end_page": 79,
+       "summary": "San Francisco vital records had no birth listing for Jobs, and the county adoption unit could not verify it; the state adoptions branch requires written requests. Homestead High School records show he enrolled September 10, 1968 and graduated June 15, 1972 with a 2.65 grade average.",
+       "nodes": []
+      },
+      {
+       "node_id": "0028",
+       "title": "Employment at NeXT Computer",
+       "start_page": 80,
+       "end_page": 82,
+       "summary": "NeXT staff interviewed March 13-14, 1991 call Jobs ethical, demanding, fair and a superb manager with skill in dealing with Asian and European companies. They note he is a vegetarian who drinks little, admitted drug use in his youth, and has a daughter born out of wedlock, which is common knowledge.",
+       "nodes": []
+      },
+      {
+       "node_id": "0029",
+       "title": "Employment at Apple Computer and reference",
+       "start_page": 83,
+       "end_page": 84,
+       "summary": "Apple confirms Jobs worked there from January 1, 1977 to September 20, 1985 as chairman and founder. Apple employees praise his character, say he left over management differences, and one suggests he may have experimented with drugs in the late sixties. A reference at NeXT recommends him.",
+       "nodes": []
+      },
+      {
+       "node_id": "0030",
+       "title": "Residences",
+       "start_page": 85,
+       "end_page": 87,
+       "summary": "Palo Alto neighbors describe a quiet man living a spartan life. Woodside neighbors confirm he lived at 460 Mountain Home Road from 1984 to 1990, then moved to Palo Alto to be close to his daughter. They describe a vegetarian jogger who did not appear to drink or smoke; the head of MIPS Computer Systems knows nothing against him.",
+       "nodes": []
+      },
+      {
+       "node_id": "0031",
+       "title": "Associates",
+       "start_page": 88,
+       "end_page": 93,
+       "summary": "A Los Gatos associate calls Jobs deceptive and reports drug use in college. A General Magic associate calls him strongwilled and stubborn, worth at least $100 million, with integrity as long as he gets his way. A former Apple colleague is bitter about stock; an Adobe official notes documented drug use. Others recommend him.",
+       "nodes": []
+      },
+      {
+       "node_id": "0032",
+       "title": "Court records",
+       "start_page": 94,
+       "end_page": 96,
+       "summary": "San Mateo court: Woodside Design Associates v. Apple, filed May 29, 1987, named Jobs only as an officer and was dismissed with prejudice September 6, 1988. Santa Clara court: Apple v. Jobs, filed September 23, 1985, was dismissed after settlement; a former employee's suit ended in a judgment of $11,698.19 against her. The federal securities file is incomplete.",
+       "nodes": []
+      },
+      {
+       "node_id": "0033",
+       "title": "Docket, In re Apple Securities Litigation",
+       "start_page": 97,
+       "end_page": 115,
+       "summary": "Docket sheets of case C-84-20148 RPA, consolidated shareholder suits against Apple and its officers. A plaintiff class was certified, summary judgment was largely granted in 1987, and the Ninth Circuit affirmed in part, reversed in part and remanded. Jobs filed a declaration and was scheduled for deposition. Trial was set for March 25, 1991.",
+       "nodes": []
+      },
+      {
+       "node_id": "0034",
+       "title": "Law enforcement and Better Business Bureau checks",
+       "start_page": 116,
+       "end_page": 119,
+       "summary": "San Mateo County Sheriff's Office and Santa Clara County records hold no criminal record for Jobs. The San Mateo Better Business Bureau and district attorney's consumer fraud unit have no complaints against Jobs or NeXT. The San Jose bureau found several complaints about Apple but says Apple responded to all of them.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0035",
+     "title": "San Francisco teletype, March 19, 1991",
+     "start_page": 120,
+     "end_page": 121,
+     "summary": "San Francisco reports that county vital records list no birth for Jobs, who said in his interview that he was adopted, and that the county adoption unit had no record. It asks Sacramento to contact the state adoptions branch at 744 P Street to verify his birth.",
+     "nodes": []
+    },
+    {
+     "node_id": "0036",
+     "title": "WMFO index and SEC checks",
+     "start_page": 122,
+     "end_page": 124,
+     "summary": "A routing slip and memorandum report that Washington Metropolitan Field Office electronic, general, ELSUR and CFR indices hold no reportable information on Jobs. On March 12, 1991 the SEC Office of Enforcement said its files hold nothing derogatory on Jobs or his companies.",
+     "nodes": []
+    },
+    {
+     "node_id": "0037",
+     "title": "Dallas report, March 19, 1991",
+     "start_page": 125,
+     "end_page": 128,
+     "summary": "A business official interviewed in Dallas on March 18, 1991 calls Jobs a genius in computers, says he recently married a woman linked with Stanford Business School, and knows nothing derogatory. He recommends Jobs, especially for work involving computerized information. Dallas received the lead after the deadline.",
+     "nodes": []
+    },
+    {
+     "node_id": "0038",
+     "title": "New York teletype on IBM interviews, March 15, 1991",
+     "start_page": 129,
+     "end_page": 136,
+     "summary": "New Rochelle fax and New York teletype. Two IBM officials in Armonk who know Jobs through business and socially call him impressive, honest, morally upright and low keyed. They never saw drug use, alcohol abuse, prejudice or an extravagant lifestyle, and recommend him for a White House appointment.",
+     "nodes": []
+    },
+    {
+     "node_id": "0039",
+     "title": "San Francisco teletype setting leads, March 15, 1991",
+     "start_page": 137,
+     "end_page": 140,
+     "summary": "San Francisco tells headquarters, Atlanta, Dallas and New York that Jobs is being considered for the President's Export Council and was interviewed March 13, 1991. It lists people to interview, including Georgia Tech president Pat Crecine, a NeXT director, and contacts at IBM, Sun Microsystems, Apple, Adobe and Pixar.",
+     "nodes": []
+    },
+    {
+     "node_id": "0040",
+     "title": "WMFO report, March 7, 1991",
+     "start_page": 141,
+     "end_page": 145,
+     "summary": "The White House Executive Clerk's Office has no record of a presidential appointment or nomination for Jobs. The Justice Department Public Integrity Section found nothing, and the Secret Service reported no record on February 28, 1991. Index and SEC checks remain outstanding.",
+     "nodes": []
+    },
+    {
+     "node_id": "0041",
+     "title": "Sacramento report, March 6, 1991",
+     "start_page": 146,
+     "end_page": 147,
+     "summary": "The state Bureau of Vital Statistics confirms Jobs was born February 24, 1955 in San Francisco to Clara Hagapian and a father whose name is redacted, birth certificate 55-075100. The state Attorney General's office has no complaints about Pixar or NeXT. Sacramento indices were negative.",
+     "nodes": []
+    },
+    {
+     "node_id": "0042",
+     "title": "Cincinnati report, March 6, 1991",
+     "start_page": 148,
+     "end_page": 149,
+     "summary": "The Defense Industrial Security Clearance Office in Columbus, Ohio, holds a Top Secret clearance for Jobs dated November 3, 1988, based on a Defense Investigative Service background check, with Pixar of San Rafael as employer. It ended July 31, 1990. Cincinnati indices were negative.",
+     "nodes": []
+    },
+    {
+     "node_id": "0043",
+     "title": "San Diego teletype, March 5, 1991",
+     "start_page": 150,
+     "end_page": 151,
+     "summary": "A San Diego file holds 1989 news articles sent by a Los Angeles law firm. They say a person described as a former hippie once ran an apple orchard in Portland, Oregon with Jobs, who later co-founded Apple, and that Jobs part-owned Oregon timberland with a mine. San Diego indices were negative.",
+     "nodes": []
+    },
+    {
+     "node_id": "0044",
+     "title": "New York report, March 1, 1991",
+     "start_page": 152,
+     "end_page": 154,
+     "summary": "New York indices hold nothing on Jobs. A San Remo building official at 146 Central Park West confirms Jobs owns an apartment there but has never lived in it because it is being fully renovated, so no tenants know him.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0045",
+   "title": "Headquarters instructions and record checks",
+   "start_page": 155,
+   "end_page": 164,
+   "summary": "Credit and personnel checks, the FBI headquarters instructions to field offices, an Identification Division check and a deleted page sheet.",
+   "nodes": [
+    {
+     "node_id": "0046",
+     "title": "Credit check",
+     "start_page": 155,
+     "end_page": 157,
+     "summary": "Special Inquiry Unit request of February 22, 1991 for a credit check on Jobs, with his signed release form. The TRW credit report lists two current Bank of America accounts and Apple Computer as employer.",
+     "nodes": []
+    },
+    {
+     "node_id": "0047",
+     "title": "Notices of personnel investigation",
+     "start_page": 158,
+     "end_page": 159,
+     "summary": "Notice of February 19, 1991 from the Special Inquiry Unit to the Facility Access and Security Unit giving Jobs's name, Social Security number, birth date and birthplace, and a reply that no SII record exists for his Social Security number.",
+     "nodes": []
+    },
+    {
+     "node_id": "0048",
+     "title": "FBIHQ fax to field offices, February 21, 1991",
+     "start_page": 160,
+     "end_page": 162,
+     "summary": "The Director tells Cincinnati, New York, Sacramento, San Francisco and Washington offices to run a Level III investigation for the President's Export Council by March 7, 1991. Agents must ask about bias, finances, drugs and alcohol, interview Jobs about drug use and leaving Apple, find his daughter's mother, and check lawsuits, DISCO and birth records. Parts are redacted.",
+     "nodes": []
+    },
+    {
+     "node_id": "0049",
+     "title": "Identification Division check",
+     "start_page": 163,
+     "end_page": 163,
+     "summary": "Special Inquiry Unit request to the Identification Division to check arrest records for Jobs and his close relatives. The stamped reply says no arrest record could be identified from the information given.",
+     "nodes": []
+    },
+    {
+     "node_id": "0050",
+     "title": "Deleted page information sheet",
+     "start_page": 164,
+     "end_page": 164,
+     "summary": "FOIPA sheet stating that 17 pages were withheld: page 26 and pages 193 to 201 under exemption b1, and pages 204 and 208 to 214 under privacy and law enforcement exemptions.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0051",
+   "title": "1985 extortion threat against Apple",
+   "start_page": 165,
+   "end_page": 190,
+   "summary": "San Francisco file 192B-196 on a February 1985 telephone bomb threat and $1 million extortion demand against Apple Computer, naming Jobs among the victims. The caller was never identified and the case was closed in August 1985.",
+   "nodes": [
+    {
+     "node_id": "0052",
+     "title": "Evidence inventory, envelopes and print cards",
+     "start_page": 165,
+     "end_page": 183,
+     "summary": "Inventory of exhibits and evidence envelopes for the 1985 case, including latent prints lifted from the pay phone at 415-877-9566 in the San Francisco airport garage. Print cards, handwritten notes and several blank pages follow.",
+     "nodes": []
+    },
+    {
+     "node_id": "0053",
+     "title": "San Francisco teletype, February 8, 1985",
+     "start_page": 184,
+     "end_page": 186,
+     "summary": "On February 7, 1985 a male caller told an Apple executive in Cupertino that devices were planted in the homes of Jobs and others and demanded $1 million, with instructions to be found under a table at the San Francisco Hilton. The number was an airport garage pay phone. The executive refused; no note or devices were found.",
+     "nodes": []
+    },
+    {
+     "node_id": "0054",
+     "title": "Title change teletype, February 12, 1985",
+     "start_page": 187,
+     "end_page": 187,
+     "summary": "San Francisco changes the case title to name Apple Computer, Jobs and another person as victims of a Hobbs Act case against commercial institutions, dated February 8, 1985, and moves it to file 192B-196.",
+     "nodes": []
+    },
+    {
+     "node_id": "0055",
+     "title": "Crime lab report on airport pay phone",
+     "start_page": 188,
+     "end_page": 188,
+     "summary": "San Mateo County Sheriff's Office forensic laboratory report of February 7, 1985. A technician dusted the telephone (415) 877-9566 in the San Francisco airport garage, level 5, and gave three latent lifts to the FBI agent.",
+     "nodes": []
+    },
+    {
+     "node_id": "0056",
+     "title": "Memo on airport surveillance, April 8, 1985",
+     "start_page": 189,
+     "end_page": 189,
+     "summary": "Memo to the San Francisco SAC. On February 7, 1985 agents watched and searched the San Francisco Airport Hilton for the unknown caller and his written instructions, and a San Mateo deputy lifted latent prints from the airport pay phone. The deputy's report is attached.",
+     "nodes": []
+    },
+    {
+     "node_id": "0057",
+     "title": "Closing memo, August 9, 1985",
+     "start_page": 190,
+     "end_page": 190,
+     "summary": "San Francisco tells the Director that Apple has had no further threatening calls and no new information has been developed, so the case is closed.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0058",
+   "title": "Deleted page information sheet",
+   "start_page": 191,
+   "end_page": 191,
+   "summary": "FOIPA sheet stating that one page, page 11, was withheld under privacy exemptions b6 and b7C.",
+   "nodes": []
+  }
+ ]
+}

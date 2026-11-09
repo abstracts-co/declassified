@@ -1,0 +1,518 @@
+{
+ "id": "cuba-bay-of-pigs-ig-report",
+ "title": "Bay of Pigs Inspector General Report",
+ "source": {
+  "url": "https://history.state.gov/historicaldocuments/frus1961-63v10-12mSupp/d273a",
+  "publisher": "CIA",
+  "date": "1961-10",
+  "pages": 232,
+  "released": "1998-02-22",
+  "file": "https://archive.org/download/cia-readingroom-document-inspector-generals-survey-cuban-operation-and-associated-documents/inspector-generals-survey-cuban-operation-and-associated-documents.pdf",
+  "sha256": "fc41e145b048110bf26d5139a771ba286344086b693fd9785f2c6bd97805efec",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "cuba",
+ "summary": "CIA Inspector General Lyman Kirkpatrick's October 1961 internal investigation of the failed April 1961 Bay of Pigs invasion, with annexes of planning papers. It blamed the CIA's own poor organization, staffing and management rather than Kennedy's cancellation of the D-Day air strikes, and stayed secret until the National Security Archive obtained its release in 1998.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/cuba/cuba-bay-of-pigs-ig-report/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Cover",
+   "start_page": 1,
+   "end_page": 1,
+   "summary": "Cover of the CIA Historical Review Program release, sanitized in 1997: Inspector General's Survey of the Cuban Operation and Associated Documents, Part 1 of 2 Parts.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "Memo on distribution of the survey, 16 February 1962",
+   "start_page": 2,
+   "end_page": 2,
+   "summary": "Lyman B. Kirkpatrick tells the Director of Central Intelligence that 20 copies of the October 1961 survey were made but few distributed: copy 1 to McCone on 21 November 1961, copies to Dulles, Cabell, Bissell, Colonel King and Esterline on 24 November, and one to the President's Foreign Intelligence Advisory Board on 18 January 1962.",
+   "nodes": []
+  },
+  {
+   "node_id": "0002",
+   "title": "Index of the document package",
+   "start_page": 3,
+   "end_page": 4,
+   "summary": "A note says the package must not be broken up, at McCone's direction, and lists 14 tabbed items: the October 1961 survey, transmittal memos of 20 and 24 November 1961, Cabell's restriction memo, the DD/P's January 1962 analysis, letters and memos involving Killian, Barnes and Kirkpatrick, and Dulles's 15 February 1962 memo. Two staff names are redacted.",
+   "nodes": []
+  },
+  {
+   "node_id": "0003",
+   "title": "Inspector General's survey of the Cuban operation",
+   "start_page": 5,
+   "end_page": 218,
+   "summary": "Lyman Kirkpatrick's October 1961 survey of the CIA's Cuban project, from its 1959 origins to the brigade's defeat on 17-19 April 1961. It blames the Agency's organization, staffing, planning, intelligence and covert operations rather than the cancelled D-Day air strikes, makes ten recommendations, and appends five policy and planning papers.",
+   "nodes": [
+    {
+     "node_id": "0004",
+     "title": "Title page and table of contents",
+     "start_page": 5,
+     "end_page": 8,
+     "summary": "Tab 1 divider, the title page dated October 1961 (TS No. 173040, copy 1 of 20), and the table of contents listing fifteen sections from the Introduction to Conclusions and Recommendations, plus five annexes: the policy plan of 17 March 1960, the briefing paper of 17 February 1961, and operational plans of 11 March, 16 March and 12 April 1961.",
+     "nodes": []
+    },
+    {
+     "node_id": "0005",
+     "title": "A. Introduction",
+     "start_page": 9,
+     "end_page": 10,
+     "summary": "The report evaluates the Agency's attempt to overthrow Castro by covert paramilitary action, describes its weaknesses and recommends corrections. It covers organization, staffing, planning and the covert paramilitary phase but not the purely military phase, judges no official outside the Agency, and rests on interviews with about 125 Agency employees.",
+     "nodes": []
+    },
+    {
+     "node_id": "0006",
+     "title": "B. History of the project",
+     "start_page": 11,
+     "end_page": 41,
+     "summary": "Chronology from 1959 to the invasion: Eisenhower's approval of the covert action program on 17 March 1960, growth of the WH/4 branch from 40 to 588 people, the FRD exile front, Radio Swan, camps in Panama and Guatemala, the November 1960 switch to a strike force, rising budgets, and the 17-19 April 1961 landing and defeat.",
+     "nodes": [
+      {
+       "node_id": "0007",
+       "title": "Policy paper and preparatory action",
+       "start_page": 11,
+       "end_page": 16,
+       "summary": "On 17 March 1960 Eisenhower approved 'A Program of Covert Action Against the Castro Regime': an exile front, propaganda, a network inside Cuba and a small paramilitary force, budgeted at $4,400,000. Staff studies began in August 1959, the WH/4 branch was formed on 18 January 1960, and the Special Group discussed the program on 14 March.",
+       "nodes": []
+      },
+      {
+       "node_id": "0008",
+       "title": "Financial preparations and propaganda activity",
+       "start_page": 16,
+       "end_page": 18,
+       "summary": "The DCI released $900,000 on 24 March 1960, and 85% was obligated within two weeks. The Bender Group, posing as American businessmen, brought Cuban factions into the FRD on 11 May 1960. Radio Swan went on the air, Useppa Island was acquired, Panama training began in June, and Miami Base opened on 25 May.",
+       "nodes": []
+      },
+      {
+       "node_id": "0009",
+       "title": "Uneasy front and training in Panama",
+       "start_page": 19,
+       "end_page": 21,
+       "summary": "FRD leaders quarrelled among themselves and with case officers, and press stories about Radio Swan appeared by June. On 22 June 1960 the DDCI briefed the NSC on a 500-man force in about 25 teams. Air training began in July, 29 Cubans arrived in Panama, and the FRD moved to Mexico but left after harassment.",
+       "nodes": []
+      },
+      {
+       "node_id": "0010",
+       "title": "Emphasis on resistance and plan of operations",
+       "start_page": 21,
+       "end_page": 24,
+       "summary": "August 1960 briefing papers expected 500 paramilitary trainees by November and outlined three phases: guerrilla groups in Pinar del Rio, Escambray and Sierra Maestra, an assault on the Isle of Pines, then Havana. Another $10,000,000 was obtained on 19 August. Radio Swan and Avance carried propaganda. The first air drop, in September, failed.",
+       "nodes": []
+      },
+      {
+       "node_id": "0011",
+       "title": "Maritime operations and switch in concept",
+       "start_page": 24,
+       "end_page": 25,
+       "summary": "Maritime supply with one boat was slow while Castro received 30-40 thousand tons of Bloc arms. A Marine colonel took over paramilitary planning and Nicaragua offered Puerto Cabezas. On 4 November 1960 WH/4 shifted to conventional training of a larger force; the brigade grew from 644 in January to 1,390 by 6 April 1961, and $28,200,000 more was obtained.",
+       "nodes": []
+      },
+      {
+       "node_id": "0012",
+       "title": "Freedom Fund campaign and provisional government plans",
+       "start_page": 26,
+       "end_page": 29,
+       "summary": "The Cuban Freedom Fund raised only $330 for Radio Swan, while Bohemia Libre reached a circulation of 126,000. The FRD made little progress toward unity, and provisional government plans caused bickering until an ultimatum forced a Revolutionary Council. The FRD's 86-person security service ran operations into Cuba. Early 1961 brought camp disturbances and tank training at Fort Knox.",
+       "nodes": []
+      },
+      {
+       "node_id": "0013",
+       "title": "Preparations endorsed and movement of agents",
+       "start_page": 30,
+       "end_page": 33,
+       "summary": "Eisenhower's go-ahead of 29 November 1960 was reaffirmed on 3 January 1961. Kennedy authorized continued preparations on 28 January, and the Joint Chiefs evaluated the plan favorably. The 17 February paper favored a landing. Boats kept moving agents and supplies, the 'Barbara J' raided a Santiago refinery, and Miro Cardona became council chairman.",
+       "nodes": []
+      },
+      {
+       "node_id": "0014",
+       "title": "Overflights suspended",
+       "start_page": 34,
+       "end_page": 36,
+       "summary": "Overflights of Cuba stopped on 28 March 1961, and the B-26 'defection' plan was prepared on 5 April. On 12 April it was decided there would be no overt U.S. support. Eight B-26s raided three airfields on 15 April, the diversionary landing failed, and late on 16 April the D-Day dawn air strikes were called off.",
+       "nodes": []
+      },
+      {
+       "node_id": "0015",
+       "title": "The landing and defeat",
+       "start_page": 36,
+       "end_page": 41,
+       "summary": "The 1,511-man brigade landed on the Zapata Peninsula on 17 April 1961. Castro's aircraft sank a supply ship and drove off shipping, and the Green Beach landing was abandoned. Red Beach forces fell back to Blue Beach; out of ammunition, the brigade collapsed on 19 April after its commander's desperate messages. Twenty-six survivors were rescued.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0016",
+     "title": "C. Summary of evaluation",
+     "start_page": 42,
+     "end_page": 43,
+     "summary": "Warns against blaming the President's cancellation of the D-Day air strikes and raises the possibility that the invasion was doomed. The fundamental cause of the disaster was the Agency's failure to give the project top-flight organization, staffing and full-time direction, which led to operational mistakes, unawareness of dangers and grave errors of judgment.",
+     "nodes": []
+    },
+    {
+     "node_id": "0017",
+     "title": "D. Evaluation of organization and command structure",
+     "start_page": 44,
+     "end_page": 48,
+     "summary": "The project sat at branch level in WH Division under a GS-15 chief while the DD/P directed it part-time. Authority was fragmented, and the Chief of Operations, the Senior Staffs and the Project Review Committee were bypassed. The air arm, DPD, stayed independent and the DD/P rejected integrating it. Miami Base duplicated headquarters work.",
+     "nodes": []
+    },
+    {
+     "node_id": "0018",
+     "title": "E. Evaluation of staffing",
+     "start_page": 49,
+     "end_page": 53,
+     "summary": "Despite the DCI's April 1960 pledge to recall people from anywhere, staff came by routine negotiation and key posts were filled early. Of 42 principal WH/4 officers, 17 were rated in the lowest third of their grades. Slots went unfilled, few spoke Spanish and skills were misused, though many people worked with great dedication.",
+     "nodes": []
+    },
+    {
+     "node_id": "0019",
+     "title": "F. Evaluation of planning",
+     "start_page": 54,
+     "end_page": 74,
+     "summary": "Traces the change from a slow clandestine guerrilla build-up to an overt amphibious landing of 1,500 men, unresolved policy questions, plans reworked for political acceptability, and the move from Trinidad to Zapata. Finds four serious planning mistakes, ignored warnings, the loss of covertness, the cancelled D-Day strikes, and costs rising from $4,400,000 to over $46,000,000.",
+     "nodes": [
+      {
+       "node_id": "0020",
+       "title": "Change in concept and discard of original plan",
+       "start_page": 54,
+       "end_page": 56,
+       "summary": "By November 1960 the Special Group judged the March 1960 plan obsolete because of Castro's Soviet-supported strength. The Agency's revised plan proposed air infiltration of 80 men, a landing of 650-700 men with heavy firepower, and preliminary air strikes. Eisenhower orally told the Agency to proceed, leaving the decisions to the next administration.",
+       "nodes": []
+      },
+      {
+       "node_id": "0021",
+       "title": "Search for policy decisions and conflicting views",
+       "start_page": 56,
+       "end_page": 59,
+       "summary": "In December 1960 the Special Group approved only leaflet flights, and of four January 1961 requests only the use of Puerto Cabezas, Nicaragua. The paramilitary chief urged abandoning the operation without adequate air support. Kennedy was first formally briefed on 28 January 1961 and approved continued preparations, but not military action.",
+       "nodes": []
+      },
+      {
+       "node_id": "0022",
+       "title": "Successive alterations and guerrilla role",
+       "start_page": 59,
+       "end_page": 62,
+       "summary": "Papers of 11 March, 16 March and 12 April 1961 reshaped the plan around a night landing, an airstrip, a build-up period and guerrilla terrain, moving the site from Trinidad to Zapata. They claimed no controlled guerrilla forces; the 'nearly 7,000 insurgents' were mostly potential opponents. Noon on 16 April was the last hour for a diversion.",
+       "nodes": []
+      },
+      {
+       "node_id": "0023",
+       "title": "Arrests of agents and views of Joint Chiefs",
+       "start_page": 62,
+       "end_page": 66,
+       "summary": "Castro's forces had arrested agents and rolled up nets, so the invasion was to replace a resistance that did not exist, against 32,000 troops and 200,000 militia. The Joint Chiefs said they saw the plan only orally. Four serious mistakes: no objective appraisal, no advice to cancel, no admission the operation was overt, and no written plans.",
+       "nodes": []
+      },
+      {
+       "node_id": "0024",
+       "title": "Existence of warnings and consequences of cancellation",
+       "start_page": 66,
+       "end_page": 69,
+       "summary": "Intelligence studies warned that a reappraisal was needed, but overwork, restive Cuban troops, Guatemalan pressure and the rainy season prevented it. Cancellation would have been embarrassing but would have averted failure, and there was no plan for a successful lodgment. The Agency chose to gamble, at rapidly decreasing odds.",
+       "nodes": []
+      },
+      {
+       "node_id": "0025",
+       "title": "Loss of covertness and piecemeal policy",
+       "start_page": 69,
+       "end_page": 72,
+       "summary": "The project was no longer covert by November 1960, yet non-attributability forced use of obsolete B-26s and denied other equipment. Policy was made piecemeal. On 16 April the Secretary of State relayed the President's cancellation of the D-Day strikes; the DDCI and DD/P declined to call the President, despite the paramilitary chief's warnings.",
+       "nodes": []
+      },
+      {
+       "node_id": "0026",
+       "title": "Shifts in scope",
+       "start_page": 72,
+       "end_page": 74,
+       "summary": "Vague policy let the project grow unpredictably: staff from 235 planned in May 1960 to 588, the Cuban force from 200-300 to 1,390 by 6 April 1961, and spending from an estimated $4,400,000 to more than $46,000,000. Bases from Useppa Island and Key West to Guatemala and Nicaragua were often not ready when needed.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0027",
+     "title": "G. The Miami operating base",
+     "start_page": 75,
+     "end_page": 82,
+     "summary": "Opened in April 1960, the base was kept from becoming a second headquarters yet duplicated and competed with headquarters. By 15 April 1961 it had 160 people, 31 intelligence agents reporting from Cuba and a large counterintelligence program. Divided control, competition over agents and vague instructions caused confusion, heavy phone bills and many trips.",
+     "nodes": []
+    },
+    {
+     "node_id": "0028",
+     "title": "H. Intelligence support",
+     "start_page": 83,
+     "end_page": 88,
+     "summary": "WH/4's intelligence section served both the project and the wider community; Havana Station left a 27-person net when the embassy closed on 3 January 1961. A G-2 unit placed inside the paramilitary section both gathered and interpreted intelligence for the invasion plans, so its judgments were not objective. Miami Base received almost no intelligence support.",
+     "nodes": []
+    },
+    {
+     "node_id": "0029",
+     "title": "I. The political front and the relation of Cubans to the project",
+     "start_page": 89,
+     "end_page": 105,
+     "summary": "The Agency built the FRD exile front from centrist anti-Castro, anti-Batista leaders. Splits, aid to groups outside the FRD, the Bender Group cover, and exclusion of Cuban leaders from military planning undermined it. The report criticizes contemptuous treatment of Cubans and the Revolutionary Council's isolation in a Miami safe house during the invasion.",
+     "nodes": [
+      {
+       "node_id": "0030",
+       "title": "The organizing committee and the political spectrum",
+       "start_page": 89,
+       "end_page": 93,
+       "summary": "The front was to restore the 1940 constitution, exclude Batistianos and the far left, and serve as cover and a possible provisional government. Carrillo, Artime, Rasco and Varona formed the FRD organizing committee in May 1960, and Sanchez Arango joined in June. Their 22 June 1960 Mexico City manifesto promised elections within 18 months.",
+       "nodes": []
+      },
+      {
+       "node_id": "0031",
+       "title": "Change in policy and the Bender Group",
+       "start_page": 94,
+       "end_page": 99,
+       "summary": "In October 1960 the project began aiding anti-Castro groups outside the FRD, hurting its prestige and unity. The FRD's move to Mexico City failed under harassment. 'Frank Bender', who spoke no Spanish, posed as agent of U.S. businessmen; the project also dealt with Rubio Padilla's MAR, Manuel Ray's MRP and, briefly, one ex-Batista leader.",
+       "nodes": []
+      },
+      {
+       "node_id": "0032",
+       "title": "Visit to training camp and dealing with Cubans",
+       "start_page": 99,
+       "end_page": 105,
+       "summary": "Jose Miro Cardona became Revolutionary Council chairman on 20 March 1961 and visited the Guatemala camp on 29 March after a ban on politicians' visits. Cubans were cut out as the operation turned military and purely American. Some officers called council members 'idiots'; the report warns that contempt for foreign nationals defeats such operations.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0033",
+     "title": "J. Clandestine paramilitary operations -- air",
+     "start_page": 106,
+     "end_page": 117,
+     "summary": "The first drop on 28 September 1960 missed by seven miles and the agent was caught and shot. Only four of 30 missions succeeded, one delivering unwanted rice, beans and lard. Of 69,000 pounds dropped, Castro forces captured at least 46,000. Divided WH/4-DPD control and undisciplined crews caused failures, and agents' pleas for arms went unanswered.",
+     "nodes": []
+    },
+    {
+     "node_id": "0034",
+     "title": "K. Clandestine paramilitary operations -- maritime",
+     "start_page": 118,
+     "end_page": 132,
+     "summary": "WH/4 started with no boats or know-how. Small boats infiltrated about 76 people and 70,000 pounds of supplies, mostly near Havana in February-March 1961. The LCI 'Barbara J' failed missions and its captain, accused of drinking and bullying, still won an award. The 'Sea Gull' cost $111,500 and never ran a mission; Navy LCUs arrived stripped.",
+     "nodes": []
+    },
+    {
+     "node_id": "0035",
+     "title": "L. Clandestine paramilitary operations -- training underground leaders",
+     "start_page": 133,
+     "end_page": 142,
+     "summary": "Cubans chosen from December 1959 were assessed at Useppa Island and trained in Panama and at a poorly sited Guatemala camp. By November 1960 178 were trained, but most went into the strike force while the rest waited months in Panama, Miami and New Orleans. No team went in by air; training lacked goals and cost over $1 million.",
+     "nodes": []
+    },
+    {
+     "node_id": "0036",
+     "title": "M. Security",
+     "start_page": 143,
+     "end_page": 147,
+     "summary": "The assault was a poorly kept secret. Cubans were not compartmented, agents broke basic security, and Miami's Cuban community spread news of boat movements. Camps lacked counterintelligence and screening and cover was weakly backstopped, yet agent handlers and the resistance were not told the strike plan. The Guatemala camps became known; U.S. training sites did not.",
+     "nodes": []
+    },
+    {
+     "node_id": "0037",
+     "title": "N. Americans in combat",
+     "start_page": 148,
+     "end_page": 150,
+     "summary": "Two Agency contract employees went ashore to mark beaches and fought militia. American contract pilots, hired with Special Group approval, flew B-26 sorties on 18-19 April after Cuban crews were exhausted; four American fliers were killed or executed. Concealing the government connection from their families and settling claims proved costly and risky.",
+     "nodes": []
+    },
+    {
+     "node_id": "0038",
+     "title": "O. Conclusions and recommendations",
+     "start_page": 151,
+     "end_page": 158,
+     "summary": "Nine conclusions find the Agency turned the project into an overt military operation beyond its responsibility, misjudged its chances, made exile leaders puppets, and was badly organized, staffed and planned. Earlier Inspector General surveys had warned of these problems. Ten recommendations follow for future major covert operations.",
+     "nodes": [
+      {
+       "node_id": "0039",
+       "title": "Conclusions",
+       "start_page": 151,
+       "end_page": 153,
+       "summary": "The project became an overt military operation beyond Agency responsibility; the Agency failed to appraise its chances or inform policy-makers, reduced exiles to puppets, and failed at resistance supply, intelligence, organization, staffing and planning. Logistics and communications support was outstanding, but the Agency should never again run an essentially overt military effort.",
+       "nodes": []
+      },
+      {
+       "node_id": "0040",
+       "title": "Earlier Inspector General warnings",
+       "start_page": 153,
+       "end_page": 156,
+       "summary": "Earlier surveys had flagged the same problems: a June 1958 Far East Division survey questioned Agency paramilitary work, a January 1959 memo said the Clandestine Services overreached, 1955 and March 1961 surveys warned that staffs were bypassed, and a July 1959 survey called a WH Division Caribbean task force too low-level for major operations.",
+       "nodes": []
+      },
+      {
+       "node_id": "0041",
+       "title": "Recommendations",
+       "start_page": 156,
+       "end_page": 158,
+       "summary": "Ten recommendations: run major covert operations through a full-time task force under a senior official outside the DD/P; transfer projects to Defense when they turn overt; have national estimators and a senior board appraise chances; set channels to and from policy-makers; and improve collection, air and maritime capability, language skills and personnel assignment.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0042",
+     "title": "Annexes",
+     "start_page": 159,
+     "end_page": 218,
+     "summary": "Five annexes trace national policy: the 16 March 1960 covert action program approved by Eisenhower, the 17 February 1961 briefing paper for Kennedy, and the planning papers of 11 March, 15 March and 12 April 1961 that reshaped the invasion.",
+     "nodes": [
+      {
+       "node_id": "0043",
+       "title": "Annex A: A program of covert action against the Castro regime",
+       "start_page": 159,
+       "end_page": 170,
+       "summary": "16 March 1960 paper proposing to replace Castro without visible U.S. intervention through a unified exile opposition, a propaganda offensive from a Swan Island station, a covert network inside Cuba and a paramilitary force trained abroad, with businessmen as cover and a $4,400,000 budget, plus tabs on the opposition, propaganda and finances.",
+       "nodes": [
+        {
+         "node_id": "0044",
+         "title": "Program paper",
+         "start_page": 159,
+         "end_page": 165,
+         "summary": "Annex A divider and the paper: a council formed within a month under the slogan 'Restore the Revolution', an intelligence network within 60 days, a paramilitary force in six to eight months, a non-ambitious chairman, businessmen as cover with $100,000 pledged, $900,000 for FY1960 and $3,500,000 for FY1961, and a request for authority to proceed.",
+         "nodes": []
+        },
+        {
+         "node_id": "0045",
+         "title": "Tab A: The political opposition",
+         "start_page": 166,
+         "end_page": 166,
+         "summary": "The CIA is in touch with three reputable groups, the Montecristi, the Autentico Party and the National Democratic Front, anti-Castro but not tied to Batista or Trujillo. A council or junta will form within 30 days, drawing platform points from the Caracas Manifesto of 20 July 1958, such as calling Castro's regime a new dictatorship under Sino-Soviet influence.",
+         "nodes": []
+        },
+        {
+         "node_id": "0046",
+         "title": "Tab B: Propaganda",
+         "start_page": 167,
+         "end_page": 169,
+         "summary": "Plans for opposition broadcasts from Miami and a 'gray' U.S.-controlled station probably on Swan Island, possibly supplemented from the Bahamas or a ship; exile printing of the confiscated daily Avance; a CIA-controlled group distributing publications inside Cuba; and Cuban lecturers and briefed American journalists touring Latin America.",
+         "nodes": []
+        },
+        {
+         "node_id": "0047",
+         "title": "Tab C: Financial annex",
+         "start_page": 170,
+         "end_page": 170,
+         "summary": "Budget table for FY1960 and FY1961: political action $150,000 and $800,000; radio $400,000 and $700,000; press $100,000 and $500,000; paramilitary $200,000 and $1,300,000; intelligence collection $50,000 and $200,000. Totals are $900,000 and $3,500,000, assuming major action waits until FY1961.",
+         "nodes": []
+        }
+       ]
+      },
+      {
+       "node_id": "0048",
+       "title": "Annex B: Briefing paper on Cuba, 17 February 1961",
+       "start_page": 171,
+       "end_page": 187,
+       "summary": "Paper prepared for briefing President Kennedy: Castro is consolidating with Bloc help, and within six months only a sizable military force could overthrow him. It weighs diplomatic pressure, gradual infiltration and a landing in force, which the Joint Chiefs gave 'a fair chance', and judges the paramilitary force has a good chance of success.",
+       "nodes": [
+        {
+         "node_id": "0049",
+         "title": "Briefing paper",
+         "start_page": 171,
+         "end_page": 183,
+         "summary": "Annex B divider and paper: a government-in-exile will soon form; Castro controls media, unions and land and will soon have jets, so the opposition's option closes within six months. Blockade and sanctions are judged ineffective and gradual infiltration militarily infeasible; a landing in force could spark revolt or sustain guerrillas. Disbanding the force would cause serious problems.",
+         "nodes": []
+        },
+        {
+         "node_id": "0050",
+         "title": "Appendix A: Clandestine infiltration by sea of small groups",
+         "start_page": 184,
+         "end_page": 187,
+         "summary": "Only the Sierra Escambray suits guerrillas, but it holds 17,000 to 60,000 government troops, and small landings such as the Masferrer group's 27 men were quickly destroyed. Landing sites are guarded and the assault force is trained to fight as a unit. Piecemeal infiltration would cause heavy loss of life and achieve nothing.",
+         "nodes": []
+        }
+       ]
+      },
+      {
+       "node_id": "0051",
+       "title": "Annex C: Proposed operation against Cuba, 11 March 1961",
+       "start_page": 188,
+       "end_page": 200,
+       "summary": "Reports a battalion of 850 rising to 1,000, a 160-man diversion force, 16 B-26s and ships, combat-ready by 1 April but not holdable beyond early April. Compares a covert landing, a landing in force with air support, a diversionary landing first, and a slow build-up, and favors an assault preceded by a diversion. Ends with a 17-copy distribution list.",
+       "nodes": []
+      },
+      {
+       "node_id": "0052",
+       "title": "Annex D: Revised Cuban operation, 15 March 1961",
+       "start_page": 201,
+       "end_page": 209,
+       "summary": "Revises the 11 March plan, judged politically objectionable as a World War II-type amphibious assault. Requires an unspectacular night landing, an airstrip for tactical air operations, a slower tempo and defensible terrain, and picks an area at the head of a deep-water estuary on the south coast, ringed by swamps. Admits a remaining political cost.",
+       "nodes": []
+      },
+      {
+       "node_id": "0053",
+       "title": "Annex E: Cuban operation, 12 April 1961",
+       "start_page": 210,
+       "end_page": 218,
+       "summary": "The operation should look like growing internal resistance led by Miro Cardona's Revolutionary Council. Timetable: a B-26 'defection' and limited strikes on D-2, a diversion in Oriente, three main landings, a Pinar del Rio landing on D+7; ships diverted to Vieques if cancelled. Counts nearly 7,000 insurgents and makes CIA staff the operation's general staff.",
+       "nodes": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "node_id": "0054",
+   "title": "Transmittal and review memos",
+   "start_page": 219,
+   "end_page": 232,
+   "summary": "Memos of November and December 1961 on the survey: Kirkpatrick's transmittals to McCone and the DCI, Cabell's order restricting distribution, Kirkpatrick's note blaming U.S. Government shortcomings as well, and Cabell's critique calling the report inaccurate and lacking objectivity.",
+   "nodes": [
+    {
+     "node_id": "0055",
+     "title": "Transmittal memo to McCone, 20 November 1961",
+     "start_page": 219,
+     "end_page": 221,
+     "summary": "Kirkpatrick presents the 150-page survey with five annexes and ten recommendations, based on all files, Taylor Committee material and interviews from the DD/P down. He calls it fair though highly critical, notes a tendency to blame other agencies, and will make no further distribution until McCone decides; the President's board wants a copy by 9 December.",
+     "nodes": []
+    },
+    {
+     "node_id": "0056",
+     "title": "Transmittal memo to the DCI, 24 November 1961",
+     "start_page": 222,
+     "end_page": 224,
+     "summary": "Kirkpatrick says the report was prepared under his direction with his deputy David McLean and three officers whose names are redacted, using Taylor Committee material and WH Division files, without going outside the Agency, and after interviewing Esterline, Colonel Hawkins, the DD/P and about 130 others. Copies to the DDCI and DD/P.",
+     "nodes": []
+    },
+    {
+     "node_id": "0057",
+     "title": "Cabell memo restricting distribution, 28 November 1961",
+     "start_page": 225,
+     "end_page": 226,
+     "summary": "General C. P. Cabell, Deputy Director, orders the IG report held on a must-need-to-know basis: no copies beyond McCone, Dulles, Cabell, Bissell, Colonel King and Esterline without DCI or DDCI approval, specifically including the President's board of intelligence advisors.",
+     "nodes": []
+    },
+    {
+     "node_id": "0058",
+     "title": "Kirkpatrick memo to the DCI, 1 December 1961",
+     "start_page": 227,
+     "end_page": 228,
+     "summary": "Answering the DCI's concern that the report alone might exaggerate CIA's responsibility, Kirkpatrick lists three U.S. Government failures: not recognizing the size of operation needed to overthrow Castro, not planning for all contingencies including use of U.S. forces, and not committing the resources needed for success.",
+     "nodes": []
+    },
+    {
+     "node_id": "0059",
+     "title": "Cabell memo on the survey, 15 December 1961",
+     "start_page": 229,
+     "end_page": 232,
+     "summary": "Cabell says a detailed rebuttal would be as long as the survey, which he finds inaccurate, not based on complete testimony and in conflict with General Taylor's findings. Neither he nor Dulles was consulted. The report tries to do too much and too little, misses objectivity, and could be used to attack the Agency.",
+     "nodes": []
+    }
+   ]
+  }
+ ]
+}

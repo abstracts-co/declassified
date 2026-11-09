@@ -1,0 +1,167 @@
+{
+ "id": "cuba-operation-northwoods",
+ "title": "Operation Northwoods",
+ "source": {
+  "url": "https://catalog.archives.gov/id/305036",
+  "publisher": "Joint Chiefs of Staff",
+  "date": "1962-03-13",
+  "pages": 15,
+  "released": "1997-11-18",
+  "file": "https://nsarchive2.gwu.edu/news/20010430/northwoods.pdf",
+  "sha256": "9682d9f6be7110f887f15398b9af7f51b1b54dbce3a62b622917c9925daa5676",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "cuba",
+ "summary": "A Top Secret memo the Joint Chiefs of Staff sent to Defense Secretary Robert McNamara on 13 March 1962, listing staged incidents that could serve as pretexts for US military intervention in Cuba. The ideas included a fake Communist Cuban terror campaign in Florida and Washington, a faked attack on a civilian airliner and blowing up a US ship in Cuban waters; Kennedy rejected the proposals.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/cuba/cuba-operation-northwoods/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Memorandum for the Secretary of Defense",
+   "start_page": 1,
+   "end_page": 1,
+   "summary": "Joint Chiefs of Staff memo of 13 March 1962, signed by Chairman L. L. Lemnitzer: Justification for US Military Intervention in Cuba. The Chiefs forward a memo listing pretexts for intervention as a preliminary planning submission, to be combined with other agencies' inputs into a time-phased plan, and ask that the Joint Chiefs run both overt and covert military operations.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "Note by the Secretaries on Northwoods",
+   "start_page": 2,
+   "end_page": 2,
+   "summary": "JCS 1969/321, 12 March 1962, special distribution: Joint Secretariat officers B. J. Blouin and M. J. Ingelido submit a report on NORTHWOODS for the Joint Chiefs to consider. Top Secret.",
+   "nodes": []
+  },
+  {
+   "node_id": "0002",
+   "title": "Decision on JCS 1969/321",
+   "start_page": 3,
+   "end_page": 3,
+   "summary": "Note by the Secretaries on NORTHWOODS: at their meeting of 13 March 1962 the Joint Chiefs approved the recommendations in paragraph 8 of JCS 1969/321. Because the Marine Corps Commandant had expressed direct concern, Title 10 US Code 141(c) applied. This decision becomes the top sheet of the paper. Signed Blouin and Ingelido.",
+   "nodes": []
+  },
+  {
+   "node_id": "0003",
+   "title": "Report by the Caribbean Survey Group representative on the Cuba Project",
+   "start_page": 4,
+   "end_page": 15,
+   "summary": "Report of 9 March 1962 by the Defense Department and Joint Chiefs representative on the Caribbean Survey Group, answering the Cuba Project's request for pretexts to justify US military intervention in Cuba, with the draft memos to McNamara and Lansdale, the annex of proposed pretexts and the supporting facts.",
+   "nodes": [
+    {
+     "node_id": "0004",
+     "title": "Cover sheet",
+     "start_page": 4,
+     "end_page": 4,
+     "summary": "Special distribution cover, 9 March 1962: report by the Department of Defense and Joint Chiefs of Staff representative on the Caribbean Survey Group to the Joint Chiefs on the Cuba Project. The Chief of Operations, Cuba Project, wants the Chiefs' views by 13 March 1962.",
+     "nodes": []
+    },
+    {
+     "node_id": "0005",
+     "title": "Justification for US military intervention in Cuba",
+     "start_page": 5,
+     "end_page": 6,
+     "summary": "The problem: Lansdale's 5 March 1962 Mongoose memo asked for pretexts. A Navy paper of 8 March on provoking incidents near Guantanamo was considered. Intervention should follow heightened tensions that cast Cuba as rash and a threat to the hemisphere, and only while it would not involve the Soviet Union, so projects should run within months.",
+     "nodes": []
+    },
+    {
+     "node_id": "0006",
+     "title": "Conclusion and recommendations",
+     "start_page": 6,
+     "end_page": 6,
+     "summary": "The suggested courses of action answer the problem and should go forward as a preliminary planning submission toward a single, integrated, time-phased plan. Enclosure A should be sent to the Secretary of Defense for approval and passed to the Cuba Project, but not to unified commanders, NATO officers or the US delegation to the UN Military Staff Committee.",
+     "nodes": []
+    },
+    {
+     "node_id": "0007",
+     "title": "Enclosure A: draft memorandum for the Secretary of Defense",
+     "start_page": 7,
+     "end_page": 7,
+     "summary": "The draft of the Chiefs' memo to the Secretary of Defense, matching the signed version: forward the pretexts memo as a preliminary planning submission, build a time-phased plan from all agencies' inputs, and give the Joint Chiefs responsibility for overt and covert military operations. Cites Lansdale's 5 March 1962 Mongoose memo to General Craig.",
+     "nodes": []
+    },
+    {
+     "node_id": "0008",
+     "title": "Appendix to Enclosure A: memorandum for Chief of Operations, Cuba Project",
+     "start_page": 8,
+     "end_page": 9,
+     "summary": "The attached projects are a preliminary submission. A plan should build up incidents, mixed with unrelated events to camouflage the objective, to show Cuban rashness toward the US and other countries, so the US appears to suffer defensible grievances. Projects should be operable within months, and the Joint Chiefs should run overt and covert military aspects.",
+     "nodes": []
+    },
+    {
+     "node_id": "0009",
+     "title": "Annex: pretexts to justify US military intervention in Cuba",
+     "start_page": 10,
+     "end_page": 14,
+     "summary": "Nine numbered courses of action, offered for planning only and in no particular order, meant to feed a single time-phased plan leading to adequate justification for intervention.",
+     "nodes": [
+      {
+       "node_id": "0010",
+       "title": "Cover and deception, and staged incidents at Guantanamo",
+       "start_page": 10,
+       "end_page": 11,
+       "summary": "A cover and deception plan with harassment to convince Cubans an invasion is imminent. Then staged incidents at Guantanamo by friendly Cubans: rumors, a fake attack over the fence, riots at the gate, blowing up ammunition, burning aircraft, mortar fire, a sunk ship with funerals for mock victims, followed by US offensive operations.",
+       "nodes": []
+      },
+      {
+       "node_id": "0011",
+       "title": "A \"Remember the Maine\" incident",
+       "start_page": 11,
+       "end_page": 11,
+       "summary": "Blow up a US ship in Guantanamo Bay and blame Cuba, or blow up an unmanned drone vessel near Havana or Santiago as if attacked by Cuban planes or ships, then stage a rescue of the non-existent crew. Casualty lists in US newspapers would cause a helpful wave of national indignation.",
+       "nodes": []
+      },
+      {
+       "node_id": "0012",
+       "title": "Terror campaign and a simulated Cuban filibuster",
+       "start_page": 11,
+       "end_page": 12,
+       "summary": "A Communist Cuban terror campaign in Miami, other Florida cities and Washington: sink a boatload of Cubans bound for Florida, real or simulated, attempt attacks on refugees, explode plastic bombs and release planted documents. Also a fake Castro-backed raid on a neighbor, such as night cane-burning raids over the Dominican Republic with planted Soviet incendiaries and arms.",
+       "nodes": []
+      },
+      {
+       "node_id": "0013",
+       "title": "MIG-type aircraft and hijackings",
+       "start_page": 12,
+       "end_page": 13,
+       "summary": "US pilots flying MIG-type aircraft could harass civil air, attack shipping and destroy US drones; a painted F-86 could pass for a Cuban MIG, and copies could be built in about three months. Hijackings of civil air and surface craft should appear to continue with the Cuban government's approval, while real defections are encouraged.",
+       "nodes": []
+      },
+      {
+       "node_id": "0014",
+       "title": "Faked shootdown of a chartered airliner",
+       "start_page": 13,
+       "end_page": 14,
+       "summary": "A duplicate of a CIA proprietary's airliner, painted at Eglin AFB, would carry passengers under aliases and land at an Eglin auxiliary field, while the real aircraft, turned into a drone, flies the filed route over Cuba, broadcasts a MAY DAY about MIG attack and is destroyed by radio signal, so ICAO stations report it.",
+       "nodes": []
+      },
+      {
+       "node_id": "0015",
+       "title": "Faked MIG attack on a USAF aircraft",
+       "start_page": 14,
+       "end_page": 14,
+       "summary": "F-101s from Homestead AFB would fly regular exercises near Cuba. One pre-briefed pilot would radio that MIGs had jumped him, fly low to an Eglin auxiliary field and take a new tail number and identity, while a submarine or boat scatters F-101 parts and a parachute 15 to 20 miles off the coast for searchers to find.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0016",
+     "title": "Enclosure B: facts bearing on the problem",
+     "start_page": 15,
+     "end_page": 15,
+     "summary": "The Joint Chiefs had already said unilateral intervention could follow hostile Cuban acts against US forces or property. On 7 March 1962 they wrote that if a credible internal revolt proved impossible within 9 to 10 months, the US must develop a Cuban 'provocation' to justify military action. State is also preparing courses of action.",
+     "nodes": []
+    }
+   ]
+  }
+ ]
+}

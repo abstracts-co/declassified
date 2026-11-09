@@ -1,0 +1,470 @@
+{
+ "id": "deepsea-thresher-inquiry",
+ "title": "Thresher Court of Inquiry",
+ "source": {
+  "url": "https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2358204/department-of-navy-releases-records-related-to-loss-of-uss-thresher/",
+  "publisher": "US Navy",
+  "date": "1963",
+  "pages": 300,
+  "released": "2020-09-23",
+  "file": "https://archive.org/download/thresher-report/THRESHER-Report.pdf",
+  "sha256": "bea8addfeb7a06f317c837656d7d0172d8b33e40692a04ac0df7cdeccfcf5407",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "deepsea",
+ "summary": "Volume I of the Navy's court of inquiry record on the loss of the nuclear submarine USS Thresher, which sank with all on board during a deep test dive on 10 April 1963. Released in 2020 under a court order, it includes the court's findings and Thresher's last message to the escort ship Skylark: 'Experiencing minor difficulties. Have positive up angle. Am attempting to blow.'",
+ "files": "https://abstracts-co.github.io/declassified-data/us/deepsea/deepsea-thresher-inquiry/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Cover: record of proceedings, volume I of 12",
+   "start_page": 1,
+   "end_page": 1,
+   "summary": "Volume I of 12 of the record of a court of inquiry convened at the Naval Submarine Base New London, Groton, Connecticut, and Portsmouth Naval Shipyard by order of the Commander in Chief, U.S. Atlantic Fleet, into the loss at sea of USS Thresher (SS(N)593) on 10 April 1963. Ordered 10 April 1963; record pages 1 to 280.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "Indexes",
+   "start_page": 2,
+   "end_page": 28,
+   "summary": "Front-matter indexes for the whole 12-volume record: where the court sat and parties were designated, every witness with the record pages of each examination, and exhibits 1 to 255 with the page each was received in evidence.",
+   "nodes": [
+    {
+     "node_id": "0002",
+     "title": "Index",
+     "start_page": 2,
+     "end_page": 2,
+     "summary": "Court convened at New London (record page 1) and adjourned to Portsmouth (17). Parties designated: LCDR Stanley Hecker, CO of USS Skylark (ASR-20), and RADM Charles J. Palmer, Commander, Portsmouth Naval Shipyard, with counsel Louis P. Gray III and CAPT Dana P. French. Hecker's party status withdrawn at 1499. Findings 1679, opinions 1702, recommendations 1715.",
+     "nodes": []
+    },
+    {
+     "node_id": "0003",
+     "title": "Index to witnesses, by volume",
+     "start_page": 3,
+     "end_page": 11,
+     "summary": "Witnesses in order of appearance with record pages for examination by counsel, the court, RADM Palmer and LCDR Hecker: Navy officers, Skylark crew, Portsmouth shipyard engineers and inspectors, Bureau of Ships staff, VADM Hyman G. Rickover, RADM William R. Smedberg and Lamont Observatory's J. Lamar Worzel. Many civilian and junior names are redacted.",
+     "nodes": []
+    },
+    {
+     "node_id": "0004",
+     "title": "Index to exhibits, volumes VII to XI",
+     "start_page": 12,
+     "end_page": 28,
+     "summary": "Exhibits 1 to 255: operation orders, sailing lists, Skylark messages and UQC log, oil slick photographs, debris recovered at sea, oceanographic lofargrams, shipyard work lists, sil-braze and flexible hose test records, Bureau of Ships letters, flooding computer studies, ocean-floor photographs from CONRAD on 30 May 1963 and death certificates.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0005",
+   "title": "Appointing order and modifications",
+   "start_page": 29,
+   "end_page": 33,
+   "summary": "Admiral Robert L. Dennison, Commander in Chief, U.S. Atlantic Fleet, appoints the court under Vice Admiral Bernard L. Austin, confirms the order in writing, and later modifies it.",
+   "nodes": [
+    {
+     "node_id": "0006",
+     "title": "Modification of order appointing the court, 15 April 1963",
+     "start_page": 29,
+     "end_page": 29,
+     "summary": "CINCLANTFLT letter serial 1748 to VADM Bernard L. Austin. Since the Secretary of the Navy announced on 11 April that Thresher and all aboard were lost, the court is relieved of the preliminary report on deaths. CDR Charles R. Davis is designated assistant counsel for the court. Signed by Robert L. Dennison.",
+     "nodes": []
+    },
+    {
+     "node_id": "0007",
+     "title": "Appointing message and confirming letter, 11 April 1963",
+     "start_page": 30,
+     "end_page": 33,
+     "summary": "Message 110448Z April 1963 appoints VADM Austin president, with RADM Lawrence R. Daspit and CAPTs William C. Hushing, James B. Osborn and Norman C. Nash; CAPT Saul Katz is counsel. The court is to convene at New London, take sworn testimony, fix responsibility and report findings. Letter serial 1701 confirms it, adding a preliminary report on deaths.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0008",
+   "title": "Findings of fact",
+   "start_page": 34,
+   "end_page": 56,
+   "summary": "The court's 166 numbered findings: Thresher's departure and those aboard, the deep dive and loss on 10 April 1963, the search, the ship's design and history, the post-shakedown availability at Portsmouth, and wider shipyard and Navy conditions. Figures such as test depth are redacted throughout.",
+   "nodes": [
+    {
+     "node_id": "0009",
+     "title": "Departure, persons on board and escort",
+     "start_page": 34,
+     "end_page": 37,
+     "summary": "Findings 1-9. Thresher, first of a new class built at Portsmouth, left on 9 April 1963 under LCDR John W. Harvey for sea trials after her post-shakedown availability. A list names the officers, crew, shipyard civilians and Sperry and Raytheon representatives aboard; some names are redacted. Skylark, under LCDR Stanley Hecker, escorted; rendezvous at 0949R near 42-56N, 70-26W.",
+     "nodes": []
+    },
+    {
+     "node_id": "0010",
+     "title": "The deep dive, the loss and the search",
+     "start_page": 38,
+     "end_page": 41,
+     "summary": "Findings 10-36. Deep dive began at 0747R on 10 April. At 0913R Thresher reported 'Experiencing minor difficulties. Have positive up angle. Am attempting to blow.' A broken message with '...test depth' followed; a noise like an implosion came at 0918.1R in about 8,500 feet of water. No sabotage. Skylark's report was late and incomplete. Recovery found an oil slick.",
+     "nodes": []
+    },
+    {
+     "node_id": "0011",
+     "title": "Design, construction, shakedown and shock tests",
+     "start_page": 42,
+     "end_page": 48,
+     "summary": "Findings 37-94. Designed by the Bureau of Ships, built at Portsmouth, commissioned 3 August 1961. Covers sil-braze joints and flexible hoses, an air blow system whose strainers iced up in thirty seconds in a Tinosa test, cross-connected sea water systems, about 40 test-depth dives, shock tests, and the CO's November 1962 letter naming flooding near test depth the gravest danger.",
+     "nodes": []
+    },
+    {
+     "node_id": "0012",
+     "title": "Post-shakedown availability at Portsmouth",
+     "start_page": 49,
+     "end_page": 53,
+     "summary": "Findings 95-147. Completion slipped from 18 January to 11 April 1963; over 100,000 man-days. Shock damage kept turning up. Of 145 old sil-braze joints tested, 13.8 per cent were rejected; on 4 December 1962 the yard stopped testing and did not tell the Bureau of Ships. Also covers hoses, air system particles, reserve feed tank over-pressurization and two fast cruises.",
+     "nodes": []
+    },
+    {
+     "node_id": "0013",
+     "title": "Shipyard practices, earlier floodings and manpower",
+     "start_page": 54,
+     "end_page": 56,
+     "summary": "Findings 148-166. Portsmouth lacked a 'rip out' status procedure, treated specifications as goals, and had an unclean pipe shop. Earlier flooding casualties hit Thresher, Ethan Allen, Snook, Argonaut, Caiman, Barbel, Skate and Nautilus. No Navy body owned submarine safety; all submarines limited to 500 feet. Engineering officers declined while workload grew; Thresher's CO and XO changed in January 1963.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0014",
+   "title": "Opinions",
+   "start_page": 57,
+   "end_page": 69,
+   "summary": "The court's 55 opinions on the probable cause of the loss, contributing material and procedural weaknesses, the most likely sequence of events, and responsibility.",
+   "nodes": [
+    {
+     "node_id": "0015",
+     "title": "Probable cause of the loss",
+     "start_page": 57,
+     "end_page": 58,
+     "summary": "Opinions 1-7. The loss was in all probability due to engine-room flooding through a 2- to 5-inch orifice, loss of reactor power from an electrically induced shutdown, inadequate procedures, and an air system prone to freeze-up with low blow rate. Possible flooding sources include a sil-braze joint, shock damage or a hose. Interim depth limits should stay.",
+     "nodes": []
+    },
+    {
+     "node_id": "0016",
+     "title": "Systems, sil-braze joints, shock tests and quality assurance",
+     "start_page": 58,
+     "end_page": 65,
+     "summary": "Opinions 8-44. Blow system and cross-connected sea water systems were deficient; a low-pressure auxiliary sea water system is desirable. Portsmouth did not pursue sil-braze testing despite a 13.8 per cent rejection rate, and management did not exercise proper control. Shock-test inspections missed damage. Quality assurance, switchboard protection, equipment placement and diving trainers need improvement; the basic design is good.",
+     "nodes": []
+    },
+    {
+     "node_id": "0017",
+     "title": "Probable sequence of events, 0909-0918R",
+     "start_page": 65,
+     "end_page": 67,
+     "summary": "Opinion 45. Three computer cases bracket what happened after Thresher reached test depth. Case III is most probable: engine-room flooding and an order for full speed and up angle, main coolant pumps stopping or slowing at 0911R, iced-up blows, and collapse at 0918.1R. The flooding orifice was larger than 2 inches but not much larger than 4.",
+     "nodes": []
+    },
+    {
+     "node_id": "0018",
+     "title": "Manpower, Skylark's report and responsibility",
+     "start_page": 67,
+     "end_page": 69,
+     "summary": "Opinions 46-55. Shipyard manning was not excessive and the crew was rested. Skylark's CO failed to inform higher authority of the last transmissions for an unreasonable time. Shortages of trained officers threaten Portsmouth's reliability. The deaths were not caused by any person's fault, and no individual or group can be charged with the loss; lessons should be widely shared.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0019",
+   "title": "Recommendations",
+   "start_page": 70,
+   "end_page": 73,
+   "summary": "Twenty recommendations: keep depth limits; redesign sea water systems with remote hull valves and split loops; test and replace sil-braze joints, welding those over two inches; defer shock tests; improve quality assurance and air blow systems; protect switchboards; upgrade diving trainers; set depth and speed procedures; create a submarine safety organization. Signed by Austin, Daspit, Hushing, Osborn, Nash and Katz.",
+   "nodes": []
+  },
+  {
+   "node_id": "0020",
+   "title": "First day: New London, 11 April 1963",
+   "start_page": 74,
+   "end_page": 89,
+   "summary": "The court meets at 2025 at the Naval Submarine Base New London, is sworn, sits in open session and hears three witnesses on Thresher's orders, departure, the loss of contact and the search, adjourning at 2232.",
+   "nodes": [
+    {
+     "node_id": "0021",
+     "title": "Testimony of CAPT Clarence J. Zurcher",
+     "start_page": 74,
+     "end_page": 78,
+     "summary": "Zurcher, of the Deputy Commander Submarine Force staff, describes Thresher's command arrangements and a very good overhaul with no safety items open. He discussed her condition with the CO a week before sailing. She held a fast cruise and made at least two shallow dives before the deep dive. Operation order and sailing list become exhibits 1 and 2.",
+     "nodes": []
+    },
+    {
+     "node_id": "0022",
+     "title": "Testimony of CAPT John S. Schmidt",
+     "start_page": 78,
+     "end_page": 87,
+     "summary": "Commander Submarine Flotilla Two introduces Skylark's orders, Thresher's sea trial agenda and departure report. Skylark's message 101604Z reporting lost contact since 0917R reached his office at 1304, two hours after it was sent. He describes alerting COMSUBLANT, the ships and aircraft sent to search, the oil slick and debris, and notifying next of kin.",
+     "nodes": []
+    },
+    {
+     "node_id": "0023",
+     "title": "Testimony of the chief staff officer, Submarine Development Group Two",
+     "start_page": 87,
+     "end_page": 89,
+     "summary": "A commander, name redacted, produces the shipyard's list of civilians aboard Thresher (exhibit 15) and confirms it matches the sailing list. The court adjourns at 2232 to meet on 12 April.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0024",
+   "title": "Second day: New London, 12 April 1963",
+   "start_page": 90,
+   "end_page": 90,
+   "summary": "The court meets at 1000, a new reporter is sworn, the court is cleared from 1002 to 1135, and it then adjourns at 1140 to reconvene at Portsmouth Naval Shipyard, Portsmouth, New Hampshire, as soon as practicable.",
+   "nodes": []
+  },
+  {
+   "node_id": "0025",
+   "title": "Third day: Portsmouth, 13 April 1963",
+   "start_page": 91,
+   "end_page": 161,
+   "summary": "At Portsmouth Naval Shipyard the court hears Thresher's former captain, Skylark's navigator and underwater telephone crew, relatives of two crewmen, a Bureau of Ships expert, and the people who examined debris recovered at sea. It adjourns at 1810.",
+   "nodes": [
+    {
+     "node_id": "0026",
+     "title": "Testimony of CDR Dean L. Axene",
+     "start_page": 91,
+     "end_page": 108,
+     "summary": "Thresher's first commanding officer recounts her trials, instrumented first deep dive, shakedown, inspections, a tug collision at Cape Canaveral, shock tests and troublesome cellulube hydraulic fluid. He judged her fully capable and her crew as fine as Nautilus's. He believes a flooding casualty, perhaps with loss of electrical power, happened too fast to warn Skylark.",
+     "nodes": []
+    },
+    {
+     "node_id": "0027",
+     "title": "Testimony of LTJG James D. Watson",
+     "start_page": 109,
+     "end_page": 127,
+     "summary": "Skylark's navigator reads the underwater telephone log: deep dive at 0747, 'test depth minus three hundred feet' at 0835, and around 0913 'positive up angle', 'attempting to blow'. He heard air, a distorted 'test depth', then a dull thud like a compartment collapsing. He describes grenades, the search, LORAN fixes, oil slick photographs and debris (exhibits 16-21).",
+     "nodes": []
+    },
+    {
+     "node_id": "0028",
+     "title": "Testimony of BM3 Roy S. Mowen Jr.",
+     "start_page": 127,
+     "end_page": 136,
+     "summary": "Skylark's underwater telephone operator says reception was clear. He heard 'Experiencing minor difficulties', 'Have positive up angle', 'Attempting to blow' and 'Will keep you informed', then air rushing into tanks for four or five seconds. A last call sign came through followed by crackling distortion and words he made out as 'test depth'.",
+     "nodes": []
+    },
+    {
+     "node_id": "0029",
+     "title": "Testimony of Skylark's radioman, RM3",
+     "start_page": 136,
+     "end_page": 141,
+     "summary": "The radioman third class, name redacted, who kept Skylark's underwater telephone log explains that 'from' and 'to' columns were reversed and estimates 'Has positive up-angle' was received about 0913 and thirty seconds. He did not log a later transmission he could not make out, and heard no explosion or air.",
+     "nodes": []
+    },
+    {
+     "node_id": "0030",
+     "title": "Testimony of Joseph Shafer",
+     "start_page": 141,
+     "end_page": 144,
+     "summary": "Shafer, a civilian, is the brother of Master Chief Benjamin and Senior Chief John Shafer, both chief electricians lost in Thresher. Both were proud of the ship, but during the overhaul John grew unsure the work was being done right. He relays a family remark and says the family holds no one responsible.",
+     "nodes": []
+    },
+    {
+     "node_id": "0031",
+     "title": "Testimony of David Main",
+     "start_page": 144,
+     "end_page": 145,
+     "summary": "Main, an Electric Boat welder and brother-in-law of John and Benjamin Shafer, says John complained for months of many piping rejects after X-ray, mostly in the reactor area, and the Sunday before sailing said Thresher was 'in such a mess that I don't think EB could straighten it out.'",
+     "nodes": []
+    },
+    {
+     "node_id": "0032",
+     "title": "Testimony of CAPT Donald H. Kern",
+     "start_page": 146,
+     "end_page": 148,
+     "summary": "The head of the Submarine Branch, Bureau of Ships, describes his background and says a ship like Thresher at about 8,400 feet would be completely flooded and the loss total. Debris would rise through ruptures made by collapsing fittings, but debris alone does not show that hull rupture caused the sinking.",
+     "nodes": []
+    },
+    {
+     "node_id": "0033",
+     "title": "Testimony of LT Jack Sousae",
+     "start_page": 148,
+     "end_page": 150,
+     "summary": "Sousae, of the Deputy Commander Submarine Force staff, hands over material received from USS Samuel B. Roberts that Skylark recovered from the sea: bottles and glasses with contents, yellow and orange gloves and a plastic tube (exhibits 22-29). He had checked it free of radioactivity.",
+     "nodes": []
+    },
+    {
+     "node_id": "0034",
+     "title": "Testimony of Frederick L. Downs",
+     "start_page": 151,
+     "end_page": 156,
+     "summary": "The head of the shipyard's Polymers Research Section identifies the debris: microballoon-filled plastic matching Thresher material, polyurethane foam, cork, borated polyethylene, neoprene foam, a chlorinated rubber float, rubber gloves and a Baker's cake-icing tube. His joint reports with Mr. Carrigan become exhibits 30 and 31.",
+     "nodes": []
+    },
+    {
+     "node_id": "0035",
+     "title": "Testimony of John E. Carrigan",
+     "start_page": 157,
+     "end_page": 159,
+     "summary": "The head of the chemical section of the shipyard's Materials Testing Laboratory finds the oily sample about 98 per cent straight petroleum oil, like a gear lubricant, with a residue mostly iron oxide. The yellow plastic is borated polyethylene with 1.28 per cent boron.",
+     "nodes": []
+    },
+    {
+     "node_id": "0036",
+     "title": "Testimony of Anthony C. Faskianos",
+     "start_page": 159,
+     "end_page": 161,
+     "summary": "The head of the shipyard's radiological monitoring section reports that all the debris exhibits read at natural background for beta-gamma and showed no detectable alpha radiation. The court adjourns at 1810 until Monday.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0037",
+   "title": "Fourth day: Portsmouth, 15 April 1963",
+   "start_page": 162,
+   "end_page": 215,
+   "summary": "The court hears Skylark's commanding officer, the submarine operational and administrative commanders at Portsmouth, shipyard officials on the overhaul, and Vice Admiral Grenfell, Commander Submarine Force, Atlantic Fleet. It recesses for a memorial service and adjourns at 1710.",
+   "nodes": [
+    {
+     "node_id": "0038",
+     "title": "Testimony of LCDR Stanley Hecker",
+     "start_page": 162,
+     "end_page": 183,
+     "summary": "Skylark's commanding officer recounts the 9 April rendezvous and shallow dives and the 10 April underwater telephone traffic. He heard 'minor difficulty', 'positive angle' and 'attempting to blow' in a relaxed voice, then air blowing about 0917. He began explosive signals only at 1040 and his report was delayed. He describes the search, LORAN positions, debris and an unidentified vessel.",
+     "nodes": []
+    },
+    {
+     "node_id": "0039",
+     "title": "Testimony of CDR H. N. Larcombe Jr.",
+     "start_page": 184,
+     "end_page": 192,
+     "summary": "The CO of USS Dogfish, also Commander Submarine Force Atlantic Administration Portsmouth, explains his duties for local trials and escorts. Sea trial dates slipped; the first fast cruise was aborted after two and a half days for yard work and resumed 31 March. On 8 April Harvey wrote that salvage inspection deficiencies were corrected, and Larcombe issued the operation order.",
+     "nodes": []
+    },
+    {
+     "node_id": "0040",
+     "title": "Chief staff officer, Submarine Development Group Two, recalled",
+     "start_page": 193,
+     "end_page": 197,
+     "summary": "The commander, name redacted, describes repeated slips in Thresher's sea dates from mid-March, the CO's letter that dockside trials were complete (exhibit 43), and the check report system. Thresher was first of a new ASW class, but he told the CO not to cut corners on safety to meet a schedule.",
+     "nodes": []
+    },
+    {
+     "node_id": "0041",
+     "title": "Testimony of CAPT William E. Heronemus",
+     "start_page": 197,
+     "end_page": 203,
+     "summary": "The shipyard's Shipbuilding and Repair Superintendent describes the sailing list, all volunteers, and 875 job orders: hull surveillance, hard tank stiffening, hydraulic fluid replacement, a new PUFFS sonar and sil-braze inspections. On 8 April he and Harvey told Larcombe 'Tell her to sail'; he never knew a ship to sail with so few discrepancies.",
+     "nodes": []
+    },
+    {
+     "node_id": "0042",
+     "title": "Testimony of CAPT W. D. Roseborough",
+     "start_page": 204,
+     "end_page": 206,
+     "summary": "The shipyard's Planning Officer explains why the post-shakedown availability was repeatedly extended: Thresher was first of her class and work grew, including PUFFS sonar and noise reduction. There was no undue pressure to finish. He reads a Deputy Commander Submarine Force message (exhibit 46). The court recesses for a memorial service.",
+     "nodes": []
+    },
+    {
+     "node_id": "0043",
+     "title": "Testimony of VADM Elton W. Grenfell",
+     "start_page": 207,
+     "end_page": 215,
+     "summary": "Commander Submarine Force, Atlantic Fleet, reads a timeline: he was in Annapolis; his headquarters got Skylark's report at 1312R and dispatched ships and aircraft. He rates Thresher's crew well qualified and says no one could survive at that depth. In closed session he discusses SOSUS queries, a probable chain of events and limiting normal operating depths.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0044",
+   "title": "Fifth day: Portsmouth, 16 April 1963",
+   "start_page": 216,
+   "end_page": 225,
+   "summary": "The court hears the Deputy Commander Submarine Force on the search and on how the last transmissions came to light, then designates Skylark's commanding officer a party to the inquiry. It adjourns at 1720.",
+   "nodes": [
+    {
+     "node_id": "0045",
+     "title": "Testimony of RADM Lawson P. Ramage",
+     "start_page": 216,
+     "end_page": 223,
+     "summary": "The Deputy Commander Submarine Force, Atlantic Fleet, rates Thresher's crew and Harvey highly and recounts the search from USS Blandy, debris recovered and a Norwegian trawler, Juviel. Only when he took Watson, Mowen and Skylark's telephone log aboard did anyone outside Skylark learn of the last transmissions; the court finds that failure hard to understand.",
+     "nodes": []
+    },
+    {
+     "node_id": "0046",
+     "title": "LCDR Hecker designated a party",
+     "start_page": 224,
+     "end_page": 225,
+     "summary": "At 1710 the court tells LCDR Hecker his conduct appears subject to inquiry for failing, for an unreasonable time, to inform higher authority of Thresher's last transmissions, stressing this could not have contributed to the loss. Counsel reads the definition and rights of a party. Hecker asks time to obtain counsel; the court adjourns at 1720.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0047",
+   "title": "Sixth day: Portsmouth, 18 April 1963",
+   "start_page": 226,
+   "end_page": 297,
+   "summary": "Parties and counsel are seated, two former Thresher crewmen describe the overhaul and fast cruises, and in closed session acoustic analysts present Oceanographic System detections of Thresher's last minutes. The court adjourns at 2005.",
+   "nodes": [
+    {
+     "node_id": "0048",
+     "title": "Parties and counsel introduced",
+     "start_page": 226,
+     "end_page": 228,
+     "summary": "LCDR Hecker introduces civilian counsel Louis P. Gray III and waives challenges. RADM Charles J. Palmer, Commander, Portsmouth Naval Shipyard, asks for and is granted the rights of a party, names CAPT Dana P. French as counsel, and waives several rights so the court can proceed quickly.",
+     "nodes": []
+    },
+    {
+     "node_id": "0049",
+     "title": "Testimony of LT Raymond A. McCoole",
+     "start_page": 229,
+     "end_page": 252,
+     "summary": "A former Thresher officer who left the ship on 8 April describes crew training, the electrical division's chiefs, morale, steam plant work, persistent high-pressure air filter and reducer problems, hydraulic work, the aborted first fast cruise of 23-26 March, the shorter second one, a valve repaired in drydock, and a tired crew that had since rested.",
+     "nodes": []
+    },
+    {
+     "node_id": "0050",
+     "title": "Testimony of MMC Frank DeStefano",
+     "start_page": 253,
+     "end_page": 276,
+     "summary": "A chief machinist's mate from Thresher's M division describes crew pride, leaking air reducers and valves, cycling hydraulic accumulators, fast cruise drills, and shipyard work of mixed quality, including check valves installed backwards. In closed session he discusses flexible hoses, new valves missing from checkoff lists, sea water isolation needing two stations, and identifies borated polyethylene debris.",
+     "nodes": []
+    },
+    {
+     "node_id": "0051",
+     "title": "Testimony of a lieutenant, Oceanographic Systems Atlantic",
+     "start_page": 277,
+     "end_page": 289,
+     "summary": "In closed session a reserve lieutenant, name redacted, presents Oceanographic System records: Thresher's acoustic signature detected by several stations including Bermuda and HMCS Shelburne's FOX array, last contact at 0911R, an acoustic disturbance at 1418.1Z with later weaker ones, and a trace possibly from air blowing. Lofargrams become exhibits 51-54. Much is redacted.",
+     "nodes": []
+    },
+    {
+     "node_id": "0052",
+     "title": "Testimony of CAPT Patrick Leehey",
+     "start_page": 290,
+     "end_page": 297,
+     "summary": "The head of the Bureau of Ships Ships Silencing Branch interprets the lofargrams and teletype reports, finding one detection consistent with Thresher at maximum speed and rejecting another line as hers. He notes a weaker acoustic blast lasting about six minutes. LCDR Hecker cross-examines him on Thresher's speed. Much of the testimony is redacted.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0053",
+   "title": "Seventh day: Portsmouth, 19 April 1963",
+   "start_page": 298,
+   "end_page": 300,
+   "summary": "Meeting in closed session with RADM Palmer present, the court hears William H. Barnes III, head of the field trials branch at the Naval Engineering Experiment Station, Annapolis. He explains submarine noise and detection trials and, having reviewed the lofargrams with Captain Leehey, sees an indication before the presumed time of loss; his opinion is partly redacted.",
+   "nodes": []
+  }
+ ]
+}

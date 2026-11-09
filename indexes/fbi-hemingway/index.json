@@ -1,0 +1,518 @@
+{
+ "id": "fbi-hemingway",
+ "title": "Ernest Hemingway's FBI File",
+ "source": {
+  "url": "https://vault.fbi.gov/ernest-miller-hemingway",
+  "publisher": "FBI",
+  "date": "1942",
+  "pages": 122,
+  "released": "1983",
+  "file": "https://web.archive.org/web/20251222053145id_/https://vault.fbi.gov/ernest-miller-hemingway/Ernest%20Hemingway%20Part%2001%20(Final)/at_download/file",
+  "sha256": "70447417d15a3f3db1d4596f38c051f0c2141c2cf6c95953a03f52c8336d30d3",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "fbi",
+ "summary": "The FBI's file on Ernest Hemingway, which opens in 1942 when he ran a network of informants in Havana with the US Embassy's backing. It includes a January 1961 report that he was at the Mayo Clinic under an assumed name, that doctors had considered electroshock treatment, and that he was worried about an FBI investigation.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/fbi/fbi-hemingway/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "File cover",
+   "start_page": 1,
+   "end_page": 1,
+   "summary": "Cover of FBI headquarters file 64-HQ-23312, Section 1, stamped \"Do not destroy\" and \"Use care in handling this file\", with a FOIPA copying stamp of April 12, 1979 and a note of 121 pages.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "Hemingway's informant network in Havana, 1942-1943",
+   "start_page": 2,
+   "end_page": 16,
+   "summary": "Letters and memoranda on Hemingway's intelligence work for Ambassador Spruille Braden in Havana: how it began in September 1942, Gustavo Duran's arrival, FBI objections in December 1942, Hoover's verdict on Hemingway, and the network's disbanding on April 1, 1943.",
+   "nodes": [
+    {
+     "node_id": "0002",
+     "title": "Legal attaché letter on Hemingway's intelligence work, October 8, 1942",
+     "start_page": 2,
+     "end_page": 4,
+     "summary": "Legal Attaché R. G. Leddy reports that Hemingway, at his finca near Havana, began intelligence work for the Embassy in September 1942 through Second Secretary Robert P. Joyce: four full-time men and 14 part-time barmen and waiters at about $500 a month. Notes his 1940 FBI criticism and a planned Naval Attaché coastal patrol with arms and depth charges.",
+     "nodes": []
+    },
+    {
+     "node_id": "0003",
+     "title": "Legal attaché letter on Gustavo Duran's assignment, October 9, 1942",
+     "start_page": 5,
+     "end_page": 6,
+     "summary": "Gustavo Duran, who worked with Hemingway in intelligence during the Spanish Civil War, is being released by the State Department to assist him in Cuba. Martha Gellhorn will stay with Mrs. Roosevelt in Washington from October 12, 1942, carrying the Ambassador's views on funding a Cuban internment program to the President.",
+     "nodes": []
+    },
+    {
+     "node_id": "0004",
+     "title": "Hoover memorandum to Tamm and Ladd, December 19, 1942",
+     "start_page": 7,
+     "end_page": 7,
+     "summary": "Hoover agrees the arrangement is undesirable: Hemingway is \"the last man\" to use in such a capacity, his judgment is poor and his sobriety questionable. But the FBI should not act, since Braden would tell Hemingway, who would start a vilification campaign. Hemingway had urged the President to grant Cuba half a million dollars for internees.",
+     "nodes": []
+    },
+    {
+     "node_id": "0005",
+     "title": "Memorandum for the Director, December 17, 1942",
+     "start_page": 8,
+     "end_page": 11,
+     "summary": "Agent Leddy reports Hemingway is Braden's personal informant, running Spanish refugee informants and investigating Cuban officials including police chief General Benitez, with Gustavo Duran's help. Leddy calls the information valueless and wasted effort. Recommends Leddy raise the matter with the Ambassador before any Bureau protest, then advise Mr. Berle.",
+     "nodes": []
+    },
+    {
+     "node_id": "0006",
+     "title": "Legal attaché letter on the network's end, April 21, 1943",
+     "start_page": 12,
+     "end_page": 12,
+     "summary": "An Embassy official has told the Legal Attaché in confidence that the Ambassador disbanded Hemingway's undercover intelligence organization as of April 1, 1943, without consulting the FBI. A complete report on its activities is being prepared.",
+     "nodes": []
+    },
+    {
+     "node_id": "0007",
+     "title": "Ladd memorandum for the Director, December 17, 1942",
+     "start_page": 13,
+     "end_page": 14,
+     "summary": "Based on an SIS #396 memo of December 8, 1942: Hemingway, friendly with Consul Kenneth Potter, Joyce and Braden, runs operatives investigating all subjects including General Benitez, and has access to Embassy records and Bureau report contents. Duran is paid by the State Department. Proposes instructing the agent to raise this with Braden.",
+     "nodes": []
+    },
+    {
+     "node_id": "0008",
+     "title": "Hoover letter to Havana, December 17, 1942, and routing slip",
+     "start_page": 15,
+     "end_page": 16,
+     "summary": "Hoover tells SIS #396 to discuss Hemingway's activities diplomatically with Braden, stressing that no non-official should see Bureau information, and to point out his unreliability, citing his false report on submarine refuelling in Caribbean waters. Followed by a Director's office routing slip.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0009",
+   "title": "Summary memorandum on Ernest Hemingway, April 1943",
+   "start_page": 17,
+   "end_page": 33,
+   "summary": "D. M. Ladd's April 27, 1943 cover memo and a summary of FBI file information on Hemingway: background, support for Loyalist Spain, possible Communist links, writers' groups, a 1942 Mexico trip and other items.",
+   "nodes": [
+    {
+     "node_id": "0010",
+     "title": "Ladd cover memorandum, April 27, 1943",
+     "start_page": 17,
+     "end_page": 18,
+     "summary": "Ladd sends Hoover a summary of file information. Hemingway backed Communist-front groups aiding Loyalist Spain but nothing ties him to the Party; his views are \"liberal\". His \"amateur information service\" for Braden produced data almost without fail valueless, ended April 1, 1943; he now reportedly runs a secret naval operation. The Bureau never investigated him.",
+     "nodes": []
+    },
+    {
+     "node_id": "0011",
+     "title": "Table of contents",
+     "start_page": 19,
+     "end_page": 19,
+     "summary": "Contents of the summary: A. Personal history and background; B. Activities on behalf of Loyalist Spain, with eleven organizations; C. Possible connections with Communist Party; D. Miscellaneous activities, including writers' groups and a Mexican trip; E. General information.",
+     "nodes": []
+    },
+    {
+     "node_id": "0012",
+     "title": "Personal history and background",
+     "start_page": 20,
+     "end_page": 21,
+     "summary": "Born in Oak Park, Illinois; ambulance driver with the Italian Army in the World War; his books listed. Married Pauline Pfeiffer in 1927, sons Patrick and Gregory; an unsupported 1942 report called her pro-Nazi. Now married to Martha Gellhorn and living on a farm near Havana; brother Leicester works in Washington.",
+     "nodes": []
+    },
+    {
+     "node_id": "0013",
+     "title": "Activities on behalf of Loyalist Spain",
+     "start_page": 22,
+     "end_page": 29,
+     "summary": "Press items on Hemingway's Spanish Civil War role: ambulances bought for the Loyalists, Dies Committee testimony, the 1939 arms-embargo appeal, a memorial speech for the Abraham Lincoln Brigade, and sponsorship of the American Rescue Ship Mission, Joint Anti-Fascist Refugee Committee, Medical Bureau to Aid Spanish Democracy and other aid committees.",
+     "nodes": []
+    },
+    {
+     "node_id": "0014",
+     "title": "Possible connections with Communist Party",
+     "start_page": 29,
+     "end_page": 30,
+     "summary": "Informant reports list Hemingway as a writer for New Masses and the Daily Worker, a Deutsches Volksecho contributor, a head of the Committee for Medical Aid to the Soviet Union, a reference for Alfred Kantorowicz and an American Russian Cultural Association adviser. One informant said he had broken all ties with the Communists.",
+     "nodes": []
+    },
+    {
+     "node_id": "0015",
+     "title": "Miscellaneous activities",
+     "start_page": 31,
+     "end_page": 33,
+     "summary": "Hemingway co-chaired sponsors of the American Committee for the Protection of Foreign Born, spoke at the 1937 American Writers Congress, later left it, and was a League of American Writers officer. A March 1942 informant placed him in Mexico City under an assumed name, spending time with German Communist author Gustav Regler.",
+     "nodes": []
+    },
+    {
+     "node_id": "0016",
+     "title": "General information",
+     "start_page": 33,
+     "end_page": 33,
+     "summary": "An anti-war Esquire article by Hemingway was reprinted in an American Youth Congress pamphlet whose distributor was arrested in Seattle in 1935. He sat on the Films for Democracy advisory board in 1939, and he and his wife tried to contact French Ambassador Gaston Henri-Haye.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0017",
+   "title": "Havana reports, June 1943",
+   "start_page": 34,
+   "end_page": 39,
+   "summary": "Two Legal Attaché letters from Havana on a Communist newspaper attack on Hemingway, his continuing naval patrols and Duran's role, followed by a \"not used\" placeholder sheet.",
+   "nodes": [
+    {
+     "node_id": "0018",
+     "title": "Legal attaché letter on the Hoy attack, June 1, 1943",
+     "start_page": 34,
+     "end_page": 35,
+     "summary": "Havana's Communist daily Hoy of April 25, 1943 ran Raul Gonzalez Tunon's \"The Last Position of the Traitor Hemingway\", calling For Whom the Bell Tolls slanderous. Hemingway was so upset it \"made him so sick he couldn't eat\". Basque Republicans think him \"too extreme\" and anti-Catholic. Informant names are redacted.",
+     "nodes": []
+    },
+    {
+     "node_id": "0019",
+     "title": "Legal attaché letter on intelligence activities in Cuba, June 26, 1943",
+     "start_page": 36,
+     "end_page": 38,
+     "summary": "Reports the Hoy attack; Hemingway's submarine and radio patrol off northern Cuba for Naval Attaché Hayne Boyden; memoranda still reaching Gustavo Duran and 122 gallons of Embassy gasoline charged to Hemingway in April 1943; Martha Gellhorn's Martinique book research; and his hosting of Treasury Secretary Morgenthau at the finca in March.",
+     "nodes": []
+    },
+    {
+     "node_id": "0020",
+     "title": "\"Not used\" sheet",
+     "start_page": 39,
+     "end_page": 39,
+     "summary": "A placeholder sheet marked \"Not used\" with the declassification stamp.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0021",
+   "title": "Memorandum for Mr. Ladd on Hemingway's intelligence activities, June 13, 1943",
+   "start_page": 40,
+   "end_page": 49,
+   "summary": "Legal Attaché R. G. Leddy's full account of Hemingway's Havana intelligence organization, the reports the FBI checked and found false, its end on April 1, 1943, and Hemingway's hostility to the FBI, with Edward Tamm's sharp addendum.",
+   "nodes": [
+    {
+     "node_id": "0022",
+     "title": "Background and the informant network",
+     "start_page": 40,
+     "end_page": 42,
+     "summary": "Hemingway met Braden in August 1942 and volunteered for intelligence work against the Spanish Falange. Reports from September 1942 were vague denunciations. His Spanish refugee network grew to 26 informants in Havana, Matanzas, Camaguey and Santiago, costing nearly $1,000 a month in Embassy funds. Six cases checked with the Cuban police all proved erroneous.",
+     "nodes": []
+    },
+    {
+     "node_id": "0023",
+     "title": "Duran's arrival and reports checked",
+     "start_page": 42,
+     "end_page": 45,
+     "summary": "Hemingway called Duran a genius \"like Napoleon\"; Duran arrived in November 1942 and wrote \"Voice of the Street\" reports. Hemingway's claims on oxygen for submarines, a coup by General Benitez, interned Prince Ruspoli, a submarine contacting the Marques de Comillas on December 9, 1942, and a box holding only a life of St. Teresa came to nothing.",
+     "nodes": []
+    },
+    {
+     "node_id": "0024",
+     "title": "End of the network, Hemingway's standing and Tamm's addendum",
+     "start_page": 46,
+     "end_page": 49,
+     "summary": "Hemingway passed Braden charges that agent Knoblaugh was a Franco propagandist; he calls the FBI an \"American Gestapo\". The network ended April 1, 1943, but Duran's reports continue. Leddy urges avoiding an incident with Hemingway. Tamm's June 21 addendum disagrees, calling Hemingway \"the phoney that he is\" whom the Bureau need not shield.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0025",
+   "title": "Carson memorandum for Mr. Ladd on Leddy's report",
+   "start_page": 50,
+   "end_page": 51,
+   "summary": "C. H. Carson argues the June 13 memorandum misstates Leddy's views. Leddy never avoided challenging Hemingway, told Braden and Joyce the true facts, faced down the Knoblaugh charges, and only meant that unverified reports should not be dismissed outright. Leddy would tell anyone entitled to know that Hemingway's information was never substantiated.",
+   "nodes": []
+  },
+  {
+   "node_id": "0026",
+   "title": "Gustavo Duran inquiry and the planned book, August 1943",
+   "start_page": 52,
+   "end_page": 68,
+   "summary": "Havana reports that Hemingway plans a book on his intelligence work, a Legal Attaché letter and long memorandum on Gustavo Duran's alleged Communist past, and Bureau follow-up on the book.",
+   "nodes": [
+    {
+     "node_id": "0027",
+     "title": "Legal attaché letter on Hemingway's planned book",
+     "start_page": 52,
+     "end_page": 52,
+     "summary": "R. G. Leddy reports that SIS #357 learned Hemingway is writing a book on his Cuban intelligence experiences, naming everyone involved including Ambassador Braden; FBI men will likely appear as dull, heavy-footed policemen. Hemingway calls the FBI a mediocre organization and claims he had an SIS agent removed from Cuba through his influence with Braden.",
+     "nodes": []
+    },
+    {
+     "node_id": "0028",
+     "title": "Legal attaché letter on Gustavo Duran",
+     "start_page": 53,
+     "end_page": 54,
+     "summary": "Encloses a memorandum suggesting Duran was an active Communist in Spain. Discreet inquiries support the allegation. Duran, now in the Auxiliary Foreign Service, sees every FBI report sent to the Embassy and could identify sources, though he has been cordial. Hemingway would likely attack violently if the report reached him; the Bureau's advice is requested.",
+     "nodes": []
+    },
+    {
+     "node_id": "0029",
+     "title": "Memorandum on Gustavo Duran, August 13, 1943",
+     "start_page": 55,
+     "end_page": 64,
+     "summary": "Havana memorandum on Duran, who came to Cuba on November 12, 1942 at Hemingway's urging: informant reports that he rose as a Communist officer in Spain, interviews with Spanish refugees and with Duran himself, and suggested ways to verify Party membership.",
+     "nodes": [
+      {
+       "node_id": "0030",
+       "title": "Duran's background and informant reports",
+       "start_page": 55,
+       "end_page": 57,
+       "summary": "Duran joined the Embassy in January 1943 and appears in For Whom the Bell Tolls. Informants describe him as a fervent Madrid Communist who rose to lieutenant colonel commanding an army corps at Valencia, led troops against the Junta in Madrid in 1939, and fled on a British destroyer. Communists boast of a trusted source inside the Embassy.",
+       "nodes": []
+      },
+      {
+       "node_id": "0031",
+       "title": "Inquiries through Dr. Juan Chabas and other sources",
+       "start_page": 57,
+       "end_page": 61,
+       "summary": "Dr. Juan Chabas, a 75-year-old former Madrid juvenile judge, said Duran joined the Communists after the war began. An informant of SIS #360 confirmed Party membership and said Duran paid refugees $80-90 a month for information. Another source said his rapid rise came from Communist favor. Several source names are redacted.",
+       "nodes": []
+      },
+      {
+       "node_id": "0032",
+       "title": "Interview with Duran and conclusions",
+       "start_page": 61,
+       "end_page": 64,
+       "summary": "SIS #498 spoke with Duran on July 30, 1943: he said many Spaniards joined the Party only for Russian aid, never returned to Madrid after June 1938, and escaped Valencia on a British destroyer and hospital ship. Three sources call him a Communist. Suggested checks: Colonel Casado in London, refugees in Mexico, Loyalist publications, Army records.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0033",
+     "title": "Legal attaché letter on the planned book, second copy",
+     "start_page": 65,
+     "end_page": 65,
+     "summary": "Second copy of the Legal Attaché letter, stamped August 27, 1943: SIS #357 reports Hemingway is writing a book on his Cuban intelligence work, likely portraying the FBI as unimaginative policemen, calls the FBI mediocre, and boasts he had an SIS agent removed from Cuba through Ambassador Braden.",
+     "nodes": []
+    },
+    {
+     "node_id": "0034",
+     "title": "Hoover letter on the planned book",
+     "start_page": 66,
+     "end_page": 66,
+     "summary": "Replying to a radiogram about Hemingway's proposed book on his Cuban intelligence experiences, Hoover instructs that undercover personnel at the Embassy stay alert for any sign that Hemingway plans to mention the Bureau in a publication. The letter is to be destroyed once it has served its purpose.",
+     "nodes": []
+    },
+    {
+     "node_id": "0035",
+     "title": "Memorandum for Mr. Ladd on Hemingway in Cuba",
+     "start_page": 67,
+     "end_page": 68,
+     "summary": "Summarizes the report that Hemingway is writing a book naming everyone he dealt with in Cuban intelligence, including Braden; recalls his 1940 petition and \"American Gestapo\" remark; notes he called the FBI a mediocre intelligence organization. No action is recommended.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0036",
+   "title": "Memorandum for the Director on Gustavo Duran, 1943",
+   "start_page": 69,
+   "end_page": 79,
+   "summary": "Bureau memorandum on Gustavo Duran, a naturalized Spanish-born Embassy employee in Havana reported to be a Communist, titled \"Possible Communist Party Infiltration into American Embassy, Havana, Cuba\", with his history, associates and recommendations.",
+   "nodes": [
+    {
+     "node_id": "0037",
+     "title": "Personal history, employment and military career",
+     "start_page": 69,
+     "end_page": 71,
+     "summary": "Duran, born in Barcelona, studied piano in Madrid and Paris and composed a ballet. He enlisted as a private in July 1936 and rose to command an army corps. He married Bonte Romilly-Crompton on December 4, 1939, entered the US in May 1940, was naturalized November 3, 1942, and worked for the Museum of Modern Art and Pan American Union.",
+     "nodes": []
+    },
+    {
+     "node_id": "0038",
+     "title": "Indications of political sympathies and activities",
+     "start_page": 71,
+     "end_page": 74,
+     "summary": "Luis Bunuel calls Duran anti-Franco and anti-Fascist. Informants say he joined the Communists when the Youth Socialist League merged with the Party in December 1936, corresponded with a pro-German suspect, and entertained Jessica Mitford. Havana sources repeat that he led troops against the Madrid Junta; Duran always called the Communists \"they\".",
+     "nodes": []
+    },
+    {
+     "node_id": "0039",
+     "title": "Associates and sponsors of Gustavo Duran",
+     "start_page": 74,
+     "end_page": 77,
+     "summary": "Reviews Duran's wife Bonte Crompton, whose name appeared in Detroit enlistment case papers; references George Kenneth Holland, Luis Bunuel and Charles Seeger, each linked to Communist-front groups; and Hemingway, who brought Duran to Cuba, ran the vague intelligence network with him and joined in the charges against agent Knoblaugh.",
+     "nodes": []
+    },
+    {
+     "node_id": "0040",
+     "title": "Present status, summary and recommendations",
+     "start_page": 77,
+     "end_page": 79,
+     "summary": "Duran remains in the Auxiliary Foreign Service writing \"Voice of the Street\" reports with informants at about $200 a month, and sees all FBI reports. Because of his ties to Braden and Hemingway no active inquiry was made. Recommends discreet further inquiry and a blind memorandum to Mr. Berle and the State Department.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0041",
+   "title": "Submarine patrols and the book rumour, 1943-1944",
+   "start_page": 80,
+   "end_page": 88,
+   "summary": "September 1943 exchanges on reports that Hemingway had left Cuba and was writing about his intelligence work, which turned out to be another submarine patrol, and a 1944 note that Hemingway admires the Bureau.",
+   "nodes": [
+    {
+     "node_id": "0042",
+     "title": "Radiogram to Havana on Hemingway's whereabouts",
+     "start_page": 80,
+     "end_page": 80,
+     "summary": "Urgent Bureau radiogram to Havana: news items in the United States say Hemingway has left Cuba. Asks for his whereabouts, itinerary, and any further information on his new book about his Cuban experiences and how far it mentions the Bureau.",
+     "nodes": []
+    },
+    {
+     "node_id": "0043",
+     "title": "Legal attaché letter on a lunch at the finca, September 1943",
+     "start_page": 81,
+     "end_page": 83,
+     "summary": "SIS #213 lunched with Hemingway at his finca on September 13, 1943. Martha Gellhorn is seeing publishers and will go to Europe for Collier's; Hemingway will patrol with Winston Guest, then visit New York. He scorns the For Whom the Bell Tolls film, says he will never write about his intelligence work, and calls refused Lincoln Brigade officer candidates Communists.",
+     "nodes": []
+    },
+    {
+     "node_id": "0044",
+     "title": "Radiogram from Havana, September 18, 1943, and routing slip",
+     "start_page": 84,
+     "end_page": 85,
+     "summary": "Leddy replies that Hemingway leaves September 19 on another two-month Caribbean submarine patrol, then a New York vacation; he is writing nothing, has three plots for post-war books and has not mentioned the proposed book again. The news item may be a cover planted by Hemingway. Followed by a routing slip.",
+     "nodes": []
+    },
+    {
+     "node_id": "0045",
+     "title": "Memorandum for the Director, September 20, 1943",
+     "start_page": 86,
+     "end_page": 87,
+     "summary": "Recaps the book report of August 13 and a Leonard Lyons column saying Hemingway left Cuba; he is in fact on naval patrol, enjoys Braden's full confidence and drew Embassy gasoline in April 1943, while Duran continues part of his program. Proposes telling Havana agents to watch for any plan to mention the Bureau in print.",
+     "nodes": []
+    },
+    {
+     "node_id": "0046",
+     "title": "Memorandum to Hoover, May 22, 1944",
+     "start_page": 88,
+     "end_page": 88,
+     "summary": "A note to Hoover reports that Hemingway is a great admirer of Hoover and the Bureau, found the agents he met in Havana of an unusually high type, and was amused that General Benitez, once a Hollywood \"Latin lover\" actor, held such power in Cuba.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0047",
+   "title": "Later records, 1949-1974",
+   "start_page": 89,
+   "end_page": 122,
+   "summary": "Postwar material: name checks for the Defense Department, 1954 Havana reports on a duel challenge and on Jacob Canter, a 1959 Embassy despatch, the 1961 Mayo Clinic airtel, Quentin Reynolds's 1964 letter, a 1974 records request and newspaper clippings.",
+   "nodes": [
+    {
+     "node_id": "0048",
+     "title": "Defense Department name check, August 30, 1949",
+     "start_page": 89,
+     "end_page": 92,
+     "summary": "A blind memorandum for the Office of the Secretary of Defense lists Hemingway's links to the Abraham Lincoln Brigade and other groups cited by the Attorney General. V. P. Keay's memo to Mr. Fletcher recommends withholding the Havana intelligence material and unlisted groups. An informant says he called himself anti-Communist in 1942-1943.",
+     "nodes": []
+    },
+    {
+     "node_id": "0049",
+     "title": "Clipping: \"Hemingway helped spy, saboteur hunt\"",
+     "start_page": 93,
+     "end_page": 93,
+     "summary": "A news story datelined New York, December 22, reports that Spruille Braden, former Assistant Secretary of State, said that as Ambassador to Cuba during World War II he asked Hemingway to set up an undercover \"crime shop\" to track spies and saboteurs helping sink Allied shipping in the Caribbean.",
+     "nodes": []
+    },
+    {
+     "node_id": "0050",
+     "title": "Ted Scott's duel challenge, Havana, 1954",
+     "start_page": 94,
+     "end_page": 98,
+     "summary": "Havana Legal Attaché reports on Edward \"Ted\" Scott, Havana Post columnist, who had written about a spat with Mary Hemingway and about Ava Gardner, and then challenged Hemingway, back from two African plane crashes, to a duel. Hemingway declined, citing ill health and \"a lot of writing to do\". Two pages are almost fully redacted.",
+     "nodes": []
+    },
+    {
+     "node_id": "0051",
+     "title": "Memoranda on Jacob Canter, 1954",
+     "start_page": 99,
+     "end_page": 102,
+     "summary": "A September 9, 1954 memo answers Hoover's query about Dr. Jacob Canter, former cultural attaché in Havana now with USIA. An informant said Canter was upset when Josephine Baker lost her Montmartre club booking; Braden testified about this to a Senate subcommittee; another alleged he wrecked USIA radio in Cuba. Copies went to Sherman Adams.",
+     "nodes": []
+    },
+    {
+     "node_id": "0052",
+     "title": "Name check response, July 20, 1955, and search slips",
+     "start_page": 103,
+     "end_page": 107,
+     "summary": "FBI file-check reply on Hemingway, born July 21, 1899 in Oak Park: his links to the Abraham Lincoln Brigade, American Committee for Protection of Foreign Born, American Rescue Ship Mission and League of American Writers, all cited under Executive Order 10450, and his 1943 remarks on Communist officer candidates. Not a clearance. Records Section search slips follow.",
+     "nodes": []
+    },
+    {
+     "node_id": "0053",
+     "title": "Embassy despatch on Hemingway's return to Cuba, November 6, 1959",
+     "start_page": 108,
+     "end_page": 109,
+     "summary": "Embassy Havana reports that Hemingway, back from Spain on November 3, 1959, told Prensa Latina he fully supported the Revolutionary Government, disbelieved foreign reports against Cuba, hoped Cubans saw him as another Cuban, and kissed a Cuban flag. Followed by a search slip.",
+     "nodes": []
+    },
+    {
+     "node_id": "0054",
+     "title": "Minneapolis airtel on Hemingway at the Mayo Clinic, January 13, 1961",
+     "start_page": 110,
+     "end_page": 110,
+     "summary": "SAC Minneapolis tells Hoover that Hemingway, seriously ill physically and mentally, has been at the Mayo Clinic for weeks and doctors considered electroshock therapy. Registered under the alias George Saviers, he worried about an FBI investigation. A Mayo Clinic contact, name redacted, was told he could say the FBI was not concerned.",
+     "nodes": []
+    },
+    {
+     "node_id": "0055",
+     "title": "Quentin Reynolds correspondence, January 1964",
+     "start_page": 111,
+     "end_page": 115,
+     "summary": "Quentin Reynolds writes Hoover on January 6, 1964 that Mary Hemingway fears a Cuban commemorative stamp envelope will make Ernest look pro-Castro; he was non-political and met Castro once. Hoover replies January 8 and returns the envelope. Includes a stamped sheet and a blank page.",
+     "nodes": []
+    },
+    {
+     "node_id": "0056",
+     "title": "University of Florida request, January 1974",
+     "start_page": 116,
+     "end_page": 118,
+     "summary": "A University of Florida librarian asks about Bertolt Brecht files and FBI material on Elizabeth Bentley, Whittaker Chambers, Hemingway and John Dos Passos. Director Clarence Kelley replies that the four files are voluminous and processing would cost about $16,200, with a deposit required; Hemingway's main file is 64-23312.",
+     "nodes": []
+    },
+    {
+     "node_id": "0057",
+     "title": "Editorial: \"Hemingway's suit\", 1958",
+     "start_page": 119,
+     "end_page": 119,
+     "summary": "A newspaper editorial filed in August 1958 on Hemingway's suit to stop Esquire republishing his Spanish Civil War stories, quoting his lawyer's brief on changing attitudes to Russia, and arguing he cannot stop others publishing everything he wrote.",
+     "nodes": []
+    },
+    {
+     "node_id": "0058",
+     "title": "Westbrook Pegler column, July 1961",
+     "start_page": 120,
+     "end_page": 121,
+     "summary": "Westbrook Pegler's column \"He Was Never a Hemingway Fan\" calls Hemingway one of the worst writers of his time, his style ugly and confusing, his fame the work of sycophantic reviewers, and him a bully obsessed with boxing.",
+     "nodes": []
+    },
+    {
+     "node_id": "0059",
+     "title": "Clipping on a Hemingway television documentary, 1974",
+     "start_page": 122,
+     "end_page": 122,
+     "summary": "A September 1974 clipping on a television documentary about Hemingway due to be completed in 1975, with filming in Idaho and other places he lived, Mary Hemingway helping the project, and Marlene Dietrich among those to appear.",
+     "nodes": []
+    }
+   ]
+  }
+ ]
+}

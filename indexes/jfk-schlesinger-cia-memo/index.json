@@ -1,0 +1,135 @@
+{
+ "id": "jfk-schlesinger-cia-memo",
+ "title": "Schlesinger CIA Reorganization Memo",
+ "source": {
+  "url": "https://www.archives.gov/research/jfk/release-2025",
+  "publisher": "White House",
+  "date": "1961-06-30",
+  "pages": 16,
+  "released": "2025-03-18",
+  "file": "https://www.archives.gov/files/research/jfk/releases/2025/0318/176-10030-10422.pdf",
+  "sha256": "c98a872a82738ae96813219dd4307cbf1558234d0f44edee9d22ca9780236df4",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "jfk",
+ "summary": "Kennedy aide Arthur Schlesinger Jr.'s memo after the Bay of Pigs proposing to split the CIA into an operations agency and a research agency, with clandestine work cleared by the State Department. The March 2025 release removed the last redactions, which show the CIA had nearly as many people under official cover abroad as the State Department.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/jfk/jfk-schlesinger-cia-memo/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "JFK Assassination System identification form",
+   "start_page": 1,
+   "end_page": 1,
+   "summary": "NARA record 176-10030-10422, Sorensen Papers, released in 2025 under the JFK Records Act. Memo from Arthur Schlesinger Jr. to President Kennedy titled \"Memo to President CIA Reorganization\", dated 6/30/1961, 15 pages, subject CIA. Filed in Sorensen Papers, Classified Subject Files 1961-64, Box 47, Document 1a; last reviewed 8/21/1998.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "Memorandum for the President: CIA reorganization",
+   "start_page": 2,
+   "end_page": 16,
+   "summary": "Secret memo of June 30, 1961 from Arthur Schlesinger Jr. arguing that CIA's troubles stem from its autonomy, a missing doctrine for secret work in an open society, and weak links between operations, policy and intelligence. He proposes State Department clearance of all clandestine activity and splitting CIA into an operations agency and a research agency.",
+   "nodes": [
+    {
+     "node_id": "0002",
+     "title": "Introduction",
+     "start_page": 2,
+     "end_page": 3,
+     "summary": "Writing as a former OSS officer and CIA consultant, Schlesinger judges CIA's record probably very good but says it has used up its quota of visible errors; one more debacle would shake faith in US policy. A footnote faults CIA's taste for favorable publicity after Guatemala and Iran. He traces the trouble to CIA's autonomy and three causes.",
+     "nodes": []
+    },
+    {
+     "node_id": "0003",
+     "title": "I. CIA autonomy",
+     "start_page": 3,
+     "end_page": 4,
+     "summary": "CIA runs clandestine collection, covert political operations and paramilitary activities with relative autonomy for historical reasons: State declined to control it, the Dulles brothers led State and CIA after 1953, and CIA attracted able staff in the fifties. It now has its own political desks, foreign service, combat forces and air force, much like a state within a state.",
+     "nodes": []
+    },
+    {
+     "node_id": "0004",
+     "title": "II. Doctrine",
+     "start_page": 4,
+     "end_page": 5,
+     "summary": "No doctrine governs clandestine operations. Secret activity is permissible only so long as it does not corrupt the principles of an open society. Espionage is a small problem, covert political operations harder, and paramilitary work hardest. Operations that depend on suppressing news, lying to Congress and deceiving voters should be undertaken only in a grave crisis.",
+     "nodes": []
+    },
+    {
+     "node_id": "0005",
+     "title": "III. Operations and policy",
+     "start_page": 6,
+     "end_page": 13,
+     "summary": "CIA operations have not been held subordinate to US foreign policy. The section covers clandestine collection, covert political operations, official cover for CIA staff (CAS) and paramilitary warfare, then proposes British-style policy control, with State clearing all clandestine activity.",
+     "nodes": [
+      {
+       "node_id": "0006",
+       "title": "1. Clandestine intelligence collection",
+       "start_page": 6,
+       "end_page": 6,
+       "summary": "Collection is free from State Department control by charter, which embarrasses US policy when agents are caught recruiting in friendly countries. Examples: a failed attempt to recruit a Singapore Special Branch officer that turned into a trap, and troubles in Pakistan and Japan. Such operations should be cleared with State and, normally, the local ambassador.",
+       "nodes": []
+      },
+      {
+       "node_id": "0007",
+       "title": "2. Covert political operations",
+       "start_page": 7,
+       "end_page": 8,
+       "summary": "State's clearance has become almost a rubber stamp. Contingency planning creates vested interests that turn plans into necessities, as with the Cuban force in Guatemala. A footnote cites Operation 40 and the detention of Dr. Rodolfo Nodal Tarafa. Tom Mann's remark on Cuba is quoted; Indonesia shows CIA making policy. State must be told earlier.",
+       "nodes": []
+      },
+      {
+       "node_id": "0008",
+       "title": "3. The Controlled American Source (CAS)",
+       "start_page": 8,
+       "end_page": 10,
+       "summary": "CIA has nearly as many people under official cover abroad as State, 3,700 against 3,900, about 1,500 under State cover. CAS staff are 16 of 20 in Vienna's political section and 11 of 13 in Chile; 128 CIA people work in the Paris embassy. He urges ambassadors' control of CAS stations and a steady cut in CAS personnel.",
+       "nodes": []
+      },
+      {
+       "node_id": "0009",
+       "title": "4. Paramilitary warfare",
+       "start_page": 10,
+       "end_page": 11,
+       "summary": "Paramilitary warfare is not a technical matter for Defense but depends on politics: it is large and attributable, failure is costly, as the Algerian and tractors-for-prisoners episodes showed. Guerrillas were beaten only in Greece, the Philippines and Malaya, citing Marshall, Templer and Mao. It should stay in a reconstituted CIA under close political oversight.",
+       "nodes": []
+      },
+      {
+       "node_id": "0010",
+       "title": "5. How to establish policy control?",
+       "start_page": 12,
+       "end_page": 13,
+       "summary": "Britain keeps its Secret Intelligence Service (MI-6) under strict Foreign Office control: the Joint Intelligence Committee has a Foreign Office chairman, the Information Research Department issues political warfare directives, desks clear covert action, and Foreign Office officers serve inside SIS. State could adopt these devices if it overcomes its habits of diffusion, negativism and delay.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0011",
+     "title": "IV. Operations and intelligence",
+     "start_page": 13,
+     "end_page": 15,
+     "summary": "Intelligence means clandestine collection plus research and estimates. CIA controls national estimates, unlike Britain's Foreign Office. In the Cuban operation CIA's intelligence branch and the Office of National Estimates were never consulted. He proposes an independent research and estimates subagency merging CIA's DDI and State's Intelligence and Research, plus a Joint Intelligence Board.",
+     "nodes": []
+    },
+    {
+     "node_id": "0012",
+     "title": "V. Conclusion",
+     "start_page": 15,
+     "end_page": 16,
+     "summary": "The plan implies a drastic overhaul of intelligence, and of State if it cannot take command. State would get clearance authority through a Deputy Under Secretary for Intelligence chairing a Joint Intelligence Board; CIA's operations would become a \"National Information Service\" and its analysis a \"Foreign Research Agency\". Signed Arthur Schlesinger Jr., copied to the Attorney General, Bundy and Dungan.",
+     "nodes": []
+    }
+   ]
+  }
+ ]
+}

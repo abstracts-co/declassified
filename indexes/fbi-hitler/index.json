@@ -1,0 +1,509 @@
+{
+ "id": "fbi-hitler",
+ "title": "Adolf Hitler's FBI File",
+ "source": {
+  "url": "https://vault.fbi.gov/adolf-hitler",
+  "publisher": "FBI",
+  "date": "1945",
+  "pages": 203,
+  "released": "1998-06-03",
+  "file": "https://web.archive.org/web/20250206053641id_/https://vault.fbi.gov/adolf-hitler/Adolf%20Hitler%20Part%2001/at_download/file",
+  "sha256": "a1d9030fe5afb29e6f2fd9612cfcaa0c92d9bc0bd09ef56de74ac86035186e60",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "fbi",
+ "summary": "Part 1 of the FBI's file on Adolf Hitler, mostly 1945 to 1948 tips that he had survived the war, such as a Los Angeles informant's story that Hitler landed in Argentina by submarine. The FBI followed up some of the reports; none was confirmed.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/fbi/fbi-hitler/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Tips and letters, 1945",
+   "start_page": 1,
+   "end_page": 34,
+   "summary": "The file's first tips after the war: a Los Angeles report of Hitler landing by submarine in Argentina, letters placing him in New York, Switzerland, New Mexico and Argentina, an OSS report on a La Falda hotel, a Montevideo report on a sensational journalist, and Hoover's replies, September to December 1945.",
+   "nodes": [
+    {
+     "node_id": "0001",
+     "title": "Los Angeles report: Hitler landed by submarine in Argentina",
+     "start_page": 1,
+     "end_page": 3,
+     "summary": "Los Angeles report of September 21, 1945. A man met at the Melody Lane Restaurant in Hollywood said he was one of four men who met Hitler's party landing from two submarines in Argentina and took them inland to the southern Andes, paid $15,000. Police and INS checks were negative; the man could not be found.",
+     "nodes": []
+    },
+    {
+     "node_id": "0002",
+     "title": "Letters placing Hitler in New York and in German Switzerland",
+     "start_page": 4,
+     "end_page": 7,
+     "summary": "A handwritten letter bets 'a dollar to a doughnut' that Hitler is in New York City. On November 6, 1945 Hoover forwards a letter of October 24 to Army G-2 and thanks its writer. A typed letter argues that Hitler and Eva Braun are alive and hiding on a farm in German-speaking Switzerland.",
+     "nodes": []
+    },
+    {
+     "node_id": "0003",
+     "title": "Magazine Digest clipping on Hitler in Argentina",
+     "start_page": 8,
+     "end_page": 10,
+     "summary": "Hoover thanks a correspondent for an October 22, 1945 letter enclosing a November 1945 Magazine Digest clipping on Hitler possibly being in Argentina. On October 26 he sends the clipping to Buenos Aires, suggesting its author be questioned for supporting facts.",
+     "nodes": []
+    },
+    {
+     "node_id": "0004",
+     "title": "Letters on a New Mexico ranch and an Argentine underground hideout",
+     "start_page": 11,
+     "end_page": 13,
+     "summary": "A Buffalo, New York writer says a trance medium told him Hitler is on a ranch in New Mexico, brought by Japanese submarine. Hoover answers a November 3, 1945 letter claiming Hitler lives beneath a vast hacienda in Argentina with two doubles, behind a wall worked by photo-electric cells.",
+     "nodes": []
+    },
+    {
+     "node_id": "0005",
+     "title": "Sighting on New York's Third Avenue El",
+     "start_page": 14,
+     "end_page": 16,
+     "summary": "On November 15, 1945 Hoover sends the New York office a letter and answers its writer. The letter says the writer's mother saw Hitler in workman's clothes board the Third Avenue elevated train at Houston Street and the Bowery on November 5.",
+     "nodes": []
+    },
+    {
+     "node_id": "0006",
+     "title": "Letters on a photo book, Inspector Drew and Argentina",
+     "start_page": 17,
+     "end_page": 21,
+     "summary": "A November 13, 1945 letter offers a German book of about 300 photographs of Hitler and his colleagues. Hoover says he has no news of Inspector Drew of Scotland Yard. A correspondent insists Argentina is still the place to look, or a monastery in Tibet, and encloses a clipping quoting Otto Abetz that Hitler is 'certainly not dead.'",
+     "nodes": []
+    },
+    {
+     "node_id": "0007",
+     "title": "Argentina reports and look-alike tips, November 1945",
+     "start_page": 22,
+     "end_page": 26,
+     "summary": "Hoover tells Buenos Aires of an October 23 Strategic Services Unit report: Mrs. Eichhorn of La Falda's largest spa hotel funded Goebbels and kept a refuge ready for Hitler. Tips cite a Life photo and a book showing Hitler's hands. Montevideo's legal attache calls the Chicago Times source unreliable and drops the matter.",
+     "nodes": []
+    },
+    {
+     "node_id": "0008",
+     "title": "Letter enclosing Fact article 'The Nazis are winning in the Argentine'",
+     "start_page": 27,
+     "end_page": 34,
+     "summary": "Hoover answers a December 16, 1945 letter whose writer still believes Hitler found refuge in Argentina and encloses a Fact magazine article by Johannes Steel on the Peron regime, Nazi economic spearheads and war criminals sheltered in Argentina. An unrelated article on diabetes and a diction test share the clipped pages.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0009",
+   "title": "Letters and clippings, early 1946",
+   "start_page": 35,
+   "end_page": 49,
+   "summary": "Tips from January to March 1946: Hitler on an island, his bloodstained trousers, an escape by submarine with scientists, a look-alike in a news photo, letters claiming he is in Argentina, a news article on the mystery, and a report that a soldier took Hitler's papers from the Reich Chancellery.",
+   "nodes": [
+    {
+     "node_id": "0010",
+     "title": "Island letter and 'Hitler mystery deepens' clipping",
+     "start_page": 35,
+     "end_page": 37,
+     "summary": "A handwritten letter, recorded January 8, 1946, urges the FBI to look for Hitler on an island whose redacted owner built it for people coming from Germany. John F. Sembower's article 'Hitler mystery deepens as other Nazi leaders make pleas to live' surveys rumors of escapes by submarine and the search for his remains.",
+     "nodes": []
+    },
+    {
+     "node_id": "0011",
+     "title": "Letters on Hitler's bloodstained trousers and a submarine escape",
+     "start_page": 38,
+     "end_page": 41,
+     "summary": "Hoover's January 17 and 22, 1946 replies point writers to the Los Angeles office. One letter suggests comparing blood on the trousers Hitler wore during the bomb attempt with any remains found. Another says Hitler and his scientists went by submarine to South America and work there on new inventions.",
+     "nodes": []
+    },
+    {
+     "node_id": "0012",
+     "title": "Photo of a Hitler look-alike in U.S. News",
+     "start_page": 42,
+     "end_page": 45,
+     "summary": "Hoover's February 5, 1946 reply acknowledges a January 25 letter enclosing a U.S. News picture in which a man behind a post resembles Hitler. The clipping covers an Argentine businessmen's strike against Colonel Peron's wage order; its back carries a Hearst newspapers advertisement.",
+     "nodes": []
+    },
+    {
+     "node_id": "0013",
+     "title": "Memo on Hitler papers taken from the Reich Chancellery",
+     "start_page": 46,
+     "end_page": 46,
+     "summary": "February 1, 1946 memo, Carson to Ladd. A former Bureau clerk reports that an Army acquaintance at Oxford said he took 25 packages of Hitler's personal letters and papers from a safe in the Reich Chancellery and mailed them home. A check is recommended, as the papers might help war crimes trials.",
+     "nodes": []
+    },
+    {
+     "node_id": "0014",
+     "title": "Letter: Hitler alive in Argentina",
+     "start_page": 47,
+     "end_page": 49,
+     "summary": "A handwritten letter, recorded February 20, 1946, says Hitler is alive and in Argentina, with its envelope postmarked February 15, 1946.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0015",
+   "title": "Testing Hitler's marriage certificate and wills, 1946",
+   "start_page": 50,
+   "end_page": 66,
+   "summary": "At the Army's request the FBI Laboratory examined the captured originals of Hitler's marriage certificate, private will and political testament before they went to President Truman, and found them genuine. The section also holds a translated diary of Hitler's medical treatment from late 1944.",
+   "nodes": [
+    {
+     "node_id": "0016",
+     "title": "Memos requesting the signature examination",
+     "start_page": 50,
+     "end_page": 52,
+     "summary": "March 6, 1946: Military Intelligence asks the Bureau, for General Vandenberg and the Chief of Staff, to compare signatures in a bound copy of Hitler's marriage certificate, private will and political testament with captured documents, and to keep it secret. A March 13 memo sends the report and advises on preserving the mounted originals.",
+     "nodes": []
+    },
+    {
+     "node_id": "0017",
+     "title": "FBI Laboratory report on the documents",
+     "start_page": 53,
+     "end_page": 55,
+     "summary": "March 13, 1946 report to Army G-2. The Hitler, Bormann and Burgdorf signatures match known captured specimens; those of Eva Hitler, Krebs, von Below and Goebbels look genuine but lacked standards. Registrar Walter Wagner filled in most of the typed marriage form, and its improvised preparation is judged evidence of genuineness.",
+     "nodes": []
+    },
+    {
+     "node_id": "0018",
+     "title": "'Daily treatment of Adolf': physician's diary, November-December 1944",
+     "start_page": 56,
+     "end_page": 64,
+     "summary": "Translated diary of Hitler's physician from November 14 to December 30, 1944: injections, blood tests, throat treatment by von Eicken, jaundice, trembling of the arm, sleep and moods, stays at the Wolfsschanze, Berlin and the Adlerhorst, conferences with generals, and the western offensive.",
+     "nodes": []
+    },
+    {
+     "node_id": "0019",
+     "title": "Follow-up memos on the examination",
+     "start_page": 65,
+     "end_page": 66,
+     "summary": "March 25, 1946: the Military Intelligence colonel praised the Laboratory's work and will recommend that its report accompany the originals given to the President. March 27: three sets of photographs of the documents are kept for the file, training and exhibits.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0020",
+   "title": "Tips, mid-1946 to spring 1947",
+   "start_page": 67,
+   "end_page": 92,
+   "summary": "Letters and field reports from May 1946 to May 1947: sightings in Charlottesville and Washington, papers found in a Lancaster parking lot, SS prisoners said to await Hitler, rumors of Hitler in Spain and Argentina, and tips sent on to London and the Canadian Mounties.",
+   "nodes": [
+    {
+     "node_id": "0021",
+     "title": "Reply and handwritten letter, May 1946",
+     "start_page": 67,
+     "end_page": 69,
+     "summary": "Hoover acknowledges an undated letter postmarked May 29, 1946 and files it. The handwritten letter that follows writes about Hitler and the search for his hide-outs.",
+     "nodes": []
+    },
+    {
+     "node_id": "0022",
+     "title": "Clipping on SS prisoners awaiting Hitler",
+     "start_page": 70,
+     "end_page": 72,
+     "summary": "Hoover's July 23, 1946 reply acknowledges a July 16 letter enclosing a Springfield, Massachusetts Daily News clipping of July 15, 1946: a German informant says SS men in prisoner camps believe Hitler is hiding and plan werewolf resistance after release.",
+     "nodes": []
+    },
+    {
+     "node_id": "0023",
+     "title": "Charlottesville sighting at the Hotel Charlotte",
+     "start_page": 73,
+     "end_page": 77,
+     "summary": "A Culpeper, Virginia woman writes that while between trains in Charlottesville she saw a man she was sure was Hitler at breakfast in the Hotel Charlotte, who watched her constantly. The Richmond office acknowledges her July 18, 1946 letter and on July 25 forwards it to the Director.",
+     "nodes": []
+    },
+    {
+     "node_id": "0024",
+     "title": "Lancaster parking-lot papers about Hitler in Argentina",
+     "start_page": 78,
+     "end_page": 79,
+     "summary": "July 31, 1946 Philadelphia report on papers found in a Lancaster, Pennsylvania parking lot: a letter saying Hitler would address a 200-member secret society in Argentina on August 19, 1946, a map of a route to Argentina signed 'Fritz' and an 'Iron Cross' notebook. Possibly a prank; names were searched.",
+     "nodes": []
+    },
+    {
+     "node_id": "0025",
+     "title": "Winchell letter and anonymous note on Hitler in Spain",
+     "start_page": 80,
+     "end_page": 82,
+     "summary": "October 5, 1946 letter to Walter Winchell: in August the writer shared a lunch table in Washington with a nervous man who looked like Hitler, and believes Hitler is in Washington. A typed anonymous note, mailed from Los Angeles on October 22, says Hitler is in Spain under a Doctor Stanker's care.",
+     "nodes": []
+    },
+    {
+     "node_id": "0026",
+     "title": "Ship guard's letter to Truman sent to London",
+     "start_page": 83,
+     "end_page": 84,
+     "summary": "October 1946 memo: a September 27, 1946 letter to President Truman's secretary from a dock ship guard, once butler to De Valera, gives information about Hitler. The Bureau sends it to the legal attache in London and takes no further action.",
+     "nodes": []
+    },
+    {
+     "node_id": "0027",
+     "title": "Smithville, Ontario letter referred to the Mounties",
+     "start_page": 85,
+     "end_page": 87,
+     "summary": "On February 11, 1947 Hoover forwards to the Royal Canadian Mounted Police a January 27 letter from Smithville, Ontario, whose writer heard an actress say Hitler is alive, asks how to identify him despite plastic surgery, and wants to know of any reward.",
+     "nodes": []
+    },
+    {
+     "node_id": "0028",
+     "title": "Letters on a submarine near Buenos Aires and the Texas City blast",
+     "start_page": 88,
+     "end_page": 92,
+     "summary": "Hoover answers an April 25, 1947 letter from Caracas reporting Buenos Aires rumors that Hitler keeps a big submarine near an island. An 'American Citizen' writes that Hitler slipped ashore near Portland, Maine from a surrendered submarine and may be behind recent explosions, enclosing a Texas City clipping 'Texas explosion resembles Bikini blast.'",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0029",
+   "title": "Casino report, hoax letter and other 1947 files",
+   "start_page": 93,
+   "end_page": 121,
+   "summary": "1947 files: an informant's account of seeing Eva Braun and a Hitler look-alike at Casino, Brazil, checked through Rio de Janeiro and Martinique; a Tennessee farm-buyer tip; a San Francisco hoax letter; and a London report denying that Dr. Morell poisoned Hitler.",
+   "nodes": [
+    {
+     "node_id": "0030",
+     "title": "Los Angeles report: Hitler and Eva Braun at Casino, Brazil",
+     "start_page": 93,
+     "end_page": 105,
+     "summary": "June 5, 1947 report: a former French officer who brought ballet performers to the Grande Hotel in Casino, a German enclave near Rio Grande, Brazil, in March 1947 says he saw a woman he believed was Eva Braun and a man he took for Hitler, and was told to leave. On July 9 the Bureau asks Rio to check.",
+     "nodes": []
+    },
+    {
+     "node_id": "0031",
+     "title": "Elizabethton farm-buyer letter",
+     "start_page": 106,
+     "end_page": 107,
+     "summary": "June 2, 1947 letter from an Elizabethton, Tennessee real estate firm sending correspondence with a man seeking a farm in Virginia or North Carolina who might be Hitler. Hoover's June 7 reply returns the material; a note judges the complaint groundless.",
+     "nodes": []
+    },
+    {
+     "node_id": "0032",
+     "title": "Informant's Martinique letter and Bureau follow-up",
+     "start_page": 108,
+     "end_page": 110,
+     "summary": "From Martinique the informant sends the Los Angeles agents a summary of their May 27, 1947 meeting and says he leaves for Bogota. On August 29 the Bureau tells Los Angeles that the Martinique consulate found him wanted in Paris for passing bad checks, sentenced in absentia.",
+     "nodes": []
+    },
+    {
+     "node_id": "0033",
+     "title": "Rio de Janeiro legal attache reply on Casino",
+     "start_page": 111,
+     "end_page": 114,
+     "summary": "August 6, 1947: Casino is a beach suburb of Rio Grande with about 200 homes, mostly German, around a hotel with a former gambling casino; the claim that passes were needed is unfounded. Encloses consul Frederick Hunt's Martinique correspondence; no further action planned.",
+     "nodes": []
+    },
+    {
+     "node_id": "0034",
+     "title": "San Francisco hoax letter about Hitler being alive",
+     "start_page": 115,
+     "end_page": 118,
+     "summary": "September 23, 1947 San Francisco report: a 77-year-old Oakland man offered a newspaper a 'letter from Hitler' for radio broadcast, saying Hitler flew to Argentina before Berlin fell. Interviewed, he admitted glueing cancelled German stamps on the envelope to create a sensation; no publicity resulted.",
+     "nodes": []
+    },
+    {
+     "node_id": "0035",
+     "title": "London report: Dr. Morell did not poison Hitler",
+     "start_page": 119,
+     "end_page": 119,
+     "summary": "October 31, 1947 letter from legal attache J. A. Cimperman in London forwarding an October 4 Special Report No. 53 arguing that Dr. Morell neither poisoned Hitler nor gave him harmful narcotics, a rumor attributed to Dr. Giesing, and that inherited traits may explain Hitler's conduct.",
+     "nodes": []
+    },
+    {
+     "node_id": "0036",
+     "title": "Laboratory report on the hoax letter",
+     "start_page": 120,
+     "end_page": 121,
+     "summary": "October 27, 1947 FBI Laboratory report: the envelope addressed from 'Adolf Hitler, Reichskanzler' and the translation were written by the writer of the other letters. No match in the Anonymous Letter File; the matter is treated as local.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0037",
+   "title": "Sightings and the Bogota story, 1948",
+   "start_page": 122,
+   "end_page": 155,
+   "summary": "1948 tips: talk of Hitler near a Bavarian village, a passenger on the City of New Orleans train, look-alikes in a box car and a Quebec hotel, a Mexican offer to sell his whereabouts, and Colombian newspaper stories that Hitler reached Bogota by submarine, sent on to the State Department and CIA.",
+   "nodes": [
+    {
+     "node_id": "0038",
+     "title": "Atlanta report: Hitler said to be near Schwindegg, Bavaria",
+     "start_page": 122,
+     "end_page": 122,
+     "summary": "February 10, 1948 Atlanta memo: a Rome, Georgia veteran says that around Christmas, while serving in Germany, a Nazi Party member and tavern patrons near Schwindegg, near Muhldorf, told him Hitler was not dead but nearby in the mountains.",
+     "nodes": []
+    },
+    {
+     "node_id": "0039",
+     "title": "Hitler reported aboard the City of New Orleans train",
+     "start_page": 123,
+     "end_page": 125,
+     "summary": "February 28, 1948: an Illinois Central flagman reports Hitler and a woman in Seat 40, Car 10 of the City of New Orleans. Chicago agents board the train; on March 3 Fletcher reports the man was no older than 42 with a southern accent and the woman 22 or 23, plainly not Hitler.",
+     "nodes": []
+    },
+    {
+     "node_id": "0040",
+     "title": "Box-car letter with Hoover's reply",
+     "start_page": 126,
+     "end_page": 129,
+     "summary": "Hoover's March 4, 1948 reply, copied to Omaha, answers a February 24 letter, in typed copy and handwritten original, saying the writer saw a man 'the very image of Hitler' get out of a box car two years earlier and giving a 50-50 chance of finding him near the depot.",
+     "nodes": []
+    },
+    {
+     "node_id": "0041",
+     "title": "Detroit report: look-alike at a Chicoutimi hotel",
+     "start_page": 130,
+     "end_page": 131,
+     "summary": "May 6, 1948 Detroit memo: a produce broker and his wife saw a man identical to Hitler at the Hotel Chicoutimi, Quebec, August 8-17, 1946, with other odd circumstances; he was gone in 1947. No further investigation.",
+     "nodes": []
+    },
+    {
+     "node_id": "0042",
+     "title": "Telegram, Mexico letter and Schacht clipping",
+     "start_page": 132,
+     "end_page": 136,
+     "summary": "May 23, 1948 telegram from Chelsea, Michigan: 'If you want to know where Hitler is call...' A May 30 letter from Mexico, translated from Spanish, offers his whereabouts for $20 million. Hoover's June 8 reply refers a writer to Army intelligence and returns a clipping on Schacht with the note 'Is this guy Hitler?'",
+     "nodes": []
+    },
+    {
+     "node_id": "0043",
+     "title": "FBI letter to State and the Spanish clippings",
+     "start_page": 137,
+     "end_page": 145,
+     "summary": "FBI letter to the State Department's Division of Foreign Activity Correlation, copied to the CIA, sending clippings on a story that Hitler is in Bogota, followed by photostats of Nueva York al Dia of May 22, 1948 and El Tiempo articles on Hitler in Bogota.",
+     "nodes": []
+    },
+    {
+     "node_id": "0044",
+     "title": "Translation: Nueva York al Dia, May 22, 1948",
+     "start_page": 146,
+     "end_page": 147,
+     "summary": "A letter signed 'Amigo, amigo, amigo' from Aruba, dated April 27, 1948, says Hitler landed from a submarine at Bahia Honda, Guajira, on July 19, 1945 with six men and $3 million, travelled secretly to Bogota, plans to lead a crusade against Bolshevism, and is an avid movie fan.",
+     "nodes": []
+    },
+    {
+     "node_id": "0045",
+     "title": "Translation: El Tiempo, June 20, 1948",
+     "start_page": 148,
+     "end_page": 152,
+     "summary": "A Colombian signing Eudoro Llana Seltz confirms the story: he helped bring Hitler's group to Colombia, Eva Braun died of embolism on the submarine, and Hitler planned Gaitan's assassination during the Bogota conference to blame Communists and provoke war with Russia. By April 15 the group had vanished.",
+     "nodes": []
+    },
+    {
+     "node_id": "0046",
+     "title": "El Tiempo, June 24, 1948, and FBI dissemination",
+     "start_page": 153,
+     "end_page": 155,
+     "summary": "El Tiempo letter from 'E.H.K.', a former Nazi spy, confirming the Seltz story and offering proof for pay. July 14, 1948: a Colombian-born New Yorker brought the clippings and heard of a revolution expected July 20. August 3: the FBI sends the translations to State and the CIA.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0047",
+   "title": "Late 1948 and 1949 files",
+   "start_page": 156,
+   "end_page": 192,
+   "summary": "Tips from July 1948 to October 1949: two men in Yugoslavia said to be Hitler and Bormann, a Washington rooming-house guest, a St. Louis neighbor, Chicago and New Jersey letters placing Hitler in Argentina, a few misfiled pages, and the Laboratory's file on the 1947 hoax letter.",
+   "nodes": [
+    {
+     "node_id": "0048",
+     "title": "Letter on Hitler and Bormann living in Yugoslavia",
+     "start_page": 156,
+     "end_page": 164,
+     "summary": "July 16, 1948: Hoover sends the CIA a German letter from Cavalese, Italy, of late May 1948 saying two rich, guarded men resembling Hitler and Bormann live in Bobovo, Ponikva parish, Yugoslavia, posing as merchants back from South America, with directions from Maribor. Includes a newspaper employee's cover letter, translation and original.",
+     "nodes": []
+    },
+    {
+     "node_id": "0049",
+     "title": "Rooming-house tip and St. Louis letter",
+     "start_page": 165,
+     "end_page": 171,
+     "summary": "October 10-11, 1948 memos: a Washington rooming-house keeper says her guest resembles Hitler; she is judged incoherent and no action is taken. A December 5 St. Louis letter says a goose-stepping neighbor is Hitler; Hoover has an agent call. Also Hoover's July 16 thanks for the German letter.",
+     "nodes": []
+    },
+    {
+     "node_id": "0050",
+     "title": "Chicago letter and a moustache-sketch note",
+     "start_page": 172,
+     "end_page": 175,
+     "summary": "Hoover answers a December 23, 1948 Chicago letter whose 68-year-old writer argues that Hitler is alive in Patagonia, Argentina, with Eva Braun as camouflage. A January 25, 1949 note says the writer drew a moustache on a newspaper photo and asks if the man looks like the one who started World War II.",
+     "nodes": []
+    },
+    {
+     "node_id": "0051",
+     "title": "Jersey City letter on Hitler in Argentina, with reply",
+     "start_page": 176,
+     "end_page": 180,
+     "summary": "June 27, 1949 Jersey City letter: a Chilean nurse's friend knows a former worker in Hitler's home who saw Hitler enter a restaurant in Argentina several times. Hoover thanks the writer on July 5. Filed with an Evening Bulletin clipping on pianist Walter Gieseking cancelling his U.S. tour.",
+     "nodes": []
+    },
+    {
+     "node_id": "0052",
+     "title": "St. Louis report on a suspected neighbor",
+     "start_page": 181,
+     "end_page": 181,
+     "summary": "March 18, 1949 St. Louis memo: the suspect is a German-accented man of about 63 in a dispute with the complainant over a building; he was reported out of dislike, not evidence. A German informant will befriend him; otherwise the case will close.",
+     "nodes": []
+    },
+    {
+     "node_id": "0053",
+     "title": "Pages filed out of sequence",
+     "start_page": 182,
+     "end_page": 184,
+     "summary": "The second page of the July 27, 1948 translation of E.H.K.'s El Tiempo letter, a photostat of El Tiempo's June 20, 1948 article on the Fuehrer in Bogota, and a page of the 1946 Laboratory report on the documents' condition, ink transfers and typewriters.",
+     "nodes": []
+    },
+    {
+     "node_id": "0054",
+     "title": "Laboratory file on the 1947 hoax letter",
+     "start_page": 185,
+     "end_page": 192,
+     "summary": "October 1949 memo, Parsons to Harbo, sending the Laboratory's hoax file to Records, followed by its exhibits: the envelope with German stamps addressed from 'Adolf Hitler, Reichskanzler Berlin', a San Francisco envelope of September 1947, the handwritten letters proposing a radio broadcast, the translation and the purported Hitler letter.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0055",
+   "title": "German originals of the marriage certificate and wills",
+   "start_page": 193,
+   "end_page": 203,
+   "summary": "Photostats of the German originals examined in 1946: the Berlin marriage certificate of Adolf Hitler and Eva Braun, Hitler's private will and his political testament, all dated April 29, 1945.",
+   "nodes": [
+    {
+     "node_id": "0056",
+     "title": "Marriage certificate, Berlin, April 29, 1945",
+     "start_page": 193,
+     "end_page": 194,
+     "summary": "Typed Berlin registry form filled in by hand: the couple declare pure Aryan descent and freedom from hereditary disease, request a wartime wedding without the usual waiting periods, answer 'ja', and the marriage is declared lawful, Berlin, April 29, 1945.",
+     "nodes": []
+    },
+    {
+     "node_id": "0057",
+     "title": "Hitler's private will",
+     "start_page": 195,
+     "end_page": 197,
+     "summary": "Hitler explains he will marry the woman who came to the besieged city to share his fate, leaves his paintings for a gallery in Linz, names Martin Bormann executor, remembers his secretaries, and says he and his wife choose death and wish to be burned at once. Dated Berlin, April 29, 1945, 4:00.",
+     "nodes": []
+    },
+    {
+     "node_id": "0058",
+     "title": "Hitler's political testament",
+     "start_page": 198,
+     "end_page": 203,
+     "summary": "Hitler denies wanting war in 1939 and blames international Jewry, says he will stay in Berlin and not fall into enemy hands, and urges Germans to fight on for a rebirth of National Socialism. A handwritten page of the 1947 hoax letter is filed among these pages.",
+     "nodes": []
+    }
+   ]
+  }
+ ]
+}

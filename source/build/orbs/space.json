@@ -1,0 +1,17 @@
+{
+ "topic": "space",
+ "item": "space-mol-dorian",
+ "kind": "image",
+ "source": "raw/space-mol-dorian/MOL_Compendium_August_2015.pdf#page=156",
+ "start": null,
+ "duration": null,
+ "crop": [
+  210,
+  380,
+  2130,
+  2130
+ ],
+ "motion": "push",
+ "why": "The MOL test launch photo (Figure 55 of the Dorian compendium), a striped Titan IIIC with the Gemini B capsule on top rising on a white plume against a dark sky, is one centred vertical object with the strongest light and dark shapes in the topic, while the KH-8 N1 frame is soft with a label arrow through its middle and the Horizon drawings are small grainy page scans.",
+ "zoom": 0.55
+}

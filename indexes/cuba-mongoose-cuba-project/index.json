@@ -1,0 +1,135 @@
+{
+ "id": "cuba-mongoose-cuba-project",
+ "title": "The Cuba Project (Operation Mongoose)",
+ "source": {
+  "url": "https://www.archives.gov/research/jfk/release-2023",
+  "publisher": "Department of Defense",
+  "date": "1962-01-18",
+  "pages": 11,
+  "released": "2023-05-11",
+  "file": "https://www.archives.gov/files/research/jfk/releases/2023/202-10001-10172.pdf",
+  "sha256": "bc51c0413d1c106796266ba9f2e013cca88c4cd0728188deb20d569c52e83705",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "cuba",
+ "summary": "Brig. Gen. Edward Lansdale's 18 January 1962 program review for Operation Mongoose, the covert campaign to help Cubans overthrow Fidel Castro's Communist government from within. It assigns 32 numbered tasks to the CIA, State, Defense and USIA, from intelligence collection to propaganda and sabotage; first published in 1997, this copy comes from the National Archives' May 2023 release.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/cuba/cuba-mongoose-cuba-project/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "JFK records identification form",
+   "start_page": 1,
+   "end_page": 1,
+   "summary": "JFK Assassination System form dated 4 August 1998 for JCS record 202-10001-10172: an OSD memorandum titled The Cuba Project, 18 January 1962, 24 pages, subject Operation Mongoose, Top Secret. Released with deletions after review on 30 July 1998; bracketed portions withheld by the Joint Staff, reviewed by CIA, State and OSD.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "Identification form, second copy",
+   "start_page": 2,
+   "end_page": 2,
+   "summary": "A second copy of the same 4 August 1998 identification form for record 202-10001-10172, The Cuba Project memorandum of 18 January 1962, Operation Mongoose, released with deletions on 30 July 1998.",
+   "nodes": []
+  },
+  {
+   "node_id": "0002",
+   "title": "The Cuba Project: program review by Brig. Gen. E. G. Lansdale",
+   "start_page": 3,
+   "end_page": 11,
+   "summary": "Lansdale's 18 January 1962 review as Chief of Operations of the project to help Cubans overthrow the Communist regime from within: the concept of a popular revolt, the state of intelligence, progress since the President's 30 November 1961 directive, 32 tasks for CIA, State, Defense and USIA due in February, future plans and the distribution list.",
+   "nodes": [
+    {
+     "node_id": "0003",
+     "title": "Objective and concept of operation",
+     "start_page": 3,
+     "end_page": 4,
+     "summary": "The aim is a Cuban revolt that installs a government the US can live with. A political action movement inside Cuba, backed by economic warfare, psychological operations and sabotage groups, would spark it. After the failed April 1961 operation, Latin American support is essential. The US, with other hemisphere nations if possible, would then give open support, including military force.",
+     "nodes": []
+    },
+    {
+     "node_id": "0004",
+     "title": "Estimate of the situation",
+     "start_page": 4,
+     "end_page": 4,
+     "summary": "The National Estimate SNIE 85-61 of 28 November 1961 mixes operational conclusions not based on hard fact with intelligence, repeating an error of the April planning. A new estimate, NIE 85-62, has slipped from 23 January to 7 February. The project has at least started in-depth collection of intelligence on Cuba.",
+     "nodes": []
+    },
+    {
+     "node_id": "0005",
+     "title": "Initial phase, 30 November 1961 to 18 January 1962",
+     "start_page": 4,
+     "end_page": 6,
+     "summary": "Status of tasks A to L: Lansdale's team with Helms, Craig, Woodward and Wilson; Opa Locka interrogation staff to grow from 2 to 34; CIA has no political action agents yet and needs 30; OAS meeting on 22 January; no sugar-harvest sabotage; TV intrusion, Lubzol fuel contamination; CIA's outlook is far short of the project's goals.",
+     "nodes": []
+    },
+    {
+     "node_id": "0006",
+     "title": "Target schedule",
+     "start_page": 7,
+     "end_page": 10,
+     "summary": "Thirty-two numbered tasks with deadlines mostly on 1, 15 and 28 February 1962, grouped under intelligence, political, economic, psychological and military action.",
+     "nodes": [
+      {
+       "node_id": "0007",
+       "title": "Intelligence and political tasks",
+       "start_page": 7,
+       "end_page": 7,
+       "summary": "Tasks 1 to 10: NIE 85-62 by 7 February; Opa Locka made effective by 15 February; refugee coverage in Puerto Rico, Venezuela and elsewhere. CIA to plan defection of top Cuban officials, treating a name defector as worth a million dollars, plus cover and deception and a popular movement; State to exploit the OAS meeting and inventory Caribbean assets.",
+       "nodes": []
+      },
+      {
+       "node_id": "0008",
+       "title": "Economic tasks",
+       "start_page": 8,
+       "end_page": 9,
+       "summary": "Tasks 11 to 24: State recommendations on barring remaining US trade with Cuba, export controls, closing US ports to ships calling at Cuba, help from the AFL-CIO, shippers and business groups, and NATO and Japan. CIA to plan inducing food crop failures, such as sabotage of rice, and disrupting Cuban nickel supply to the Soviet Union.",
+       "nodes": []
+      },
+      {
+       "node_id": "0009",
+       "title": "Psychological tasks",
+       "start_page": 9,
+       "end_page": 9,
+       "summary": "Tasks 25 to 28: USIA to plan propaganda casting the Cuban people as David against a Communist Goliath; CIA to plan a campaign to relax police-state control, including indicting 'people's criminals'; songs and symbols for the movement; propaganda support and smuggled morale packets like the 'I Shall Return' cigarettes of World War II.",
+       "nodes": []
+      },
+      {
+       "node_id": "0010",
+       "title": "Military action tasks",
+       "start_page": 9,
+       "end_page": 10,
+       "summary": "Tasks 29 to 32: Defense to submit by 28 February a contingency plan for US military force supporting the Cuban movement without leading to general war; CIA to schedule sabotage inside Cuba by 15 February and send support requests by 23 February; Defense to plan special operations use of Cubans in the US armed forces.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0011",
+     "title": "Future plans",
+     "start_page": 10,
+     "end_page": 10,
+     "summary": "A firm timetable should be possible by 20 February. CIA has told Defense it needs submarines, PT boats, cutters, aircraft and Guantanamo as a base, and seems to see its role as creating a movement that offers a plausible excuse for armed intervention, which Lansdale says does not conform to the Presidential directive and belongs to State and Defense.",
+     "nodes": []
+    },
+    {
+     "node_id": "0012",
+     "title": "Distribution list",
+     "start_page": 11,
+     "end_page": 11,
+     "summary": "Fourteen copies: the President, the Attorney General, General Taylor, the Secretaries of State and Defense, the Director of Central Intelligence, the USIA Director, the project officers Woodward and Hurwitch (State), Brig. Gen. Craig (Defense), Helms (CIA) and Wilson (USIA), and Lansdale.",
+     "nodes": []
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,283 @@
+{
+ "id": "mind-ig-report-1963",
+ "title": "Report of Inspection of MKULTRA",
+ "source": {
+  "url": "https://www.cia.gov/readingroom/document/06767515",
+  "publisher": "CIA",
+  "date": "1963-07-26",
+  "pages": 46,
+  "released": "2019-04-03",
+  "file": "https://archive.org/download/cia-readingroom-document-06767515/06767515.pdf",
+  "sha256": "e3fb8e9b1c3da019762d9a03bde9126391c2fd3b876eb9de8a2bda4698ff6266",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "mind",
+ "summary": "The CIA Inspector General's report on MKULTRA, prepared in a single copy, which found that the agency had been covertly testing drugs and other materials on unwitting US citizens since 1955 and recommended ending that testing in the United States. It was the main source on MKULTRA for the 1975 investigations.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/mind/mind-ig-report-1963/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Covering memorandum: Report of inspection of MKULTRA",
+   "start_page": 1,
+   "end_page": 2,
+   "summary": "Memo of 26 July 1963 from Inspector General J. S. Earman to the DCI forwarding a single-copy report. MKULTRA researches chemical, biological and radiological materials to control human behavior; MKDELTA governs their operational use. Allen Dulles authorized it in 1953, eventually with 20% of TSD's research budget. Controls need strengthening and some simulated operational testing carried excessive risk.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "Report of inspection of MKULTRA/TSD",
+   "start_page": 3,
+   "end_page": 28,
+   "summary": "The Inspector General's report on TSD's MKULTRA program: its 1953 charter and thin records, research through outside specialists, hospital and prison testing, and covert drug tests on unwitting Americans through the Bureau of Narcotics, which it recommends ending; MKDELTA's low operational use; and a new charter with tighter management, records and audit.",
+   "nodes": [
+    {
+     "node_id": "0002",
+     "title": "I. Introduction",
+     "start_page": 3,
+     "end_page": 9,
+     "summary": "DCI Allen Dulles let TSD develop behavior-changing chemical and biological materials on 3 April 1953, with exclusive control of records and funds. The inspection questions the charter's broad scope, TSD's minimal documentation, and covert testing on unwitting US citizens begun in 1955, which it recommends ending in the United States.",
+     "nodes": [
+      {
+       "node_id": "0003",
+       "title": "Authorization, sensitivity and funding",
+       "start_page": 3,
+       "end_page": 5,
+       "summary": "Dulles authorized TSD on 3 April 1953; MKDELTA, set by DD/P Notice 220-1 of 20 October 1952, covers operational use. Sensitive aspects are ethics, legality, risk to US citizens' rights and public reaction. TSD needed only simple certifications for funds and was at first exempt from audit; funding settled at 20 percent of its research budget.",
+       "nodes": []
+      },
+      {
+       "node_id": "0004",
+       "title": "a. Scope of the MKULTRA charter",
+       "start_page": 6,
+       "end_page": 6,
+       "summary": "Over ten years TSD stretched MKULTRA to radiation, electro-shock, psychology, psychiatry, sociology, anthropology, graphology, harassment substances and paramilitary devices. Some projects were not sensitive enough to waive normal procedures, and Deputy Director/Support channels could now fund sterile work, so all parties agree the scope should be redefined.",
+       "nodes": []
+      },
+      {
+       "node_id": "0005",
+       "title": "b. MKULTRA management policies",
+       "start_page": 6,
+       "end_page": 8,
+       "summary": "TSD kept minimal documentation: some files were complete, others nearly empty, so routine inspection of management and fiscal controls was impossible. Inspectors could not trace discrediting, disabling and lethal substances by origin, researcher, cost or capability. Only two TSD officers know the whole program, mostly unrecorded, and they apply need-to-know to the maximum.",
+       "nodes": []
+      },
+      {
+       "node_id": "0006",
+       "title": "c. Advanced testing of MKULTRA materials",
+       "start_page": 8,
+       "end_page": 9,
+       "summary": "TSD holds that laboratory testing cannot show the full pattern of reactions in operational situations, so in 1955 it began covert testing of materials on unwitting US citizens. The report reviews the rationale and risks of this testing and recommends ending it in the United States, citing paragraphs 10 to 18.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0007",
+     "title": "II. Modus operandi",
+     "start_page": 9,
+     "end_page": 17,
+     "summary": "MKULTRA works in phases: specialists at universities, drug firms, hospitals and research groups find and test materials under sterile grants; physicians in hospitals and prisons test them on human subjects; and Bureau of Narcotics agents covertly dose unwitting people at safehouses. The report weighs the risks of that last phase and recommends ending it.",
+     "nodes": [
+      {
+       "node_id": "0008",
+       "title": "Research through outside specialists",
+       "start_page": 9,
+       "end_page": 11,
+       "summary": "New materials, such as psilocybin from Mexican mushrooms, are sought through specialists paid annual grants under ostensible research foundations that hide CIA's interest. Key people hold top secret clearance and each is managed alone. Yearly progress records were lacking. Because DD/S procedures and audits were waived, the report urges consulting the DD/S on a redesign.",
+       "nodes": []
+      },
+      {
+       "node_id": "0009",
+       "title": "Testing in hospitals and prisons",
+       "start_page": 11,
+       "end_page": 12,
+       "summary": "Physicians, toxicologists and other specialists in mental, narcotics and general hospitals and in prisons test products intensively on human subjects, using controls and placebos, with volunteers where health permits. New Food and Drug Administration rules on dosages are causing controversy; TSD officers rely on close ties with leading US pharmaceutical houses.",
+       "nodes": []
+      },
+      {
+       "node_id": "0010",
+       "title": "Covert testing on unwitting subjects",
+       "start_page": 12,
+       "end_page": 17,
+       "summary": "Since 1955 Bureau of Narcotics officers on the West Coast, and from 1961 the East Coast, have tested materials on unwitting people, with $10,000 a year each for safehouses. Subjects included informers and criminals; some fell ill, one was hospitalized. With no records or cover story, the Inspector General recommends ending it; some foreign nationals were also tested.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0011",
+     "title": "III. Current estimate of the MKULTRA/MKDELTA capability",
+     "start_page": 18,
+     "end_page": 23,
+     "summary": "Drawing on Sidney Gottlieb's report of 21 April 1960, the inspectors count about 100 operations with harassment materials and nine with disabling drugs over eight years, none lethal. Drugs remain unreliable, though drug-aided interrogation has advanced. Briefings and TSD officers overseas have helped. A CI Staff study of opposition use is recommended.",
+     "nodes": [
+      {
+       "node_id": "0012",
+       "title": "The Gottlieb report and the low rate of use",
+       "start_page": 18,
+       "end_page": 19,
+       "summary": "Gottlieb's study \"Scientific and Technical Problems in Covert Action Operations\" asked what an eight-year investment had returned. The Clandestine Services gave TSD little guidance and rarely used the products: about 100 operations with harassment materials and nine with disabling drugs, two-thirds in interrogations, none lethal. Seven factors explain the low use.",
+       "nodes": []
+      },
+      {
+       "node_id": "0013",
+       "title": "Technical shortcomings of the drugs",
+       "start_page": 19,
+       "end_page": 19,
+       "summary": "As of 1960 no effective knockout pill, truth serum, aphrodisiac or recruitment pill existed, and MKDELTA was called a high-risk, low-yield field. Three years later little has changed, except real progress with drugs in interrogation, now part of a wider psychological theory of interrogation in which drugs play a supporting role.",
+       "nodes": []
+      },
+      {
+       "node_id": "0014",
+       "title": "The problem of testing in realistic pilot operations",
+       "start_page": 20,
+       "end_page": 20,
+       "summary": "After a redacted passage, the report notes that some operations officers think testing on targets overseas impracticable: operations must be unilateral, which complicates delivery, and the risk of unexpected reactions and compromise makes most senior commanders unwilling to take part.",
+       "nodes": []
+      },
+      {
+       "node_id": "0015",
+       "title": "Limitations on information to case officers; restrictions on operations",
+       "start_page": 20,
+       "end_page": 21,
+       "summary": "Both problems have eased since 1960. TSD briefs senior officers on MKDELTA, and approval now runs through the DD/P chain of command, who may consult the Chief, Medical Staff. TDY visits by MKULTRA officers and a TSD officer stationed overseas since 1961, with a second due in summer 1963, have promoted use, notably in interrogation.",
+       "nodes": []
+      },
+      {
+       "node_id": "0016",
+       "title": "Negative attitudes toward MKDELTA materials; training of case officers",
+       "start_page": 21,
+       "end_page": 22,
+       "summary": "The Gottlieb report found some case officers morally opposed and refusing to use the materials. Senior officers feared over-reliance on drugs in place of classic espionage, and strict controls bred defeatism about getting approval. Future field inspections will review this, while TSD consultants overseas build case officers' experience.",
+       "nodes": []
+      },
+      {
+       "node_id": "0017",
+       "title": "Risk of stimulating increased use of MKDELTA materials by opposition services",
+       "start_page": 22,
+       "end_page": 23,
+       "summary": "Gottlieb reported that opposition services are active in the field and urged a CI Staff study, which was never done. The Inspector General recommends that the Deputy Director/Plans have the Chief, CI Staff, study evidence of hostile use and propose training so case officers can recognize and counter it.",
+       "nodes": []
+      },
+      {
+       "node_id": "0018",
+       "title": "Summary of the MKDELTA capability",
+       "start_page": 23,
+       "end_page": 23,
+       "summary": "The evidence confirms the Gottlieb report: operational use of the controlled materials is extremely low. On the other hand, real progress has been made on a theory of interrogation using chemical substances and in TSD officers working overseas giving the field competent guidance.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0019",
+     "title": "IV. Management of MKULTRA",
+     "start_page": 23,
+     "end_page": 28,
+     "summary": "TSD has started 144 projects in ten years, 25 still active, and since 1962 has steered MKULTRA toward operations. Management relies on oral communication and incomplete files, and the Chief of Support was shut out until 1962. The Inspector General recommends a revised charter with written approvals, project records, briefings, accredited testing and full audit.",
+     "nodes": [
+      {
+       "node_id": "0020",
+       "title": "Projects and research areas",
+       "start_page": 23,
+       "end_page": 24,
+       "summary": "TSD has started 144 projects on control of human behavior, 25 still active. They cover basic research, procurement, testing on animals and humans, delivery techniques, offensive and defensive BW, CW and radiation, and other work like petroleum sabotage and defoliants. Since 1962 work has turned toward operations, away from psychology, sociology, anthropology and graphology.",
+       "nodes": []
+      },
+      {
+       "node_id": "0021",
+       "title": "TSD chain of command",
+       "start_page": 24,
+       "end_page": 26,
+       "summary": "Command runs from Chief, TSD, through the Deputy Chief, the Assistant Chief for R&D, the Chief Scientist and a program manager who also heads Biology Branch, to project monitors. It relies on oral communication and incomplete files that will be lost when officers leave. The Chief of Support was left out until 1962, a misuse of talent.",
+       "nodes": []
+      },
+      {
+       "node_id": "0022",
+       "title": "Recommendations for a revised MKULTRA charter",
+       "start_page": 26,
+       "end_page": 28,
+       "summary": "The Deputy Director/Plans should seek DCI approval of a revised 1953 authority: TSD researches chemical, biological and radioactive materials and electro-shock; scope changes need written DD/P approval; research is coordinated with DD/Research; TSD approves new MKDELTA substances; projects get plans, annexes and annual reviews; testing only in accredited institutions; semi-annual briefings; audit under HR 31-1.",
+       "nodes": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "node_id": "0023",
+   "title": "Tab A: 1953 authorization of MKULTRA",
+   "start_page": 29,
+   "end_page": 42,
+   "summary": "The 1953 papers that created MKULTRA: Richard Helms's 3 April request to the DCI, its description of the program and controls, Allen Dulles's 13 April memorandum letting Finance pay TSS invoices without contracts, and TSS's 21 April procedure for subproject files, funding memos and certified invoices.",
+   "nodes": [
+    {
+     "node_id": "0024",
+     "title": "Tab A divider",
+     "start_page": 29,
+     "end_page": 29,
+     "summary": "Divider sheet marked Tab A.",
+     "nodes": []
+    },
+    {
+     "node_id": "0025",
+     "title": "Two extremely sensitive research programs",
+     "start_page": 30,
+     "end_page": 30,
+     "summary": "Memo of 3 April 1953 from Richard Helms, Acting Deputy Director (Plans), to the DCI. About 6% of TSS research lies in two fields too sensitive for normal contracts: covert studies of biological and chemical warfare and a redacted second field. He asks to pay TSS-certified invoices without contracts; no new funds are involved. T.S. 87624.",
+     "nodes": []
+    },
+    {
+     "node_id": "0026",
+     "title": "Project MKULTRA: extremely sensitive research and development programs",
+     "start_page": 31,
+     "end_page": 36,
+     "summary": "Description, copy 1 of 5. The Project Review Committee approved the TSS research program for FY1953 on 6 June 1952. About 6% of projects, on covert use of biological and chemical materials, such as a drug causing a predictable aberrant mental state, and a redacted field, cannot carry contracts. Invoices need TSS certifications, without regular audit.",
+     "nodes": []
+    },
+    {
+     "node_id": "0027",
+     "title": "Memorandum for Deputy Director (Administration): Project MKULTRA",
+     "start_page": 37,
+     "end_page": 39,
+     "summary": "Behind a Tab B cover sheet, Allen W. Dulles's 13 April 1953 memo approves spending 6% of the FY1953 research budget as Project MKULTRA without contracts. Finance should pay TSS invoices certified by the Chief, DD/P/TSS, the Research Board's Executive Secretary and the TSS division chief. No other documents are needed and regular audit will not apply.",
+     "nodes": []
+    },
+    {
+     "node_id": "0028",
+     "title": "Memorandum for the file: Project MKULTRA",
+     "start_page": 40,
+     "end_page": 42,
+     "summary": "TSS procedure of 21 April 1953 for subprojects: a file per subproject founded on an agreement with the contractor, signed where possible; a scope memo approved by the Research Chairman and Research Director; a funding memo to the Comptroller with no technical detail; and invoices sent to Finance with three standard certifications.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0029",
+   "title": "MKDELTA materials",
+   "start_page": 43,
+   "end_page": 44,
+   "summary": "Instruction of 22 July 1960, the report's Tab B, rescinding one of 20 October 1952 and signed by Richard M. Bissell, Jr., Deputy Director (Plans). MKDELTA materials are chemical and biological materials, including K and L tablets, that change behavior; harassment materials are excluded. Each issue needs written DD/P approval; unused materials return to TSD, which records every issuance.",
+   "nodes": []
+  },
+  {
+   "node_id": "0030",
+   "title": "Tab C: MKULTRA funding record, FY 1960-63",
+   "start_page": 45,
+   "end_page": 46,
+   "summary": "Tab C divider and a funding table. The research program got $9,225,798 in FY1960, $10,672,462 in 1961, $10,470,109 in 1962 and $7,495,273 in 1963 through 8 May. MKULTRA got $879,004 and $930,601 in 1960 and 1961, with later figures redacted: 8.7, 8.0, 11.9 and 7.3 percent.",
+   "nodes": []
+  }
+ ]
+}

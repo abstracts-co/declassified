@@ -1,0 +1,369 @@
+{
+ "id": "mind-subproject-119",
+ "title": "MKULTRA Subproject 119",
+ "source": {
+  "url": "https://www.cia.gov/readingroom/document/00017376",
+  "publisher": "CIA",
+  "date": "1959-07-01",
+  "pages": 48,
+  "released": "1998-11-16",
+  "file": "https://archive.org/download/cia-readingroom-document-00017376/00017376.pdf",
+  "sha256": "82712421c6ee4e7f75783ad9c67e62f472ac3034ed077bda9fa609685b9d1c2a",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "mind",
+ "summary": "CIA file on an MKULTRA subproject that paid for a survey of research on recording bioelectric signals from the human body and 'activation of human behavior by remote means'. Its 1960 project memo lists remote electronic activation of the human organism as one of five study areas.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/mind/mind-subproject-119/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Accounting and closing records, 1960-1965",
+   "start_page": 1,
+   "end_page": 20,
+   "summary": "Financial papers for MKULTRA Subproject 119: invoice and ledger cards, review sheets, the fund's income and expense statements, obligation and invoice memos, receipts and vouchers for the $6,370 grant, and a 1965 request to close the account.",
+   "nodes": [
+    {
+     "node_id": "0001",
+     "title": "Invoice check list",
+     "start_page": 1,
+     "end_page": 1,
+     "summary": "MKULTRA subproject card: original authorization 17 August 1960 on Allotment 1525-1009-1902 for $6,370.00, and invoice 1 in September 1960 for $6,370.00, leaving a zero balance.",
+     "nodes": []
+    },
+    {
+     "node_id": "0002",
+     "title": "Project status report",
+     "start_page": 2,
+     "end_page": 2,
+     "summary": "Form from TSS/CD to TSS/OC: purpose is a critical review of the literature and scientific development on interpreting bioelectric signals from the human organism and activating human behavior by remote means. Date of obligation and expiration date N/A; progress satisfactory; project monitor redacted.",
+     "nodes": []
+    },
+    {
+     "node_id": "0003",
+     "title": "Sub-project no. 119 review sheet",
+     "start_page": 3,
+     "end_page": 3,
+     "summary": "Review sheet: the researcher was to critically review literature on recording, analyzing and interpreting bioelectric signals and activating human behavior by remote means. Work ran September 1960 to July 1961 for about $6,370, was not classified, named no other sponsors, and was monitored by Gottlieb. Researcher and university were unwitting; probably nothing controversial.",
+     "nodes": []
+    },
+    {
+     "node_id": "0004",
+     "title": "Handwritten note on payments, 3 May 1965",
+     "start_page": 4,
+     "end_page": 4,
+     "summary": "Note listing $3,500 and $850 sent for 1961-62 and $3,000 for 1962-63, with a slip dated 3 May 1965: 'we sent him the 3000 in reserve and that is it!'",
+     "nodes": []
+    },
+    {
+     "node_id": "0005",
+     "title": "Grant funds, income and expense, 1959-1963",
+     "start_page": 5,
+     "end_page": 5,
+     "summary": "Statement for 2 October 1959 to 31 March 1963, certified as reported to the fund: $9,870 in grant funds, spending on salaries, research assistants, typists, the 1961 Bioelectronics Directory and abstracts, and income from book sales. Expense exceeded grant funds by $1,050.72 by August 1961; the final net excess was $86.41.",
+     "nodes": []
+    },
+    {
+     "node_id": "0006",
+     "title": "Analysis of income and expense, 1959-1965",
+     "start_page": 6,
+     "end_page": 6,
+     "summary": "Table for 2 October 1959 to 16 March 1965: total expense $20,239.43, including $14,125.27 for personnel and $3,253 for printing the Bioelectronics Directory and abstracts, against $10,720 in grant funds and $5,908.32 from book sales, leaving expense $3,611.11 above funds.",
+     "nodes": []
+    },
+    {
+     "node_id": "0007",
+     "title": "Handwritten accounting notes",
+     "start_page": 7,
+     "end_page": 8,
+     "summary": "Notes that the ULTRA grant of $6,370 was received by HEF on 29 September 1960, with accounting from 2 October 1959 to 25 July 1961 and entries of $2,470, $2,000 and $3,500 for October 1960, June 1961 and July 1961. A second note says project 134 accounted for a $22,000 grant for 1961-62.",
+     "nodes": []
+    },
+    {
+     "node_id": "0008",
+     "title": "Project summary card",
+     "start_page": 9,
+     "end_page": 9,
+     "summary": "Card: purpose a critical review of literature and scientific developments on recording, analyzing and interpreting bioelectric signals from the human organism (MKULTRA 119); initiated September 1960; contractor redacted; cost $6,370; research completed and now being printed.",
+     "nodes": []
+    },
+    {
+     "node_id": "0009",
+     "title": "Memorandum on the Sub-project 119 account, 2 November 1965",
+     "start_page": 10,
+     "end_page": 10,
+     "summary": "The balance in the MKULTRA Sub-project 119 memorandum account (760.0) appears to be in error, and missing papers block a full analysis. Program records show the research is completed and the final accounting received, so the account should be reviewed and closed if appropriate.",
+     "nodes": []
+    },
+    {
+     "node_id": "0010",
+     "title": "Obligation ledger sheet",
+     "start_page": 11,
+     "end_page": 11,
+     "summary": "Ledger sheet showing $6,370 obligated for MKULTRA Sub 119 on 12 September 1960 and liquidated the same month by Invoice #1.",
+     "nodes": []
+    },
+    {
+     "node_id": "0011",
+     "title": "Memorandum for the Comptroller, 17 August 1960",
+     "start_page": 12,
+     "end_page": 12,
+     "summary": "Chief, TSD/Research Branch tells the Finance Division that, under the 13 April 1953 authority from the DCI, Subproject 119 is approved and $6,370 of MKULTRA funds is obligated, charged to Allotment 1525-1009-1902.",
+     "nodes": []
+    },
+    {
+     "node_id": "0012",
+     "title": "Invoice no. 1, 12 September 1960",
+     "start_page": 13,
+     "end_page": 13,
+     "summary": "Sidney Gottlieb, Deputy Chief, TSD/Research Branch, sends the Finance Division Invoice No. 1: a $6,370 cashier's check to reach the branch by 26 September 1960. It is a final invoice, but more funds are expected, so the files should stay open. A receipt for the check is attached.",
+     "nodes": []
+    },
+    {
+     "node_id": "0013",
+     "title": "Confidential funds posting voucher",
+     "start_page": 14,
+     "end_page": 14,
+     "summary": "Confidential funds posting voucher for the $6,370 payment under MKULTRA Subproject 119. Names are redacted.",
+     "nodes": []
+    },
+    {
+     "node_id": "0014",
+     "title": "Accounting by individual for advance",
+     "start_page": 15,
+     "end_page": 16,
+     "summary": "Form accounting for MKULTRA Sub 119 for 2 October 1959 to 31 March 1963: $6,370 received and $6,370 accounted for, with expenses shown on an attached certification. The back of the form carries printed instructions.",
+     "nodes": []
+    },
+    {
+     "node_id": "0015",
+     "title": "Note on finances, 6 May 1963",
+     "start_page": 17,
+     "end_page": 17,
+     "summary": "Note enclosing the accounting for the special $6,370 grant and $3,500 of last year's grant money, which shows a deficit and omits April 1963 printing and advertising costs, plus an interim statement showing a $2,537.79 balance. A full-time technician will work on the project that summer.",
+     "nodes": []
+    },
+    {
+     "node_id": "0016",
+     "title": "Receipt for $6,370 check",
+     "start_page": 18,
+     "end_page": 18,
+     "summary": "Receipt for a check dated 21 September 1960 for $6,370.00, signed by a redacted person on 29 September 1960.",
+     "nodes": []
+    },
+    {
+     "node_id": "0017",
+     "title": "Invoice and certifications",
+     "start_page": 19,
+     "end_page": 19,
+     "summary": "Invoice No. 1 for services, $6,370.00, with certifications for the Deputy Chief, TSD/Research Branch and the Research Director that Subproject 119 is performing satisfactorily under the 13 April 1953 authority.",
+     "nodes": []
+    },
+    {
+     "node_id": "0018",
+     "title": "Memorandum for the Comptroller, 17 August 1960, second copy",
+     "start_page": 20,
+     "end_page": 20,
+     "summary": "Second copy of the memo obligating $6,370 of MKULTRA funds for Subproject 119, charged to Allotment 1525-1009-1902, sent by TSD/Research Branch.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0019",
+   "title": "Project approval papers, 1960",
+   "start_page": 21,
+   "end_page": 26,
+   "summary": "Memos and the proposal by which a consultant's bioelectric literature survey became MKULTRA Subproject 119 in 1960.",
+   "nodes": [
+    {
+     "node_id": "0020",
+     "title": "Draft memorandum for the record, 17 August 1960",
+     "start_page": 21,
+     "end_page": 24,
+     "summary": "Draft memo setting up MKULTRA Subproject 119, with the attached project proposal and budget.",
+     "nodes": [
+      {
+       "node_id": "0021",
+       "title": "Purpose, cost and handling",
+       "start_page": 21,
+       "end_page": 22,
+       "summary": "Subproject 119 funds a redacted researcher's critical review of literature on bioelectric signals and remote activation of human behavior, begun as consulting. It covers five areas, costs $6,370 including a $2,500 consulting fee, runs a year from 1 July 1960 as a grant-in-aid, and those involved are unwitting of the sponsor. Approved for obligation in September 1960.",
+       "nodes": []
+      },
+      {
+       "node_id": "0022",
+       "title": "Project proposal",
+       "start_page": 23,
+       "end_page": 23,
+       "summary": "Proposal for a critical review of research on recording, analyzing and interpreting bioelectric signals and activating human behavior by remote means, starting with a survey across neurophysiology, biophysics, psychology and electronics in five areas. A list of laboratories, investigators and resources for the Bioelectronic study is in preparation.",
+       "nodes": []
+      },
+      {
+       "node_id": "0023",
+       "title": "Proposed budget",
+       "start_page": 24,
+       "end_page": 24,
+       "summary": "Budget: $1,900 forwarded from September 1959 to February 1960, to be accounted for later, and $4,470 for 1 May to 31 December 1960 ($3,350 honoraria and salaries, $820 equipment and supplies, $300 travel), for a total of $6,370.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0024",
+     "title": "Memorandum for the record, 3 August 1960",
+     "start_page": 25,
+     "end_page": 25,
+     "summary": "Gottlieb and others approved making a redacted researcher's consulting work a project: $6,370, including $2,500 already allotted, paid through a cover mechanism, the researcher unwitting of the sponsor. Points to convey: the project has an end point, a deadline probably in March 1961, and funds cover writing and publication.",
+     "nodes": []
+    },
+    {
+     "node_id": "0025",
+     "title": "Memorandum formalizing a proposal, 24 May 1960",
+     "start_page": 26,
+     "end_page": 26,
+     "summary": "Work on an annotated bibliography and interpretive survey of psychophysiology research is going well. The first estimate was $2,500; the final cost will be about $6,370. The writer suggests a separately funded research task, promises a list of laboratories by late June, and asks that it start before 1 July.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0026",
+   "title": "Correspondence, July 1959 to February 1960",
+   "start_page": 27,
+   "end_page": 48,
+   "summary": "Letters between a redacted grant-giving body and researchers about a survey of bioelectric research, EEG analyzers and other proposals, with checks and progress reports. Names and institutions are redacted.",
+   "nodes": [
+    {
+     "node_id": "0027",
+     "title": "Letter, 25 February 1960",
+     "start_page": 27,
+     "end_page": 27,
+     "summary": "The writer found his meeting with a redacted group interesting and expects them to work in this area, especially analysis. He encloses a $1,000 check, asks whether the original $3,500 estimate will do, suggests formalizing the work as a project, and encloses a 'Report of the Special Committee'.",
+     "nodes": []
+    },
+    {
+     "node_id": "0028",
+     "title": "Letter, 24 December 1959",
+     "start_page": 28,
+     "end_page": 28,
+     "summary": "Reply praising the researcher's progress report. A visit found little relevant work: continuous blood pressure recording, flicker fusion work and a portable jet-ink recorder. The writer encloses another $500 and accepts letting a redacted body hold expense receipts, but wants a statement at the project's end.",
+     "nodes": []
+    },
+    {
+     "node_id": "0029",
+     "title": "Progress report, 22 December 1959",
+     "start_page": 29,
+     "end_page": 30,
+     "summary": "The researcher divides the bioelectronic study into four phases: organ systems generating electric potentials, recording, analysis and behavioral correlates. Four professionals and two students are working; spending is under $300 and a colleague will get $2,000. The final report is due at the end of 1960; a 'situational variables' proposal is still pending.",
+     "nodes": []
+    },
+    {
+     "node_id": "0030",
+     "title": "Letter, 2 October 1959",
+     "start_page": 31,
+     "end_page": 31,
+     "summary": "The researcher thanks the writer for his 29 September letter and the enclosed check, deposited with a redacted body. Work has started, and he hopes to report progress within a few months.",
+     "nodes": []
+    },
+    {
+     "node_id": "0031",
+     "title": "Letter, 25 September 1959",
+     "start_page": 32,
+     "end_page": 33,
+     "summary": "The researcher is pleased his proposal to survey literature on bioelectric phenomena is approved and accepts the financial terms. A redacted person asked him to keep quiet about a new seismic analyzer backed by major oil companies. He asks the recipient, bound for Europe, to gather names, reports and leading authorities, and for a $400-$500 advance.",
+     "nodes": []
+    },
+    {
+     "node_id": "0032",
+     "title": "Letter, 21 September 1959",
+     "start_page": 34,
+     "end_page": 34,
+     "summary": "The writer has permission to use administrative funds up to $3,500 for the literature survey, held and paid against vouchers to avoid corporate formality. A redacted person's analyzer seems the most advanced for behavioral science. He plans a trip abroad from 4 to 31 October.",
+     "nodes": []
+    },
+    {
+     "node_id": "0033",
+     "title": "Letter on a new seismic analyzer, September 1959",
+     "start_page": 35,
+     "end_page": 36,
+     "summary": "Answering a 14 September letter, the writer reports a redacted organization built a new seismic analyzer that handles auto and cross correlation and power spectra on 32 channels at once and may be used for tape-recorded EEG records. An internationally known cardiologist may also support the research. Two copies.",
+     "nodes": []
+    },
+    {
+     "node_id": "0034",
+     "title": "Letter, 14 September 1959",
+     "start_page": 37,
+     "end_page": 37,
+     "summary": "Short note regretting a missed meeting on Monday night; the letter arrived and suits the writer's purposes.",
+     "nodes": []
+    },
+    {
+     "node_id": "0035",
+     "title": "Memorandum enclosing a pending proposal",
+     "start_page": 38,
+     "end_page": 38,
+     "summary": "Note enclosing a copy of a proposal pending with a redacted body and mentioning an invitation to meet on 17 September.",
+     "nodes": []
+    },
+    {
+     "node_id": "0036",
+     "title": "Proposal letter, 10 September 1959",
+     "start_page": 39,
+     "end_page": 40,
+     "summary": "After a visit, the researcher proposes a critical review of literature on recording and interpreting bioelectric signals and activating human behavior by remote means, with three colleagues working unpaid. Five areas; a report within 12 months on $3,500: $1,000 for a typist, $600 consultation, $500 travel, the rest for library services.",
+     "nodes": []
+    },
+    {
+     "node_id": "0037",
+     "title": "Research proposal, 1 July 1959",
+     "start_page": 41,
+     "end_page": 43,
+     "summary": "A researcher with nine years in electroencephalography proposes a multi-channel electronic analyzer for brain signals, standard variables, clinical diagnostic studies and psychophysiology research. He asks for technical help designing an eight-channel EEG analyzer and about $10,000 in equipment, tied to a new doctoral psychology program.",
+     "nodes": []
+    },
+    {
+     "node_id": "0038",
+     "title": "Letter, 17 August 1959",
+     "start_page": 44,
+     "end_page": 44,
+     "summary": "Letter arranging a visit for a Thursday night and asking for a hotel reservation.",
+     "nodes": []
+    },
+    {
+     "node_id": "0039",
+     "title": "Letter, 10 August 1959",
+     "start_page": 45,
+     "end_page": 45,
+     "summary": "The writer would be happy to process a research proposal that falls within his Board of Directors' interests; few grants exceed $15,000, but budget need not limit the plan at first. He plans to stop by on 19 or 20 August.",
+     "nodes": []
+    },
+    {
+     "node_id": "0040",
+     "title": "Letter, 22 July 1959",
+     "start_page": 46,
+     "end_page": 46,
+     "summary": "A redacted person is out of town until the end of July; the letter is being held for him.",
+     "nodes": []
+    },
+    {
+     "node_id": "0041",
+     "title": "Letter on a situational variables study, 14 July 1959",
+     "start_page": 47,
+     "end_page": 48,
+     "summary": "Thanking the recipient for a June 1959 report, a researcher asks about a grant to study stimulus situations in human behavior: a taxonomy of situational variables, life space and immediate task, cluster and factor analysis, and four group settings including the military. He asks whether about $15,000 is feasible.",
+     "nodes": []
+    }
+   ]
+  }
+ ]
+}

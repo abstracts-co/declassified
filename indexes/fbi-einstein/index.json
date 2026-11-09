@@ -1,0 +1,520 @@
+{
+ "id": "fbi-einstein",
+ "title": "Albert Einstein's FBI File",
+ "source": {
+  "url": "https://vault.fbi.gov/Albert%20Einstein",
+  "publisher": "FBI",
+  "date": "1932",
+  "pages": 92,
+  "released": "2000-01-28",
+  "file": "https://web.archive.org/web/20250204080144id_/https://vault.fbi.gov/Albert%20Einstein/Albert%20Einstein%20Part%2001/at_download/file",
+  "sha256": "3e03128b592946d1c03f867c839dd1956b4cefb8025871413549b5610a600fe7",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "fbi",
+ "summary": "Part 1 of the FBI's 1,427-page file on Albert Einstein, which the Bureau opened in December 1932. It begins with the Woman Patriot Corporation's 1932 demand that he be barred from the United States as a communist and runs to 1950.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/fbi/fbi-einstein/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "FOIA cover and file label",
+   "start_page": 1,
+   "end_page": 2,
+   "summary": "FBI Freedom of Information Act cover for Albert Einstein, Part 1 of 9, Bureau file 61-7099, followed by a handwritten label: Section 1, 177 pages available.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "Postcard urging a protective watch, January 1949",
+   "start_page": 3,
+   "end_page": 3,
+   "summary": "A handwritten postcard dated January 4, 1949, from a writer whose name is redacted, asks whether the FBI could keep a protective watch over Einstein while he is in a Brooklyn hospital, warning that some people would benefit from his weakness.",
+   "nodes": []
+  },
+  {
+   "node_id": "0002",
+   "title": "Woman Patriot Corporation charges, 1932",
+   "start_page": 4,
+   "end_page": 19,
+   "summary": "The Woman Patriot Corporation's November 1932 filing with the State Department Visa Division, arguing that Einstein is an anarchist and communist sympathizer who must be refused a visa under the alien exclusion laws, with a long supporting memorandum of evidence.",
+   "nodes": [
+    {
+     "node_id": "0003",
+     "title": "Copy of charges filed against admission of Albert Einstein",
+     "start_page": 4,
+     "end_page": 7,
+     "summary": "Letter of November 19, 1932, to A. Dana Hodgdon, chief of the Visa Division, asking consuls in Berlin, Geneva or elsewhere to refuse or revoke Einstein's visa, signed by Mrs. Randolph Frothingham, president of the Woman Patriot Corporation, with a November 22 cover note.",
+     "nodes": [
+      {
+       "node_id": "0004",
+       "title": "Mandatory provisions of law in this case",
+       "start_page": 4,
+       "end_page": 5,
+       "summary": "Cites the Countess Karolyi visa refusal of 1925, the burden of proof on aliens under the 1924 Immigration Act, the Supreme Court's Schwimmer decision, and the 1917 and 1918 laws excluding anarchists and members of groups opposing organized government.",
+       "nodes": []
+      },
+      {
+       "node_id": "0005",
+       "title": "The formal charges against Albert Einstein",
+       "start_page": 6,
+       "end_page": 7,
+       "summary": "Charges that Einstein advocates anarchy, belongs to groups in militant opposition to government, is affiliated with Communist groups, and funds them, so must be held inadmissible. Prior visits do not exempt him now that he seeks semi-permanent residence. Signed by Frothingham; cover letter to Hodgdon dated November 22, 1932.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0006",
+     "title": "Memorandum of evidence that Albert Einstein is inadmissible",
+     "start_page": 8,
+     "end_page": 19,
+     "summary": "The corporation's brief arguing that the burden of proof lies on the alien and that Einstein's affiliations and own words make him excludable.",
+     "nodes": [
+      {
+       "node_id": "0007",
+       "title": "Burden of proof and Communist affiliations",
+       "start_page": 8,
+       "end_page": 9,
+       "summary": "Argues no alien has a right to enter and officials need not prove guilt. Lists Einstein's membership of the World Committee of the 1932 World Congress Against Imperialist War, his role in the Anti-Imperialist League, and his March 1931 endorsement of the Workers International Relief.",
+       "nodes": []
+      },
+      {
+       "node_id": "0008",
+       "title": "The War Resisters' International",
+       "start_page": 9,
+       "end_page": 11,
+       "summary": "Quotes the War Resisters' International's report calling for revolutionary uprisings and mass resistance, and Einstein's address to its Lyon conference urging people to refuse war service. He authorized an Einstein War Resisters International Fund, sent to 11 Abbey Road, Enfield, Middlesex.",
+       "nodes": []
+      },
+      {
+       "node_id": "0009",
+       "title": "Einstein's own doctrines anarchistic",
+       "start_page": 12,
+       "end_page": 13,
+       "summary": "Defines anarchy under the 1917 act and court decisions, cites the Robert Clark and Douglas Clyde Macintosh cases, and argues Einstein's call for individual resistance makes him an anarchist. Quotes Lenin and the Communist International on the abolition of the state.",
+       "nodes": []
+      },
+      {
+       "node_id": "0010",
+       "title": "Communist program for 'shattering' the state",
+       "start_page": 13,
+       "end_page": 14,
+       "summary": "Quotes Marx and Lenin on shattering the bureaucratic and military machine as the preliminary condition of revolution, and calls Einstein its arch-promoter, more affiliated with anarcho-communist groups than Stalin. Dismisses his cosmic religion and relativity as irrelevant to exclusion.",
+       "nodes": []
+      },
+      {
+       "node_id": "0011",
+       "title": "Einstein's admittedly illegal purposes",
+       "start_page": 15,
+       "end_page": 17,
+       "summary": "Quotes Einstein's 1930 letter to Heywood Broun praising Rosika Schwimmer and saying only acts of rebellion can break chains, his December 14, 1930, 'Militant Pacifism' speech urging 2 percent to refuse military service, and his 1931 Chicago address and New York Times article.",
+       "nodes": []
+      },
+      {
+       "node_id": "0012",
+       "title": "Frau Rosika Schwimmer, Einstein's 'saving angel'",
+       "start_page": 17,
+       "end_page": 18,
+       "summary": "Recalls that the Supreme Court found Schwimmer ineligible for citizenship, calls Einstein a 'militant pacifist' propagandist paid by the German government, and compares him to Franz von Papen's wartime sabotage.",
+       "nodes": []
+      },
+      {
+       "node_id": "0013",
+       "title": "More revolutionary affiliations than Stalin or Trotsky",
+       "start_page": 18,
+       "end_page": 19,
+       "summary": "Argues that if Trotsky can be kept out, so can Einstein, citing the Yokinen and Kjar deportation cases, and asks for equal enforcement. Ends with press comment, including the Houston Chronicle and the Indiana Catholic, asking 'Is Einstein just an anarchist?'",
+       "nodes": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "node_id": "0014",
+   "title": "Complaints and replies, 1932-1934",
+   "start_page": 20,
+   "end_page": 23,
+   "summary": "Early letters urging Einstein's exclusion or asking whether he was a Communist, and Hoover's answer that the Bureau had no authority or information.",
+   "nodes": [
+    {
+     "node_id": "0015",
+     "title": "Francis Ralston Welsh to Labor Secretary Doak",
+     "start_page": 20,
+     "end_page": 20,
+     "summary": "Letter of early December 1932 to Secretary of Labor William N. Doak enclosing a memorandum on 'the Communist Einstein,' calling his theory 'a good deal of a fake,' faulting Princeton's former president Hibben, and saying the law requires Einstein be excluded as a Communist.",
+     "nodes": []
+    },
+    {
+     "node_id": "0016",
+     "title": "Princeton's liability",
+     "start_page": 21,
+     "end_page": 21,
+     "summary": "Unsigned memorandum calling Einstein 'apparently a Communist' who would be a Communist spy, citing the World Congress, the Workers International Relief, appeals for Sacco and Vanzetti and the Scottsboro defendants, and ACLU support, and saying he should be kept out.",
+     "nodes": []
+    },
+    {
+     "node_id": "0017",
+     "title": "Ventura County sheriff's letter, April 1934",
+     "start_page": 22,
+     "end_page": 22,
+     "summary": "Sheriff L. Howard Durley of Ventura County, California, writes to J. Edgar Hoover on April 24, 1934, that a local speech called Einstein a Communist and asks whether there is any basis for it.",
+     "nodes": []
+    },
+    {
+     "node_id": "0018",
+     "title": "Hoover's reply to the sheriff, May 1934",
+     "start_page": 23,
+     "end_page": 23,
+     "summary": "Hoover answers on May 4, 1934, that no federal law covers radical or Communist activity, so the Bureau has no information on Einstein, and suggests the New York City Police Department.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0019",
+   "title": "Army intelligence name check, 1940",
+   "start_page": 24,
+   "end_page": 26,
+   "summary": "The War Department asks the FBI about Einstein and Alexander Sachs as possible scientific advisers, and Hoover answers with the Bureau's file.",
+   "nodes": [
+    {
+     "node_id": "0020",
+     "title": "General Sherman Miles to Hoover, July 1940",
+     "start_page": 24,
+     "end_page": 24,
+     "summary": "Confidential letter of July 30, 1940, from Brigadier General Sherman Miles, Army G-2, asking for a summary of FBI information on Dr. Albert Einstein of Princeton and Alexander Sachs of New York, scientists considered as War Department advisers.",
+     "nodes": []
+    },
+    {
+     "node_id": "0021",
+     "title": "Hoover's reply to General Miles, August 1940",
+     "start_page": 25,
+     "end_page": 26,
+     "summary": "Hoover's August 15, 1940, reply forwards the Woman Patriot memorandum and reports Einstein's links to the 1932 World Congress Against War, the War Resisters League, the German-American League for Culture, the American League Against War and Fascism, Spanish relief committees and the Friends of the Abraham Lincoln Brigade.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0022",
+   "title": "Letters and clippings, 1940-1947",
+   "start_page": 27,
+   "end_page": 44,
+   "summary": "Public letters, anonymous notes and press clippings sent to or gathered by the FBI, and State Department reporting on a Soviet invitation.",
+   "nodes": [
+    {
+     "node_id": "0023",
+     "title": "Anonymous clipping, October 1940",
+     "start_page": 27,
+     "end_page": 28,
+     "summary": "An anonymous mailing with a newspaper public notice quoting Einstein, annotated 'Newly made citizen shows his gratitude toward Uncle Sam?', and its envelope postmarked Brooklyn, October 1940, addressed to Hoover.",
+     "nodes": []
+    },
+    {
+     "node_id": "0024",
+     "title": "Request for Einstein's address, May 1944",
+     "start_page": 29,
+     "end_page": 30,
+     "summary": "A postcard from Shaker Heights, Ohio, asks the FBI for Einstein's address, believing it kept addresses of all refugees. Hoover's May 17, 1944, reply refers the writer to the Immigration and Naturalization Service in Philadelphia.",
+     "nodes": []
+    },
+    {
+     "node_id": "0025",
+     "title": "Clipping: Einstein in relief plea, May 1946",
+     "start_page": 31,
+     "end_page": 31,
+     "summary": "New York Times clipping reporting Einstein's letter, as honorary co-chairman of the Jewish Council for Russian War Relief, urging American Jews to keep sending supplies to the Soviet Union.",
+     "nodes": []
+    },
+    {
+     "node_id": "0026",
+     "title": "Soviet invitation through Kapitsa, 1946",
+     "start_page": 32,
+     "end_page": 34,
+     "summary": "E. G. Fitch's September 5, 1946, memo and the Moscow embassy's July 19, 1946, dispatch report a rumor that Pyotr Kapitsa invited Einstein to work in the Soviet Union and that Einstein replied to Stalin asking why Jewish scientists were held back; officials were later dismissed for anti-Semitism.",
+     "nodes": []
+    },
+    {
+     "node_id": "0027",
+     "title": "Los Angeles letter and Pravda clipping, 1947",
+     "start_page": 35,
+     "end_page": 38,
+     "summary": "A May 6, 1947, letter from Los Angeles complains that Einstein ridiculed the country after being feted in California, enclosing an April 30 Herald-Express story on Pravda naming Robert Kenny, Einstein and Paul Robeson as Soviet friends. Hoover replies May 22.",
+     "nodes": []
+    },
+    {
+     "node_id": "0028",
+     "title": "Newsweek photograph memo, May 1947",
+     "start_page": 39,
+     "end_page": 41,
+     "summary": "L. Whitson's May 22, 1947, memo to J. C. Strickland attaches pages 29 and 30 of Newsweek for May 12, 1947, showing Einstein among Americans praised by Pravda, with a list of their affiliations.",
+     "nodes": []
+    },
+    {
+     "node_id": "0029",
+     "title": "Anonymous card from Philadelphia, July 1947",
+     "start_page": 42,
+     "end_page": 44,
+     "summary": "A card mailed from Philadelphia and received July 10, 1947, asks 'Are we safe with atomic energy as long as we have men like Einstein on our list? Watch out for him,' adding that flying saucers are Russian experiments. Signed 'American.'",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0030",
+   "title": "Atomic scientists' appeal, 1948",
+   "start_page": 45,
+   "end_page": 56,
+   "summary": "Copies of Einstein's fundraising appeal for the Emergency Committee of Atomic Scientists and its reprint of 'Atomic War or Peace,' mailed to the FBI, with a State Department airgram.",
+   "nodes": [
+    {
+     "node_id": "0031",
+     "title": "Emergency Committee letter and anonymous note",
+     "start_page": 45,
+     "end_page": 47,
+     "summary": "Einstein's January 10, 1948, letter as chairman of the Emergency Committee of Atomic Scientists warns of catastrophe and seeks $1 million for public education. It came in an envelope from Lewistown, Montana, February 26, 1948, with a note asking 'Who helped A. Einstein get in to U.S.A.? What is his mission here?'",
+     "nodes": []
+    },
+    {
+     "node_id": "0032",
+     "title": "'Atomic war or peace' reprint",
+     "start_page": 48,
+     "end_page": 51,
+     "summary": "Reprint of Einstein's Atlantic Monthly article as told to Raymond Swing, arguing that only a supranational world government can prevent atomic war, with the committee's trustees list and a donation form for its $1 million fund.",
+     "nodes": []
+    },
+    {
+     "node_id": "0033",
+     "title": "Prague airgram, May 1948",
+     "start_page": 52,
+     "end_page": 52,
+     "summary": "Airgram A-427 from the American Embassy in Prague, May 11, 1948, reports that Prague papers say Einstein will visit for the International Law Congress set for August 2 to 5.",
+     "nodes": []
+    },
+    {
+     "node_id": "0034",
+     "title": "Second copy of the reprint, July 1948",
+     "start_page": 53,
+     "end_page": 56,
+     "summary": "Another copy of the 'Atomic War or Peace' reprint and Emergency Committee leaflet, stamped received July 20, 1948, and not recorded.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0035",
+   "title": "Einstein's son and naturalization records, 1949",
+   "start_page": 57,
+   "end_page": 62,
+   "summary": "Reports that the Einsteins feared a son was held in the Soviet Union, and the Newark office's check of naturalization records.",
+   "nodes": [
+    {
+     "node_id": "0036",
+     "title": "Hoover's reply to the postcard writer, January 1949",
+     "start_page": 57,
+     "end_page": 57,
+     "summary": "Hoover's January 7, 1949, letter thanks a Washington writer for the postcard of January 4, 1949, and asks to be told of any un-American activity.",
+     "nodes": []
+    },
+    {
+     "node_id": "0037",
+     "title": "Los Angeles letter on Albert Einstein Jr., April 1949",
+     "start_page": 58,
+     "end_page": 58,
+     "summary": "SAC R. B. Hood of Los Angeles writes on April 13, 1949, that a source friendly with Mrs. Einstein says the family's actions are influenced by Albert Einstein Jr. being in the Soviet Union, and that she is 'scared to death' he could be held hostage.",
+     "nodes": []
+    },
+    {
+     "node_id": "0038",
+     "title": "Ladd memo to the Director, April 1949",
+     "start_page": 59,
+     "end_page": 59,
+     "summary": "D. M. Ladd's April 25, 1949, memo passes on the Los Angeles report that Mrs. Einstein fears her son in Russia may be held as a hostage, adding it is unknown whether he is there. No action taken.",
+     "nodes": []
+    },
+    {
+     "node_id": "0039",
+     "title": "Los Angeles follow-up, May 1949",
+     "start_page": 60,
+     "end_page": 60,
+     "summary": "SAC Los Angeles reports on May 5, 1949, that the source now places the conversation 5 or 6 years earlier, when Einstein was at Caltech in Pasadena, and believed the son was from Einstein's first marriage.",
+     "nodes": []
+    },
+    {
+     "node_id": "0040",
+     "title": "Newark naturalization records, May 1949",
+     "start_page": 61,
+     "end_page": 62,
+     "summary": "SAC Newark's May 17, 1949, memo gives Trenton court records: arrival June 3, 1935, home at 112 Mercer Street, birth in Ulm March 14, 1879, sons Albert and Edward, naturalization October 1, 1940, alongside Helen Dukas and Margot Marianoff. No further inquiry planned.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0041",
+   "title": "Phoenix tip and the Winchell letter, 1950",
+   "start_page": 63,
+   "end_page": 69,
+   "summary": "A Phoenix informant's claims that Einstein was a Communist courier, and a letter forwarded by Walter Winchell listing Einstein's organizations.",
+   "nodes": [
+    {
+     "node_id": "0042",
+     "title": "Phoenix memo on an alleged courier, February 1950",
+     "start_page": 63,
+     "end_page": 65,
+     "summary": "SAC Phoenix reports on February 10, 1950, that an informant, prompted by the Alger Hiss trial, says Einstein secretly met a Los Angeles couple and acted as a Communist Party courier in the late 1920s or early 1930s. The informant also supplies comments from Elizabeth Dilling's The Red Network attacking relativity and listing Einstein's groups.",
+     "nodes": []
+    },
+    {
+     "node_id": "0043",
+     "title": "Deleted page sheet",
+     "start_page": 66,
+     "end_page": 66,
+     "summary": "FBI notice that 13 pages are withheld here under exemptions b7D and b7C, reference 61-7099-20.",
+     "nodes": []
+    },
+    {
+     "node_id": "0044",
+     "title": "Los Angeles reply, February 1950",
+     "start_page": 67,
+     "end_page": 67,
+     "summary": "SAC Los Angeles writes on February 27, 1950, that no investigation of the Phoenix report will be made unless the Bureau authorizes it.",
+     "nodes": []
+    },
+    {
+     "node_id": "0045",
+     "title": "Walter Winchell forwards a letter, February 1950",
+     "start_page": 68,
+     "end_page": 69,
+     "summary": "A February 23, 1950, note says Walter Winchell sent in a letter, marked 'Rose - Ask J.E.H.' The February 16 letter, from Palo Alto, lists 16 organizations Einstein reportedly belonged to in 1947 and asks Winchell to have him investigated.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0046",
+   "title": "FBI summaries and the search for Einstein's son, 1950",
+   "start_page": 70,
+   "end_page": 92,
+   "summary": "Headquarters summaries of the Einstein file for Director Hoover, and inquiries into the whereabouts of Albert Einstein Jr.",
+   "nodes": [
+    {
+     "node_id": "0047",
+     "title": "Belmont memo on the Princeton inquiry, March 1950",
+     "start_page": 70,
+     "end_page": 70,
+     "summary": "A. H. Belmont's March 3, 1950, memo to D. M. Ladd records asking SAC McKee of Newark to learn discreetly, through a Princeton contact, where Albert Einstein Jr. was, without open inquiries.",
+     "nodes": []
+    },
+    {
+     "node_id": "0048",
+     "title": "Hennrich memo on Albert Einstein Jr., March 1950",
+     "start_page": 71,
+     "end_page": 71,
+     "summary": "C. E. Hennrich's March 6, 1950, memo says inquiries at Princeton were negative; no one there had heard Einstein had a son. McKee suggested inquiries in Greenville, South Carolina.",
+     "nodes": []
+    },
+    {
+     "node_id": "0049",
+     "title": "Ladd summary for the Director, February 1950",
+     "start_page": 72,
+     "end_page": 73,
+     "summary": "D. M. Ladd's February 15, 1950, summary covers Einstein's background, the Roosevelt letter, AEC clearance, about 33 cited organizations and his statements. Hoover's handwritten notes mention reports of a son in Russia and ask about claims that Einstein requested Fuchs.",
+     "nodes": []
+    },
+    {
+     "node_id": "0050",
+     "title": "Keay memo to Fletcher on Professor Albert Einstein",
+     "start_page": 74,
+     "end_page": 87,
+     "summary": "V. P. Keay's confidential summary of February 13, 1950, prepared for H. B. Fletcher at his request, with four attachments.",
+     "nodes": [
+      {
+       "node_id": "0051",
+       "title": "Purpose and background",
+       "start_page": 74,
+       "end_page": 75,
+       "summary": "Einstein was born March 14, 1879, came to the US in 1933 and was naturalized October 1, 1940. Covers the Smyth Report, the 1939 letter to Roosevelt via Alexander Sachs, Szilard, the Kapitsa invitation, and the AEC's statement that he never received formal clearance.",
+       "nodes": []
+      },
+      {
+       "node_id": "0052",
+       "title": "Affiliation with subversive organizations and ideological sympathies",
+       "start_page": 76,
+       "end_page": 78,
+       "summary": "Lists Einstein's ties to organizations cited by the Attorney General and House and California committees, the Emergency Committee of Atomic Scientists' $1 million drive, his 1942 praise of the Soviet Union, and his 1950 NBC broadcast against the arms race.",
+       "nodes": []
+      },
+      {
+       "node_id": "0053",
+       "title": "Contacts and associates",
+       "start_page": 79,
+       "end_page": 82,
+       "summary": "Largely redacted. Mentions Dr. Kaul, a German agent said to hold an Einstein letter seeking his release, Fuchs's father's claim that Einstein recommended his son's release from Canadian internment, Hanns and Louise Eisler, Garry Davis, and Margaret Weigert.",
+       "nodes": []
+      },
+      {
+       "node_id": "0054",
+       "title": "Miscellaneous",
+       "start_page": 83,
+       "end_page": 83,
+       "summary": "Notes Einstein's 1920s ties to the Society of Friends of New Russia, the 1932 Woman Patriot charges, his 1937 Spanish statement, the Army's 1940 refusal to clear him, his 1947 praise of the French Communist Party, and a May 1948 newspaper story about a secret light-beam weapon that Army intelligence dismissed.",
+       "nodes": []
+      },
+      {
+       "node_id": "0055",
+       "title": "Attachments: degrees and cited organizations",
+       "start_page": 84,
+       "end_page": 87,
+       "summary": "Lists Einstein's honorary degrees, his 1921 Nobel Prize, Copley Medal and Franklin Medal, and tables of organizations cited by the Attorney General, the House Un-American Activities Committee and the California committee, with his role in each.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0056",
+     "title": "Clipping: Rankin denies Einstein A-role",
+     "start_page": 88,
+     "end_page": 88,
+     "summary": "Times-Herald clipping of February 14, 1950: Representative John Rankin of Mississippi says Einstein had nothing to do with the atomic bomb, should have been deported years ago, and that his world government plan follows the Communist line.",
+     "nodes": []
+    },
+    {
+     "node_id": "0057",
+     "title": "Ladd memo on the son and Fuchs, March 1950",
+     "start_page": 89,
+     "end_page": 90,
+     "summary": "D. M. Ladd's March 1, 1950, memo answers Hoover's notes: reviews the 1949 reports on Albert Einstein Jr., finds no record that Einstein requested Fuchs, and cites the Fuchs father's press claim. Hoover writes 'We ought to try to get a line on Einstein Jr. and where he is.'",
+     "nodes": []
+    },
+    {
+     "node_id": "0058",
+     "title": "Ladd memo on Albert Einstein Jr., March 1950",
+     "start_page": 91,
+     "end_page": 91,
+     "summary": "Ladd's March 10, 1950, memo reports that Newark could learn nothing at Princeton about Albert Einstein Jr., and that Charlotte found he had left Greenville, South Carolina, about 1943.",
+     "nodes": []
+    },
+    {
+     "node_id": "0059",
+     "title": "Deleted page sheet",
+     "start_page": 92,
+     "end_page": 92,
+     "summary": "FBI notice that 2 pages are withheld here under exemption b7C as third-party information, reference 61-7099-27.",
+     "nodes": []
+    }
+   ]
+  }
+ ]
+}

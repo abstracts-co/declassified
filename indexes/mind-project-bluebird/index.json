@@ -1,0 +1,224 @@
+{
+ "id": "mind-project-bluebird",
+ "title": "Project Bluebird",
+ "source": {
+  "url": "https://www.cia.gov/readingroom/document/cia-rdp83-01042r000800010003-1",
+  "publisher": "CIA",
+  "date": "1950-04-05",
+  "pages": 29,
+  "released": "2004-01-29",
+  "file": "https://archive.org/download/cia-readingroom-document-cia-rdp83-01042r000800010003-1/cia-rdp83-01042r000800010003-1.pdf",
+  "sha256": "67fde3ee0f113ad19f742a9abff3c5d0be0f37f17e4bbc36a63cc4a9c63fe76c",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "mind",
+ "summary": "April 1950 memo asking the Director of Central Intelligence to approve Project Bluebird, interrogation teams that would use the polygraph, drugs and hypnotism, sent to him directly rather than through the Projects Review Committee because of its sensitivity. The file also holds 1952 memos on its successor, Project ARTICHOKE.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/mind/mind-project-bluebird/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Project Bluebird submission to the DCI",
+   "start_page": 1,
+   "end_page": 7,
+   "summary": "April 1950 package asking the Director of Central Intelligence to approve Project Bluebird: a cover memo approved by Hillenkoetter, the proposal for polygraph, drug and hypnotism interrogation teams, Attachment A's itemized budget and the allocation of funds, all totalling $65,515 for one year.",
+   "nodes": [
+    {
+     "node_id": "0001",
+     "title": "Project Bluebird cover memo",
+     "start_page": 1,
+     "end_page": 1,
+     "summary": "Memo of April 5, 1950 from the Chief, Inspection and Security Staff, a Colonel, GSC, asking the Director of Central Intelligence to approve Project Bluebird and its funds directly, bypassing the Projects Review Committee because of its sensitivity. Knowledge is to be kept to a minimum. Approved for $65,515 on 20 April 1950 by R. H. Hillenkoetter, Rear Admiral, USN.",
+     "nodes": []
+    },
+    {
+     "node_id": "0002",
+     "title": "Project Bluebird proposal",
+     "start_page": 2,
+     "end_page": 4,
+     "summary": "Operational support proposal for two interrogation teams using polygraph, drugs and hypnotism, run by the Inspection and Security Staff for OSO and OPC, with a one-year budget of $65,515.",
+     "nodes": [
+      {
+       "node_id": "0003",
+       "title": "References and purpose",
+       "start_page": 2,
+       "end_page": 3,
+       "summary": "Agreed at a 14 March meeting of ADOSO, ADOPC, ADOSI and Chief, I&SS. Teams of a psychiatrist, a polygraph-hypnotist and a technician would use polygraph, drugs and hypnotism, under polygraph cover, to test defectors and agents. Interest stems from spy trials in Hungary. Two teams are planned. Use is defensive; positive hypnotism needs DCI approval.",
+       "nodes": []
+      },
+      {
+       "node_id": "0004",
+       "title": "Operational control, security, team control, training and field support",
+       "start_page": 3,
+       "end_page": 3,
+       "summary": "A board of ADSO, ADOPC and Chief, I&SS approves team use only for specific projects, never general assignment to an area. Team use is Top Secret. Teams stay under Chief, I&SS, and train, indoctrinate and experiment between field assignments. I&SS gives all training in polygraph, drugs, interrogation and hypnotism; OSO or OPC gives field support.",
+       "nodes": []
+      },
+      {
+       "node_id": "0005",
+       "title": "Budget",
+       "start_page": 3,
+       "end_page": 4,
+       "summary": "Estimated budget for one year, detailed in Attachment A: personnel $40,800, supplies $1,025, equipment $3,190, transportation $18,000 and rent $2,500, for a total of $65,515.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0006",
+     "title": "Attachment A",
+     "start_page": 5,
+     "end_page": 5,
+     "summary": "Itemized budget: one GS-15 psychiatrist at $10,000, one GS-12 psychiatrist at $6,400, two GS-13 polygraph specialists at $15,200 and two GS-9 technicians at $9,200. Supplies include polygraph paper and $100 of drugs; equipment includes a Keeler polygraph at $1,295, syringes, recorders and cameras. Travel is $18,000 and a doctor's office $200 a month.",
+     "nodes": []
+    },
+    {
+     "node_id": "0007",
+     "title": "Allocation of funds",
+     "start_page": 6,
+     "end_page": 7,
+     "summary": "Allocation of the $65,515: covert contract consultants $16,400, services $100, I&SS unvouchered personal services $24,400, consultants' office rent $2,400, I&SS inspection travel $18,000, and vouchered funds for equipment $3,190 and supplies $1,025. The psychiatrists are covert contract consultants assigned to I&SS; travel falls under inspection of foreign installations.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0008",
+   "title": "Bluebird document handling memo",
+   "start_page": 8,
+   "end_page": 8,
+   "summary": "Memo of March 17, 1951 from the Assistant Deputy, Inspection and Security, Sheffield Edwards, to AD/OSI, AD/OSO and OPC. BLUEBIRD documents are Top Secret, hand-carried Eyes Only, though some may be Secret if they hide the program's purpose. Army, Navy, Air Force and FBI contacts will exchange information, and I&S keeps a control list of everyone briefed.",
+   "nodes": []
+  },
+  {
+   "node_id": "0009",
+   "title": "Transmittal slip",
+   "start_page": 9,
+   "end_page": 9,
+   "summary": "Blank transmittal slip addressed by hand to Janice, with no remarks or sender filled in.",
+   "nodes": []
+  },
+  {
+   "node_id": "0010",
+   "title": "Memorandum to Assistant Directors OSO, OPC and OSI: Project Bluebird",
+   "start_page": 10,
+   "end_page": 10,
+   "summary": "Eyes Only, Top Secret copy 4 of 4 from the Chief, Inspection and Security Staff, calling a meeting at 2:00 p.m. on 14 March at 2210 E Street to discuss specialized interrogation teams called Project Bluebird. The agenda covers procurement, training, control and research of two teams and their defensive use outside the United States, plus funds and vacancies.",
+   "nodes": []
+  },
+  {
+   "node_id": "0011",
+   "title": "Problems involved in obtaining a psychiatrist",
+   "start_page": 11,
+   "end_page": 12,
+   "summary": "Memo of 27 February 1950 to the Deputy Chief, I&S Staff, sender redacted. Civilian psychiatrists cost too much, lack time and may balk at revolutionary phases. A redacted active-duty officer, keen on hypnosis, drugs and ESP and fully cooperative, is recommended full time for drug injection work, subconscious isolation research, polygraph exams and ESP research.",
+   "nodes": []
+  },
+  {
+   "node_id": "0012",
+   "title": "Withheld pages notice",
+   "start_page": 13,
+   "end_page": 13,
+   "summary": "Placeholder sheet stating that the next 2 pages of the document are exempt from release.",
+   "nodes": []
+  },
+  {
+   "node_id": "0013",
+   "title": "Budget and Attachment A, second copy",
+   "start_page": 14,
+   "end_page": 15,
+   "summary": "Another copy of the proposal's page 3 budget, personnel $40,800, supplies $1,025, equipment $3,190, transportation $18,000 and rent $2,500, totalling $65,515, followed by a faint copy of Attachment A listing the same psychiatrists, polygraph staff, supplies, equipment, travel and rent.",
+   "nodes": []
+  },
+  {
+   "node_id": "0014",
+   "title": "Withheld pages notice",
+   "start_page": 16,
+   "end_page": 16,
+   "summary": "Placeholder sheet stating that the next 2 pages of the document are exempt from release.",
+   "nodes": []
+  },
+  {
+   "node_id": "0015",
+   "title": "Bluebird document handling memo, second copy",
+   "start_page": 17,
+   "end_page": 17,
+   "summary": "Another copy of the March 1951 memo from the Assistant Deputy, Inspection and Security, to AD/OSI, AD/OSO and OPC, with the signature redacted. It sets Top Secret Eyes Only handling, Secret cover documents, Army, Navy, Air Force and FBI contacts, and an I&S control list of those briefed on BLUEBIRD.",
+   "nodes": []
+  },
+  {
+   "node_id": "0016",
+   "title": "Special interrogations",
+   "start_page": 18,
+   "end_page": 19,
+   "summary": "Eyes Only memo of 20 May 1952 from the Deputy Security Officer/CIA to the Assistant Director, Scientific Intelligence. The office concurs in the 15 May 1952 staff study on special interrogations, Project ARTICHOKE, and will take on its duties; after six months a meeting will decide who holds permanent responsibility. Two copies, signer redacted.",
+   "nodes": []
+  },
+  {
+   "node_id": "0017",
+   "title": "Memorandum of meeting: Project Bluebird",
+   "start_page": 20,
+   "end_page": 21,
+   "summary": "9 May 1950 record of a meeting in Dr. Chadwell's OSI office with I&SS on overt collection for Bluebird from US Government sources. Plans include asking the Army Surgeon General to search Nuremberg Trials papers, and collecting on speech-inducing drugs, narcoanalysis, hypnotism and Soviet trials. Estimates on its use in unconventional warfare may follow.",
+   "nodes": []
+  },
+  {
+   "node_id": "0018",
+   "title": "Project Bluebird submission, second copy",
+   "start_page": 22,
+   "end_page": 28,
+   "summary": "Second copy of the April 1950 package to the Director of Central Intelligence: cover memo with Hillenkoetter's approval, the Project Bluebird proposal, Attachment A and the allocation of funds, totalling $65,515.",
+   "nodes": [
+    {
+     "node_id": "0019",
+     "title": "Project Bluebird cover memo",
+     "start_page": 22,
+     "end_page": 22,
+     "summary": "Another copy of the April 5, 1950 memo from the Chief, Inspection and Security Staff asking the DCI to approve Project Bluebird directly, outside the Projects Review Committee. The handwritten approval, with the amount redacted, is signed by R. H. Hillenkoetter on 20 April; concurrences are redacted.",
+     "nodes": []
+    },
+    {
+     "node_id": "0020",
+     "title": "Project Bluebird proposal",
+     "start_page": 23,
+     "end_page": 25,
+     "summary": "Same proposal as pages 2 to 4: teams of a psychiatrist, polygraph-hypnotist and technician using polygraph, drugs and hypnotism to test defectors and agents, a control board of ADSO, ADOPC and Chief, I&SS, Top Secret handling, I&SS training, and a one-year budget of $65,515.",
+     "nodes": []
+    },
+    {
+     "node_id": "0021",
+     "title": "Attachment A",
+     "start_page": 26,
+     "end_page": 26,
+     "summary": "Same itemized budget as page 5: two psychiatrists, two GS-13 polygraph specialists and two GS-9 technicians, polygraph supplies and $100 of drugs, a Keeler polygraph, syringes, recorders and cameras, $18,000 travel and $2,500 rent and telephone, totalling $65,515.",
+     "nodes": []
+    },
+    {
+     "node_id": "0022",
+     "title": "Allocation of funds",
+     "start_page": 27,
+     "end_page": 28,
+     "summary": "Same fund allocation as pages 6 and 7: covert contract consultants $16,400, I&SS unvouchered personal services $24,400, inspection travel $18,000, rent $2,400, services $100, vouchered equipment $3,190 and supplies $1,025, totalling $65,515.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0023",
+   "title": "Bluebird document handling memo, third copy",
+   "start_page": 29,
+   "end_page": 29,
+   "summary": "Copy of the March 17, 1951 memo, TS# 22363, from the Assistant Deputy, Inspection and Security, Sheffield Edwards, to AD/OSI, AD/OSO and OPC on Top Secret Eyes Only handling of BLUEBIRD documents, liaison with Army, Navy, Air Force and FBI, and an I&S control list.",
+   "nodes": []
+  }
+ ]
+}

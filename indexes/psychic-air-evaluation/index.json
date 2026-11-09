@@ -1,0 +1,517 @@
+{
+ "id": "psychic-air-evaluation",
+ "title": "An Evaluation of Remote Viewing",
+ "source": {
+  "url": "https://www.cia.gov/readingroom/document/cia-rdp96-00791r000200180006-4",
+  "publisher": "CIA",
+  "date": "1995-09-29",
+  "pages": 206,
+  "released": "2002-05-22",
+  "file": "https://archive.org/download/CIA-RDP96-00791R000200180006-4/CIA-RDP96-00791R000200180006-4.pdf",
+  "sha256": "9b2f4887e5d740c862d7b32adba33279450b244a145ff51d00bf61ac7e377e11",
+  "license": "Declassified CIA record, no known copyright restrictions (contractor report by AIR)"
+ },
+ "country": "us",
+ "topic": "psychic",
+ "summary": "The 1995 review of the government's remote-viewing program by the American Institutes for Research, commissioned by the CIA, with assessments by statistician Jessica Utts and psychologist Ray Hyman. It found remote viewing had never been used to guide intelligence operations and concluded that continued use was not warranted; the program was closed that year.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/psychic/psychic-air-evaluation/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Cover and title page",
+   "start_page": 1,
+   "end_page": 2,
+   "summary": "Cover and title page of 'An Evaluation of Remote Viewing: Research and Applications' by Michael D. Mumford, Andrew M. Rose and David A. Goslin, prepared by the American Institutes for Research, 3333 K Street NW, Washington, DC, and dated September 29, 1995.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "Table of contents",
+   "start_page": 3,
+   "end_page": 3,
+   "summary": "Contents: executive summary; chapters on background and history, the evaluation plan, research reviews (Utts review, Hyman review, Utts reply, points of agreement and disagreement, conclusions from the expert reviews), utility in intelligence operations and conclusions; appendices on reviewer vitae, bibliography, interviewer material and the Star Gate operational tasking evaluation.",
+   "nodes": []
+  },
+  {
+   "node_id": "0002",
+   "title": "Executive summary",
+   "start_page": 4,
+   "end_page": 10,
+   "summary": "AIR reviewed the remote viewing research and its operational use with a panel including Jessica Utts and Ray Hyman. Laboratory hits exceeded chance, but the cause was unclear because the same viewers, judge and targets were used. End users found reports vague, inconsistent and never used to guide operations, so continued intelligence use is not warranted.",
+   "nodes": []
+  },
+  {
+   "node_id": "0003",
+   "title": "Chapter One: Background and history",
+   "start_page": 11,
+   "end_page": 17,
+   "summary": "Why the evaluation was done: the 1988 National Research Council review found little support for remote viewing, yet 50 to 100 more studies followed, and Congress asked the CIA to consider taking over the program. Describes the phenomenon, the Star Gate program's history and the CIA's evaluation objectives.",
+   "nodes": [
+    {
+     "node_id": "0004",
+     "title": "Introduction",
+     "start_page": 11,
+     "end_page": 13,
+     "summary": "Chapter divider, then background: a National Research Council panel requested by the Army Research Institute and directed by David Goslin found little support for remote viewing in 1988. Perhaps 50 to 100 studies followed after 1986. At Congress's request the CIA considered taking on the program and contracted AIR to judge its long-term practical value.",
+     "nodes": []
+    },
+    {
+     "node_id": "0005",
+     "title": "Remote viewing",
+     "start_page": 13,
+     "end_page": 14,
+     "summary": "Explains the early paradigm: a beacon or sender visits remote sites, a viewer describes them in words and drawings, and a judge rank-orders the locations against the descriptions. Notes early statistical and cueing flaws, newer double-blind designs using National Geographic photographs, and the hoped-for value as a supplement to riskier intelligence collection.",
+     "nodes": []
+    },
+    {
+     "node_id": "0006",
+     "title": "Program history",
+     "start_page": 14,
+     "end_page": 15,
+     "summary": "Star Gate was a DIA program using remote viewing for intelligence, with operations, research and development, and foreign assessment objectives. The CIA's program ran from 1972 to 1977; DIA's began about 1985. In 1995 the CIA declassified its past efforts, and in June 1995 its Office of Research and Development contracted AIR for an external review.",
+     "nodes": []
+    },
+    {
+     "node_id": "0007",
+     "title": "Evaluation objectives",
+     "start_page": 15,
+     "end_page": 17,
+     "summary": "The CIA asked AIR for a scientific evaluation of the research, a separate judgment of program utility, consideration of changes that might improve results, and recommendations for future strategy. Findings were to rest on DIA and CIA program data and exclude foreign assessment. Outlines the remaining chapters; the last page is blank.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0008",
+   "title": "Chapter Two: Evaluation plan",
+   "start_page": 18,
+   "end_page": 28,
+   "summary": "How AIR evaluated the research and intelligence-gathering components: an expert panel reviewing the laboratory studies, and for operations a review of boundary conditions in prior research, structured interviews with users, viewers and the program manager, and analysis of user ratings of accuracy and value.",
+   "nodes": [
+    {
+     "node_id": "0009",
+     "title": "Remote viewing research",
+     "start_page": 18,
+     "end_page": 23,
+     "summary": "The research program aimed to prove the phenomenon, find causal mechanisms and improve usefulness. The panel: Jessica Utts (UC Davis statistics), Ray Hyman (University of Oregon psychology), AIR's Michael Mumford and Andrew Rose, Lincoln Moses of Stanford, and David Goslin. Edwin May listed key studies; the two experts wrote independent reports, then debated disagreements.",
+     "nodes": []
+    },
+    {
+     "node_id": "0010",
+     "title": "Intelligence gathering: the operational program",
+     "start_page": 23,
+     "end_page": 28,
+     "summary": "Operations ran until spring 1995: viewers answered agency taskings in three- or four-page reports, rated for accuracy and value from 1994. AIR drew on prior research on boundary conditions, July and August 1995 interviews with seven end-user representatives, three viewers and the program manager, and an earlier analysis of user feedback reproduced as Appendix D.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0011",
+   "title": "Chapter Three: Research reviews",
+   "start_page": 29,
+   "end_page": 117,
+   "summary": "The expert reviews of the laboratory research: Jessica Utts's case that psychic functioning is established, Ray Hyman's skeptical evaluation, Utts's reply and AIR's discussion. AIR concludes there is a statistically significant anomaly but no convincing evidence of a paranormal cause, no identified mechanism and no evidence of usefulness for intelligence gathering.",
+   "nodes": [
+    {
+     "node_id": "0012",
+     "title": "Introduction",
+     "start_page": 29,
+     "end_page": 30,
+     "summary": "Chapter divider listing Review 1 (Utts), Review 2 (Hyman), the reply, points of agreement and disagreement, and conclusions. The introduction explains the order of the reviews and notes that both reviewers covered classified program research and earlier studies bearing on the phenomenon.",
+     "nodes": []
+    },
+    {
+     "node_id": "0013",
+     "title": "Review 1: An assessment of the evidence for psychic functioning",
+     "start_page": 31,
+     "end_page": 71,
+     "summary": "Jessica Utts's review, dated September 1, 1995, of government-sponsored research at SRI and SAIC. She concludes that, by the standards of any other science, psychic functioning is well established, with effects between small and medium replicated across laboratories, and recommends research into how it works rather than further proof.",
+     "nodes": [
+      {
+       "node_id": "0014",
+       "title": "Abstract",
+       "start_page": 31,
+       "end_page": 32,
+       "summary": "Utts summarizes: results far beyond chance, methodological objections refuted, similar effects replicated worldwide, magnitude between small and medium. A sender seems unnecessary and precognition works well; a psychic sense may detect change like the other senses. Future experiments should focus on understanding and usefulness instead of proof.",
+       "nodes": []
+      },
+      {
+       "node_id": "0015",
+       "title": "1. Introduction",
+       "start_page": 32,
+       "end_page": 33,
+       "summary": "States the aims: judge whether psychic functioning is possible, useful to government and explained, treating the field like any statistical science. Traces sponsorship from the Stanford Research Institute in the early 1970s until 1989, then to SAIC under Edwin May, and outlines the report's sections.",
+       "nodes": []
+      },
+      {
+       "node_id": "0016",
+       "title": "2. Science notes",
+       "start_page": 33,
+       "end_page": 41,
+       "summary": "Defines anomalous cognition (telepathy, clairvoyance, precognition) and anomalous perturbation; explains p-values, replication, effect sizes and rank-order judging against five targets. Lists methodological safeguards, and discusses prima facie evidence from operational cases, such as a viewer who described a microwave generator with 80 percent accuracy.",
+       "nodes": []
+      },
+      {
+       "node_id": "0017",
+       "title": "3. The SRI era",
+       "start_page": 41,
+       "end_page": 45,
+       "summary": "Early operational successes cited by Puthoff and Targ, including codewords from a West Virginia site and a crane at Semipalatinsk; criticized natural-site experiments; and May's 1988 analysis of 154 SRI experiments with over 26,000 trials. Selected viewers outperformed others, distance and shielding did not matter, and effect sizes matched other laboratories.",
+       "nodes": []
+      },
+      {
+       "node_id": "0018",
+       "title": "4. The SAIC era",
+       "start_page": 46,
+       "end_page": 55,
+       "summary": "Reviews the ten SAIC experiments listed by Edwin May on July 25, 1995, six of them remote viewing (Table 1). Expert viewers 009 and 372 scored 0.35 and 0.34, close to their SRI effect size of 0.385, and their results correlated at .901. Examines controls in Experiment 1 and findings on target entropy, remote staring and enhanced binary guessing.",
+       "nodes": []
+      },
+      {
+       "node_id": "0019",
+       "title": "5. External validation: replications of other experiments",
+       "start_page": 55,
+       "end_page": 58,
+       "summary": "Compares remote viewing with ganzfeld experiments at PRL in Princeton, Amsterdam, Edinburgh and the Institute for Parapsychology in North Carolina, with hit rates of 32 to 37 percent. Table 3 gives effect sizes of .209 for SRI and .230 for SAIC remote viewing; Utts calls the effect robust and consistent across laboratories.",
+       "nodes": []
+      },
+      {
+       "node_id": "0020",
+       "title": "6. Is remote viewing useful?",
+       "start_page": 58,
+       "end_page": 59,
+       "summary": "Utts says practical use is beyond her scope but suggests that some people have more talent and are easier to find than to train, that Viewer 372 seems good at technical sites, that end users must learn what the method can and cannot do, and that usefulness depends on the purpose and the user's familiarity with the target.",
+       "nodes": []
+      },
+      {
+       "node_id": "0021",
+       "title": "7. Conclusions and recommendations",
+       "start_page": 59,
+       "end_page": 59,
+       "summary": "Utts concludes anomalous cognition is possible and has been demonstrated by accepted scientific criteria, replicated across laboratories and cultures. Little is known of how it works: senders seem unnecessary and distance in time and space is no impediment. She calls further searches for proof wasteful and expects answers on mechanism within a decade.",
+       "nodes": []
+      },
+      {
+       "node_id": "0022",
+       "title": "8. References",
+       "start_page": 60,
+       "end_page": 60,
+       "summary": "Works cited in the Utts review, including Bem and Honorton's 1994 'Does psi exist?', ganzfeld papers by Bierman, Broughton and Alexander, and Morris and colleagues, SAIC and SRI reports by Edwin May and colleagues, and Puthoff and Targ's 1975 Stanford Research Institute report.",
+       "nodes": []
+      },
+      {
+       "node_id": "0023",
+       "title": "Appendix 1: Effect size measure used with rank order judging",
+       "start_page": 61,
+       "end_page": 61,
+       "summary": "Derives the effect size used with rank-order judging: for N choices the expected rank is (N+1)/2, so with five choices the expected rank is 3 and the variance 2, giving an effect size equal to 3 minus the average rank, divided by the square root of 2.",
+       "nodes": []
+      },
+      {
+       "node_id": "0024",
+       "title": "Appendix 2: A brief description of the SAIC experiments",
+       "start_page": 62,
+       "end_page": 71,
+       "summary": "Purpose, method and results of each SAIC experiment: six remote viewing studies on sender and target dependencies, binary coding, lucid dreams, ERD behavior and entropy (Table 4); MEG and EEG brain studies that detected no effect; a binary-target guessing replication; and remote observation of skin response, significant at p = .036 and .014. The last page is blank.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0025",
+     "title": "Review 2: Evaluation of program on anomalous mental phenomena",
+     "start_page": 72,
+     "end_page": 107,
+     "summary": "Ray Hyman's review, dated September 11, 1995, of the SRI and SAIC program. He agrees the SAIC experiments are better designed and show non-chance effects, but argues that statistical departures from one laboratory and one judge, without a positive theory, do not prove anomalous cognition, and that operational value cannot be separated from laboratory findings.",
+     "nodes": [
+      {
+       "node_id": "0026",
+       "title": "Introduction",
+       "start_page": 72,
+       "end_page": 74,
+       "summary": "Hyman focuses on the ten SAIC experiments of 1992 to 1994 as the best documented and quotes Utts's conclusion. He agrees the SAIC work avoided earlier flaws and its effects are too large to be flukes, but answers no to three questions: is anomalous cognition established, are flaws excluded, and do results match other laboratories?",
+       "nodes": []
+      },
+      {
+       "node_id": "0027",
+       "title": "Scientific status of the program",
+       "start_page": 74,
+       "end_page": 76,
+       "summary": "Science is communal: one laboratory's findings count only when replicated elsewhere. Secrecy kept the SRI and SAIC programs from peer review and outside replication and yielded only ten adequate experiments in over twenty years, while sponsors' demands spread the inquiry over too many questions with too few resources.",
+       "nodes": []
+      },
+      {
+       "node_id": "0028",
+       "title": "Parapsychology's status as a science",
+       "start_page": 76,
+       "end_page": 80,
+       "summary": "Traces psychical research from the Society for Psychical Research, founded in 1882, through J.B. Rhine's program and the failures to replicate it. Hyman argues that parapsychology, unlike other sciences, lacks a cumulative database, discarding evidence earlier generations called solid, which leaves its scientific status shaky at best.",
+       "nodes": []
+      },
+      {
+       "node_id": "0029",
+       "title": "The claim that anomalous cognition exists",
+       "start_page": 80,
+       "end_page": 86,
+       "summary": "Examines Utts's three supporting claims. Parapsychology alone rests on rejecting a null hypothesis; new protocols need time before flaws surface, as with the Soal card-guessing case and a pattern Hyman found in autoganzfeld data; and average effect sizes pooled across programs are meaningless composites of arbitrary units.",
+       "nodes": []
+      },
+      {
+       "node_id": "0030",
+       "title": "The SAIC program",
+       "start_page": 86,
+       "end_page": 88,
+       "summary": "The SAIC experiments improved on SRI work with proper randomization and independent trials, but are new and were run in secrecy in one laboratory with the same viewers, targets and investigators. Edwin May was the sole judge of all free-response experiments; both reviewers want results confirmed by different judges.",
+       "nodes": []
+      },
+      {
+       "node_id": "0031",
+       "title": "Has anomalous cognition been proven?",
+       "start_page": 88,
+       "end_page": 92,
+       "summary": "Hyman says no. Proof would need new viewers, target pools, independent judges and outside replication, plus a positive theory to set boundary conditions. He criticizes post hoc signs of psi such as decline and displacement effects, and says ganzfeld and remote viewing results differ in altered states, judging and target type.",
+       "nodes": []
+      },
+      {
+       "node_id": "0032",
+       "title": "What needs to be explained?",
+       "start_page": 92,
+       "end_page": 99,
+       "summary": "Disputes that a statistical anomaly demands a paranormal explanation. No other science infers phenomena from statistics alone; parapsychology has no exemplar students can replicate; and its effects are not lawful, varying across viewers and experimenters. Contrasts mitogenetic radiation and Leverrier's prediction of a new planet from the motion of Uranus.",
+       "nodes": []
+      },
+      {
+       "node_id": "0033",
+       "title": "Potentials for operational applications",
+       "start_page": 99,
+       "end_page": 102,
+       "summary": "Even if real, remote viewing may not aid intelligence: Edwin May estimated about 20 percent of a viewer's information is accurate, with no way to tell which. Operational claims rest on subjective validation, as in a study where a judge found uncanny matches to the wrong sites. Hyman proposes double-blind tests with decoy targets.",
+       "nodes": []
+      },
+      {
+       "node_id": "0034",
+       "title": "Suggestions: what next?",
+       "start_page": 102,
+       "end_page": 104,
+       "summary": "Hyman credits the SAIC and ganzfeld work with sophistication well above earlier research and suggests funding attempts at independent replication. The first step, agreed with Utts, is to rejudge the SAIC protocols with independent judges blind to the targets; if results hold, replicate elsewhere and seek lawful relationships.",
+       "nodes": []
+      },
+      {
+       "node_id": "0035",
+       "title": "Conclusions",
+       "start_page": 104,
+       "end_page": 107,
+       "summary": "The SAIC experiments are superior to earlier work, but secrecy, too few experiments, experienced viewers and a single judge limit them. Hyman accepts that real effects occur but says that without a positive theory they do not show psychic functioning. He urges independent judging and replication and ties operational utility to laboratory findings.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0036",
+     "title": "The reply: response to Ray Hyman's report of September 11, 1995",
+     "start_page": 108,
+     "end_page": 111,
+     "summary": "Utts largely concurs with Hyman but rebuts three claims: parapsychology does have a cumulative database, citing Schouten on its small resources and the ganzfeld lineage; observing an effect before explaining it is normal science, as with electromagnetic fields and health; and the autoganzfeld can serve as an exemplar, though, like the aspirin study, it needs many trials.",
+     "nodes": []
+    },
+    {
+     "node_id": "0037",
+     "title": "Discussion: points of agreement and disagreement",
+     "start_page": 112,
+     "end_page": 115,
+     "summary": "AIR judges both reviews exceptional and notes broad agreement that a statistically significant effect exists and that methods improved after the NRC review. They differ on causation. AIR stresses monomethod bias from the same viewers, judge, targets and scoring, calls for independent judges and causal research, and doubts weak, erratic effects have practical value.",
+     "nodes": []
+    },
+    {
+     "node_id": "0038",
+     "title": "Conclusions from the expert reviews",
+     "start_page": 115,
+     "end_page": 117,
+     "summary": "AIR answers the four questions put to the reviewers: statistically significant effects were obtained; no direct evidence ties them to a paranormal ability; no mechanism has been identified; and the size, consistency and need for interpretation of the effects argue against intelligence applications. The last page is blank.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0039",
+   "title": "Chapter Four: Evaluating utility in intelligence operations",
+   "start_page": 118,
+   "end_page": 134,
+   "summary": "Assuming remote viewing exists, AIR tests its intelligence value through laboratory boundary conditions, interviews with users, viewers and the program manager, and user ratings of accuracy and value. All three show vague, inconsistent reports that were never actionable, so remote viewing has no real value for intelligence operations at present.",
+   "nodes": [
+    {
+     "node_id": "0040",
+     "title": "Research on boundary conditions",
+     "start_page": 118,
+     "end_page": 124,
+     "summary": "Chapter divider, then conditions limiting operational use: senders and distance seem not to matter, but effects came with familiar static photographs rather than dynamic targets, specific binary-coded judging gave weak effects, feedback is often impossible in the field, training is unproven and cross-judge agreement is unknown. The research argues against operational use.",
+     "nodes": []
+    },
+    {
+     "node_id": "0041",
+     "title": "Interview findings",
+     "start_page": 124,
+     "end_page": 131,
+     "summary": "End users found reports vague, accurate only on stereotyped background, inconsistent between viewers and never a basis for decisions. The three viewers, using methods from meditation to channelling, said written reports were sometimes adjusted to fit known facts. The program manager said no group used viewings as a primary basis for operations.",
+     "nodes": []
+    },
+    {
+     "node_id": "0042",
+     "title": "User assessments",
+     "start_page": 131,
+     "end_page": 132,
+     "summary": "Users rated forty viewings from 1994 and 1995: average accuracy 3.0 on a six-point scale and value 3.5 of 5, indicating low value. No single viewer stood out. Two organizations, one tracking people and one in combat intelligence, rated results higher, but their viewers had substantial background information on the targets.",
+     "nodes": []
+    },
+    {
+     "node_id": "0043",
+     "title": "Information gathering applications: operational conclusions",
+     "start_page": 133,
+     "end_page": 134,
+     "summary": "Laboratory conditions such as feedback and a constrained target pool are unlikely in operations, and viewings are vague, ambiguous and inconsistently accurate. Research, interviews and user ratings all show no real value for intelligence at present, and further use would need major theoretical and practical advances. The last page is blank.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0044",
+   "title": "Chapter Five: Conclusions",
+   "start_page": 135,
+   "end_page": 139,
+   "summary": "A statistically significant effect was observed, but with a single judge and no causal mechanism the research does not unambiguously show a paranormal phenomenon. Remote viewing has not been shown to have intelligence value, never yielded actionable intelligence, and reports were changed to fit known cues. Continued support for the operational component is not justified.",
+   "nodes": []
+  },
+  {
+   "node_id": "0045",
+   "title": "Appendix A: Reviewer vitae",
+   "start_page": 140,
+   "end_page": 152,
+   "summary": "Curricula vitae of the expert reviewers. Ray Hyman, psychology professor at the University of Oregon, born 1928, formerly at Harvard, CSICOP executive council member, author of The Elusive Quarry and a former mentalist. Jessica Utts, statistics professor at UC Davis, Penn State PhD 1978, SRI visiting scientist 1987-88, with her full publications list.",
+   "nodes": []
+  },
+  {
+   "node_id": "0046",
+   "title": "Appendix B: Bibliography",
+   "start_page": 153,
+   "end_page": 162,
+   "summary": "List of the program documents given to the review panel, dated 1978 to 1994: SRI International and SAIC reports by Edwin May, Nevin Lantz, G.S. Hubbard, E. DeGraff and others on remote viewing, anomalous cognition and remote action, followed by SAIC and SRI papers listed by title, such as evaluation protocols, training procedures and countermeasures studies.",
+   "nodes": []
+  },
+  {
+   "node_id": "0047",
+   "title": "Appendix C: Interviewer materials",
+   "start_page": 163,
+   "end_page": 179,
+   "summary": "The instructions and question lists AIR used for its 1995 interviews, and the reports of interviews with three end-user groups, the three Star Gate viewers and the program manager.",
+   "nodes": [
+    {
+     "node_id": "0048",
+     "title": "Interviewer instructions and interview questions",
+     "start_page": 163,
+     "end_page": 168,
+     "summary": "Interviewers were to promise confidentiality, explain the program transfer and congressional mandate, work through the questions in order in about ninety minutes, and return material to Michael Mumford. Lists twelve questions for users, fifteen for viewers and sixteen for the program manager, moving from background to process to evaluation.",
+     "nodes": []
+    },
+    {
+     "node_id": "0049",
+     "title": "Interview reports",
+     "start_page": 169,
+     "end_page": 179,
+     "summary": "Five reports from July and August 1995: a unit commander whose espionage suspect drew four inaccurate viewings; a manager using viewings on criminal organizations and ships for background; a group seeking missing DoD personnel whose map tests failed; the three viewers, who adjusted reports to known facts; and the program manager, who said no viewing drove an operational decision.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0050",
+   "title": "Appendix D: Star Gate operational tasking evaluation",
+   "start_page": 180,
+   "end_page": 206,
+   "summary": "A summary report on 40 Star Gate operational tasks scored by five user organizations in 1994 and 1995, with interview synopses. Accuracy scores clustered at 2 and 3 of 6, value at 3 and 4 of 5. The author finds operational utility cannot be substantiated and urges scientific method in tasking and evaluation.",
+   "nodes": [
+    {
+     "node_id": "0051",
+     "title": "1.0 Executive summary",
+     "start_page": 180,
+     "end_page": 181,
+     "summary": "Divider, then the summary: from 1986 to early FY 1995 the DoD program received over 200 tasks. By May 1, 1995, three viewers had answered 40 tasks from five organizations, yielding 99 accuracy and 100 value scores, with 13 accuracy scores of 1 and no value score of 1. Operational utility cannot be substantiated.",
+     "nodes": []
+    },
+    {
+     "node_id": "0052",
+     "title": "2.0 Generic description of operational tasking",
+     "start_page": 181,
+     "end_page": 184,
+     "summary": "The program manager gave viewers a minimal tasking sheet (Figure 2-1, July 1994) and the user's identity; session notes and sketches went to the user for scoring. DIA tasks for Org. B and Org. C named people or vessels; Org. A used beacons; Org. D asked about North Korea. Eight 1993 North Korean tunnel tasks got only narrative evaluations.",
+     "nodes": []
+    },
+    {
+     "node_id": "0053",
+     "title": "3.0 Evaluation measures",
+     "start_page": 185,
+     "end_page": 186,
+     "summary": "Accuracy was scored on a six-point scale and value on a five-point scale drawn from Defense Intelligence Agency Manual 58-13, with subjective wording such as 'may' and 'possibly' and no guidance on how much of a response had to qualify. Table 3-2 defines value from major significance to no value.",
+     "nodes": []
+    },
+    {
+     "node_id": "0054",
+     "title": "4.0 Evaluation summary and comments",
+     "start_page": 186,
+     "end_page": 193,
+     "summary": "Thirty-nine rated tasks date from 1994 and one from 1995; Tables 4-1 and 4-2 list scores by task, organization and viewer. Value scores ran below accuracy and most accuracy scores of 1 are discounted. Org. C outscored Org. B on similar targets, Org. D topics were in the open media, and Org. A's beacon evaluators inflated accuracy.",
+     "nodes": []
+    },
+    {
+     "node_id": "0055",
+     "title": "5.0 General comments on the process",
+     "start_page": 193,
+     "end_page": 194,
+     "summary": "Nonspecific targets and knowledge of the tasking organization may have telegraphed answers, producing stream-of-consciousness reports into which evaluators could read their own interests. One viewer said the protocols differed from research protocols. North Korean and 1990-91 Middle East predictions allow a later check of precognitive accuracy.",
+     "nodes": []
+    },
+    {
+     "node_id": "0056",
+     "title": "6.0 Summary from user interviews",
+     "start_page": 194,
+     "end_page": 195,
+     "summary": "The author interviewed every tasking organization except Org. D. Users were 'grasping at straws'; no information was specific enough to task other assets; accurate portions were general; two would pay if it was cheap. A believing chief may explain Org. C's higher scores, and Org. A's beacon-evaluators agreed blind scoring would be lower.",
+     "nodes": []
+    },
+    {
+     "node_id": "0057",
+     "title": "7.0 Conclusions and recommendations",
+     "start_page": 195,
+     "end_page": 198,
+     "summary": "The value of the information cannot be readily discerned; much is wrong or irrelevant and can act as disinformation. The author, likening the field to a religion, recommends clearly defined scoring measures, multiple independent evaluators, blind tests with known answers, more specific targets and a post-analysis of the North Korean and Middle East predictions.",
+     "nodes": []
+    },
+    {
+     "node_id": "0058",
+     "title": "Appendix A to Appendix D",
+     "start_page": 199,
+     "end_page": 200,
+     "summary": "Divider for Appendix A to Appendix D, which section 3.0 describes as a sanitized extract from a narrative evaluation of one task series. The next page is withheld, marked 'Next 1 Page(s) In Document Exempt'.",
+     "nodes": []
+    },
+    {
+     "node_id": "0059",
+     "title": "Appendix B to Appendix D: Star Gate operational user interviews",
+     "start_page": 201,
+     "end_page": 206,
+     "summary": "Synopses of interviews from July and August 1995. Org. A ran beacon experiments to locate people without radios; Org. B, skeptical, asked about meeting times and places; Org. C's chief, a believer, claimed value though no audit trail showed its use; Org. E's espionage case got four sequential tasks that were too generic and often wrong.",
+     "nodes": []
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,266 @@
+{
+ "topic": "gadgets",
+ "items": [
+  {
+   "id": "gadgets-acoustic-kitty",
+   "title": "Acoustic Kitty",
+   "type": "document",
+   "date": "1967-03",
+   "released": "1983-09",
+   "agency": "CIA",
+   "summary": "Heavily redacted March 1967 CIA memo giving the final verdict on \"Acoustic Kitty\", a Directorate of Science and Technology project to turn a cat wired with transmitting and control devices into a mobile eavesdropping platform. It accepts that cats can be trained to move short distances but concludes the technique would not be practical in a real foreign situation.",
+   "source": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB54/",
+   "file": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB54/st27.pdf",
+   "file_name": "st27.pdf",
+   "bytes": 53886,
+   "pages": 2,
+   "credit": "Central Intelligence Agency (via the National Security Archive)",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The National Security Archive lists it as Document 27 of Electronic Briefing Book 54: 'Memorandum for: [deleted], Subject: [deleted] Views on Trained Cats [deleted] for [deleted] Use, March 1967, 2 pp.'",
+     "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB54/"
+    },
+    {
+     "claim": "In the project known as 'Acoustic Kitty' the Directorate of Science and Technology sought to train a surgically altered cat, wired with transmitting and control devices, as a mobile eavesdropping platform.",
+     "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB54/"
+    },
+    {
+     "claim": "The memo says cats 'can indeed be trained to move short distances' but that environmental and security factors in a real foreign situation mean 'it would not be practical'; page 1 carries a 'RELEASED SEP 1983' stamp.",
+     "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB54/st27.pdf"
+    }
+   ]
+  },
+  {
+   "id": "gadgets-insectothopter",
+   "title": "Insectothopter",
+   "type": "image",
+   "date": "1974",
+   "released": "2011-02-04",
+   "agency": "CIA",
+   "summary": "CIA Museum photo of the Insectothopter, a dragonfly-shaped micro drone developed by the CIA's Office of Research and Development in the 1970s to carry a tiny listening device. A small gas-driven engine flapped its wings, but crosswinds pushed it off course and it never became operational.",
+   "source": "https://www.cia.gov/legacy/museum/artifact/insectothopter/",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/7/70/DragonflyInsectothopter.jpg",
+   "file_name": "DragonflyInsectothopter.jpg",
+   "bytes": 697675,
+   "width": 4992,
+   "height": 3328,
+   "credit": "Central Intelligence Agency (CIA Museum)",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "Developed by CIA's Office of Research and Development in the 1970s, the Insectothopter was the first flight of an insect-sized aerial vehicle; control in crosswinds proved too difficult and it was never operational.",
+     "url": "https://www.cia.gov/legacy/museum/artifact/insectothopter/"
+    },
+    {
+     "claim": "Guinness World Records dates the first robotic flying insect, the CIA's 6 x 9 x 1.5 cm dragonfly built at the Vought Advanced Technology Center in Dallas, to 1974.",
+     "url": "https://www.guinnessworldrecords.com/world-records/611342-first-robotic-flying-insect"
+    },
+    {
+     "claim": "The CIA posted this photo ('Dragonfly Insectothopter') to its Flickr account on 4 February 2011, marked as a United States government work.",
+     "url": "https://www.flickr.com/photos/ciagov/5416228255/"
+    },
+    {
+     "claim": "A CIA cutaway drawing of the Insectothopter (fuel tank, intake valves, actuators, cosmetic shell) was approved for release on 2019-12-11.",
+     "url": "https://archive.org/details/cia-readingroom-document-01306903"
+    }
+   ]
+  },
+  {
+   "id": "gadgets-camp-century-film",
+   "title": "City Under the Ice (Camp Century)",
+   "type": "video",
+   "date": "1961",
+   "released": "1961",
+   "agency": "US Army",
+   "summary": "Episode of the Army's TV series The Big Picture on Camp Century, a base the Corps of Engineers cut into the Greenland ice sheet and powered with a portable nuclear plant. The film presents it as polar research; the Army's secret Project Iceworm plan to hide missile sites under the ice became public only in 1997.",
+   "source": "https://catalog.archives.gov/id/2569752",
+   "file": "https://archive.org/download/youtube-kYRQB697GFc/kYRQB697GFc.mp4",
+   "file_name": "kYRQB697GFc.mp4",
+   "bytes": 205891682,
+   "duration": 1734.229,
+   "width": 640,
+   "height": 480,
+   "credit": "U.S. Army, The Big Picture (National Archives, 111-TV-514)",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The National Archives holds 'City under the Ice' as NAID 2569752 (local ID 111-TV-514); its release sheet calls it the first release of the 1961-1962 Big Picture series and says the camp had every convenience 'from a nuclear power plant to a shower'.",
+     "url": "https://catalog.archives.gov/id/2569752"
+    },
+    {
+     "claim": "The U.S. Army Corps of Engineers built Camp Century in 1959, and it was abandoned in 1967.",
+     "url": "https://science.nasa.gov/earth/earth-observatory/new-view-of-the-city-under-the-ice-153616/"
+    },
+    {
+     "claim": "Camp Century was publicly presented as a nuclear-powered Arctic research center while Project Iceworm aimed at a secret network of tunnels and missile sites; the public learned of Iceworm when a Danish parliamentary investigation published documents in 1997.",
+     "url": "https://www.history.com/news/project-iceworm-cold-war-nuclear-weapons-greenland"
+    },
+    {
+     "claim": "The archive.org file is a mirror of Public.Resource.Org's copy of the National Archives DVD of ARC 2569752 (111-TV-514); Public.Resource.Org's own archive.org deposit of the same DVD has the same 1734-second running time.",
+     "url": "https://archive.org/details/gov.archives.arc.2569752"
+    }
+   ]
+  },
+  {
+   "id": "gadgets-project-1794",
+   "title": "Project 1794",
+   "type": "document",
+   "date": "1956-06",
+   "released": "2012",
+   "agency": "US Air Force",
+   "summary": "Secret 1956 report by Canada's Avro Aircraft for the US Air Force on Project 1794, a disc-shaped jet aircraft 35 feet across meant to take off on a cushion of air and fly faster than sound. It projects a top speed between Mach 3 and Mach 4 and a ceiling of over 100,000 feet.",
+   "source": "https://catalog.archives.gov/id/6920770",
+   "file": "https://catalog.archives.gov/medialz/dc-metro/rg-342/6919785/r-d-project-files/project-1794-ufo/1794.pdf",
+   "file_name": "1794.pdf",
+   "bytes": 29789301,
+   "pages": 140,
+   "credit": "Avro Aircraft Limited for the U.S. Air Force (National Archives, Record Group 342)",
+   "license": "No known copyright restrictions: the National Archives lists its use as Unrestricted (declassified contractor report by Avro Aircraft Limited for the U.S. Air Force)",
+   "facts": [
+    {
+     "claim": "The National Archives lists 'Project 1794 Final Development Summary Report, 06/1956' as ARC ID 6920770; the Air Force declassified these records in June 2001 and the National Declassification Center processed and released them in 2012.",
+     "url": "https://declassification.blogs.archives.gov/2013/01/30/project-1794-documents-in-arc/"
+    },
+    {
+     "claim": "The report concludes the aircraft can be controlled from ground-cushion take-off to supersonic flight at very high altitude, with a top speed potential between Mach 3 and Mach 4, a ceiling of over 100,000 ft and a range of about 1,000 nautical miles; it describes a circular aircraft 35.3 feet in diameter.",
+     "url": "https://catalog.archives.gov/medialz/dc-metro/rg-342/6919785/r-d-project-files/project-1794-ufo/1794.pdf"
+    },
+    {
+     "claim": "The National Archives catalog record for the report gives its use restriction status as 'Unrestricted'.",
+     "url": "https://catalog.archives.gov/id/6920770"
+    }
+   ]
+  },
+  {
+   "id": "gadgets-pigeon-camera",
+   "title": "Pigeon Camera",
+   "type": "image",
+   "date": "1976",
+   "released": "2012-06-20",
+   "agency": "CIA",
+   "summary": "CIA Museum photo of a pigeon wearing a miniature camera built by the CIA's Office of Research and Development to take pictures as the bird flew home over a target. In the 1970s the CIA trained pigeons for this under a program code-named TACANA; the museum says the cameras were ultimately ineffective because the birds had trouble flying over the exact locations needed.",
+   "source": "https://www.cia.gov/legacy/museum/artifact/pigeon-camera/",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Pigeon_Camera_-_Flickr_-_The_Central_Intelligence_Agency.jpg",
+   "file_name": "Pigeon_Camera_-_Flickr_-_The_Central_Intelligence_Agency.jpg",
+   "bytes": 1452239,
+   "width": 3744,
+   "height": 5616,
+   "credit": "Central Intelligence Agency (CIA Museum)",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The CIA Museum says its Office of Research and Development built a camera light enough for a pigeon to carry, strapped to the bird's breast, and that the program was ultimately ineffective because the birds had trouble flying over the exact locations needed.",
+     "url": "https://www.cia.gov/legacy/museum/artifact/pigeon-camera/"
+    },
+    {
+     "claim": "A TACANA report memo dated 16 August 1976 says the aim of the 'Avian' contract was to train pigeons to carry an approximately 37-gram camera to a target and home to a loft about 50 miles away; it was approved for release on 2019-07-30.",
+     "url": "https://archive.org/details/cia-readingroom-document-06637658"
+    },
+    {
+     "claim": "The CIA uploaded this 'Pigeon Camera' photo to its Flickr account on 20 June 2012, marked as a United States government work.",
+     "url": "https://www.flickr.com/photos/ciagov/7408459504/"
+    }
+   ]
+  },
+  {
+   "id": "gadgets-simple-sabotage",
+   "title": "Simple Sabotage Field Manual",
+   "type": "document",
+   "date": "1944-01-17",
+   "released": "2008-04-02",
+   "agency": "OSS",
+   "summary": "1944 Office of Strategic Services manual on how ordinary citizens in enemy or occupied territory could quietly sabotage the Axis war effort, from damaging machines to stalling meetings. Its advice for slowing down organizations, such as insisting on doing everything through \"channels\", is still often quoted.",
+   "source": "https://www.cia.gov/stories/story/the-art-of-simple-sabotage/",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Simple_Sabotage_Field_Manual.pdf",
+   "file_name": "Simple_Sabotage_Field_Manual.pdf",
+   "bytes": 2562087,
+   "pages": 20,
+   "credit": "Office of Strategic Services",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The CIA describes the 'previously classified' OSS manual as an effort to train everyday citizens in the art of simple sabotage against America's enemies in World War II.",
+     "url": "https://www.cia.gov/stories/story/the-art-of-simple-sabotage/"
+    },
+    {
+     "claim": "The manual is issued by the Office of Strategic Services, Washington, D.C., dated 17 January 1944, and its cover note dated 4/2/2008 says that per the CIA Declassification Center the document may be considered declassified.",
+     "url": "https://web.archive.org/web/20241231001338/https://www.cia.gov/static/5c875f3ec660e092cf893f60b4a288df/SimpleSabotage.pdf"
+    },
+    {
+     "claim": "Under 'Organizations and Conferences' it advises: 'Insist on doing everything through \"channels.\"' The Commons file is byte-identical (MD5 5c875f3ec660e092cf893f60b4a288df) to the CIA's PDF.",
+     "url": "https://commons.wikimedia.org/wiki/File:Simple_Sabotage_Field_Manual.pdf"
+    }
+   ]
+  },
+  {
+   "id": "gadgets-charlie-robot-fish",
+   "title": "Charlie the Robot Catfish",
+   "type": "image",
+   "date": "2000",
+   "released": "2011-02-04",
+   "agency": "CIA",
+   "summary": "CIA Museum photo of \"Charlie\", a radio-controlled robot catfish built by the CIA's Office of Advanced Technologies and Programs to study underwater robots. The CIA says it was made to collect water samples without being detected.",
+   "source": "https://www.cia.gov/legacy/museum/artifact/robot-fish-charlie/",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/6/6c/RobotFishCharlie.jpg",
+   "file_name": "RobotFishCharlie.jpg",
+   "bytes": 1064280,
+   "width": 4992,
+   "height": 3328,
+   "credit": "Central Intelligence Agency (CIA Museum)",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The CIA's Office of Advanced Technologies and Programs developed the unmanned underwater vehicle; Charlie was created to collect water samples without being detected and is controlled by a wireless line-of-sight radio handset.",
+     "url": "https://www.cia.gov/legacy/museum/artifact/robot-fish-charlie/"
+    },
+    {
+     "claim": "An AP report of 26 December 2003 on the CIA Museum says the agency built the robotic catfish in 2000 and still revealed little about its mission.",
+     "url": "https://www.nbcnews.com/id/wbna3812202"
+    },
+    {
+     "claim": "The CIA uploaded this photo (Robot Fish 'Charlie') to its Flickr account on 4 February 2011, marked as a United States government work.",
+     "url": "https://www.flickr.com/photos/ciagov/5416840724/"
+    }
+   ]
+  }
+ ],
+ "rejected": [
+  {
+   "title": "Avrocar flight films (NARA 68405, 68170, 68175)",
+   "reason": "The best footage of the Air Force's flying saucer, downloadable from archives.gov (e.g. https://catalog.archives.gov/medialz/mopix/342/342-usaf/342-usaf-31135.mp4, 330 MB, 720p), but NARA marks all three with a specific 'Copyright' use restriction because Avro Aircraft shot them, so they fail the public-domain rule. Project 1794 (the declassified report, NARA 'Unrestricted') covers the saucer instead."
+  },
+  {
+   "title": "Project Pigeon / ORCON (B.F. Skinner)",
+   "reason": "No official copy found. The archive.org film 'B.F. Skinner - Project Orcon' was uploaded by a private account with no NARA or Navy provenance, and the NRL ORCON report (DTIC AD1216369) is behind apps.dtic.mil, which returns 403 to scripts."
+  },
+  {
+   "title": "Project X-Ray bat bomb",
+   "reason": "The only photos found (Commons 'Bat Bomb Canister', 'Carlsbad AAF Fire after Bat Bomb Accident') are scans from Jack Couffer's 1992 book (University of Texas Press), not an official release; no NARA or service copy turned up."
+  },
+  {
+   "title": "Operation Popeye (weather modification)",
+   "reason": "No downloadable primary file found: the declassified March 1974 Senate Foreign Relations subcommittee hearing is not on govinfo or archive.org, and FRUS has it only inside whole volumes or as HTML pages."
+  },
+  {
+   "title": "TACANA TCT Report, 4 June 1976 (CIA pigeon program)",
+   "reason": "Verified (7 pages, approved for release 2019-07-30, https://archive.org/download/cia-readingroom-document-06637658/06637658.pdf) but used only as a fact source; the pigeon camera photo is more visual. Good swap-in for a document slot."
+  },
+  {
+   "title": "Big Picture: City Under the Ice, NARA's own copies",
+   "reason": "NARA's catalog file is a 4.7 MB WMV and its archive.org deposit (gov.archives.arc.2569752) is a 1.41 GB MPEG-2 (over the 400 MB limit) with only a 320x240 derivative; used the 640x480 Public.Resource.Org copy of the same NARA DVD instead."
+  },
+  {
+   "title": "Burial at sea of K-129 crew (Glomar Explorer film)",
+   "reason": "On Commons, but how it was officially released is unclear (the CIA reportedly handed it to Russia in 1992), and it shows the burial of recovered remains; skipped under the no-gore and provenance rules."
+  },
+  {
+   "title": "Other Insectothopter and Charlie photos",
+   "reason": "Commons has three CIA Flickr shots of the Insectothopter and four of Charlie; chose the full-body dragonfly (Flickr 5416228255) and the catfish head close-up (Flickr 5416840724) at 4992x3328. The others crop the body or are 1024 px or smaller."
+  },
+  {
+   "title": "Project Azorian (Studies in Intelligence history, C05301269)",
+   "reason": "Verified (50 pages, approved for release 2010-01-04, archive.org copy byte-identical to the CIA PDF) but it is the same file as deepsea-azorian-history (MD5 dcfdfc2e686c1e62bf54a4cf8eee1af2), so it was dropped here to avoid a duplicate. Its date is 1978, not 1985: the CIA's own Studies in Intelligence Vol. 56 No. 1 (March 2012) cites it as Studies in Intelligence 22, No. 3 (Fall 1978), https://www.cia.gov/resources/csi/static/The-Glomar-Explorer.pdf"
+  }
+ ]
+}

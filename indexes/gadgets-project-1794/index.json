@@ -1,0 +1,516 @@
+{
+ "id": "gadgets-project-1794",
+ "title": "Project 1794",
+ "source": {
+  "url": "https://catalog.archives.gov/id/6920770",
+  "publisher": "US Air Force",
+  "date": "1956-06",
+  "pages": 140,
+  "released": "2012",
+  "file": "https://catalog.archives.gov/medialz/dc-metro/rg-342/6919785/r-d-project-files/project-1794-ufo/1794.pdf",
+  "sha256": "d76aaa1e10c854dcd38f8237353adc19cdf3bfcfe2058a65e48e2d71ba7df3ac",
+  "license": "No known copyright restrictions: the National Archives lists its use as Unrestricted (declassified contractor report by Avro Aircraft Limited for the U.S. Air Force)"
+ },
+ "country": "us",
+ "topic": "gadgets",
+ "summary": "Secret 1956 report by Canada's Avro Aircraft for the US Air Force on Project 1794, a disc-shaped jet aircraft 35 feet across meant to take off on a cushion of air and fly faster than sound. It projects a top speed between Mach 3 and Mach 4 and a ceiling of over 100,000 feet.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/gadgets/gadgets-project-1794/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Cover",
+   "start_page": 1,
+   "end_page": 1,
+   "summary": "Cover label of Avro Aircraft Limited's Project 1794 Final Development Summary Report, 2 April - 30 May 1956, USAF Contract No. AF33(600)30161, I.D. No. 56-RDZ-19954, marked Secret. A taped stamp reads downgraded at 12-year intervals, not automatically declassified, DOD Dir 5200.10; a label shows declassification authority NND63253.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "Security warning",
+   "start_page": 2,
+   "end_page": 2,
+   "summary": "Secret security warning dated 1 June 1956: the report is for the recipient and authorized persons working for the US Air Force; unauthorized disclosure breaches the Canadian Official Secrets Act and the US Espionage Laws (18 U.S.C. 793 and 794). Copy No. 1, issued by Avro Aircraft Limited, Malton.",
+   "nodes": []
+  },
+  {
+   "node_id": "0002",
+   "title": "Title page",
+   "start_page": 3,
+   "end_page": 3,
+   "summary": "Title page of the Project 1794 Final Development Summary Report, 2 April 1955 to 31 May 1956, USAF Contract AF33(600)30161. Issued by Avro Aircraft Limited, Malton, Ontario, 1 June 1956, and approved by J.C.M. Frost, Chief Design Engineer, and H.C. Moody, Engineering Manager, Special Projects Group. The report runs to 114 pages.",
+   "nodes": []
+  },
+  {
+   "node_id": "0003",
+   "title": "Table of contents",
+   "start_page": 4,
+   "end_page": 4,
+   "summary": "Contents: 1 Summary, 2 Introduction, 3 Progress of the design, 4 Project 704 (description, operation, performance), 5 Discussion of activities (test results; design study and theoretical analysis), 6 Financial statement, 7 Development and production aspects, 8 New programs required, 9 Tabulated summary and cost forecast.",
+   "nodes": []
+  },
+  {
+   "node_id": "0004",
+   "title": "Summary",
+   "start_page": 5,
+   "end_page": 5,
+   "summary": "Concludes that controlling the aircraft with its own propulsive jets is feasible, with satisfactory handling from ground-cushion take-off to supersonic flight at very high altitude. Supersonic tests point to a top speed between Mach 3 and Mach 4, a ceiling over 100,000 ft and about 1,000 nautical miles range. A new 18-24 month program is costed at $3,168,000.",
+   "nodes": []
+  },
+  {
+   "node_id": "0005",
+   "title": "Introduction",
+   "start_page": 6,
+   "end_page": 6,
+   "summary": "The contract is a feasibility study of Avro's flat vertical take-off and landing aircraft, covering five areas: air cushion effect, multi-engine stability, air intake and gas exhaust tests, aircraft performance, stability and control, and radial flow engine feasibility. Work was reported in ten monthly progress reports, an interim summary, separate area reports and general technical summary 56-RDZ-13709.",
+   "nodes": []
+  },
+  {
+   "node_id": "0006",
+   "title": "Progress of the design",
+   "start_page": 7,
+   "end_page": 13,
+   "summary": "How the design moved from a circular jet-wing with a large radial engine, through an 8-engine intermediate research aircraft and a conventional gas turbine variant, to the 6-Viper ducted fan design Avro is now building. Includes cutaway drawings Figs. 1-4.",
+   "nodes": [
+    {
+     "node_id": "0007",
+     "title": "Progress of the design",
+     "start_page": 7,
+     "end_page": 7,
+     "summary": "The original proposal was a circular all-wing jet with a new radial turbojet and jet control, plus an intermediate vehicle with 8 small turbojets. Early in the contract a ducted fan compromise using the whole wing depth for airflow superseded both. The intermediate vehicle was dropped and Avro is building the Fig. 4 aircraft.",
+     "nodes": []
+    },
+    {
+     "node_id": "0008",
+     "title": "Fig. 1, original radial engine design",
+     "start_page": 8,
+     "end_page": 9,
+     "summary": "Cutaway drawing of the original circular aircraft with its radial engine, labelled take-off air intake doors, air intake sliding doors, fixed outer ring, combustion system, turbine, disc rotor, compressor, fuel tanks, rudder nozzles and sliding shutters controlling nozzle area.",
+     "nodes": []
+    },
+    {
+     "node_id": "0009",
+     "title": "Fig. 2, intermediate research aircraft",
+     "start_page": 10,
+     "end_page": 10,
+     "summary": "Cutaway of the proposed intermediate research aircraft, marked Avro Y2, with eight Viper axial flow gas turbine engines, canopy and ejection seat, vertical take-off intake doors, air intake sliding doors, control shutter, outlet vanes, segmental jet pipe, floor window and fuel tanks.",
+     "nodes": []
+    },
+    {
+     "node_id": "0010",
+     "title": "Fig. 3, conventional gas turbine power plant substitution",
+     "start_page": 11,
+     "end_page": 12,
+     "summary": "Section cutaway of the circular aircraft with conventional gas turbine engines substituted for the radial engine, showing the central cockpit, engine bays and outer ring structure.",
+     "nodes": []
+    },
+    {
+     "node_id": "0011",
+     "title": "Fig. 4, 6-Viper ducted fan ramjet design",
+     "start_page": 13,
+     "end_page": 13,
+     "summary": "Cutaway of the 6-Viper ducted fan ramjet design: ASM Viper 8 engines, impeller and turbine, upper and lower intakes, integral fuel tanks, pilot's canopy, flame holders, internal airflow ducts, trim metering valve, exhaust diffuser and flight control shutters.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0012",
+   "title": "Project 704",
+   "start_page": 14,
+   "end_page": 25,
+   "summary": "Project 704 is Avro's name for the research aircraft it is building: its layout, how it takes off, flies and lands on directed jets, and its estimated performance, with Figs. 5-11.",
+   "nodes": [
+    {
+     "node_id": "0013",
+     "title": "Description",
+     "start_page": 14,
+     "end_page": 17,
+     "summary": "The aircraft is 35.3 ft across, 7.7 ft high and about 20,000 lb with 5,200 lb fuel (27,000 lb maximum). Six Armstrong Siddeley Viper turbojets of 1,900 lb thrust drive contra-rotating 8 ft impellers. Pilot-controlled shutters steer the peripheral jet for lift, propulsion, control and stabilization. Figs. 5-6 show the plan, section and engine installation.",
+     "nodes": []
+    },
+    {
+     "node_id": "0014",
+     "title": "Operation",
+     "start_page": 17,
+     "end_page": 20,
+     "summary": "For take-off the shutters direct about 20,000 lb thrust downward; the ground cushion raises lift to about 30,000 lb and the aircraft rises to about 20 ft. The pilot leans the jets back to transition into forward flight, where ram air and reheat give large thrust. Figs. 7-8 show the control shutters and ground cushion.",
+     "nodes": []
+    },
+    {
+     "node_id": "0015",
+     "title": "Performance",
+     "start_page": 21,
+     "end_page": 25,
+     "summary": "Landing reverses the take-off transition. With the Viper Mach limit removed and 1200 K combustion, estimates are Mach 3.0 top speed, 94,000 ft supersonic ceiling, 7.33g turns at 53,000 ft and 1,000 nautical miles range cruising at Mach 2.25 at 90,000 ft. Charts give drag and thrust, rate of climb at Mach 2.26 and still air range.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0016",
+   "title": "Discussion of activities",
+   "start_page": 26,
+   "end_page": 106,
+   "summary": "Review of the year's tests and analyses: wind tunnel, air cushion, stability and control, and intake and exhaust tests, followed by theoretical studies of ground effect, stability, performance and the propulsion system.",
+   "nodes": [
+    {
+     "node_id": "0017",
+     "title": "Tests",
+     "start_page": 26,
+     "end_page": 94,
+     "summary": "Section 5.1 covers the wind tunnel programs at Wright Air Development Centre, MIT and Avro, static air cushion rigs at Malton, the shutter rig, and intake and exhaust tests, with model drawings, photographs and results charts (Figs. 12-52).",
+     "nodes": [
+      {
+       "node_id": "0018",
+       "title": "Wind tunnel tests",
+       "start_page": 26,
+       "end_page": 67,
+       "summary": "Three groups of wind tunnel tests: a large subsonic program at Wright Air Development Centre, supersonic tests at the MIT Naval Supersonic Laboratory, and preliminary small-scale tests in Avro's own tunnels.",
+       "nodes": [
+        {
+         "node_id": "0019",
+         "title": "Subsonic tests on the 1/6 scale model",
+         "start_page": 26,
+         "end_page": 35,
+         "summary": "Over 500 hours in the 20 ft Massie Memorial Wind Tunnel at Wright Air Development Centre on a 1/6 scale reflection plane model with intake and jet simulation. The aircraft can be controlled through take-off, transition and subsonic flight, but subsonic cruise efficiency is poor. Figs. 12-17 show the model and flight envelope; further low-speed tests are listed.",
+         "nodes": []
+        },
+        {
+         "node_id": "0020",
+         "title": "Supersonic tests at MIT",
+         "start_page": 35,
+         "end_page": 50,
+         "summary": "Three supersonic models tested for 76 hours at the MIT Naval Supersonic Laboratory, with their drawings, photographs and results.",
+         "nodes": [
+          {
+           "node_id": "0021",
+           "title": "Supersonic models and conclusions",
+           "start_page": 35,
+           "end_page": 44,
+           "summary": "Models were a 1/40 scale sting-mounted model, a 1/23 scale reflection plane force model with intake and jet simulation, and a 2/25 scale intake pressure recovery model (Figs. 18-23). The aircraft is controllable at supersonic speed, drag agrees with estimate, and cruise efficiency and intake recovery beat expectations. Further tests are needed.",
+           "nodes": []
+          },
+          {
+           "node_id": "0022",
+           "title": "Flight envelope, drag and intake recovery charts",
+           "start_page": 45,
+           "end_page": 50,
+           "summary": "Figs. 24-28: flight envelopes at 40,000 and 80,000 ft for a 20,000 lb aircraft, zero-lift drag against Mach number, maximum lift/drag ratio against Mach number, and upper and lower intake pressure recovery. A last listed need is developing the intake boundary layer bleed, a cusp below the air entry.",
+           "nodes": []
+          }
+         ]
+        },
+        {
+         "node_id": "0023",
+         "title": "Small-scale tests in Avro tunnels",
+         "start_page": 50,
+         "end_page": 67,
+         "summary": "Preliminary tests in Avro's 18 x 18 inch subsonic and 8 x 11 inch supersonic tunnels on transition, jet trim, dynamic stability and intake internal flow.",
+         "nodes": [
+          {
+           "node_id": "0024",
+           "title": "Small-scale models and tunnels",
+           "start_page": 50,
+           "end_page": 65,
+           "summary": "Preliminary tests on half and full models justified the larger program and were not reported in detail. Figs. 29-39 show Avro's ejector wind tunnel and its supersonic liner, air cushion model 1/1/1, stability and control models for transition and jet-trim tests, dynamic models with two degrees of freedom, and the internal flow intake models.",
+           "nodes": []
+          },
+          {
+           "node_id": "0025",
+           "title": "Dynamic and internal flow model results",
+           "start_page": 66,
+           "end_page": 67,
+           "summary": "The displacement model showed static stability with poor damping; the rate model was not dynamically stable but was easily controlled with jet damping. The intake internal flow model gave good static recovery, but in forward flight flow did not reach the impeller eye at the sides. Larger-scale tests and radial cascades are proposed.",
+           "nodes": []
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "node_id": "0026",
+       "title": "Air cushion effect tests",
+       "start_page": 67,
+       "end_page": 82,
+       "summary": "Static rig tests at Malton on 10 inch and 20 inch diameter air cushion models, with a delta shape, a wing-around-jet layout and a hot central exhaust.",
+       "nodes": [
+        {
+         "node_id": "0027",
+         "title": "Static rig models and configurations",
+         "start_page": 67,
+         "end_page": 79,
+         "summary": "Two series of static rig tests at Malton, on 10 inch models (Figs. 40-41) and 20 inch models (Figs. 42-43), with tables of the configurations tested. Fig. 44 shows a delta-shaped model with a peripheral jet and Fig. 45 triangular models 1/12 and 1/13.",
+         "nodes": []
+        },
+        {
+         "node_id": "0028",
+         "title": "Air cushion conclusions",
+         "start_page": 80,
+         "end_page": 82,
+         "summary": "Scale made little difference. Lift reached up to 1.8 times jet thrust at 45 percent of span above the ground, then fell off; jet angle, aspect ratio, lower intake, central exhaust, surface shape and nozzle spacing all affect it. Fig. 46 shows the lower intake suction effect. Further tests with full intake and hot exhaust are needed.",
+         "nodes": []
+        }
+       ]
+      },
+      {
+       "node_id": "0029",
+       "title": "Stability and control tests",
+       "start_page": 82,
+       "end_page": 84,
+       "summary": "Stability and control data came from the wind tunnel models. Still needed are transonic data from a new force model and rig tests of the pneumatic shutter system; a simple one-nozzle-pair rig is built (Fig. 47). Models measured only lift, drag and pitching moment, not full six-component data, given the aircraft's symmetry.",
+       "nodes": []
+      },
+      {
+       "node_id": "0030",
+       "title": "Air intake and gas exhaust system test",
+       "start_page": 84,
+       "end_page": 94,
+       "summary": "Intake work used the wind tunnel models; exhaust work covered a full-scale 45 degree segment, a supersonic thrust recovery model and a nozzle end loss rig.",
+       "nodes": [
+        {
+         "node_id": "0031",
+         "title": "45 degree full-scale segment test",
+         "start_page": 84,
+         "end_page": 88,
+         "summary": "A 45 degree segment of the intermediate research aircraft was built on a thrust and moment balance (Figs. 48-49) to study air cushion, hot ducts, diffuser efficiency and controls. The ducted fan design made it obsolete; abbreviated runs found the diffuser pressure drop too small to measure.",
+         "nodes": []
+        },
+        {
+         "node_id": "0032",
+         "title": "Thrust recovery test",
+         "start_page": 88,
+         "end_page": 92,
+         "summary": "A two-dimensional model exhausting at right angles into a supersonic stream (Figs. 50-51, tested at Nobel) recovered about 60 percent of a plain rearward nozzle's thrust in the stream direction, and the jet's moment was 1.8 times that without the supersonic stream.",
+         "nodes": []
+        },
+        {
+         "node_id": "0033",
+         "title": "End loss test",
+         "start_page": 92,
+         "end_page": 94,
+         "summary": "Lists the internal losses: intake, centrifugal compressor, diffuser, flame holders and nozzle end loss, the main unknown. A right-angle bend rig on the ground effect balance (Fig. 52) measured the loss; a 1/3 scale nozzle end loss test of the real nozzle is being built at Avro.",
+         "nodes": []
+        }
+       ]
+      },
+      {
+       "node_id": "0034",
+       "title": "Performance tests and radial flow feasibility",
+       "start_page": 93,
+       "end_page": 93,
+       "summary": "Performance testing consisted of the wind tunnel drag data in section 5.1.1. No tests were made on the radial flow propulsion system itself.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0035",
+     "title": "Design study and theoretical analysis",
+     "start_page": 93,
+     "end_page": 106,
+     "summary": "Section 5.2 covers theoretical work on ground effect, stability and control, intake and exhaust, aircraft performance and the evolution of the propulsion system.",
+     "nodes": [
+      {
+       "node_id": "0036",
+       "title": "Ground effect",
+       "start_page": 93,
+       "end_page": 95,
+       "summary": "A theoretical model assuming the observed flow structure gave a ground cushion curve of the right general form, but could not predict the peak at half span from the ground; detailed effects such as jet angle were not attempted.",
+       "nodes": []
+      },
+      {
+       "node_id": "0037",
+       "title": "Stability and control analysis",
+       "start_page": 95,
+       "end_page": 96,
+       "summary": "Analyses of longitudinal and lateral stability, pneumatic control time constant, transient response and hovering used preliminary data. The preferred shutter actuation moved from hydraulic to faster pneumatic. Conventional handling looks achievable, jet control power suffices up to 90,000-100,000 ft, and contra-rotation cancels rotor gyroscopic effects.",
+       "nodes": []
+      },
+      {
+       "node_id": "0038",
+       "title": "Air intake and gas exhaust systems",
+       "start_page": 96,
+       "end_page": 97,
+       "summary": "Analysis here was limited to studying the test results of section 5.1.4. The contract's required study of flow distortion effects on blade vibration no longer applies to the present design, so none was made.",
+       "nodes": []
+      },
+      {
+       "node_id": "0039",
+       "title": "Aircraft performance",
+       "start_page": 97,
+       "end_page": 97,
+       "summary": "Performance was estimated at each design stage from thrust and drag analyses. The six-Viper research aircraft, Project 704, outperforms the earlier designs by a wide margin, and supersonic tests have confirmed the drag analyses summarized in section 4.3.",
+       "nodes": []
+      },
+      {
+       "node_id": "0040",
+       "title": "Radial flow feasibility",
+       "start_page": 97,
+       "end_page": 106,
+       "summary": "Design study of the propulsion system that led to the Fig. 4 layout, with drawings of the configurations explored and a vertical take-off efficiency chart.",
+       "nodes": [
+        {
+         "node_id": "0041",
+         "title": "Propulsion configurations explored",
+         "start_page": 97,
+         "end_page": 102,
+         "summary": "Figs. 53-55 and a repeat of Fig. 4 show the layouts studied: a 3-Viper ducted fan aircraft, ramjet aircraft with ducted fan assist driven by four Rolls-Royce RB.108 engines, and the 6-Viper ducted fan ramjet design.",
+         "nodes": []
+        },
+        {
+         "node_id": "0042",
+         "title": "From the RB.108 designs to Project 704",
+         "start_page": 103,
+         "end_page": 106,
+         "summary": "The 3-Viper scheme had impeller turbine and transition problems. Four RB.108 engines drove a large centrifugal impeller, first directly, then through a 15,000 hp reduction gear, but engine supply was doubtful. Project 704 lays six Vipers flat driving split impellers, a 5 to 1 bypass system. Fig. 56 compares lift methods by horsepower.",
+         "nodes": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "node_id": "0043",
+   "title": "Financial statement",
+   "start_page": 107,
+   "end_page": 123,
+   "summary": "Labour and cost figures for the contract, July 1954 to June 1956, with a detailed cost table and charts of spending and manhours by area of investigation.",
+   "nodes": [
+    {
+     "node_id": "0044",
+     "title": "Tabulated labour and cost summary",
+     "start_page": 107,
+     "end_page": 111,
+     "summary": "Contract-period costs (2 April 1955 to 1 June 1956) totalled $453,897.77 over 80,721 manhours, led by stability and control at $324,932.38. With $287,921.22 for the anticipatory period the total is $741,818.99, leaving $19,824 for reports. A table splits engineering and manufacturing costs; amounts are in Canadian currency.",
+     "nodes": []
+    },
+    {
+     "node_id": "0045",
+     "title": "Charts 1-6, cumulative costs and manhours",
+     "start_page": 112,
+     "end_page": 123,
+     "summary": "Six charts plot cumulative dollars and manhours against forecast from April 1955 to June 1956, with design, manufacture, testing and data reduction flow bars: air cushion effects, aircraft stability and control, air intake and gas exhaust system tests, aircraft performance, radial flow engine feasibility, and an overall summary.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0046",
+   "title": "Development and production aspects",
+   "start_page": 124,
+   "end_page": 125,
+   "summary": "Project 704's symmetry makes it cheap to build: six identical segments, each with a Viper engine and built in one jig, form about 90 percent of the airframe. A single prototype will first fly without outer combustion, then reach supersonic speed limited to Mach 1.74 by the Viper. Later prototypes may be all steel.",
+   "nodes": []
+  },
+  {
+   "node_id": "0047",
+   "title": "New programs required",
+   "start_page": 126,
+   "end_page": 133,
+   "summary": "The follow-on program of tests and design studies proposed for the next phase, costed in section 9.",
+   "nodes": [
+    {
+     "node_id": "0048",
+     "title": "Test program",
+     "start_page": 126,
+     "end_page": 131,
+     "summary": "Section 8.1 lists the proposed tests, from wind tunnel models to a full-scale 6-Viper propulsion rig and combustor development.",
+     "nodes": [
+      {
+       "node_id": "0049",
+       "title": "Wind tunnel tests",
+       "start_page": 126,
+       "end_page": 127,
+       "summary": "Proposes rework of the 1/23 scale supersonic model (60 hours), more 1/40 scale sting tests, a new 1/12 scale transonic model for the 10 ft tunnel at Wright Air Development Centre (200 hours), more 1/6 scale subsonic tests (200 hours), a 1/5 scale intake internal flow model (50 hours), and minor small-scale tests.",
+       "nodes": []
+      },
+      {
+       "node_id": "0050",
+       "title": "Ground effect tests",
+       "start_page": 127,
+       "end_page": 128,
+       "summary": "Design and build a 20 inch scale model with discrete circumferential jets, air intake and centre exhaust, and a rig with balance devices and an adjustable artificial ground, then test and report.",
+       "nodes": []
+      },
+      {
+       "node_id": "0051",
+       "title": "Internal flow tests",
+       "start_page": 128,
+       "end_page": 128,
+       "summary": "Static 1/5 scale upper air intake suction tests using a Viper engine, a 1/3 scale nozzle end loss model of an outer wing shutter segment, and full-scale single engine intake cascade and exhaust diffuser tests on a Viper.",
+       "nodes": []
+      },
+      {
+       "node_id": "0052",
+       "title": "Propulsion system test and qualification",
+       "start_page": 128,
+       "end_page": 130,
+       "summary": "Build a full-scale 6-Viper test rig of the aircraft's inner structure with upper and lower impellers, fuel, fire protection and electrical systems, run first from the test house and later from a temporary cockpit, on a secure test site. Test, modify and qualify the system for experimental flying.",
+       "nodes": []
+      },
+      {
+       "node_id": "0053",
+       "title": "Control system development and qualification",
+       "start_page": 130,
+       "end_page": 131,
+       "summary": "An oscillation rig and shutter box to test the jet control shutters with a power-driven stick, and a full-scale outer wing segment with upper and lower shutters and the aircraft's control system, fitted to the 6-Viper rig with the pilot's stick in the temporary cockpit.",
+       "nodes": []
+      },
+      {
+       "node_id": "0054",
+       "title": "Combustor system development",
+       "start_page": 131,
+       "end_page": 131,
+       "summary": "Build a combustion test rig of one outer wing segment with a set of flame holders and a pair of nozzles, with fuel system and instrumentation, for testing at Orenda Engines' Nobel facility, then qualify it for experimental flying.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0055",
+     "title": "Design study and theoretical analysis",
+     "start_page": 131,
+     "end_page": 133,
+     "summary": "Proposed studies: applying the vertical take-off design to reconnaissance, interceptor and tactical bomber weapon systems; a development plan with timing and costs for a prototype reconnaissance aircraft under ARDC 80-4; stability and control analysis of gust and pilot response; and off-design propulsion system analysis using test data.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0056",
+   "title": "Tabulated summary and cost forecast",
+   "start_page": 134,
+   "end_page": 140,
+   "summary": "Section 9 tables list the tests and analyses completed, with results and costs, and forecast the cost of the new programs.",
+   "nodes": [
+    {
+     "node_id": "0057",
+     "title": "Development summary table, tests and analyses completed",
+     "start_page": 134,
+     "end_page": 137,
+     "summary": "Table of completed work as of 1 June 1956 with results: wind tunnel models at WADC and MIT, air cushion rigs, the 45 degree segment, thrust recovery tests at Orenda's Nobel plant and the end loss test. Costs per area, tests included, run from $30,713.72 for performance to $329,493.64 for stability and control; the grand total to date is $741,818.99.",
+     "nodes": []
+    },
+    {
+     "node_id": "0058",
+     "title": "Cost forecast for new programs required",
+     "start_page": 138,
+     "end_page": 140,
+     "summary": "Forecast for the section 8 programs, led by the 6-Viper propulsion rig at $1,570,000 excluding tooling, the transonic model at $223,000, the outer wing control segment at $216,000 and combustor development at $200,000. Total forecast is $3,168,000, compiled by the Special Projects Group from the 1 May 1956 draft statement of work.",
+     "nodes": []
+    }
+   ]
+  }
+ ]
+}

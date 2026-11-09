@@ -1,0 +1,62 @@
+{
+ "id": "deepsea-matador-meeting",
+ "title": "The Matador Meeting",
+ "source": {
+  "url": "https://catalog.archives.gov/id/1552992",
+  "publisher": "White House",
+  "date": "1975-03-19",
+  "pages": 3,
+  "released": "2012-05-14",
+  "file": "https://www.fordlibrarymuseum.gov/sites/default/files/pdf_documents/library/document/0314/1552992.pdf",
+  "sha256": "7811e071b17b08996cd05ebfec335fef0de99401b3dec83d626e1ea95a390d20",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "deepsea",
+ "summary": "White House record of a 19 March 1975 meeting, held the day The New York Times ran Seymour Hersh's story on the Glomar Explorer, in which President Ford, Defense Secretary Schlesinger and CIA Director Colby discuss whether to confirm the submarine operation. Schlesinger calls it 'a marvel' and urges admitting the bare facts, but Colby's advice to stay silent prevailed.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/deepsea/deepsea-matador-meeting/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Memorandum of conversation: Matador meeting",
+   "start_page": 1,
+   "end_page": 2,
+   "summary": "Secret/NODIS White House record of a Wednesday, March 19, 1975, 11:20 a.m. Cabinet Room meeting of President Ford, Schlesinger, Buchen, Marsh, Rumsfeld, Scowcroft and CIA Director Colby. Schlesinger calls the operation a marvel and urges acknowledging the bare facts, since \"no comment\" will be read as confirmation. Colby, recalling the U-2, warns against pressuring the Soviets to respond.",
+   "nodes": [
+    {
+     "node_id": "0001",
+     "title": "Participants and Schlesinger's case for going public",
+     "start_page": 1,
+     "end_page": 1,
+     "summary": "Participants, time and place, then the talk: Schlesinger calls the episode a major American accomplishment, a marvel technically and in secrecy. With no plausible denial story, he urges acknowledging the bare facts to take the high ground, offering to announce it himself as a Navy role too. Marsh asks who would put it out; Ford asks Colby's view.",
+     "nodes": []
+    },
+    {
+     "node_id": "0002",
+     "title": "Colby's reply and the Soviet reaction",
+     "start_page": 2,
+     "end_page": 2,
+     "summary": "Page 2: Colby goes back to the U-2 affair and says the Soviet Union should not be put under such pressure to respond. Ford notes that CBS reported from Moscow there was no official comment, but that the Soviets were aware.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0003",
+   "title": "Presidential Libraries withdrawal sheet",
+   "start_page": 3,
+   "end_page": 3,
+   "summary": "NARA withdrawal sheet, ID 017986: Brent Scowcroft's one-page notes for this memcon, dated 03/19/1975, are withheld under a national security restriction. Collection: National Security Adviser, Memoranda of Conversations, Box 10, folder \"March 19, 1975 - Ford, Schlesinger, Colby, Buchen, Marsh, Rumsfeld\". Withdrawn 05/28/2004 by archivist GG.",
+   "nodes": []
+  }
+ ]
+}

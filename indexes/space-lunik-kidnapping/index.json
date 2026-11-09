@@ -1,0 +1,94 @@
+{
+ "id": "space-lunik-kidnapping",
+ "title": "The Kidnaping of the Lunik",
+ "source": {
+  "url": "https://www.cia.gov/readingroom/document/06355349",
+  "publisher": "CIA",
+  "date": "1967",
+  "pages": 9,
+  "released": "1995-09-18",
+  "file": "https://archive.org/download/cia-readingroom-document-06355349/06355349.pdf",
+  "sha256": "a4a9b02ee2c0548642e42fa0fd6eb884abfcc56ebcf9588d6ada1a76b617f3ca",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "space",
+ "summary": "A 1967 Studies in Intelligence article on how US intelligence officers examined a Soviet Lunik upper stage from a touring Soviet exhibition and found it was a real production vehicle, not a mock-up. On a second access they borrowed it overnight, copied its factory markings and returned it before the Soviets missed it.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/space/space-lunik-kidnapping/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Studies in Intelligence, Vol. 11 No. 1, Winter 1967",
+   "start_page": 1,
+   "end_page": 1,
+   "summary": "Cover of the Central Intelligence Agency journal Studies in Intelligence, Volume 11 Number 1, Winter 1967, copy No. 1585. Secret and No Foreign Dissem markings are struck through; the page carries the release stamp 2019/10/07 C06355349 and exemption codes 3.5(c) and 3.3(h)(2).",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "Editorial policy",
+   "start_page": 2,
+   "end_page": 2,
+   "summary": "Articles may cover any theoretical, doctrinal, operational or historical aspect of intelligence; the Editorial Board decides whether an article contributes to the literature of intelligence. Editor Philip K. Edwards. Board: Sherman Kent (chairman), Donald F. Chamberlain, Lawrence R. Houston, William N. Morell, John H. Richardson and R. J. Smith, plus members from other CIA components.",
+   "nodes": []
+  },
+  {
+   "node_id": "0002",
+   "title": "The kidnaping of the Lunik",
+   "start_page": 3,
+   "end_page": 9,
+   "summary": "Sydney Wesley Finer on getting factory markings from inside a Soviet upper-stage space vehicle. A Soviet exhibition touring several countries showed a last-stage Lunik; US intelligence twice gained extended access, the second time borrowing it overnight and returning it before the Soviets missed it, through close cooperation between covert and overt intelligence components.",
+   "nodes": [
+    {
+     "node_id": "0003",
+     "title": "On view abroad",
+     "start_page": 3,
+     "end_page": 4,
+     "summary": "An unexpected late crate at the Soviet exhibition held the last-stage Lunik, about 20 by 11 feet, freshly painted with three inspection windows. Presumed a mock-up, it proved during 24 hours of access after the show to be a production item with engine and most electronics removed. Its markings were not copied well enough, so another access was sought.",
+     "nodes": []
+    },
+    {
+     "node_id": "0004",
+     "title": "Plans and problems",
+     "start_page": 5,
+     "end_page": 6,
+     "summary": "An intercepted manifest listed \"models of astronomic apparatus\" the size of the Lunik crate. The grounds layout and a Soviet 24-hour guard ruled out access at the exhibition. A four-man Joint Factory Markings Center team bought local clothes and tools; Station photos showed the crate opened only through its roof. Lacking rail assets, they chose to intercept the truck run.",
+     "nodes": []
+    },
+    {
+     "node_id": "0005",
+     "title": "Lunik on loan",
+     "start_page": 6,
+     "end_page": 7,
+     "summary": "The Lunik was the day's last truckload; with no Soviet escort seen, a new driver took over and the original was kept in a hotel. The truck went to a rented salvage yard with a 10-foot fence, patrolled by Station radio cars, while the Soviet checker was watched. The team arrived about 7:30 p.m. and pried up the roof planks.",
+     "nodes": []
+    },
+    {
+     "node_id": "0006",
+     "title": "Photographers at work",
+     "start_page": 7,
+     "end_page": 8,
+     "summary": "Two men took off their shoes, entered the nose through an inspection window and photographed markings on the payload orb. The others removed some 130 bolts from the base cap to reach the empty engine compartment. They cut a Soviet-sealed wire to free the orb, copied all markings, took two overlooked couplings, and received a duplicate seal from the Station.",
+     "nodes": []
+    },
+    {
+     "node_id": "0007",
+     "title": "Returned in good condition",
+     "start_page": 8,
+     "end_page": 9,
+     "summary": "Re-securing the orb took almost an hour; the crate was closed and the team left at 4:00 a.m. The original driver took the truck to the rail yard, where the Soviet checker showed no surprise. Markings Center Brief MCB No. 60-1 identified the probable producer, that it was the fifth stage built, three electrical suppliers and the parts-numbering system.",
+     "nodes": []
+    }
+   ]
+  }
+ ]
+}

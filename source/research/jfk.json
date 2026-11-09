@@ -1,0 +1,318 @@
+{
+ "topic": "jfk",
+ "items": [
+  {
+   "id": "jfk-schlesinger-cia-memo",
+   "title": "Schlesinger CIA Reorganization Memo",
+   "type": "document",
+   "date": "1961-06-30",
+   "released": "2025-03-18",
+   "agency": "White House",
+   "summary": "Kennedy aide Arthur Schlesinger Jr.'s memo after the Bay of Pigs proposing to split the CIA into an operations agency and a research agency, with clandestine work cleared by the State Department. The March 2025 release removed the last redactions, which show the CIA had nearly as many people under official cover abroad as the State Department.",
+   "source": "https://www.archives.gov/research/jfk/release-2025",
+   "file": "https://www.archives.gov/files/research/jfk/releases/2025/0318/176-10030-10422.pdf",
+   "file_name": "176-10030-10422.pdf",
+   "bytes": 2673757,
+   "pages": 16,
+   "credit": "Arthur M. Schlesinger Jr., The White House (Sorensen Papers, JFK Library)",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "Memorandum for the President on CIA reorganization from Arthur Schlesinger Jr., dated June 30, 1961 (record 176-10030-10422, Sorensen Papers).",
+     "url": "https://www.archives.gov/files/research/jfk/releases/2025/0318/176-10030-10422.pdf"
+    },
+    {
+     "claim": "Released by the National Archives on March 18, 2025 without redactions, following President Trump's directive of March 17, 2025.",
+     "url": "https://www.archives.gov/research/jfk/release-2025"
+    },
+    {
+     "claim": "The 2022 release of the same record still blacked out the section on CIA personnel under State Department cover.",
+     "url": "https://www.archives.gov/files/research/jfk/releases/2022/176-10030-10422.pdf"
+    },
+    {
+     "claim": "The memo states CIA had nearly as many people under official cover overseas as State (3,900 to 3,700) and that 47 percent of political officers in US embassies on Kennedy's inauguration day were CIA.",
+     "url": "https://www.archives.gov/files/research/jfk/releases/2025/0318/176-10030-10422.pdf"
+    }
+   ]
+  },
+  {
+   "id": "jfk-mystery-man",
+   "title": "Mexico City Mystery Man",
+   "type": "image",
+   "date": "1963-10",
+   "released": "1964-11-23",
+   "agency": "CIA",
+   "summary": "A CIA photo of an unidentified man taken in Mexico City in October 1963, which CIA staff at first wrongly linked to Oswald; it became Warren Commission Exhibit 237. The FBI showed it to Oswald's mother on 23 November 1963, and neither the CIA, the FBI nor the House Assassinations Committee could identify the man, who was neither Oswald nor Ruby.",
+   "source": "https://catalog.archives.gov/id/348806259",
+   "file": "https://catalog.archives.gov/medialz/dc-metro/rg-272/305131/418178088/batch-0004/305131-023-073_0001.tif",
+   "file_name": "305131-023-073_0001.tif",
+   "bytes": 116913,
+   "width": 1026,
+   "height": 1268,
+   "credit": "Central Intelligence Agency (Warren Commission Exhibit 237)",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The photograph was obtained by the CIA in October 1963; Agency employees first concluded it showed Oswald, but the man was neither Oswald nor Ruby and the CIA, FBI and committee could not identify him.",
+     "url": "https://www.archives.gov/research/jfk/select-committee-report/part-1d.html"
+    },
+    {
+     "claim": "On the night of November 23, 1963, FBI Special Agent Bardwell Odum showed Marguerite Oswald a picture of a man; the Commission found it was not Jack Ruby.",
+     "url": "https://www.archives.gov/research/jfk/warren-commission-report/appendix-12.html"
+    },
+    {
+     "claim": "The National Archives holds it as 'CE 237 Photograph of unidentified man', taken in Mexico City.",
+     "url": "https://catalog.archives.gov/id/348806259"
+    },
+    {
+     "claim": "CE 237 was printed in Volume XVI of the Commission's hearings and exhibits, issued November 23, 1964.",
+     "url": "https://www.govinfo.gov/app/details/GPO-WARRENCOMMISSIONHEARINGS-16"
+    }
+   ]
+  },
+  {
+   "id": "jfk-air-force-one-tape",
+   "title": "Air Force One Radio Tape",
+   "type": "audio",
+   "date": "1963-11-22",
+   "released": "2012-01-30",
+   "agency": "White House Communications Agency",
+   "summary": "Radio traffic recorded by the White House Communications Agency as Air Force One carried Kennedy's body and President Johnson from Dallas to Andrews Air Force Base. This is side 1 of the 2-hour-22-minute copy kept by General Chester Clifton, which runs about 40 minutes longer than the LBJ Library's version.",
+   "source": "https://www.archives.gov/research/jfk/air-force-one-tape",
+   "file": "https://catalog.archives.gov/medialive/47/1257/6125747/content/arcmedia/mopix/jfkn/jfkn-jfkn-1-1.mp3",
+   "file_name": "jfkn-jfkn-1-1.mp3",
+   "bytes": 70111817,
+   "duration": 4381.99,
+   "credit": "White House Communications Agency, U.S. Department of Defense",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The conversations were captured by the WHCA on the November 22, 1963 flight from Dallas to Andrews AFB; the full recording is 2 hours 22 minutes and the LBJ Library version is about 40 minutes shorter.",
+     "url": "https://www.archives.gov/research/jfk/air-force-one-tape"
+    },
+    {
+     "claim": "On January 30, 2012 the National Archives announced the Raab Collection had donated the tape and put a digitized copy online.",
+     "url": "https://www.archives.gov/press/press-releases/2012/nr12-60.html"
+    },
+    {
+     "claim": "The tape was made by the WHCA for Gen. Chester 'Ted' Clifton, Kennedy's senior military aide, and held privately until the Raab Collection obtained it; this MP3 is the first of two files for National Archives Identifier 6125747.",
+     "url": "https://catalog.archives.gov/id/6125747"
+    }
+   ]
+  },
+  {
+   "id": "jfk-ce-399-bullet",
+   "title": "CE 399, the \"Magic Bullet\"",
+   "type": "image",
+   "date": "1963-11-22",
+   "released": "1964-11-23",
+   "agency": "Warren Commission",
+   "summary": "A National Archives photograph of Commission Exhibit 399, the nearly whole bullet found on a stretcher at Parkland Memorial Hospital. The Warren Commission said it came from the rifle found in the Book Depository and that one bullet likely hit both Kennedy and Governor Connally; critics of that single-bullet theory call it the \"magic bullet\".",
+   "source": "https://catalog.archives.gov/id/305144",
+   "file": "https://catalog.archives.gov/medialz/dc-metro/rg-272/305131/418178088/CE_399-S04_2005.jpg",
+   "file_name": "CE_399-S04_2005.jpg",
+   "bytes": 49894251,
+   "width": 10056,
+   "height": 10101,
+   "credit": "National Archives and Records Administration (photograph of Warren Commission Exhibit 399)",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "The National Archives describes CE 399 as the bullet the Warren Commission believed wounded both President Kennedy and Governor Connally, known as the 'magic bullet' to those who questioned the single-bullet theory.",
+     "url": "https://catalog.archives.gov/id/305144"
+    },
+    {
+     "claim": "A nearly whole bullet was found on Governor Connally's stretcher at Parkland Hospital after the assassination.",
+     "url": "https://www.archives.gov/research/jfk/warren-commission-report/chapter-3.html"
+    },
+    {
+     "claim": "The Commission concluded the stretcher bullet was fired from the Mannlicher-Carcano rifle found on the sixth floor, and found 'very persuasive evidence' that one bullet hit both men.",
+     "url": "https://www.archives.gov/research/jfk/warren-commission-report/chapter-1.html"
+    },
+    {
+     "claim": "CE 399 was printed in Volume XVII of the Commission's hearings and exhibits, issued November 23, 1964.",
+     "url": "https://www.govinfo.gov/app/details/GPO-WARRENCOMMISSIONHEARINGS-17"
+    }
+   ]
+  },
+  {
+   "id": "jfk-countering-criticism",
+   "title": "CIA Dispatch 1035-960",
+   "type": "document",
+   "date": "1967-04-01",
+   "released": "1998",
+   "agency": "CIA",
+   "summary": "A CIA dispatch to station chiefs, \"Countering Criticism of the Warren Report\", asking them to raise the issue with friendly politicians and editors and to use propaganda assets, such as book reviews and feature articles, to answer the Commission's critics. It states its aim as providing material \"countering and discrediting the claims of the conspiracy theorists\".",
+   "source": "https://www.cia.gov/readingroom/document/00352448",
+   "file": "https://archive.org/download/cia-readingroom-document-00352448/00352448.pdf",
+   "file_name": "00352448.pdf",
+   "bytes": 5127147,
+   "pages": 53,
+   "credit": "Central Intelligence Agency",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "Dispatch number 1035-960, 'Countering Criticism of the Warren Report', dated 4/1/67 and sent to 'Chiefs, Certain Stations and Bases', with 9 attachments (archive.org mirror of CIA reading room document C00352448).",
+     "url": "https://archive.org/details/cia-readingroom-document-00352448"
+    },
+    {
+     "claim": "The dispatch says its aim is 'to provide material countering and discrediting the claims of the conspiracy theorists' and asks stations to discuss the problem with friendly elite contacts, especially politicians and editors, and to use propaganda assets for book reviews and feature articles.",
+     "url": "https://archive.org/download/cia-readingroom-document-00352448/00352448.pdf"
+    },
+    {
+     "claim": "The document is stamped 'CIA Historical Review Program Release in Full 1998' and carries a 1998 'JFK Act Release' stamp.",
+     "url": "https://archive.org/download/cia-readingroom-document-00352448/00352448.pdf"
+    }
+   ]
+  },
+  {
+   "id": "jfk-kgb-lbj-memo",
+   "title": "Hoover Memo on the KGB and LBJ",
+   "type": "document",
+   "date": "1966-12-01",
+   "released": "2017-10-26",
+   "agency": "FBI",
+   "summary": "J. Edgar Hoover's report to White House aide Marvin Watson on how Soviet and Communist Party officials reacted to the assassination. It passes on an FBI source's 1965 report that KGB headquarters said it had data purporting to show President Johnson was responsible.",
+   "source": "https://www.archives.gov/research/jfk/release-2017-2018",
+   "file": "https://www.archives.gov/files/research/jfk/releases/docid-32204484.pdf",
+   "file_name": "docid-32204484.pdf",
+   "bytes": 571174,
+   "pages": 8,
+   "credit": "Federal Bureau of Investigation",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "Hoover sent the memorandum 'Reaction of Soviet and Communist Party Officials to the Assassination of President John F. Kennedy', dated December 1, 1966, to Marvin Watson with a December 2, 1966 cover letter.",
+     "url": "https://www.archives.gov/files/research/jfk/releases/docid-32204484.pdf"
+    },
+    {
+     "claim": "An FBI source reported on September 16, 1965 that KGB headquarters told its New York residency it was 'now' in possession of data purporting to indicate President Johnson was responsible for the assassination.",
+     "url": "https://www.archives.gov/files/research/jfk/releases/docid-32204484.pdf"
+    },
+    {
+     "claim": "Record 178-10003-10131 (docid-32204484), formerly withheld in full, was released in full by the National Archives on October 26, 2017.",
+     "url": "https://www.archives.gov/files/research/jfk/national-archives-jfk-assassination-records-2017-2018-release.xlsx"
+    }
+   ]
+  },
+  {
+   "id": "jfk-lbj-oath-photo",
+   "title": "LBJ Sworn In Aboard Air Force One",
+   "type": "image",
+   "date": "1963-11-22",
+   "released": "1963-11-22",
+   "agency": "White House",
+   "summary": "White House photographer Cecil Stoughton's picture of Lyndon Johnson taking the presidential oath aboard Air Force One at Love Field, Dallas, with Jacqueline Kennedy at his side. Judge Sarah T. Hughes administered the oath before the plane left for Washington with Kennedy's body.",
+   "source": "https://www.lbjlibrary.org/object/photo/swearing-lyndon-b-johnson-president",
+   "file": "https://lbj-prod-staticfiles-4pgcba8v8q69.s3.amazonaws.com/artifacts/images/2021-03/1a-1-wh63.jpg",
+   "file_name": "1a-1-wh63.jpg",
+   "bytes": 747075,
+   "width": 1200,
+   "height": 1104,
+   "credit": "Cecil Stoughton, White House (LBJ Library photo 1A-1-WH63)",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "LBJ Library photo 1A-1-WH63 by Cecil Stoughton shows the swearing-in aboard Air Force One at Love Field, Dallas, and is marked public domain.",
+     "url": "https://www.lbjlibrary.org/object/photo/swearing-lyndon-b-johnson-president"
+    },
+    {
+     "claim": "Federal Judge Sarah T. Hughes administered the oath on the plane before it left Dallas, with Mrs. Kennedy and Mrs. Johnson at the new President's side.",
+     "url": "https://www.archives.gov/research/jfk/warren-commission-report/chapter-2.html"
+    },
+    {
+     "claim": "A Stoughton print of the oath dated 22 November 1963 is in the New York World-Telegram & Sun newspaper photo collection.",
+     "url": "https://www.loc.gov/item/00652311/"
+    }
+   ]
+  },
+  {
+   "id": "jfk-funeral-film",
+   "title": "Kennedy Funeral Procession Film",
+   "type": "video",
+   "date": "1963-11",
+   "released": "1991",
+   "agency": "US Army",
+   "summary": "Silent color film from Army Signal Corps records of President Kennedy's funeral procession in Washington, showing the flag-draped casket on a horse-drawn caisson, marching units of all five services, the Joint Chiefs of Staff and crowds lining the streets.",
+   "source": "https://catalog.archives.gov/id/29531",
+   "file": "https://catalog.archives.gov/medialz/mopix/111/lc/111-lc-48130.mp4",
+   "file_name": "111-lc-48130.mp4",
+   "bytes": 157178036,
+   "duration": 605.14,
+   "credit": "U.S. Army (Office of the Chief Signal Officer)",
+   "license": "US government work, public domain",
+   "facts": [
+    {
+     "claim": "'Funeral Services for President John F Kennedy' (111-LC-48130) covers November 23-25, 1963, is silent 35 mm color film, and its shot list includes the caisson with the flag-draped casket, Army, Navy, Air Force, Marine and Coast Guard units, and the Joint Chiefs of Staff.",
+     "url": "https://catalog.archives.gov/proxy/records/search?naId=29531"
+    },
+    {
+     "claim": "The film is in Records of the Office of the Chief Signal Officer, Army Library Copy Collection, marked unrestricted, and came to the National Archives in accessions NN3-111-91-001 to -004 and NN3-111-92-001.",
+     "url": "https://catalog.archives.gov/proxy/records/search?naId=29531"
+    }
+   ]
+  }
+ ],
+ "rejected": [
+  {
+   "title": "Zapruder film",
+   "reason": "Copyrighted; the brief excludes it."
+  },
+  {
+   "title": "Autopsy photographs and X-rays",
+   "reason": "Wound imagery; excluded by the brief."
+  },
+  {
+   "title": "Warren Commission Report (full)",
+   "reason": "About 900 pages; govinfo has it only as one 77 MB PDF and archives.gov only as HTML chapters, so no official part under 300 pages to download."
+  },
+  {
+   "title": "HSCA Final Report (1979)",
+   "reason": "Over 600 pages and on archives.gov only as HTML; used its Part I D text as a fact source for the Mystery Man instead."
+  },
+  {
+   "title": "Oswald CIA 201 file pages",
+   "reason": "The file is split into hundreds of separate RIF records with no single download; the 2025 item 104-10009-10021 is only a two-page distribution list. Covered instead by Dispatch 1035-960, which was released from that file."
+  },
+  {
+   "title": "LBJ-Hoover call, 23 Nov 1963 (Mexico City tape)",
+   "reason": "The audio was erased; only a transcript survives."
+  },
+  {
+   "title": "LBJ-Russell call, 18 Sep 1964 (single-bullet doubts)",
+   "reason": "discoverlbj.org and the Miller Center audio return 403 to scripts; the only archive.org copy is an unofficial re-upload."
+  },
+  {
+   "title": "Oswald backyard rifle photos (CE 133-A/B)",
+   "reason": "Taken by Marina Oswald, not a government work; copyright status unclear."
+  },
+  {
+   "title": "John F. Kennedy: Years of Lightning, Day of Drums (USIA, 1964)",
+   "reason": "NARA flags the film 'Restricted - Possibly' for copyright, and the only downloadable copy (archive.org) is 320x240."
+  },
+  {
+   "title": "Universal Newsreel Vol. 36 Release 97 (Oswald shooting, funeral)",
+   "reason": "NARA marks it possibly copyright restricted; commercial newsreel, not a government work; shows a killing."
+  },
+  {
+   "title": "FBI Dallas videos of James Files interviews",
+   "reason": "Privately made interviews with a fringe claimant, 1.2 GB each; not a government work."
+  },
+  {
+   "title": "Nosenko interrogation tapes (104-10534-10016)",
+   "reason": "1.3 GB WAV, over practical size and niche for this topic."
+  },
+  {
+   "title": "Operation Northwoods",
+   "reason": "Released through the JFK collection but about Cuba, not the assassination; fits a Cuba or Cold War topic better."
+  },
+  {
+   "title": "Hoover 'convince the public' memo / Katzenbach memo (Nov 1963)",
+   "reason": "No standalone official copy found on archives.gov or the allowed mirrors; the Hoover KGB memo was chosen instead."
+  },
+  {
+   "title": "Commons high-res LBJ oath frame (1A-4-WH63)",
+   "reason": "Used the LBJ Library's own 1A-1-WH63 file instead so the source page and file match; the Commons copy cites an old lbjlibrary.net page."
+  }
+ ]
+}

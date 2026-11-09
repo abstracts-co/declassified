@@ -1,0 +1,17 @@
+{
+ "topic": "area51",
+ "item": "area51-a12-oxcart",
+ "kind": "image",
+ "source": "raw/area51-a12-oxcart/A12-flying.jpg",
+ "start": null,
+ "duration": null,
+ "crop": [
+  520,
+  0,
+  2226,
+  2226
+ ],
+ "motion": "drift",
+ "why": "The black A-12 over bright white cloud is the strongest dark-on-light shape in the topic, with both engines, fins and cockpit in a centred full-height square, while the SR-71 film only has cuts of 3 s or less and no clean loop.",
+ "zoom": 0.62
+}

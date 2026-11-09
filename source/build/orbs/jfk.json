@@ -1,0 +1,17 @@
+{
+ "topic": "jfk",
+ "item": "jfk-ce-399-bullet",
+ "kind": "image",
+ "source": "raw/jfk-ce-399-bullet/CE_399-S04_2005.jpg",
+ "start": null,
+ "duration": null,
+ "crop": [
+  2400,
+  3430,
+  1820,
+  1820
+ ],
+ "motion": "push",
+ "why": "The nose of CE 399, the magic bullet, is a single copper object with a bright highlight on black velvet that reads at any size, cropped between the ruler and the archive card so no text shows.",
+ "zoom": 0.5
+}

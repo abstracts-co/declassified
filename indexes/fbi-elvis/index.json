@@ -1,0 +1,373 @@
+{
+ "id": "fbi-elvis",
+ "title": "Elvis Presley's FBI File",
+ "source": {
+  "url": "https://vault.fbi.gov/Elvis%20Presley%20",
+  "publisher": "FBI",
+  "date": "1956",
+  "pages": 51,
+  "released": "1997-07-24",
+  "file": "https://web.archive.org/web/20250302003846id_/https://vault.fbi.gov/Elvis%20Presley%20/Elvis%20Presley%20Part%2001/at_download/file",
+  "sha256": "bd2ba840f94317cb68b4b8263e3d1aec04259cf4f608b3648c6e3ffaf10faccb",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "fbi",
+ "summary": "Part 1 of the FBI's records on Elvis Presley, who was never investigated but appears in many files. It includes a 1956 letter to Hoover calling him 'a definite danger to the security of the United States' and the memo on his December 31, 1970 tour of FBI headquarters, where he offered to help the Bureau and blamed the Beatles for problems with young people.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/fbi/fbi-elvis/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Cover sheet",
+   "start_page": 1,
+   "end_page": 1,
+   "summary": "Handwritten cover sheet for the file: \"Presley, Elvis A.\", 663 pages total, part 1 of 2 parts.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "Letter to President Nixon about a police badge, 1972",
+   "start_page": 2,
+   "end_page": 3,
+   "summary": "A writer whose name is redacted asks President Nixon on January 29, 1972 to be made an honorary member of a federal law enforcement agency, having read that Nixon arranged a Federal Narcotics badge for Presley. The FBI routing slip says the Bureau is not in a position to acknowledge it.",
+   "nodes": [
+    {
+     "node_id": "0002",
+     "title": "Routing slip",
+     "start_page": 2,
+     "end_page": 2,
+     "summary": "Office of the Director routing slip with a handwritten instruction: \"Refer back to Dept. We are not in a position to acknowledge this.\"",
+     "nodes": []
+    },
+    {
+     "node_id": "0003",
+     "title": "Letter to President Richard M. Nixon",
+     "start_page": 3,
+     "end_page": 3,
+     "summary": "Letter of January 29, 1972, with an FBI stamp of February 11, 1972. The writer, a police buff and Special Deputy Sheriff who collects badges, read that Nixon arranged a Federal Narcotics badge for Presley and asks whether any federal agency could make him an honorary or associate member. Signature redacted.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0004",
+   "title": "Presley's visit to FBI headquarters, December 1970",
+   "start_page": 4,
+   "end_page": 12,
+   "summary": "Records of Presley's December 31, 1970 tour of FBI headquarters with former Shelby County sheriff William N. Morris: Senator George Murphy's first call, Morris's request to meet Hoover, the Bureau's refusal, Presley's offer to help against narcotics, his remarks on the Beatles, and Hoover's thank-you letter.",
+   "nodes": [
+    {
+     "node_id": "0005",
+     "title": "Hoover's letter to Presley, January 4, 1971",
+     "start_page": 4,
+     "end_page": 4,
+     "summary": "Hoover regrets he could not see Presley and his party at FBI headquarters, hopes they enjoyed the tour, thanks him for his comments and says the Bureau will keep his offer of help in mind. A note to the Memphis, Las Vegas and Los Angeles offices says Presley offered to assist on a confidential basis.",
+     "nodes": []
+    },
+    {
+     "node_id": "0006",
+     "title": "Request for Bureau tour and meet with the Director",
+     "start_page": 5,
+     "end_page": 6,
+     "summary": "M. A. Jones memo to Mr. Bishop, 12-30-70: Morris phoned from the Washington Hotel asking for a tour and a handshake with Hoover for Presley's party. Files note extortion attempts against Presley and a paternity suit. Presley is \"not the type\" Hoover would wish to meet, given his shoulder-length hair and exotic dress. Recommends a tour without Hoover.",
+     "nodes": []
+    },
+    {
+     "node_id": "0007",
+     "title": "Washington Post photo of Presley",
+     "start_page": 7,
+     "end_page": 7,
+     "summary": "\"People\" photo clipped from the Washington Post, December 30, 1970: Presley leaves Trinity Baptist Church in Memphis after serving as best man at his chief security officer's wedding, wearing a furry bell-bottomed suit, amber glasses, a medallion and a flashlight. The Jones memo attached it to show his appearance.",
+     "nodes": []
+    },
+    {
+     "node_id": "0008",
+     "title": "Bureau tour 12-31-70",
+     "start_page": 8,
+     "end_page": 10,
+     "summary": "Jones memo to Bishop, 1-4-71: Presley, Morris and six security men toured headquarters. Presley called Hoover the \"greatest living American\", showed the narcotics badge Nixon gave him, offered to report people seeking to use his name, and blamed the Beatles, the Smothers Brothers and Jane Fonda for poisoning young minds. Recommends a letter from Hoover.",
+     "nodes": []
+    },
+    {
+     "node_id": "0009",
+     "title": "Jones memo on Senator Murphy's call, 12-22-70",
+     "start_page": 11,
+     "end_page": 12,
+     "summary": "Senator George Murphy (R-California) reported that Presley flew with him to Washington, wants to fight drug use by young people, has an appointment with narcotics director John Ingersoll and hopes to meet Hoover. The Bureau called Presley with Hoover's regrets; he gave the pseudonym Colonel Jon Burrows for contact. Files note extortion attempts and a paternity suit.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0010",
+   "title": "Anonymous 1959 letter threatening Presley",
+   "start_page": 13,
+   "end_page": 24,
+   "summary": "An anonymous letter dated March 11, 1959, postmarked Canton, Ohio and sent to RCA Victor Records, warned that a Red Army soldier from East Germany planned to kill Presley, then in the US Army in Germany. The FBI Laboratory found no handwriting match, and Hoover passed the letter to Army intelligence.",
+   "nodes": [
+    {
+     "node_id": "0011",
+     "title": "Hoover to Army intelligence, April 22, 1959",
+     "start_page": 13,
+     "end_page": 13,
+     "summary": "Hoover sends the Army's Assistant Chief of Staff for Intelligence a Photostat of the letter. RCA gave it to manager Colonel Thomas Parker. A woman who wrote threatening letters to Presley in 1957-1958 entered a mental institution and was not prosecuted; her name is redacted. The handwriting does not match the redacted known writer. No further FBI investigation.",
+     "nodes": []
+    },
+    {
+     "node_id": "0012",
+     "title": "Laboratory transmittal form, April 14, 1959",
+     "start_page": 14,
+     "end_page": 14,
+     "summary": "FBI Laboratory form, signed for Hoover, sending lab reports to FBI New York (62-12152) on the document examination requested by airtel of 3/24/59. It notes that a case with a redacted name, \"Elvis Presley, victim, extortion\", has Bureau file 9-33135.",
+     "nodes": []
+    },
+    {
+     "node_id": "0013",
+     "title": "Report of the FBI Laboratory",
+     "start_page": 15,
+     "end_page": 15,
+     "summary": "Laboratory report of April 14, 1959 on specimen Q1, received 3/25/59: the envelope postmarked Canton, Ohio, March 12, 1959 and the four-page letter of 3/11/59. A search of the Anonymous Letter File found no match, and Q1 was not written by the redacted writer of specimen K3 in the extortion case.",
+     "nodes": []
+    },
+    {
+     "node_id": "0014",
+     "title": "Laboratory work sheet",
+     "start_page": 16,
+     "end_page": 16,
+     "summary": "Work sheet recorded 3/27/59 for FBI New York's request of 3/24/59, lab number D-303175. The examiner's name is redacted. A handwritten result compares Q1 with a redacted writer's specimen K3 from file 9-33135. Q1 is the Canton envelope and four-page letter beginning \"Dear Sir I have just...\" and ending \"...Thank You.\"",
+     "nodes": []
+    },
+    {
+     "node_id": "0015",
+     "title": "Handwriting comparison sheet",
+     "start_page": 17,
+     "end_page": 17,
+     "summary": "Examiner's chart setting an excerpt of the anonymous letter (Q1: \"Dear Sir I have just ... kill Elvis Presley\") above a handwriting sample K3 from extortion file 9-33135, which also names Presley and mentions killing. The K3 writer's name is redacted.",
+     "nodes": []
+    },
+    {
+     "node_id": "0016",
+     "title": "New York airtel to the Director, 3/24/59",
+     "start_page": 18,
+     "end_page": 18,
+     "summary": "SAC New York sends the Laboratory the original letter and envelope. RCA's legal department received it 3/16/59. Presley's manager, Col. Thomas Parker, said it matched letters from an Ohio woman the FBI had already looked into and called her \"nuts\". The letter held no personal threats from the writer. Photostats go to Memphis.",
+     "nodes": []
+    },
+    {
+     "node_id": "0017",
+     "title": "Laboratory work sheet, second copy",
+     "start_page": 19,
+     "end_page": 19,
+     "summary": "Another copy of the laboratory work sheet recorded 3/27/59 for FBI New York's request, received 3/25/59, file 63-3064-3, lab number D-303175, with the examiner's name redacted and the same description of specimen Q1.",
+     "nodes": []
+    },
+    {
+     "node_id": "0018",
+     "title": "Envelope to RCA Victor Records",
+     "start_page": 20,
+     "end_page": 20,
+     "summary": "Copy of the envelope (Q1), handwritten to R.C.A. Victor Records, 155 E. 24th St., New York 10, New York, and marked \"Please note, important\".",
+     "nodes": []
+    },
+    {
+     "node_id": "0019",
+     "title": "Anonymous letter, Canton, 3-11-59",
+     "start_page": 21,
+     "end_page": 24,
+     "summary": "Four handwritten pages: a relative in West Germany reported that a Red soldier from East Germany, wearing an American uniform, will slip into West Germany between May 14 and 22 with orders to kill Presley. The writer, \"a mother and grandmother\", withholds names to protect her relatives and begs RCA to protect the young soldier.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0020",
+   "title": "Press clippings, 1956-1957",
+   "start_page": 25,
+   "end_page": 31,
+   "summary": "Newspaper items the FBI filed on the Presley craze: fans at the \"Love Me Tender\" opening, Louisville's police chief banning \"wiggle\" in his act, Syracuse housewives petitioning CBS to keep him off television, and George Sokolsky's 1957 columns on teenage fans, including Charlotte Jones of Dallas, who called Presley the greatest thing the world has known.",
+   "nodes": [
+    {
+     "node_id": "0021",
+     "title": "Irate teeners demand Elvis",
+     "start_page": 25,
+     "end_page": 25,
+     "summary": "New York Journal-American, November 15, 1956, page 1: most of 1,500 bobby-soxers who waited overnight at the Paramount Theatre for Presley's first movie, \"Love Me Tender\", were furious he would not appear in person. Carol Olsen, 15, of Brooklyn is quoted; fans believed he would hand out gifts to the first 2,000.",
+     "nodes": []
+    },
+    {
+     "node_id": "0022",
+     "title": "Elvis faces wiggle ban",
+     "start_page": 26,
+     "end_page": 26,
+     "summary": "AP item from Louisville in the New York Journal-American, November 15, 1956: Police Chief Carl Heustis says he will not permit \"any lewd, lascivious contortions\" when Presley appears there on November 25, adding that he is not one of the singer's admirers.",
+     "nodes": []
+    },
+    {
+     "node_id": "0023",
+     "title": "Petition circulated to bar Elvis on TV",
+     "start_page": 27,
+     "end_page": 27,
+     "summary": "Evening Star, Washington, November 8, 1956: Syracuse, New York housewives gathered signatures asking CBS to bar Presley from television, calling his \"physical contortions\" vulgar, suggestive and disgusting. Their spokesman said Steve Allen, who had invited Presley on his show, would be mailed the petition too.",
+     "nodes": []
+    },
+    {
+     "node_id": "0024",
+     "title": "These Days: The teenagers write",
+     "start_page": 28,
+     "end_page": 28,
+     "summary": "George E. Sokolsky column in the Washington Post and Times Herald, 1957, on letters from teenagers: a girl of 17 says schools let children tell their parents what to do; a girl of 14 calls Elvis the greatest entertainer and proof that a truck driver can become a millionaire. Sokolsky notes Tchaikovsky and Mozart never became millionaires.",
+     "nodes": []
+    },
+    {
+     "node_id": "0025",
+     "title": "These Days: First in the hearts of teens",
+     "start_page": 29,
+     "end_page": 29,
+     "summary": "Sokolsky column in the Washington Post and Times Herald, 1957, reprinting Charlotte Jones of Dallas: Elvis is the king of popularity, will never be forgotten, like George Washington, and is \"the greatest thing the world has ever known\". Sokolsky blames schools for poor cultural background and calls rock-and-roll a reversion to the tom-tom of the jungle.",
+     "nodes": []
+    },
+    {
+     "node_id": "0026",
+     "title": "She believes Elvis is 'the greatest'",
+     "start_page": 30,
+     "end_page": 31,
+     "summary": "The same Sokolsky column in the New York Journal-American, March 11, 1957, continued under \"She likes what she likes\": he wonders how Charlotte Jones would fare after six weeks of Bach and Brahms at Tanglewood, doubts Elvis could make the Metropolitan Opera chorus in 50 years, and notes the title \"the greatest\" once went to Jesus.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0027",
+   "title": "Louisville police request about riots, November 1956",
+   "start_page": 32,
+   "end_page": 33,
+   "summary": "Louisville police chief Colonel Carl E. Heustis asked the FBI about riots after shows by Presley and Bill Haley and His Comets, both booked in Louisville on November 25, 1956. Hoover replied that the Bureau had made no inquiries and had no specific information, and suggested Heustis ask the police in the cities concerned.",
+   "nodes": [
+    {
+     "node_id": "0028",
+     "title": "Airtel to SAC, Louisville, 11-7-56",
+     "start_page": 32,
+     "end_page": 32,
+     "summary": "Hoover's reply: the Bureau knows of newspaper reports of riots after appearances by Presley and Bill Haley and His Comets but made no inquiries and has no specific information. The SAC may tactfully suggest that Colonel Heustis consult the chiefs of police where the riots occurred.",
+     "nodes": []
+    },
+    {
+     "node_id": "0029",
+     "title": "Decoded radiogram from Louisville, 11-7-56",
+     "start_page": 33,
+     "end_page": 33,
+     "summary": "Urgent radio message: Louisville police chief Carl E. Heustis says Presley and Bill Haley and His Comets are booked at the Jefferson County Armory and the Kentucky State Fairground on November 25. Riots after such shows in Jersey City, Asbury Park, Santa Cruz, San Jose, Hartford and Jacksonville caused heavy damage, and he asks for Bureau information.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0030",
+   "title": "La Crosse Register letter, May 1956",
+   "start_page": 34,
+   "end_page": 40,
+   "summary": "A writer at the La Crosse Register, a Wisconsin Catholic diocesan paper, told Hoover on May 16, 1956 that Presley is \"a definite danger to the security of the United States\", enclosing La Crosse Tribune coverage of his May 14 shows. Hoover replied that the matter is outside FBI jurisdiction.",
+   "nodes": [
+    {
+     "node_id": "0031",
+     "title": "Hoover's reply to the La Crosse Register",
+     "start_page": 34,
+     "end_page": 34,
+     "summary": "Hoover's letter, stamped May 24, 1956, to a correspondent at the La Crosse Register whose name is redacted: the matter in the May 16 letter is not within FBI investigative jurisdiction; thanks for kind remarks. A note says Presley appears in Bureau files only in a newspaper clipping and that the writer calls his antics vulgar and suggests Bureau action.",
+     "nodes": []
+    },
+    {
+     "node_id": "0032",
+     "title": "Letter to Hoover, May 16, 1956",
+     "start_page": 35,
+     "end_page": 36,
+     "summary": "A newspaperman, parent and former Army Intelligence member calls Presley \"a definite danger to the security of the United States\" after his May 14 La Crosse shows. He cites eyewitness accounts of sexual gestures, over 1,000 teenagers mobbing his room, and two girls with his autograph on abdomen and thigh, and calls him a possible drug addict. Signature redacted.",
+     "nodes": []
+    },
+    {
+     "node_id": "0033",
+     "title": "La Crosse Tribune clippings",
+     "start_page": 37,
+     "end_page": 40,
+     "summary": "Enclosed La Crosse Tribune pages from May 1956: photos of screaming teenage fans (\"Man, when this cat sings, who can sit still?\"), David C. Lee's \"Teen-Age Bedlam Greets Stomping Elvis Presley\", and the item \"Lack of Discipline in the Home Fosters Crime\", quoting Milwaukee FBI agent James Foster.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0034",
+   "title": "Memphis letter on censorship, April 1956",
+   "start_page": 41,
+   "end_page": 45,
+   "summary": "A Memphis man whose name is redacted wrote to Hoover on April 11, 1956 urging a push for stronger censorship of entertainment, enclosing Memphis Press-Scimitar clippings on Presley and on film censorship. Hoover answered on April 17 that the FBI is a fact-gathering agency and cannot make suggestions on legislative matters.",
+   "nodes": [
+    {
+     "node_id": "0035",
+     "title": "Hoover's reply, April 17, 1956",
+     "start_page": 41,
+     "end_page": 41,
+     "summary": "Hoover acknowledges the April 11 letter and its enclosures, explains that the FBI is strictly a fact-gathering agency with no authority to make suggestions on legislative matters, and thanks the writer. A note cites a 1940 letter from SAC Memphis about the correspondent; the details and his name are redacted.",
+     "nodes": []
+    },
+    {
+     "node_id": "0036",
+     "title": "Letter to Hoover, April 11, 1956",
+     "start_page": 42,
+     "end_page": 42,
+     "summary": "The writer, who knew Don Hostetter in Memphis, encloses clippings showing a trend and says some agency must push for better censorship. Memphis, a city of 455,000, struggled to keep its censorship after a committee called it unnecessary, and most entertainment crosses state lines, making it a federal problem. He quotes the Apostle Peter and thanks Hoover. Name redacted.",
+     "nodes": []
+    },
+    {
+     "node_id": "0037",
+     "title": "Our Elvis Presley—in Vista Vision!",
+     "start_page": 43,
+     "end_page": 44,
+     "summary": "Robert Johnson's \"TV News and Views\" column, Memphis Press-Scimitar, April 10, 1956: the 21-year-old signs with Paramount after a Hal Wallis screen test. It covers his record sales, death and cancer rumors, readers' letters for and against him, a psychiatrist's verdict, Sammy Kaye, Benny Goodman and Paul Whiteman scoffing, and \"Long Tall Sally\" topping Memphis charts.",
+     "nodes": []
+    },
+    {
+     "node_id": "0038",
+     "title": "Censorship may go to surgery",
+     "start_page": 45,
+     "end_page": 45,
+     "summary": "Erskine Johnson's \"In the Movies\" item, clipped from the Memphis Press-Scimitar in April 1956: Hollywood is studying changes to its film production code after the controversy over \"The Man With the Golden Arm\", with talk of more flexible rules and a special code seal for foreign films.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0039",
+   "title": "Harassing phone call to Memphis, September 1968",
+   "start_page": 46,
+   "end_page": 51,
+   "summary": "FBI Louisville report on hoax calls from Louisville to two unlisted Memphis numbers, one of them Presley's, in September 1968. A caller had told Presley's uncle that Elvis was killed in a plane crash and his body lay at the Manning-Dunn Funeral Home. The US Attorney deferred prosecution to local police.",
+   "nodes": [
+    {
+     "node_id": "0040",
+     "title": "SAC Louisville memo to the Director, 9/12/68",
+     "start_page": 46,
+     "end_page": 46,
+     "summary": "Cover memo in the case \"Unknown subject; harassing phone call from Louisville, Kentucky to phone of Mrs. [redacted], Memphis, Tennessee, 9/7/68\", filed as interstate obscene or harassing calls. It sends four copies of a letterhead memorandum to the Bureau, one to Memphis, and one to the US Attorney in Louisville.",
+     "nodes": []
+    },
+    {
+     "node_id": "0041",
+     "title": "Letterhead memorandum, September 12, 1968",
+     "start_page": 47,
+     "end_page": 51,
+     "summary": "South Central Bell reported two calls to Memphis on September 6-7, 1968 by a man giving pay phone 778-9341; one was traced to a Louisville home with a broken back-door window. Presley's unlisted number was called. Manning-Dunn Funeral Home, long plagued by hoax calls, reported the fake crash story. Police continue; prosecution deferred.",
+     "nodes": []
+    }
+   ]
+  }
+ ]
+}

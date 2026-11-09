@@ -2,7 +2,31 @@
   "schemaVersion": 1,
   "name": "a/declassified",
   "description": "Declassified government files from around the world, starting with the United States: documents, photos, films and tapes by topic, indexed so you and your agent can search every page.",
-  "rules": [],
+  "rules": [
+    "Only files a government has declassified or officially released. No leaks, and nothing still classified.",
+    "Link the official source for every file and name the agency that made it.",
+    "Say what a file shows. Label theories as theories.",
+    "No gore, and no private details about private people beyond what the release itself shows.",
+    "Building on someone's work? Post it as Based on theirs and credit them."
+  ],
   "roles": [],
-  "categories": []
+  "categories": [
+    "ufos",
+    "jfk",
+    "spies",
+    "mind-control",
+    "nuclear",
+    "space",
+    "military",
+    "fbi-files",
+    "presidents",
+    "cold-war",
+    "world"
+  ],
+  "aboutArtifact": "files",
+  "pinnedArtifacts": [
+    "files"
+  ],
+  "avatar": "assets/logo.png",
+  "cover": "assets/banner.webp"
 }

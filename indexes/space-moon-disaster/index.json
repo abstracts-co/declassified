@@ -1,0 +1,62 @@
+{
+ "id": "space-moon-disaster",
+ "title": "In Event of Moon Disaster",
+ "source": {
+  "url": "https://catalog.archives.gov/id/6922351",
+  "publisher": "White House",
+  "date": "1969-07-18",
+  "pages": 2,
+  "released": "1999-07-07",
+  "file": "https://catalog.archives.gov/medialz/presidential-libraries/nixon/rn-smof/976313/RN100_6-1.pdf",
+  "sha256": "9c3c7dbafa251e15c17de804a92d62fc7b09c4b2cf0dc97f72a8afed9b6f72c9",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "space",
+ "summary": "A memo from speechwriter William Safire to chief of staff H. R. Haldeman with the speech President Nixon would have read if Apollo 11 astronauts Neil Armstrong and Edwin Aldrin were stranded on the Moon. It also told Nixon to telephone the \"widows-to-be\" and had a clergyman commend their souls to \"the deepest of the deep\".",
+ "files": "https://abstracts-co.github.io/declassified-data/us/space/space-moon-disaster/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "In event of moon disaster",
+   "start_page": 1,
+   "end_page": 2,
+   "summary": "Memo of July 18, 1969 from Bill Safire to H. R. Haldeman with a statement for the President to read if Apollo 11 astronauts Neil Armstrong and Edwin Aldrin could not return from the moon, followed by instructions for calls to their wives and a closing religious service.",
+   "nodes": [
+    {
+     "node_id": "0001",
+     "title": "Contingency statement",
+     "start_page": 1,
+     "end_page": 2,
+     "summary": "Fate has ordained that the men who went to the moon to explore in peace will stay there to rest in peace. Armstrong and Aldrin know there is no hope of recovery, but hope for mankind in their sacrifice. Others will follow; these men were the first, and moon-gazers will know some corner of another world is forever mankind.",
+     "nodes": []
+    },
+    {
+     "node_id": "0002",
+     "title": "Prior to the President's statement",
+     "start_page": 2,
+     "end_page": 2,
+     "summary": "Before giving the statement, the President should telephone each of the widows-to-be.",
+     "nodes": []
+    },
+    {
+     "node_id": "0003",
+     "title": "After the President's statement",
+     "start_page": 2,
+     "end_page": 2,
+     "summary": "When NASA ends communications with the men, a clergyman should follow the procedure of a burial at sea, commending their souls to \"the deepest of the deep\" and concluding with the Lord's Prayer.",
+     "nodes": []
+    }
+   ]
+  }
+ ]
+}

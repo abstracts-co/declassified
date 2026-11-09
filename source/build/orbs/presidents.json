@@ -1,0 +1,17 @@
+{
+ "topic": "presidents",
+ "item": "presidents-situation-room",
+ "kind": "image",
+ "source": "raw/presidents-situation-room/M1Hi_j0008.JPG",
+ "start": null,
+ "duration": null,
+ "crop": [
+  1385,
+  1045,
+  1235,
+  1235
+ ],
+ "motion": "push",
+ "why": "President Obama leaning in to watch the bin Laden raid is the topic's one striking photographic subject, a dark jacket and intent face centred against the pale Situation Room wall that reads at small size, while the Truman note and the other items are handwriting or typed text.",
+ "zoom": 0.6
+}

@@ -1,0 +1,159 @@
+{
+ "id": "ufo-odni-preliminary-assessment",
+ "title": "ODNI Preliminary Assessment on UAP",
+ "source": {
+  "url": "https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/item/2223-preliminary-assessment-unidentified-aerial-phenomena",
+  "publisher": "ODNI",
+  "date": "2021-06-25",
+  "pages": 9,
+  "released": "2021-06-25",
+  "file": "https://web.archive.org/web/20210625203612id_/https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
+  "sha256": "3b699a825c53aab7816b50ffe0c45d4f424ca43da5eaa421736e529f2ac00ac9",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "ufo",
+ "summary": "The Director of National Intelligence's unclassified report to Congress on UAP, drafted with the Pentagon's UAP Task Force. Of 144 US government reports from 2004 to 2021 it could explain only one, a large deflating balloon, and it noted 18 incidents with unusual movement patterns or flight characteristics.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/ufo/ufo-odni-preliminary-assessment/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Preliminary assessment: unidentified aerial phenomena",
+   "start_page": 1,
+   "end_page": 1,
+   "summary": "Unclassified title page from the Office of the Director of National Intelligence: \"Preliminary Assessment: Unidentified Aerial Phenomena\", dated 25 June 2021.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "Scope and assumptions",
+   "start_page": 2,
+   "end_page": 2,
+   "summary": "ODNI answers Senate Report 116-233 on the FY2021 Intelligence Authorization Act, assessing the UAP threat and the progress of DoD's UAP Task Force. Data covers mainly US Government reports from November 2004 to March 2021. UAPTF and the ODNI aviation manager drafted it with input from DIA, FBI, NRO, NGA, NSA, the services, DARPA, FAA and NOAA.",
+   "nodes": []
+  },
+  {
+   "node_id": "0002",
+   "title": "Executive summary",
+   "start_page": 3,
+   "end_page": 3,
+   "summary": "Limited high-quality reporting prevents firm conclusions about UAP. Most probably are physical objects, seen on radar, infrared, electro-optical, weapon seekers and by eye; a few seemed to show unusual flight. Explanations likely fall into five bins: airborne clutter, natural phenomena, US programs, foreign adversary systems and \"other\". UAP pose a flight safety issue; better reporting and analysis would need investment.",
+   "nodes": []
+  },
+  {
+   "node_id": "0003",
+   "title": "Available reporting largely inconclusive",
+   "start_page": 4,
+   "end_page": 5,
+   "summary": "Of 144 US Government reports from 2004 to 2021, mostly from military aviators, only one was explained: a large deflating balloon. Stigma and mission-specific sensors hamper collection. Sightings cluster in shape, size and propulsion and near US training ranges, and in 18 incidents observers reported unusual movement or flight characteristics.",
+   "nodes": [
+    {
+     "node_id": "0004",
+     "title": "Limited data leaves most UAP unexplained",
+     "start_page": 4,
+     "end_page": 4,
+     "summary": "No standard reporting existed until the Navy created one in March 2019; the Air Force adopted it in November 2020. The UAPTF focused on firsthand reports by military aviators from reliable systems, 2004 to 2021, most from the last two years. It identified one object with high confidence, a large deflating balloon. Of 144 reports, 80 involved multiple sensors.",
+     "nodes": []
+    },
+    {
+     "node_id": "0005",
+     "title": "UAP collection challenges",
+     "start_page": 4,
+     "end_page": 4,
+     "summary": "Aviators and analysts describe disparagement for reporting or discussing UAP, and reputational risk may keep observers silent. Sensors on US military platforms are built for specific missions and are not suited to identifying UAP. Vantage point and the number of sensors matter: optical sensors show size and shape, radiofrequency sensors give velocity and range.",
+     "nodes": []
+    },
+    {
+     "node_id": "0006",
+     "title": "But some potential patterns do emerge",
+     "start_page": 5,
+     "end_page": 5,
+     "summary": "Despite wide variability and a small dataset, observations clustered by shape, size and especially propulsion. Sightings also clustered around US training and testing grounds, which the assessment attributes possibly to collection bias from focused attention, newer sensors in those areas, unit expectations and guidance to report anomalies.",
+     "nodes": []
+    },
+    {
+     "node_id": "0007",
+     "title": "And a handful of UAP appear to demonstrate advanced technology",
+     "start_page": 5,
+     "end_page": 5,
+     "summary": "In 18 incidents described in 21 reports, UAP seemed to stay stationary in winds aloft, move against the wind, maneuver abruptly or move fast without visible propulsion. In a few cases aircraft systems processed radio frequency energy linked to sightings. Some data appear to show acceleration or signature management; further analysis will test for breakthrough technologies.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0008",
+   "title": "UAP probably lack a single explanation",
+   "start_page": 5,
+   "end_page": 6,
+   "summary": "Resolved UAP will likely fall into five categories: airborne clutter such as birds, balloons, drones and plastic bags; natural phenomena like ice crystals and thermal fluctuations; US government or industry programs, though none was confirmed; foreign systems from China, Russia or others; and \"other\", objects that may need new science. Only the deflating balloon has been attributed.",
+   "nodes": []
+  },
+  {
+   "node_id": "0009",
+   "title": "UAP threaten flight safety and, possibly, national security",
+   "start_page": 6,
+   "end_page": 6,
+   "summary": "UAP are a flight safety hazard and could be a wider danger if they are foreign collection or adversary breakthrough technology. Pilots may halt training and land when hazards appear, and the UAPTF has 11 documented near misses. There is no current data showing a foreign collection program, but monitoring continues because some UAP were seen near military facilities.",
+   "nodes": []
+  },
+  {
+   "node_id": "0010",
+   "title": "Explaining UAP will require analytic, collection and resource investment",
+   "start_page": 6,
+   "end_page": 7,
+   "summary": "The UAPTF plans to widen its data, standardize reporting across the services and agencies, use machine learning to cluster reports, gather Air Force and FAA data, collect where US forces are absent to reduce bias, and seek more research and development funding guided by a collection strategy, technical roadmap and program plan.",
+   "nodes": [
+    {
+     "node_id": "0011",
+     "title": "Standardize the reporting, consolidate the data, and deepen the analysis",
+     "start_page": 6,
+     "end_page": 7,
+     "summary": "Per Senate Report 116-233, the UAPTF aims to include more events from more USG personnel and systems and to use AI and machine learning to match reports against known objects like balloons and wildlife. Most data comes from the Navy; the Air Force began a six-month pilot program in November 2020, and the FAA has started supplying data and outreach.",
+     "nodes": []
+    },
+    {
+     "node_id": "0012",
+     "title": "Expand collection",
+     "start_page": 7,
+     "end_page": 7,
+     "summary": "The UAPTF seeks ways to collect in UAP cluster areas when US forces are absent, to set a baseline and cut collection bias. One idea is using advanced algorithms on historical radar data. It also plans to update its interagency UAP collection strategy to draw on DoD and Intelligence Community platforms and methods.",
+     "nodes": []
+    },
+    {
+     "node_id": "0013",
+     "title": "Increase investment in research and development",
+     "start_page": 7,
+     "end_page": 7,
+     "summary": "The UAPTF says added research and development funding could advance study of these topics, guided by a UAP Collection Strategy, a UAP R&D Technical Roadmap and a UAP Program Plan.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0014",
+   "title": "Appendix A: definition of key terms",
+   "start_page": 8,
+   "end_page": 8,
+   "summary": "Defines UAP as airborne objects not immediately identifiable, and the terms UAP event, UAP incident and UAP report, which includes \"range fouler\" reports. A footnote says Navy aviators use range fouler for an activity or object that interrupts planned training or other military activity in an operating area or restricted airspace.",
+   "nodes": []
+  },
+  {
+   "node_id": "0015",
+   "title": "Appendix B: Senate report accompanying the IAA for fiscal year 2021",
+   "start_page": 9,
+   "end_page": 9,
+   "summary": "Senate Report 116-233 asked the DNI and Secretary of Defense for eight items: analysis of Office of Naval Intelligence and UAPTF data; geospatial, signals, human and measurement intelligence; FBI data on intrusions over restricted airspace; an interagency process and an accountable official; threats and foreign attribution; adversary breakthroughs; and recommendations on collection, research and funding.",
+   "nodes": []
+  }
+ ]
+}

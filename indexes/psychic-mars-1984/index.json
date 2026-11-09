@@ -1,0 +1,110 @@
+{
+ "id": "psychic-mars-1984",
+ "title": "Mars Exploration, May 22, 1984",
+ "source": {
+  "url": "https://www.cia.gov/readingroom/document/cia-rdp96-00788r001900760001-9",
+  "publisher": "US Army",
+  "date": "1984-05-22",
+  "pages": 9,
+  "released": "2000-08-08",
+  "file": "https://archive.org/download/CIA-RDP96-00788R001900760001-9/CIA-RDP96-00788R001900760001-9.pdf",
+  "sha256": "85cef8ceccff25de7f1e13c59e3434f85e00cce386e05073db7926b6a0d5819f",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "psychic",
+ "summary": "Transcript of a May 1984 remote-viewing session in which the viewer held a sealed envelope, opened only afterwards, with a card reading 'The planet Mars. Time of interest approximately 1 million years B.C.' Given a series of coordinates, he describes pyramids and very tall, thin 'ancient people' who are dying.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/psychic/psychic-mars-1984/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Mars exploration, May 22, 1984",
+   "start_page": 1,
+   "end_page": 1,
+   "summary": "Title page of the session record: \"Mars Exploration, May 22, 1984\".",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "Method of site acquisition",
+   "start_page": 2,
+   "end_page": 2,
+   "summary": "The target was set by a sealed envelope plus geographic coordinates. The subject held the envelope, unopened until after the interview; inside, a 3x5 card read \"The planet Mars. Time of interest approximately 1 million years B.C.\" Coordinates chosen by the requesting parties were read aloud during the session.",
+   "nodes": []
+  },
+  {
+   "node_id": "0002",
+   "title": "Transcript, May 22, 1984",
+   "start_page": 3,
+   "end_page": 9,
+   "summary": "Monitor and subject exchange from 10:09 AM. Moved through a series of coordinates, the subject describes a pyramid, megalithic structures, a carved canyon, an obelisk, a huge basin, channels like aqueducts and pyramids used as storm shelters, then very tall, thin, dying ancient people waiting for a party that left to find a new home.",
+   "nodes": [
+    {
+     "node_id": "0003",
+     "title": "Pyramid at 40.89 N, 9.55 W and the time before the geologic event",
+     "start_page": 3,
+     "end_page": 4,
+     "summary": "At 40.89 N, 9.55 W the subject sees a very high, yellowish, okra-colored pyramid form in a large depressed area, then dust storms after a major geologic problem. Before it, he sees large smooth megalithic surfaces and walls, and the shadows of very tall, thin, very large people in strange clothing.",
+     "nodes": []
+    },
+    {
+     "node_id": "0004",
+     "title": "Carved canyon at 46.45 N, 353.22 E",
+     "start_page": 4,
+     "end_page": 4,
+     "summary": "Moved to 46.45 N, 353.22 E in the same time period, the subject is deep in a canyon whose steep wall has been carved into huge structures of smooth stone. Inside they are like a rabbit warren of very large rooms with high ceilings and wide walls. The monitor notes real time plus 22 minutes.",
+     "nodes": []
+    },
+    {
+     "node_id": "0005",
+     "title": "Obelisk, basin and white squares",
+     "start_page": 5,
+     "end_page": 5,
+     "summary": "At 45.86 N, 354.1 E the subject sees the end of a very large road with a huge obelisk like the Washington Monument. At 35.26 N, 213.24 E he is in a huge circular basin ringed by tall, ragged mountains. At 34.6 N, 213.09 E he sees a cluster of squares almost flush with the ground, white or reflecting light.",
+     "nodes": []
+    },
+    {
+     "node_id": "0006",
+     "title": "Channels at 34.57 N, 212.22 E and 15 N, 198 E",
+     "start_page": 6,
+     "end_page": 7,
+     "summary": "The subject notes the sun looks strange, then at 34.57 N, 212.22 E sees a radiating pattern of deep intersecting roads cut into valleys. The monitor says he is electrically nulled out and asks him to refocus. At 15 N, 198 E he sees round-bottomed carved channels like aqueducts and pointed tops on a misty, distant horizon.",
+     "nodes": []
+    },
+    {
+     "node_id": "0007",
+     "title": "Pyramids at 80 S, 64 E used as storm shelters",
+     "start_page": 7,
+     "end_page": 7,
+     "summary": "At 80 S, 64 E the subject sees huge pyramids with insides and outsides. The monitor decides to let him follow what interests him instead of the listed targets. The pyramids are shelters from storms; inside, bare functional chambers are used for sleeping or hibernating through savage storms. Plus 37 minutes real time.",
+     "nodes": []
+    },
+    {
+     "node_id": "0008",
+     "title": "The tall people who sleep through the storms",
+     "start_page": 8,
+     "end_page": 8,
+     "summary": "The sleepers are very tall, thin people in fitted, silk-like clothing. They are ancient and dying, philosophical but unable to survive, waiting for a party that left to find a new home as their environment failed. The subject links this to a globe passing through a comet's tail. The monitor notes a voltage reversal at plus 40 minutes.",
+     "nodes": []
+    },
+    {
+     "node_id": "0009",
+     "title": "The journey of those who left, and end of interview",
+     "start_page": 9,
+     "end_page": 9,
+     "summary": "The person questioned does not know who the subject is and says they must wait. Those who left went in something like a large boat with rounded walls of shiny metal, to a volatile place of volcanoes, gas pockets, strange plants and dense vegetation. The monitor brings the subject back to 22 May 1984 and the interview ends.",
+     "nodes": []
+    }
+   ]
+  }
+ ]
+}

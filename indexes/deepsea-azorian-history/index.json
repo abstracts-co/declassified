@@ -1,0 +1,404 @@
+{
+ "id": "deepsea-azorian-history",
+ "title": "Project AZORIAN",
+ "source": {
+  "url": "https://www.cia.gov/readingroom/document/0005301269",
+  "publisher": "CIA",
+  "date": "1985",
+  "pages": 50,
+  "released": "2010-01-04",
+  "file": "https://archive.org/download/cia-readingroom-document-0005301269/0005301269.pdf",
+  "sha256": "70ad7fc5707905a0ac6e4c886689913fb082c98a11454421444d4241a4d491bd",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "deepsea",
+ "summary": "A 50-page history of Project AZORIAN from the fall 1985 issue of the CIA's in-house journal Studies in Intelligence, describing the secret effort to raise the sunken Soviet missile submarine K-129 from 16,500 feet down in the Pacific with the Hughes Glomar Explorer, a ship presented to the public as a Howard Hughes deep-sea mining vessel. Released in redacted form in 2010, it was the CIA's first substantive declassification about the operation.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/deepsea/deepsea-azorian-history/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Release notice",
+   "start_page": 1,
+   "end_page": 1,
+   "summary": "Approved for release 4 January 2010. Despite 1975 publicity, almost all of the Hughes Glomar Explorer project stays classified. Court cases on California taxes, FOIA and a patent claim acknowledged only CIA sponsorship, the roles of Hughes Tool, Summa and Global Marine, and CIA efforts in 1975 to stop media reports. The article may now appear at Secret NOFORN.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "Project AZORIAN: the story of the Hughes Glomar Explorer",
+   "start_page": 1,
+   "end_page": 2,
+   "summary": "A Soviet G-II submarine sank with all hands 16,500 feet down in the Pacific in March 1968 and was brought up on 8 August 1974 by a purpose-built recovery system. Three DCIs and two Presidents knew of the project. The 1975 leak traced to a June 1974 break-in at Summa's Los Angeles offices; the code name was AZORIAN, not JENNIFER.",
+   "nodes": []
+  },
+  {
+   "node_id": "0002",
+   "title": "Origins and engineering concept",
+   "start_page": 2,
+   "end_page": 9,
+   "summary": "How the lost submarine became a CIA-Defense recovery project in 1968 and 1969, and how a heavy-lift concept was chosen by 1970.",
+   "nodes": [
+    {
+     "node_id": "0003",
+     "title": "Project origin",
+     "start_page": 2,
+     "end_page": 4,
+     "summary": "The diesel G-II ballistic missile submarine 722 left Petropavlovsk about 1 March 1968 for a patrol station northeast of Hawaii and sank after an accident of unknown cause, 1,560 miles northwest of Hawaii. A two-month Soviet search failed. Defense and CIA officials saw great value in recovering its components. Page 3 is entirely redacted.",
+     "nodes": []
+    },
+    {
+     "node_id": "0004",
+     "title": "Organizing for recovery",
+     "start_page": 4,
+     "end_page": 5,
+     "summary": "Deputy Defense Secretary David Packard asked DCI Richard Helms on 1 April 1969 for a recovery study, with Foster and Duckett as focal points. An Executive Committee of Packard, Helms and Lee DuBridge approved a new organization on 8 August 1969. Security ran under the JENNIFER system; John Parangosky, of the U-2 and OXCART programs, headed the Special Projects Staff.",
+     "nodes": []
+    },
+    {
+     "node_id": "0005",
+     "title": "Development of engineering concept",
+     "start_page": 5,
+     "end_page": 8,
+     "summary": "Parangosky's 'think tank' and three cleared contractors weighed lift methods for a target then put at 2,000 to 2,200 long tons: brute-force lift with floating winches, trading ballast for buoyancy, or generating gas at depth by electrolysis, cryogenics, hydrazine or metal hydrides. A drill string of pipe was first rejected as too heavy. Pages 7 and 8 are entirely redacted.",
+     "nodes": []
+    },
+    {
+     "node_id": "0006",
+     "title": "Engineering concept selected",
+     "start_page": 9,
+     "end_page": 9,
+     "summary": "By late July 1970 the heavy-lift concept was clearly favored, and formal authorization to concentrate on it came at a Pentagon briefing on 11 September 1970. A deep-ocean mining cover story was taking shape to explain the project's activities at sea.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0007",
+   "title": "Approval and budget battles",
+   "start_page": 9,
+   "end_page": 19,
+   "summary": "Executive Committee and 40 Committee reviews from 1970 to 1972, as rising costs and doubts about the target's value nearly ended the project before the President approved it.",
+   "nodes": [
+    {
+     "node_id": "0008",
+     "title": "Executive Committee approval",
+     "start_page": 9,
+     "end_page": 12,
+     "summary": "On 30 October 1970 the committee heard the plan to dead-lift the estimated 1,750-ton target from 16,500 feet with gear on a 565 by 106 foot ship, plus a mining device for cover and a submersible dry dock. Success was put at about 10 percent, rising to 90 before the mission. Packard said to proceed. Page 10 is entirely redacted.",
+     "nodes": []
+    },
+    {
+     "node_id": "0009",
+     "title": "Recovery systems modification",
+     "start_page": 12,
+     "end_page": 13,
+     "summary": "A report to the Executive Committee on 24 March 1971 on design progress and a higher projected cost. The increases came mainly from extended operations for more thorough systems testing and from cover enhancement and recomputed overhead; hardware costs rose little.",
+     "nodes": []
+    },
+    {
+     "node_id": "0010",
+     "title": "The crucial 4 August ExCom meeting",
+     "start_page": 13,
+     "end_page": 13,
+     "summary": "On 4 August 1971 Packard opened by saying AZORIAN should be terminated for its risks, rising costs and the budget situation. After long debate he let it continue for a few months with a cost review and procurement of long-lead items, but the ship's keel was not to be laid without further approval.",
+     "nodes": []
+    },
+    {
+     "node_id": "0011",
+     "title": "Budgetary shoals",
+     "start_page": 13,
+     "end_page": 15,
+     "summary": "AZORIAN nearly foundered repeatedly over cost growth and risk. The chosen concept's cost jumped more than 50 percent within a year of its first 1970 estimate and rose again the next year, with the figures redacted, but each time the intelligence potential carried the day. Page 14 is entirely redacted.",
+     "nodes": []
+    },
+    {
+     "node_id": "0012",
+     "title": "Design and development of AZORIAN system",
+     "start_page": 15,
+     "end_page": 16,
+     "summary": "By November 1971 the heavy-lift, heave-compensation and pipe-string designs were well along. Packard authorized continuing on 4 October 1971; Sun Shipbuilding laid the keel on 16 November 1971 for delivery by 20 April 1973. The construction barge reached Redwood City in May 1972, and all 590 pipe pieces were due by 7 June 1973.",
+     "nodes": []
+    },
+    {
+     "node_id": "0013",
+     "title": "Managerial views of program in 1972",
+     "start_page": 16,
+     "end_page": 16,
+     "summary": "At the 28 July 1972 meeting the program was described as a one-of-a-kind system built with design and production running together, which added costly changes: hull strengthening, propulsion shafting, more electrical capacity, a sewage system and better pipe handling. Ship delivery was expected in spring 1973 and deployment in summer 1974.",
+     "nodes": []
+    },
+    {
+     "node_id": "0014",
+     "title": "Early political feasibility evaluation by 40 Committee",
+     "start_page": 16,
+     "end_page": 17,
+     "summary": "In August 1972 Kenneth Rush asked the 40 Committee to judge a mid-1974 mission. Zumwalt, Hall and DIA's de Poix rated the target lower and mostly favored ending it, and Admiral Moorer opposed it; Helms argued on 14 September to continue. On 18 September Rush judged the political risk too high and put technical success at 20 to 30 percent.",
+     "nodes": []
+    },
+    {
+     "node_id": "0015",
+     "title": "The AZORIAN Review Panel",
+     "start_page": 17,
+     "end_page": 18,
+     "summary": "Rush's panel under Hall reported on 11 December 1972 that management was highly effective and the program on schedule, but with record forgings, new pipe metallurgy and a lift system that could not be tested before the mission, it was a high-risk venture. One member found cost growth of six percent since the December 1971 contracts creditable.",
+     "nodes": []
+    },
+    {
+     "node_id": "0016",
+     "title": "The 40 Committee decision to proceed",
+     "start_page": 19,
+     "end_page": 19,
+     "summary": "On 11 December 1972, after the broadest review yet, the President decided to continue AZORIAN under 40 Committee policy supervision. Kissinger wrote that the President was impressed by its creative approach and praised cooperation across the intelligence community. The program office pushed to keep everything on schedule for 1974.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0017",
+   "title": "Building and testing the Hughes Glomar Explorer",
+   "start_page": 19,
+   "end_page": 36,
+   "summary": "Construction, sea trials, the voyage around South America, conversion for the mission and final tests off California, 1972 to May 1974.",
+   "nodes": [
+    {
+     "node_id": "0018",
+     "title": "Construction and delivery of HGE",
+     "start_page": 19,
+     "end_page": 19,
+     "summary": "Global Marine announced in April 1971 that it would build a 600-foot mining ship for Hughes Tool. The Hughes Glomar Explorer was launched with a christening at Sun Shipyard on 4 November 1972, with speeches by Robert Bauer and Paul Reeve. Builder's trials for mid-April 1973 would cover general items, standard ship tests and unconventional systems.",
+     "nodes": []
+    },
+    {
+     "node_id": "0019",
+     "title": "Summary of trials and trial data: builder's trials",
+     "start_page": 20,
+     "end_page": 20,
+     "summary": "The ship left Sun Shipyard in Chester, Pennsylvania, on 12 April 1973 with 203 people aboard and tested 75 nautical miles southeast of Delaware Bay in calm seas. All scheduled tests succeeded and seaworthiness was rated excellent; trials ended on 14 April, and Sun Ship and Global Marine fixed the discrepancies found.",
+     "nodes": []
+    },
+    {
+     "node_id": "0020",
+     "title": "East Coast trials, July-August 1973",
+     "start_page": 20,
+     "end_page": 22,
+     "summary": "Leaving on 24 July 1973 under test director Curtis Crooke, the ship ran 47 tests of heavy lift, docking legs, heave compensator, gimbal platform and pipe handling; 28 feet of derrick came off to clear the Delaware Memorial Bridge. Page 21 is Figure 5, a schematic drawing of the ship. Deep-water tests followed northwest of Bermuda.",
+     "nodes": []
+    },
+    {
+     "node_id": "0021",
+     "title": "Results of East Coast trials",
+     "start_page": 22,
+     "end_page": 22,
+     "summary": "Apart from a few deficiencies the ship's basic systems performed very well: the hull was sound and the well gates, A-frame, gimbal platform, derrick and docking legs were structurally sound. Of the corrective tasks, 40 could be done before leaving Bermuda, 136 in transit and 245 during West Coast mobilization.",
+     "nodes": []
+    },
+    {
+     "node_id": "0022",
+     "title": "East-West transit, 11 August-30 September 1973",
+     "start_page": 22,
+     "end_page": 24,
+     "summary": "Too wide at 116 feet for the Panama Canal, the ship sailed 12,745 nautical miles around South America in just over 50 days with a crew of 96, a government commander under alias and Chilean pilots for the Strait of Magellan.",
+     "nodes": [
+      {
+       "node_id": "0023",
+       "title": "Bermuda to entrance, Magellan Strait, 11 August-5 September 1973",
+       "start_page": 22,
+       "end_page": 23,
+       "summary": "The ship left Bermuda on 11 August 1973. Weather was excellent apart from one storm front with 50 to 60 knot winds, and the galley's food was superb. With the Allende government in trouble, headquarters planned for missing Chilean pilots or hostile ships, including routes around Cape Horn or Africa; none was needed.",
+       "nodes": []
+      },
+      {
+       "node_id": "0024",
+       "title": "Transit of Magellan Strait, 5-6 September 1973",
+       "start_page": 23,
+       "end_page": 23,
+       "summary": "The ship anchored in Possession Bay on 5 September, took on two Chilean pilots at 1100 and made the passage without incident despite a cold front with 45 to 50 knot winds, entering the Pacific about 1500 on 6 September.",
+       "nodes": []
+      },
+      {
+       "node_id": "0025",
+       "title": "Strait of Magellan to Valparaiso, Chile, 6-13 September 1973",
+       "start_page": 23,
+       "end_page": 24,
+       "summary": "Heavy weather forced the ship to heave to in 60-knot winds. It anchored at Valparaiso on 12 September, the day after the military coup. Global Marine's Tom Williams, confined to his hotel by the revolution, got seven technicians and supplies aboard, and the ship sailed on 13 September, a coincidence unrelated to CIA activity in Chile.",
+       "nodes": []
+      },
+      {
+       "node_id": "0026",
+       "title": "Valparaiso, Chile, to Long Beach, California, 13-30 September 1973",
+       "start_page": 24,
+       "end_page": 24,
+       "summary": "An uneventful leg in good weather, avoiding two tropical storms, with the heavy-lift team working on board. The ship tied up at Pier E, Long Beach, on Sunday 30 September after 12,745 nautical miles at an average 10.8 knots, burning 20,643 barrels of fuel.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0027",
+     "title": "Mobilization for mission, October 1973-January 1974",
+     "start_page": 24,
+     "end_page": 28,
+     "summary": "Fitting out at Long Beach to turn the commercial-looking ship into a covert recovery vessel and to assemble and train the mission crew.",
+     "nodes": [
+      {
+       "node_id": "0028",
+       "title": "Mobilization and the mission team",
+       "start_page": 24,
+       "end_page": 25,
+       "summary": "Fitting out was planned for about 51 days and took twice as long. The mission crew was set at 178, the most the lifeboats allowed, under a Mission Director with deputies for recovery, handling, exploitation and operations. The Mission Director, not the captain, held senior command, and the team closely matched plans drawn up in 1971 and 1972.",
+       "nodes": []
+      },
+      {
+       "node_id": "0029",
+       "title": "Conversion of the HGE from \"white\" to \"black\"",
+       "start_page": 25,
+       "end_page": 27,
+       "summary": "Until then the ship looked like a prototype mining vessel, with its A-frame, huge well and 236-foot derrick. Twenty-four standard 8 by 8 by 20 foot vans were installed for control and for cleaning, decontaminating, drying and photographing recovered items, processing papers, handling nuclear waste and packing. Messages went openly through Global Marine to keep up cover.",
+       "nodes": []
+      },
+      {
+       "node_id": "0030",
+       "title": "Weather facilities",
+       "start_page": 27,
+       "end_page": 27,
+       "summary": "Meteorologists were assigned to give onboard weather and ocean forecasts, considered imperative for the mission. The meteorology office, display center and main weather equipment were housed in the aft chart room next to the aft bridge and pilot house.",
+       "nodes": []
+      },
+      {
+       "node_id": "0031",
+       "title": "Manning",
+       "start_page": 27,
+       "end_page": 28,
+       "summary": "From 12 November 1973 about 100 Marine Engineers Benevolent Association pickets harassed the crew and stopped deliveries, pushing sea trials to mid-January 1974. The recovery had to fit the July to mid-September weather window. Soviet merchant ships docked 400 yards away at Long Beach showed no sign of learning the ship's purpose.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0032",
+     "title": "First West Coast trials, 11 January-23 January 1974",
+     "start_page": 28,
+     "end_page": 33,
+     "summary": "Trials 160 miles off Long Beach found the pipe-handling system of limited reliability. On 23 January surging seas damaged the aft well-gate machinery; the ship returned on 24 January and divers made repairs, leaving a small permanent leak. A press article on the barge HMB-1 helped cover. Pages 29, 31 and 32 are entirely redacted.",
+     "nodes": []
+    },
+    {
+     "node_id": "0033",
+     "title": "Second West Coast trials, 15 February-2 March 1974",
+     "start_page": 33,
+     "end_page": 34,
+     "summary": "After repairs a Mission Director was chosen, whose earlier work on handling nuclear materials reassured the crew. With GMI's Curtis Crooke aboard, 40 doubles of pipe, 2,400 feet, were run down and back. The ship then left California waters to avoid a 1 March inventory tax that could expose government ownership, returning to Long Beach on 2 March.",
+     "nodes": []
+    },
+    {
+     "node_id": "0034",
+     "title": "Integrated systems tests, 28 March-13 May 1974",
+     "start_page": 34,
+     "end_page": 36,
+     "summary": "To meet the weather window, tests moved to about 2,600 feet of water off Catalina. After torquer, bridle, heavy-lift and pipe-handling problems, officials accepted the shallow tests and waived a 12,000-foot test, since the system was built for one operation. Tests ended 12 May and the ship returned to Long Beach to refit.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0035",
+   "title": "The recovery mission",
+   "start_page": 36,
+   "end_page": 48,
+   "summary": "Final approval and the mission itself, from June to August 1974, under Soviet surveillance and constant equipment trouble.",
+   "nodes": [
+    {
+     "node_id": "0036",
+     "title": "Final approval in Washington",
+     "start_page": 36,
+     "end_page": 36,
+     "summary": "In May 1974 the Intelligence Board again judged the target uniquely valuable: its nuclear warheads, SS-N-5 missile system and documents would improve estimates of the Soviet strategic threat. The 40 Committee met on 5 June, and Nixon approved the mission on 7 June, but not before his return from a 27 June to 3 July visit to the Soviet Union.",
+     "nodes": []
+    },
+    {
+     "node_id": "0037",
+     "title": "AZORIAN mission recovery, 20 June-16 August 1974",
+     "start_page": 36,
+     "end_page": 48,
+     "summary": "A day-by-day account of the voyage to the site, weather holds, Soviet shadowing, the lift and the return to Hawaii.",
+     "nodes": [
+      {
+       "node_id": "0038",
+       "title": "Departure and arrival on site",
+       "start_page": 36,
+       "end_page": 37,
+       "summary": "A cover ceremony on 20 June marked Summa's acceptance of the ship, which then sailed for the northwest Pacific, holding drills for nuclear contamination and emergency destruction of classified material. It reached the site on 4 July, laid six transponders and opened the well gates on 8 July. A crew member recalls the high spirits of setting out.",
+       "nodes": []
+      },
+      {
+       "node_id": "0039",
+       "title": "Storms, the Bel Hudson and docking leg cracks",
+       "start_page": 38,
+       "end_page": 38,
+       "summary": "Typhoon Gilda brought swells up to 22 feet. The ship's surgeon treated a sick seaman from the British ship Bel Hudson, whose radio query drew the reply that the ship was testing deep-ocean mining. Cracks in two docking leg guide structures took 72 hours to weld, and with tropical storm Harriet the well gates were closed on 16 July.",
+       "nodes": []
+      },
+      {
+       "node_id": "0040",
+       "title": "Surveillance by the Soviet ship Chazhma",
+       "start_page": 38,
+       "end_page": 40,
+       "summary": "On 18 July the Soviet missile range ship Chazhma closed to a mile and its helicopter photographed the ship from every angle; crates blocked the helicopter deck and emergency destruction was readied. By radio Chazhma asked what the ship was doing and was told deep-ocean mining tests, then signed off: 'I wish you all the best.'",
+       "nodes": []
+      },
+      {
+       "node_id": "0041",
+       "title": "The SB-10 tug and approach to the target",
+       "start_page": 40,
+       "end_page": 42,
+       "summary": "From 22 July the Soviet salvage tug SB-10 shadowed the ship, sometimes within 200 feet. Repeated heavy-lift breakdowns, a shaking derrick and a loose 15-ton pipe double strained nerves as 13,800 feet of pipe went down. Sonar then showed the submarine hulk and the crew filed through the control center to see it on TV.",
+       "nodes": []
+      },
+      {
+       "node_id": "0042",
+       "title": "Lift-off",
+       "start_page": 43,
+       "end_page": 46,
+       "summary": "On 1 August the target was lifted from the bottom on 16,440 feet of pipe. A cover message blamed a collision of the 'nodule collector vehicle'. Hydraulic pumps kept failing and fail-safe circuits were bypassed. The SB-10 came within 75 yards, then left after 18 days and 16 hours, ironically with the recovered submarine below the ship.",
+       "nodes": []
+      },
+      {
+       "node_id": "0043",
+       "title": "End of recovery and contamination",
+       "start_page": 46,
+       "end_page": 47,
+       "summary": "An inspection found plutonium contamination from nuclear torpedoes whose high explosive had detonated without a nuclear yield. Recovery ended on 9 August, reported as 'Event 36-A'. The wave-rider buoys, worth about $25,000, were collected. A full can of torpedo juice floated up in the well, and radiation read five times background.",
+       "nodes": []
+      },
+      {
+       "node_id": "0044",
+       "title": "Return to Hawaii",
+       "start_page": 47,
+       "end_page": 48,
+       "summary": "Cover messages about repairing the collector vehicle continued. Headquarters sent the ship to Lahaina Roads off Maui instead of Midway; it anchored on 16 August, where an exploitation crew and Summa's Paul Reeve came aboard. The Mission Director recalls DCI Colby's advice to use his own judgment on the scene.",
+       "nodes": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "node_id": "0045",
+   "title": "Conclusion",
+   "start_page": 48,
+   "end_page": 50,
+   "summary": "Exploitation of the material began after six years of effort. After the 1975 leaks the Soviets posted a ship over the site. The author credits Packard's willingness to take calculated risks and the advance in deep-ocean mining and heavy-lift technology; Lockheed, Global Marine, Standard Oil of Indiana and Royal Dutch Shell planned to mine with the ship from fall 1978.",
+   "nodes": []
+  }
+ ]
+}

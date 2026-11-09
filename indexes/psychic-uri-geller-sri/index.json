@@ -1,0 +1,267 @@
+{
+ "id": "psychic-uri-geller-sri",
+ "title": "Experiments: Uri Geller at SRI",
+ "source": {
+  "url": "https://www.cia.gov/readingroom/document/cia-rdp79-00999a000300030027-0",
+  "publisher": "CIA",
+  "date": "1973-08",
+  "pages": 31,
+  "released": "2003-03-28",
+  "file": "https://archive.org/download/CIA-RDP79-00999A000300030027-0/CIA-RDP79-00999A000300030027-0.pdf",
+  "sha256": "3b89ff0edbc3a80db5d703ee86d2f40176664442f26ba1991bbbe28e62ae7742",
+  "license": "Declassified CIA record, no known copyright restrictions (contractor report by SRI)"
+ },
+ "country": "us",
+ "topic": "psychic",
+ "summary": "Stanford Research Institute notes, from the CIA's files on its SRI contract, on eight days of tests in August 1973 in which Uri Geller tried to copy drawings he could not see, either locked in a shielded room or while the targets were drawn on the East Coast. The researchers wrote that he had shown paranormal perception 'in a convincing and unambiguous manner'.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/psychic/psychic-uri-geller-sri/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Experiments: Uri Geller at SRI, August 4-11, 1973",
+   "start_page": 1,
+   "end_page": 31,
+   "summary": "Russell Targ's report, dated 13 August 1973, on eight days of picture-drawing tests with Uri Geller at Stanford Research Institute, with Geller in a shielded room or with targets drawn on the East Coast. Each report page is followed by the target pictures and Geller's drawings. The authors judge his paranormal perception convincing and unambiguous.",
+   "nodes": [
+    {
+     "node_id": "0001",
+     "title": "Objective and experimental program",
+     "start_page": 1,
+     "end_page": 1,
+     "summary": "The sessions aimed to verify Geller's apparent paranormal perception under controlled conditions and to study its physical and psychological variables. On each of eight days Geller tried to reproduce pictures while isolated in a shielded room or with targets drawn on the East Coast. SRI considers his ability shown \"in a convincing and unambiguous manner\".",
+     "nodes": []
+    },
+    {
+     "node_id": "0002",
+     "title": "Saturday, August 4",
+     "start_page": 1,
+     "end_page": 8,
+     "summary": "Two shielded-room tests with targets chosen from a dictionary: Geller drew a drum for a firecracker and a bunch of grapes, with the same 24 grapes, for a grapes target.",
+     "nodes": [
+      {
+       "node_id": "0003",
+       "title": "The shielded room and target selection",
+       "start_page": 1,
+       "end_page": 1,
+       "summary": "Geller was locked in the double-walled, acoustically and electrically shielded EEG room of SRI's Life Sciences Division, secured by inner and outer doors with refrigerator-type locks. Targets were picked by opening a college dictionary at random and taking the first drawable word.",
+       "nodes": []
+      },
+      {
+       "node_id": "0004",
+       "title": "Figure 1: the shielded room",
+       "start_page": 2,
+       "end_page": 2,
+       "summary": "Photograph looking through the open door of the shielded room, with a person seated in an armchair inside.",
+       "nodes": []
+      },
+      {
+       "node_id": "0005",
+       "title": "Firecracker and grapes",
+       "start_page": 3,
+       "end_page": 3,
+       "summary": "For \"fuse\", drawn as a firecracker, Geller saw \"a cylinder with noise coming out of it\" and drew a drum. For \"bunch\", a bunch of grapes, he saw drops of water and purple circles, then drew grapes; both pictures had 24 grapes. The experimenters found no sensory leakage or protocol defect.",
+       "nodes": []
+      },
+      {
+       "node_id": "0006",
+       "title": "Figs. 2-3: firecracker target and Geller's drawings",
+       "start_page": 4,
+       "end_page": 6,
+       "summary": "The target, a firecracker with a lit fuse, and two sheets of Geller's drawings stamped 4 August 1973: a head, a giraffe and other sketches, then a drum with sticks labelled \"snare drums\", with the words \"noise\" and \"pen\" and other cylindrical objects.",
+       "nodes": []
+      },
+      {
+       "node_id": "0007",
+       "title": "Figs. 4-5: grapes target and Geller's drawing",
+       "start_page": 7,
+       "end_page": 8,
+       "summary": "The target drawing of a bunch of grapes on a stem, and Geller's closely matching bunch of grapes, stamped 4 August 1973.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0008",
+     "title": "Sunday, August 5",
+     "start_page": 3,
+     "end_page": 15,
+     "summary": "Two targets: a devil with a trident drawn about half a mile away, which Geller rendered as Garden of Eden and Ten Commandments imagery with a trident, and a solar system drawn inside the shielded room while Geller sat outside.",
+     "nodes": [
+      {
+       "node_id": "0009",
+       "title": "Devil target drawn half a mile away",
+       "start_page": 3,
+       "end_page": 3,
+       "summary": "With Geller in the shielded room, Targ drew the target in his office about half a mile away: a man that became a devil with a trident. After almost half an hour Geller drew Moses' tablets inside the world with a trident outside, an apple with a worm and a snake, and a composite with God inside the world.",
+       "nodes": []
+      },
+      {
+       "node_id": "0010",
+       "title": "Geller's mental processing and the solar system target",
+       "start_page": 9,
+       "end_page": 9,
+       "summary": "Geller drew the trident but not the man holding it, suggesting he processes rather than copies the target. Next an experimenter inside the shielded room drew the solar system without orbit lines; Geller, outside, said \"space\" and also omitted orbits. He said the block in his picture was an afterthought from the film 2001.",
+       "nodes": []
+      },
+      {
+       "node_id": "0011",
+       "title": "Figs. 6-9: devil target and Geller's drawings",
+       "start_page": 10,
+       "end_page": 13,
+       "summary": "The target, a smiling devil with horns, tail and trident labelled \"Devil\", and three sheets of Geller's drawings: the Ten Commandments and \"God\" within the world among flowers and suns; an apple with a worm, leaves, fruit and tablets; and the tablets on top of the globe beside a trident.",
+       "nodes": []
+      },
+      {
+       "node_id": "0012",
+       "title": "Figs. 10-11: solar system target and Geller's drawing",
+       "start_page": 14,
+       "end_page": 15,
+       "summary": "The target, a sun with planets and moon labelled \"Solar System\", and Geller's drawing of a sun, planets, a ringed planet, stars, a rocket and a figure labelled \"Angel\". A small boxed area is redacted, marked SG1A.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0013",
+     "title": "Monday, August 6: clairvoyance task",
+     "start_page": 9,
+     "end_page": 9,
+     "summary": "A pure clairvoyance test: a scientist outside the group drew a picture, locked in the shielded room before Geller arrived. Geller drew several pictures, rejected them all and passed; the target was a rabbit. He had guessed, correctly, that the artist was a scientist he disliked.",
+     "nodes": []
+    },
+    {
+     "node_id": "0014",
+     "title": "Tuesday, August 7: EEG session",
+     "start_page": 9,
+     "end_page": 9,
+     "summary": "Geller, in the shielded room and wired to an EEG to record his brain waves, tried two targets, a tree and an envelope. He drew nothing matching either and passed, and could not keep still enough for good records. The skeptical scientist who drew the rabbit operated the EEG.",
+     "nodes": []
+    },
+    {
+     "node_id": "0015",
+     "title": "Wednesday, August 8",
+     "start_page": 16,
+     "end_page": 22,
+     "summary": "Three targets with the laboratory's outer door also closed: a camel (Geller passed, first choice a horse), the Golden Gate Bridge (curved lines and squares, passed) and a flying sea gull, which he drew correctly.",
+     "nodes": [
+      {
+       "node_id": "0016",
+       "title": "Camel, Golden Gate Bridge and sea gull",
+       "start_page": 16,
+       "end_page": 16,
+       "summary": "For a camel Geller passed, his first choice a horse. For the Golden Gate Bridge he drew curved lines with squares beneath and passed. For a flying sea gull he quickly saw a swan over a hill and drew birds, sure he was right. Over six shielded-room days, results were good on the four without an openly skeptical observer.",
+       "nodes": []
+      },
+      {
+       "node_id": "0017",
+       "title": "Figs. 12-13: camel target and Geller's horse",
+       "start_page": 17,
+       "end_page": 18,
+       "summary": "The target drawing of a camel, with a small sketch beside it, and Geller's drawing of a horse.",
+       "nodes": []
+      },
+      {
+       "node_id": "0018",
+       "title": "Fig. 14: bridge target and Geller's drawing",
+       "start_page": 19,
+       "end_page": 20,
+       "summary": "The target, a suspension bridge over water with a boat, labelled \"Bridge\", and Geller's drawing of curved parallel lines with three small dark squares.",
+       "nodes": []
+      },
+      {
+       "node_id": "0019",
+       "title": "Figs. 15-16: sea gull target and Geller's bird",
+       "start_page": 21,
+       "end_page": 22,
+       "summary": "The target, a sea gull in flight above a bird standing on a horizon line, signed \"Uri Geller\" in English and Hebrew, and Geller's drawing of a large bird in flight above two small trees.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0020",
+     "title": "Thursday, August 9: computer graphics target",
+     "start_page": 16,
+     "end_page": 24,
+     "summary": "Tests moved to a shielded room in SRI's Engineering building, 150 feet from the computer room; Geller's first drawing, a square with its diagonals, matched a kite drawn on the computer screen.",
+     "nodes": [
+      {
+       "node_id": "0021",
+       "title": "Kite drawn on a computer screen",
+       "start_page": 16,
+       "end_page": 16,
+       "summary": "With Geller in a shielded room about 150 feet down the hall, a kite was drawn on a TV screen by the computer's graphics program. Told through an intermediary that it was an object, Geller first drew a square with its diagonals, then triangular airplanes, and passed; his first drawing was a good representation.",
+       "nodes": []
+      },
+      {
+       "node_id": "0022",
+       "title": "Figs. 17-18: kite target and Geller's drawing",
+       "start_page": 23,
+       "end_page": 24,
+       "summary": "The target, a diamond-shaped kite with crossbars and a tail, and Geller's drawing of a square with both diagonals, signed \"Uri Geller\", with a small sketch below.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0023",
+     "title": "Friday, August 10",
+     "start_page": 25,
+     "end_page": 31,
+     "summary": "Two targets stored in a computer, a church and an arrow through a heart, which Geller partly matched, and a long-distance test with an East Coast scientist judged suggestive but not conclusive.",
+     "nodes": [
+      {
+       "node_id": "0024",
+       "title": "Targets stored in computer memory",
+       "start_page": 25,
+       "end_page": 25,
+       "summary": "A church was stored in computer memory; Geller's two attempts shared elements with it but he passed. An arrow through a heart was held on the TV tube with the intensity off; he drew an arrow under a rounded brick, then an arrow in a suitcase. The results could reflect clairvoyance or telepathy from people in the computer room.",
+       "nodes": []
+      },
+      {
+       "node_id": "0025",
+       "title": "Long-distance test with an East Coast scientist",
+       "start_page": 25,
+       "end_page": 25,
+       "summary": "An East Coast scientist was asked by telephone to draw a simple object and said he drew two peaked mountains with a sun at upper right. Geller drew two arches with a circle at upper right and a train-like object. SRI calls this suggestive but not conclusive and does not have the original.",
+       "nodes": []
+      },
+      {
+       "node_id": "0026",
+       "title": "Figs. 19-21: church target and Geller's drawings",
+       "start_page": 26,
+       "end_page": 28,
+       "summary": "The target, a church with a cross drawn in small circles and x marks, and two sheets of Geller's drawings: a flask, a trapezoid shape, a dotted band and a small house, then blocky outline shapes including an animal-like figure.",
+       "nodes": []
+      },
+      {
+       "node_id": "0027",
+       "title": "Figs. 22-24: arrow-through-heart target and Geller's drawings",
+       "start_page": 29,
+       "end_page": 31,
+       "summary": "The target, a heart pierced by an arrow, and two sheets of Geller's drawings: a forked arrow beneath a rounded block, and an arrow inside a suitcase above other shapes.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0028",
+     "title": "Saturday, August 11: long-distance brain drawing",
+     "start_page": 25,
+     "end_page": 25,
+     "summary": "Another East Coast scientist drew a cross-section of the brain, which SRI later judged an unsuitable target. Geller wrote \"medical\", \"organic\" and \"living\", later \"aviation\" and \"architecture\", and made two drawings, one complex and indescribable, the other somewhat like an anatomical cross-section. The responses were sent to the originator for comparison.",
+     "nodes": []
+    }
+   ]
+  }
+ ]
+}

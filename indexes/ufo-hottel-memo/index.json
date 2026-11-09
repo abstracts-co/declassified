@@ -1,0 +1,45 @@
+{
+ "id": "ufo-hottel-memo",
+ "title": "Hottel Memo",
+ "source": {
+  "url": "https://vault.fbi.gov/hottel_guy",
+  "publisher": "FBI",
+  "date": "1950-03-22",
+  "pages": 2,
+  "released": "1977",
+  "file": "https://web.archive.org/web/20250204110125id_/https://vault.fbi.gov/hottel_guy/Guy%20Hottel%20Part%2001%20(Final)/at_download/file",
+  "sha256": "05ac550c99d6fd02efa2e07ff2fcb4e2b9e917a812ba554efe51d702fcc728cb",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "ufo",
+ "summary": "A one-page memo of 22 March 1950 from Guy Hottel, head of the FBI's Washington field office, to J. Edgar Hoover, passing on a third party's story that an Air Force investigator said three \"flying saucers\" with three-foot-tall occupants had been recovered in New Mexico. It is the most viewed file in the FBI Vault; the FBI says it never investigated the claim and sees no reason to link it to Roswell.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/ufo/ufo-hottel-memo/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "FOIA cover sheet",
+   "start_page": 1,
+   "end_page": 1,
+   "summary": "Federal Bureau of Investigation, Freedom of Information/Privacy Acts Section cover sheet for the subject Guy Hottel, dated 3-22-1950.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "Flying saucers, information concerning",
+   "start_page": 2,
+   "end_page": 2,
+   "summary": "Office memorandum of March 22, 1950 from Guy Hottel, SAC Washington, to the FBI Director. A redacted source told an agent that an Air Force investigator said three flying saucers about 50 feet across were recovered in New Mexico, each holding three 3-foot bodies in fine metallic cloth. Government radar reportedly disrupted their controls. No further evaluation followed.",
+   "nodes": []
+  }
+ ]
+}

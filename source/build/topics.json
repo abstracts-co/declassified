@@ -1,0 +1,15 @@
+[
+  {"id":"ufo","name":"UFOs","orb":["#04121f","#0e3550","#49b3d6","#e6fbff"],"grad":["#e4edf2","#3f86a8","#03101b"]},
+  {"id":"jfk","name":"JFK","orb":["#0a0c11","#2b3240","#98a3b6","#f6f8fb"],"grad":["#eceef2","#5a6474","#06080c"]},
+  {"id":"area51","name":"Area 51","orb":["#2a0c05","#7a2a10","#d9693a","#fff0de"],"grad":["#f4ebe5","#b85a34","#1b0904"]},
+  {"id":"psychic","name":"Psychic spies","orb":["#12082b","#3b2380","#9b7bf0","#f6efff"],"grad":["#ece9f6","#6a55c0","#0b061e"]},
+  {"id":"mind","name":"Mind control","orb":["#2b0309","#7d1426","#e0607a","#ffe3e8"],"grad":["#f3e8ea","#b04a5e","#180306"]},
+  {"id":"nuclear","name":"Nuclear","orb":["#2a1400","#9a4a00","#ffc14a","#fff8e0"],"grad":["#f6f1e4","#d8902a","#181000"]},
+  {"id":"space","name":"Space","orb":["#04050d","#1a1f45","#7b86d8","#eef0ff"],"grad":["#e9eaf3","#3d4590","#03040b"]},
+  {"id":"cuba","name":"Cuba","orb":["#021209","#0b4a2c","#3fae78","#e6fff0"],"grad":["#e5efe9","#2f8a5e","#020f08"]},
+  {"id":"satellites","name":"Spy satellites","orb":["#1c1404","#5e4510","#d4ad4a","#fff7dc"],"grad":["#f2eee2","#a8873a","#110c03"]},
+  {"id":"deepsea","name":"Deep sea","orb":["#000509","#04263e","#1a8fa0","#b8fff0"],"grad":["#e2edf0","#1d6a80","#00060b"]},
+  {"id":"gadgets","name":"Gadgets","orb":["#1a0d06","#50301a","#c48552","#ffe6cc"],"grad":["#f2ece6","#94603a","#100703"]},
+  {"id":"fbi","name":"FBI files","orb":["#1a140c","#5a4a30","#d8c8a0","#fffaf0"],"grad":["#f3efe6","#8a7a58","#0f0c07"]},
+  {"id":"presidents","name":"Presidents","orb":["#050b1d","#142a5e","#5d86d0","#f3f6ff"],"grad":["#e9edf4","#2f4f94","#040813"]}
+]

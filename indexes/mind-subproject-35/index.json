@@ -1,0 +1,459 @@
+{
+ "id": "mind-subproject-35",
+ "title": "MKULTRA Subproject 35",
+ "source": {
+  "url": "https://www.cia.gov/readingroom/document/00017432",
+  "publisher": "CIA",
+  "date": "1954-10-05",
+  "pages": 71,
+  "released": "1977",
+  "file": "https://archive.org/download/cia-readingroom-document-00017432/00017432.pdf",
+  "sha256": "92ae8e98ce79df6fbba9e3b03bda26423c988b64f568b2478def27ad9c835fca",
+  "license": "US government work, public domain"
+ },
+ "country": "us",
+ "topic": "mind",
+ "summary": "CIA file on the MKULTRA subproject that secretly put $375,000 through a front foundation toward a new wing of Georgetown University Hospital so the agency could use part of it for its chemical and biological research. It includes a May 5, 1955 draft listing what the CIA's Chemical Division was trying to develop, from substances that 'promote illogical thinking' to methods that cause amnesia.",
+ "files": "https://abstracts-co.github.io/declassified-data/us/mind/mind-subproject-35/",
+ "tool": {
+  "name": "PageIndex",
+  "version": "0.5.3",
+  "method": "Tesseract OCR where the scan had no text layer, then PageIndex local Flash with Claude Code (Haiku) for structure refinement and summaries. Titles, nesting and summaries were then edited against the page text.",
+  "models": [
+   "claude-code/haiku"
+  ]
+ },
+ "built": "2026-11-09",
+ "tree": [
+  {
+   "node_id": "0000",
+   "title": "Subproject 35 ledger",
+   "start_page": 1,
+   "end_page": 1,
+   "summary": "Ledger card for MKULTRA Sub-Project 35 recording obligations of $125,000 on 24 January 1955 and $250,000 on 17 May 1955, a balance of $375,000, then Invoice #1 for $375,000 in September 1955, leaving nothing.",
+   "nodes": []
+  },
+  {
+   "node_id": "0001",
+   "title": "Signature record and cover sheet, 6 April 1955",
+   "start_page": 2,
+   "end_page": 2,
+   "summary": "Routing cover sheet for a TSS/OC document dated 6 April 1955, passed through the Office of General Counsel, Chief TSS, DD/P, SA/PC/DCI and the DCI between 8 April and 20 May 1955. Names are redacted.",
+   "nodes": []
+  },
+  {
+   "node_id": "0002",
+   "title": "Subproject 35 of Project MKULTRA, 10 May 1955",
+   "start_page": 3,
+   "end_page": 4,
+   "summary": "Summary circulated to the Project Review Committee for its 11 May 1955 meeting. The DCI approved $125,000 on 15 January 1955 toward a $3,000,000 research wing, one-sixth of it for covert biological and chemical work. A $500,000 pledge fell through, so TSS asks for $250,000 more, bringing CIA's share to $375,000.",
+   "nodes": []
+  },
+  {
+   "node_id": "0003",
+   "title": "Draft list of materials and methods, 5 May 1955",
+   "start_page": 5,
+   "end_page": 7,
+   "summary": "Draft listing 17 materials and methods sought by the TSS Chemical Division, including substances that promote illogical thinking, cause amnesia, aid hypnosis, alter personality or cause paralysis, and a knockout pill. Drug houses rely on private physicians for human testing; the proposed facility would let TSS handle such clinical testing securely.",
+   "nodes": []
+  },
+  {
+   "node_id": "0004",
+   "title": "Amendment to Subproject 35 of Project MKULTRA, 6 April 1955",
+   "start_page": 8,
+   "end_page": 29,
+   "summary": "Package dated 6 April 1955 asking the DCI to raise CIA's contribution to a hospital building fund from $125,000 to $375,000, with Tab 1 on the amendment, the November 1954 approval papers and plan, and two opinions from the General Counsel.",
+   "nodes": [
+    {
+     "node_id": "0005",
+     "title": "Memorandum for the Director requesting the amendment",
+     "start_page": 8,
+     "end_page": 9,
+     "summary": "Chief, DD/P/TSS asks the DCI to add $250,000 to Subproject 35 because a promised $500,000 contribution will not come, making $375,000 matched under Public Law 221. Richard Helms concurred on 11 April 1955; a handwritten note says the PRC considered it and the Director approved it on 16 May 1955.",
+     "nodes": []
+    },
+    {
+     "node_id": "0006",
+     "title": "Tab 1: Amendment to Subproject 35, Project MKULTRA",
+     "start_page": 10,
+     "end_page": 14,
+     "summary": "Paper on establishing a cover organization for highly sensitive biological, chemical and radiological warfare projects, explaining how the hospital building fund changed and why another $250,000 is justified.",
+     "nodes": [
+      {
+       "node_id": "0007",
+       "title": "Background of Subproject 35 and the building fund",
+       "start_page": 10,
+       "end_page": 11,
+       "summary": "In January 1955 the DCI approved Subproject 35: CIA covertly funds, through a cut-out, a new research wing while the university and hospital stay unwitting. The university needs $3,000,000 for a six-story addition and has allocated $1,000,000; Public Law 221 matches privately raised funds.",
+       "nodes": []
+      },
+      {
+       "node_id": "0008",
+       "title": "Withdrawn $500,000 commitment",
+       "start_page": 11,
+       "end_page": 12,
+       "summary": "The original plan counted on a $500,000 donation from a redacted source interested in radiological research in the new wing. After talks and correspondence with the DCI, that source decided not to give to the building fund and offered only an annual research program of $50,000 to $75,000. Names are redacted.",
+       "nodes": []
+      },
+      {
+       "node_id": "0009",
+       "title": "Suggested funding and source of CIA funds",
+       "start_page": 12,
+       "end_page": 12,
+       "summary": "New plan: $1,000,000 from the university, a $500,000 donation including $375,000 from CIA, and $1,500,000 in matched Public Law 221 funds, for $3,000,000. Total government money stays at $1,875,000. The first $125,000 is set aside in the TSS FY 1955 budget; TSS asks for $250,000 more.",
+       "nodes": []
+      },
+      {
+       "node_id": "0010",
+       "title": "Comments by the General Counsel and justification",
+       "start_page": 13,
+       "end_page": 13,
+       "summary": "The General Counsel's 21 December 1954 memo found no fundamental legal objection if benefits were a fair return. TSS justifies $375,000 by one-sixth of the wing for the Chemical Division, fully deniable sponsorship, professional cover for up to three biochemists, and human patients and volunteers for experiments under controlled clinical conditions.",
+       "nodes": []
+      },
+      {
+       "node_id": "0011",
+       "title": "Timing, security, agreement and financial saving",
+       "start_page": 14,
+       "end_page": 14,
+       "summary": "Once the fund's director raises the $500,000 his fund will ostensibly give, he can use existing hospital space, so TSS gains cover within months, not 18 or more. Security and the agreement with the redacted individual are unchanged. CIA's $375,000 brings an equal Public Law 221 match, and funding through a non-profit avoids the 80% overhead the government normally pays.",
+       "nodes": []
+      }
+     ]
+    },
+    {
+     "node_id": "0012",
+     "title": "General Counsel transmittal, 22 December 1954",
+     "start_page": 15,
+     "end_page": 15,
+     "summary": "Short note from the General Counsel returning the Subproject 35 file with comments on legal aspects: there is no legal control and there are incidental considerations, but no fundamental legal objection if the probable benefits are considered a fair return for the expenditure.",
+     "nodes": []
+    },
+    {
+     "node_id": "0013",
+     "title": "Tab 2: Original approval of Subproject 35",
+     "start_page": 16,
+     "end_page": 26,
+     "summary": "Papers behind the DCI's January 1955 approval of the original $125,000 grant: a routing sheet, the 15 November 1954 request and Tab A, the plan for using the hospital research wing as cover.",
+     "nodes": [
+      {
+       "node_id": "0014",
+       "title": "Signature record and cover sheet",
+       "start_page": 16,
+       "end_page": 16,
+       "summary": "Top Secret routing sheet from C. DD/P/TSS for a 1954 document, initialed through TSS, DD/P, the DCI and the TSS Chemical Division between November 1954 and January 1955. Names are redacted.",
+       "nodes": []
+      },
+      {
+       "node_id": "0015",
+       "title": "Memorandum for the Director, 15 November 1954",
+       "start_page": 17,
+       "end_page": 18,
+       "summary": "Chief, DD/P/TSS proposes a single $125,000 grant through a cut-out toward a new research wing, matched by an equal government amount, so Agency employees can work there without the university knowing. Helms approved on 16 November 1954, Cabell concurred on 8 January 1955 and the DCI approved on 15 January 1955.",
+       "nodes": []
+      },
+      {
+       "node_id": "0016",
+       "title": "Tab A: Subproject 35 - Project MKULTRA",
+       "start_page": 19,
+       "end_page": 26,
+       "summary": "Plan for a cover organization for highly sensitive projects in covert biological, chemical and radiological warfare, built on a $125,000 CIA grant toward a new hospital research wing.",
+       "nodes": [
+        {
+         "node_id": "0017",
+         "title": "Background of Project MKULTRA",
+         "start_page": 19,
+         "end_page": 19,
+         "summary": "In 1953 the DCI approved MKULTRA so TSS could run sensitive research without signed contracts, since many researchers must not know of, or will not be tied to, Agency interest. Over forty projects ran under it, but it gave scientists no cover. Subproject 35 would establish such cover.",
+         "nodes": []
+        },
+        {
+         "node_id": "0018",
+         "title": "Background of the fund, its director and the building fund",
+         "start_page": 20,
+         "end_page": 21,
+         "summary": "A redacted fund with a six-member board has financed chemotherapy research and served the Chemical Division as a cut-out since 1951. Its director, a cancer researcher who served in Navy medicine, is Top Secret cleared. He is raising money for a six-story clinical research wing and would control one-sixth of its space.",
+         "nodes": []
+        },
+        {
+         "node_id": "0019",
+         "title": "Financial situation",
+         "start_page": 21,
+         "end_page": 21,
+         "summary": "The university needs about $3,000,000 and has allocated $1,000,000. If CIA gives $125,000 the fund will match it for a $250,000 donation; another donor is encouraged to give $500,000; Public Law 221 adds $1,250,000. The CIA grant is refundable if construction does not take place.",
+         "nodes": []
+        },
+        {
+         "node_id": "0020",
+         "title": "Difficulties faced by TSS",
+         "start_page": 22,
+         "end_page": 23,
+         "summary": "MKULTRA gives administrative cover but none for scientists. More cleared people know the fund's link to CIA, the director feels exposed because Gottlieb and others have no cover, and careers for Chemical Division scientists are hard to plan. Up to three Chemical Division employees could join the fund's program in the new wing.",
+         "nodes": []
+        },
+        {
+         "node_id": "0021",
+         "title": "Advantages and benefits accruing to TSS",
+         "start_page": 23,
+         "end_page": 24,
+         "summary": "Benefits: one-sixth of the wing with laboratories, assistants, equipment and experimental animals; costs paid through MKULTRA; deniable sponsorship; professional cover for three biochemists; human patients and volunteers for experimental use; the equivalent of a hospital safehouse; better recruiting; and university library services.",
+         "nodes": []
+        },
+        {
+         "node_id": "0022",
+         "title": "Funding",
+         "start_page": 24,
+         "end_page": 25,
+         "summary": "TSS would grant $125,000 from its FY 1955 research budget to the fund, which donates $250,000 to the university. CIA keeps no interest in the building and has no recurring obligations. Future projects would be financed through the fund, with the university unwitting, and would continue if the director dies.",
+         "nodes": []
+        },
+        {
+         "node_id": "0023",
+         "title": "Memorandum of agreement and security",
+         "start_page": 25,
+         "end_page": 25,
+         "summary": "A memorandum of agreement with the fund's director would set out the hospital space for Chemical Division personnel and how cover is provided; no contract will be signed, and the memorandum stays in TSS. Security is coordinated with the TSS Liaison and Security Office.",
+         "nodes": []
+        },
+        {
+         "node_id": "0024",
+         "title": "Resultant financial saving and legal matters",
+         "start_page": 26,
+         "end_page": 26,
+         "summary": "The $250,000 would be offset within a few years because the non-profit fund pays no overhead, whereas government-sponsored projects pay about 80% of salaries as overhead. The matter was discussed with the Office of General Counsel, which knows all the details.",
+         "nodes": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "node_id": "0025",
+     "title": "Tab 4: General Counsel memorandum, 8 April 1955",
+     "start_page": 27,
+     "end_page": 27,
+     "summary": "The General Counsel tells Chief, DD/P/TSS that the 6 April 1955 request to the Director for a $250,000 increase in the TSS R&D budget for this project does not change his comments of 21 December 1954.",
+     "nodes": []
+    },
+    {
+     "node_id": "0026",
+     "title": "Tab 3: General Counsel memorandum, 21 December 1954",
+     "start_page": 28,
+     "end_page": 29,
+     "summary": "General Counsel Lawrence R. Houston tells the DCI a gift of funds is proper only if it buys something of value; once donated there is little legal control. The covert gift inflates matching government funds and avoids 80% overhead, which could be called morally wrong, but he finds no legal obstacle.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0027",
+   "title": "Memorandum for Chief, Audit Staff, 10 January 1958",
+   "start_page": 30,
+   "end_page": 30,
+   "summary": "Chief, TSS/Chemical Division reports the transaction behind Subproject 35 was completed on 9 December 1957, with $515,000 delivered: $125,000 first appropriation, $125,000 matching funds from the cut-out, $250,000 second appropriation, $13,449.55 interest and $1,550.45 more from the cut-out.",
+   "nodes": []
+  },
+  {
+   "node_id": "0028",
+   "title": "Bissell memorandum on the amendment, 8 April 1955",
+   "start_page": 31,
+   "end_page": 32,
+   "summary": "Routing sheet and eyes-only memo from Richard M. Bissell Jr., Special Assistant to the Director for Planning and Coordination: the amendment papers are in excellent form and he joins in recommending approval, and once a redacted doctor and the DD/P have signed he will take them to the Director or concur in writing.",
+   "nodes": []
+  },
+  {
+   "node_id": "0029",
+   "title": "Cover sheet, T.S. 101077B",
+   "start_page": 33,
+   "end_page": 33,
+   "summary": "Mostly blank Top Secret cover page for document T.S. 101077B, with a handwritten note that it was downgraded and renumbered ER6-4321.",
+   "nodes": []
+  },
+  {
+   "node_id": "0030",
+   "title": "Memorandum for the Deputy Director (Administration)",
+   "start_page": 34,
+   "end_page": 34,
+   "summary": "Allen W. Dulles says he approved the $125,000 Subproject 35, which the FY 1955 MKULTRA budget did not foresee, and authorizes TSS to move another $125,000 into MKULTRA from its R&D budget if funds run short. Prepared by TSS/OC on 20 October 1954; a note says the DCI approved it on 15 January 1955.",
+   "nodes": []
+  },
+  {
+   "node_id": "0031",
+   "title": "Receipts for checks, September 1955",
+   "start_page": 35,
+   "end_page": 37,
+   "summary": "Receipts dated 21 September 1955 for checks dated 19 September 1955 of $75,000, $75,000, $100,000, $25,000 and $100,000, and a 30 September 1955 receipt for checks of $280, $7,000 and $100,000. Payees and signers are redacted.",
+   "nodes": []
+  },
+  {
+   "node_id": "0032",
+   "title": "Declaration of trust",
+   "start_page": 38,
+   "end_page": 38,
+   "summary": "A redacted person declares that all money in an account in his name is held for the sole benefit of a redacted owner, used only for its official business on its directions, and returned on request or at his death. Dated October 1955.",
+   "nodes": []
+  },
+  {
+   "node_id": "0033",
+   "title": "Amendment no. 1 for the Project Review Committee",
+   "start_page": 39,
+   "end_page": 41,
+   "summary": "Routing sheet and PRC paper ER 7-3211 on Subproject 35, Amendment #1: replace a withdrawn $500,000 contribution from another government agency with $250,000 more, matched under Public Law 221. The PRC endorsed it on 11 May 1955; Bissell, Cabell, Helms and Kirkpatrick concurred, and Dulles approved on 16 May 1955.",
+   "nodes": []
+  },
+  {
+   "node_id": "0034",
+   "title": "Invoice no. 1, 3 September 1955",
+   "start_page": 42,
+   "end_page": 43,
+   "summary": "Sidney Gottlieb sends Chief, Finance Division the final invoice for Subproject 35: five checks of $100,000, $100,000, $75,000, $75,000 and $25,000, totaling $375,000, and asks that the subproject be closed. The attached invoice carries certifications citing the 13 April 1953 authority.",
+   "nodes": []
+  },
+  {
+   "node_id": "0035",
+   "title": "Office memorandum listing checks received",
+   "start_page": 44,
+   "end_page": 44,
+   "summary": "Form noting checks received on 21 September 1955 in amounts of $100,000, $100,000, $75,000, $75,000 and $25,000. Names and check details are redacted.",
+   "nodes": []
+  },
+  {
+   "node_id": "0036",
+   "title": "Official routing slip",
+   "start_page": 45,
+   "end_page": 45,
+   "summary": "Routing slip sending an item to redacted officers and Dr. Gottlieb for information, marked for filing in Subproject 35.",
+   "nodes": []
+  },
+  {
+   "node_id": "0037",
+   "title": "Memorandum for the record, 5 May 1955",
+   "start_page": 46,
+   "end_page": 46,
+   "summary": "The Admiral talked to Dulles and Cabell, who now question the whole project because the cost seems out of proportion to the Agency's interest. Unable to brief them satisfactorily on the unique work possible there, he had to abandon ship temporarily. He now wants a handwritten list of the place's advantages.",
+   "nodes": []
+  },
+  {
+   "node_id": "0038",
+   "title": "Memorandum for the Comptroller, 17 May 1955",
+   "start_page": 47,
+   "end_page": 47,
+   "summary": "Sidney Gottlieb tells the Comptroller's Finance Division that, under the 13 April 1953 authority from the DCI, an additional $250,000 of overall MKULTRA funds has been obligated for Subproject 35.",
+   "nodes": []
+  },
+  {
+   "node_id": "0039",
+   "title": "Memorandum for the Comptroller, 24 January 1955",
+   "start_page": 48,
+   "end_page": 48,
+   "summary": "Sidney Gottlieb reports that Subproject 35 is approved and $125,000 of overall MKULTRA funds is obligated, charged to Allotment 5-2502-10-001.",
+   "nodes": []
+  },
+  {
+   "node_id": "0040",
+   "title": "Letter to Allen Dulles, 19 November 1954",
+   "start_page": 49,
+   "end_page": 49,
+   "summary": "Copy of a letter from a redacted chairman answering Dulles's 23 October 1954 letter about CIA interest in the new research wing and drug techniques an enemy may use in interrogation. The chairman cites interest in radioisotopes in chemotherapy and promises to observe security.",
+   "nodes": []
+  },
+  {
+   "node_id": "0041",
+   "title": "Letter for the Director's signature, 20 October 1954",
+   "start_page": 50,
+   "end_page": 51,
+   "summary": "Chief, DD/P/TSS sends the DCI a letter to the chairman of the fund backing the hospital wing, with the letter itself.",
+   "nodes": [
+    {
+     "node_id": "0042",
+     "title": "Memorandum for the Director",
+     "start_page": 50,
+     "end_page": 50,
+     "summary": "The Agency will use the new research wing for research on defense against drugs and chemical techniques used in interrogation and brainwashing. The hospital will be completely unwitting, and the work will go through a cut-out that hides Agency sponsorship.",
+     "nodes": []
+    },
+    {
+     "node_id": "0043",
+     "title": "Letter from Allen W. Dulles",
+     "start_page": 51,
+     "end_page": 51,
+     "summary": "Dulles tells the redacted chairman that CIA is greatly interested in defense against drugs and chemical techniques used in interrogation and brainwashing, and that the new wing would add to its research potential. Security requires that the hospital stay completely unaware of CIA's sponsorship.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0044",
+   "title": "Letter to Allen Dulles, 19 November 1954, second copy",
+   "start_page": 52,
+   "end_page": 52,
+   "summary": "Another copy of the chairman's 19 November 1954 reply to Dulles, citing interest in radioisotopes in the chemotherapy of chronic diseases and promising to protect the Agency's interest in the new program.",
+   "nodes": []
+  },
+  {
+   "node_id": "0045",
+   "title": "Original approval papers, second copy",
+   "start_page": 53,
+   "end_page": 63,
+   "summary": "File copy 2 of the November 1954 request that won the DCI's approval for Subproject 35.",
+   "nodes": [
+    {
+     "node_id": "0046",
+     "title": "Signature record and cover sheet",
+     "start_page": 53,
+     "end_page": 53,
+     "summary": "Top Secret routing sheet for document 101077 from C. DD/P/TSS with attachment 101077A, initialed through TSS, the DCI and the TSS Chemical Division. Names are redacted.",
+     "nodes": []
+    },
+    {
+     "node_id": "0047",
+     "title": "Memorandum for the Director, 15 November 1954",
+     "start_page": 54,
+     "end_page": 55,
+     "summary": "Copy 2 of the request for a single $125,000 grant toward a new research wing, approved by Helms on 16 November 1954, concurred by Cabell on 8 January 1955 and approved by the DCI on 15 January 1955, with a handwritten condition that other funds to finish the project be available.",
+     "nodes": []
+    },
+    {
+     "node_id": "0048",
+     "title": "Tab A: Subproject 35 - Project MKULTRA",
+     "start_page": 56,
+     "end_page": 63,
+     "summary": "Copy 2 of the eight-page plan: MKULTRA background, the fund and its director, the six-story hospital wing, $3,000,000 financing, TSS cover problems, benefits such as patients and volunteers for experiments and a hospital safehouse, the $125,000 grant, agreement, security and overhead savings.",
+     "nodes": []
+    }
+   ]
+  },
+  {
+   "node_id": "0049",
+   "title": "Draft memorandum on establishing Subproject 35, 24 January 1955",
+   "start_page": 64,
+   "end_page": 67,
+   "summary": "Draft from Sidney Gottlieb to Chief/TSS on financing a cover organization for the TSS/CD biological program: the wing's financing, two or three officers ostensibly resigning to work under cover, advantages such as patients, volunteers and a hospital safehouse, and a grant of up to $125,000 for one year. A note says a page is missing.",
+   "nodes": []
+  },
+  {
+   "node_id": "0050",
+   "title": "Memorandum for the Comptroller, 5 October 1954",
+   "start_page": 68,
+   "end_page": 68,
+   "summary": "Sidney Gottlieb tells the Comptroller's Finance Division that, under the 13 April 1953 authority, Subproject 35 is approved and $125,000 of MKULTRA funds is obligated, charged to Allotment 5-2502-10-001.",
+   "nodes": []
+  },
+  {
+   "node_id": "0051",
+   "title": "Memorandum for the Acting Director of Security, 15 February 1955",
+   "start_page": 69,
+   "end_page": 70,
+   "summary": "Chief, Security Staff, DD/P/TSS answers four questions from 11 February 1955 about a redacted person's contacts: the agreement with the Agency is not final and will probably stay verbal; the person offered money if given a channel; he knew of the Public Law 221 matching funds; and the original talks concerned private affairs.",
+   "nodes": []
+  },
+  {
+   "node_id": "0052",
+   "title": "Invoice check sheet",
+   "start_page": 71,
+   "end_page": 71,
+   "summary": "MKULTRA Subproject 35 card: original authorization 16 November 1954 for one year, $125,000 on Allotment 5-2502-10-001; additional $250,000 on 19 May 1955; one invoice for $375,000, balance zero. Marked project closed.",
+   "nodes": []
+  }
+ ]
+}
