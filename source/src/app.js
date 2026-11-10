@@ -680,7 +680,8 @@ const endDrag = (e) => {
 };
 stage.addEventListener('pointerup', endDrag);
 stage.addEventListener('pointercancel', endDrag);
-stage.addEventListener('lostpointercapture', endDrag);
+// Touch pointers start implicitly captured by the canvas; moving capture to the stage fires lostpointercapture on the canvas.
+stage.addEventListener('lostpointercapture', (e) => { if (e.target === stage) endDrag(e); });
 let wheelAcc = 0, wheelT = 0;
 canvas.addEventListener('wheel', (e) => {
   const dx = Math.abs(e.deltaX) > Math.abs(e.deltaY) ? e.deltaX : (viewport || e.shiftKey ? e.deltaY : 0);
