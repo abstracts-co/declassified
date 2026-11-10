@@ -1,0 +1,186 @@
+{
+ "topic": "presidents",
+ "order": [
+  "presidents-situation-room",
+  "presidents-pdb-bin-ladin",
+  "presidents-watergate-road-map",
+  "presidents-truman-release-when-ready",
+  "presidents-pentagon-papers-tonkin",
+  "presidents-smoking-gun-tape"
+ ],
+ "lead": {
+  "file": "presidents-situation-room",
+  "m": 0
+ },
+ "files": {
+  "presidents-situation-room": {
+   "moments": [
+    {
+     "kind": "image",
+     "square": [
+      0.255,
+      0.3,
+      0.435,
+      0.57
+     ],
+     "alt": "President Obama, in a dark zip jacket and white shirt, sits hunched at the corner of the Situation Room table, staring intently at a screen out of frame beside a uniformed Air Force officer.",
+     "grief": false
+    }
+   ]
+  },
+  "presidents-pdb-bin-ladin": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 2,
+     "quote": "Nevertheless, FBI information since that time indicates patterns of suspicious activity in this country consistent with preparations for hijackings or other types of attacks, including recent surveillance of federal buildings in New York.",
+     "short": "…including recent surveillance of federal buildings in New York.",
+     "lines": [
+      [
+       0.524,
+       0.2125,
+       0.7495,
+       0.2287
+      ],
+      [
+       0.268,
+       0.2303,
+       0.4865,
+       0.2455
+      ]
+     ],
+     "lens": [
+      0.5935,
+      0.2125,
+      0.731,
+      0.2287
+     ],
+     "lensText": "recent surveillance",
+     "grief": false,
+     "source": "mined"
+    }
+   ],
+   "face": {
+    "page": 2,
+    "box": [
+     0.235,
+     0.1,
+     0.785,
+     0.631
+    ]
+   }
+  },
+  "presidents-watergate-road-map": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 38,
+     "quote": "approximately 18 minutes of the Presidential tape recording of that meeting subpoenaed by the Grand Jury, including all of the discussion of Watergate, has been obliterated.",
+     "short": "…including all of the discussion of Watergate, has been obliterated.",
+     "lines": [
+      [
+       0.614,
+       0.2562,
+       0.858,
+       0.2718
+      ],
+      [
+       0.162,
+       0.2865,
+       0.712,
+       0.3015
+      ]
+     ],
+     "lens": [
+      0.459,
+      0.2865,
+      0.704,
+      0.3015
+     ],
+     "lensText": "has been obliterated",
+     "grief": false,
+     "source": "mined"
+    }
+   ],
+   "face": {
+    "page": 38,
+    "box": [
+     0.145,
+     0.1,
+     0.745,
+     0.685
+    ]
+   }
+  },
+  "presidents-truman-release-when-ready": {
+   "moments": [
+    {
+     "kind": "image",
+     "square": [
+      0.103,
+      0.1167,
+      0.7263,
+      0.5958
+     ],
+     "alt": "Truman's pencilled note on the pink back of the cable reads 'Reply to your 41011 suggestions approved Release when ready but not sooner than August 2.', initialled HST, next to a Harry S. Truman Library stamp.",
+     "grief": false
+    }
+   ]
+  },
+  "presidents-pentagon-papers-tonkin": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 31,
+     "quote": "Review of action makes many recorded contacts and torpedoes fired appear doubtful. Freak weather effects and overeager sonarman may have accounted for many reports.",
+     "short": "Freak weather effects and overeager sonarman may have accounted for many reports.",
+     "lines": [
+      [
+       0.5507,
+       0.2258,
+       0.779,
+       0.2396
+      ],
+      [
+       0.2417,
+       0.2398,
+       0.74,
+       0.255
+      ]
+     ],
+     "lens": [
+      0.2417,
+      0.2398,
+      0.406,
+      0.255
+     ],
+     "lensText": "overeager sonarman",
+     "grief": false,
+     "source": "mined"
+    }
+   ],
+   "face": {
+    "page": 31,
+    "box": [
+     0.19,
+     0.13,
+     0.79,
+     0.702
+    ]
+   }
+  },
+  "presidents-smoking-gun-tape": {
+   "moments": [
+    {
+     "kind": "audio",
+     "t": 335,
+     "end": 348,
+     "alt": "In the Oval Office, Nixon approves Haldeman's plan to have the CIA head off the FBI's Watergate investigation: \"Good deal! Play it tough.\"",
+     "grief": false,
+     "source": "mined"
+    }
+   ]
+  }
+ },
+ "notes": "Skeptic pass 2026-11-09. PDB p2: the earlier short ('…patterns of suspicious activity in this country consistent with preparations for hijackings…') cut mid-clause at both ends; replaced with the sentence's own comma-bounded tail '…including recent surveillance of federal buildings in New York.' (64 chars); quote stays the full printed sentence, so 'hijackings' is still in the quote; no clause-bounded piece of 100 chars or less contains 'hijackings'. Lines and lens re-measured on the hosted 960 px page (ink profile) and checked by crop; lens 'recent surveillance'. Face p2 is the only text block on the page, so the lower half of the face is blank page. Road Map p38: quote, short and lens verified letter by letter against the page; boxes padded 1-4 px where they sat flush on the first glyph. Face p38 cuts the right ends of the lines (the text block is about 70% of the page width, more than the 60% face limit); left-aligned so every line starts readable. Pentagon Papers p31: quote, short, lines and lens verified; the printed closing quotation mark after 'reports.' is outside the short and the box. Truman: square widened from 1103 to 1150 px because 'August' (left) and 'than' (right) touched the edges; it now holds the whole note, the HST initials and the full Truman Library stamp, and excludes 'Sec War' above. Smoking Gun tape: aligned with a local faster-whisper base.en pass plus the trial transcript: 'You call them in' about 339 s, 'Good. Good deal!' 340.4-341.9 s, 'Play it tough. That's the way they play it' 342.7-344.2 s, 'and that's the way we are going to play it' 344.2-345.0 s, Haldeman 'O.K. We'll do it.' 345-347.4 s, next speech 349.5 s. Window moved from 333-347 (started mid-word in Haldeman's 'CIA turnoff would') to 335-348: starts on Nixon's 'Well, not sure of their analysis' and ends in the pause after 'O.K. We'll do it.' Situation Room: square 432 x 432 px on Obama, reads at 120 px; alternative Clinton square [0.69,0.3526,0.89,0.6526]. No grief files in this topic; no videos."
+}

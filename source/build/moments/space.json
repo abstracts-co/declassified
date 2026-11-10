@@ -1,0 +1,255 @@
+{
+ "topic": "space",
+ "order": [
+  "space-moon-disaster",
+  "space-jfk-webb-tape",
+  "space-project-horizon",
+  "space-lunik-kidnapping",
+  "space-n1-moon-rocket",
+  "space-mol-dorian"
+ ],
+ "lead": {
+  "file": "space-moon-disaster",
+  "m": 0
+ },
+ "files": {
+  "space-moon-disaster": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 1,
+     "quote": "Fate has ordained that the men who went to the moon to explore in peace will stay on the moon to rest in peace.",
+     "short": "…the men who went to the moon to explore in peace will stay on the moon to rest in peace.",
+     "lines": [
+      [
+       0.4723,
+       0.2588,
+       0.8093,
+       0.2711
+      ],
+      [
+       0.1251,
+       0.2957,
+       0.7034,
+       0.308
+      ]
+     ],
+     "lens": [
+      0.5343,
+      0.2957,
+      0.6995,
+      0.308
+     ],
+     "lensText": "to rest in peace",
+     "grief": false,
+     "source": "mined"
+    }
+   ],
+   "face": {
+    "page": 1,
+    "box": [
+     0.11,
+     0.2,
+     0.73,
+     0.791
+    ]
+   }
+  },
+  "space-jfk-webb-tape": {
+   "moments": [
+    {
+     "kind": "audio",
+     "t": 2361,
+     "end": 2377,
+     "alt": "In the recorded Cabinet Room meeting, President Kennedy tells NASA Administrator James Webb that the cost of the Moon program is justified only by beating the Soviet Union, and that he is not that interested in space.",
+     "grief": false,
+     "source": "mined"
+    }
+   ]
+  },
+  "space-project-horizon": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 3,
+     "quote": "There is a requirement for a manned military outpost on the moon.",
+     "short": "There is a requirement for a manned military outpost on the moon.",
+     "lines": [
+      [
+       0.2344,
+       0.2551,
+       0.8274,
+       0.2666
+      ],
+      [
+       0.1127,
+       0.2712,
+       0.159,
+       0.2815
+      ]
+     ],
+     "lens": [
+      0.5258,
+      0.2551,
+      0.7567,
+      0.2666
+     ],
+     "lensText": "manned military outpost",
+     "grief": false,
+     "source": "new"
+    },
+    {
+     "kind": "page",
+     "page": 23,
+     "quote": "Empty cargo and propellant containers have been assembled and are being used for storage of bulk supplies, weapons, and life essentials such as insulated oxygen/nitrogen tanks.",
+     "short": "Empty cargo and propellant containers … are being used for storage of bulk supplies, weapons…",
+     "lines": [
+      [
+       0.6622,
+       0.3837,
+       0.7885,
+       0.3963
+      ],
+      [
+       0.1319,
+       0.4017,
+       0.823,
+       0.4143
+      ],
+      [
+       0.1334,
+       0.4192,
+       0.4715,
+       0.4318
+      ]
+     ],
+     "lens": [
+      0.2396,
+      0.4192,
+      0.4715,
+      0.4318
+     ],
+     "lensText": "bulk supplies, weapons",
+     "grief": false,
+     "source": "mined"
+    }
+   ],
+   "face": {
+    "page": 3,
+    "box": [
+     0.105,
+     0.14,
+     0.765,
+     0.78
+    ]
+   }
+  },
+  "space-lunik-kidnapping": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 9,
+     "quote": "To this day there has been no indication the Soviets ever discovered that the Lunik was borrowed for a night.",
+     "short": "…there has been no indication the Soviets ever discovered that the Lunik was borrowed for a night.",
+     "lines": [
+      [
+       0.73,
+       0.2185,
+       0.7645,
+       0.2311
+      ],
+      [
+       0.2787,
+       0.2326,
+       0.7645,
+       0.245
+      ],
+      [
+       0.2787,
+       0.2477,
+       0.4575,
+       0.2609
+      ]
+     ],
+     "lens": [
+      0.3097,
+      0.2477,
+      0.4555,
+      0.2609
+     ],
+     "lensText": "borrowed for a night",
+     "grief": false,
+     "source": "mined"
+    }
+   ],
+   "face": {
+    "page": 9,
+    "box": [
+     0.255,
+     0.135,
+     0.785,
+     0.642
+    ]
+   }
+  },
+  "space-n1-moon-rocket": {
+   "moments": [
+    {
+     "kind": "image",
+     "square": [
+      0.18,
+      0.31,
+      0.76,
+      0.713
+     ],
+     "alt": "Overhead KH-8 satellite view of a launch pad at Tyuratam: an arrow labeled SPACE BOOSTER points to the Soviet N1 Moon rocket standing at the center of the pad.",
+     "grief": false,
+     "source": "mined"
+    }
+   ]
+  },
+  "space-mol-dorian": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 16,
+     "quote": "Unbeknown to the public, the MOL program included a highly secret set of experiments and capabilities to gain intelligence from space.",
+     "short": "Unbeknown to the public, the MOL program included a highly secret set of experiments…",
+     "lines": [
+      [
+       0.0809,
+       0.5585,
+       0.4779,
+       0.5712
+      ],
+      [
+       0.0735,
+       0.5726,
+       0.3047,
+       0.5853
+      ]
+     ],
+     "lens": [
+      0.0809,
+      0.5585,
+      0.2605,
+      0.5712
+     ],
+     "lensText": "Unbeknown to the public",
+     "grief": false,
+     "source": "new"
+    }
+   ],
+   "face": {
+    "page": 16,
+    "box": [
+     0.035,
+     0.397,
+     0.505,
+     0.861
+    ]
+   }
+  }
+ },
+ "notes": "space-jfk-webb-tape: t=2361/end=2377 built from the mined 2369 s (stored in 'page'); unverified by ear (no speech-to-text available on this PC). Skeptic pass: end moved from 2373 to 2377 because 2373 sits on a 0.25 s dip inside continuous speech (2373.5-2376.75) and the nearest real pause is 2377.0-2377.25; ideas/ux-review.json reads 2369 both as the line's start and as its end, and 2361-2377 holds the sentence either way. The line per the NASA-hosted transcript is 'otherwise we shouldn't be spending this kind of money because I'm not that interested in space'. space-moon-disaster: the sentence is 111 chars, so short drops the opening 'Fate has ordained that' (cut at the start of the that-clause); quote keeps the full sentence; lens is 'to rest in peace' on printed line 2. space-lunik-kidnapping: sentence is 109 chars; short drops the opening 'To this day'. space-project-horizon: added a 'new' moment p.3 ('There is a requirement for a manned military outpost on the moon.') as moments[0] because it is far stronger than the mined p.23 line; face is on p.3. The mined p.23 moment is kept as moments[1]: its sentence is 176 chars with no clause end that keeps 'weapons' under 100, so short elides 'have been assembled and' and stops after 'weapons' mid-list. space-mol-dorian: no mined moment; new p.16 line is from the NRO compendium Introduction (Outzen), not Berger's history. Sentence is 134 chars with no inner clause end, so short stops after 'experiments' (drops 'and capabilities to gain intelligence from space'). Rejected p.19-20 Oberth/von Braun quotes ('burn cities', 'almost terrifying power of observation') because on a DORIAN card they would read as NRO/MOL claims. The catalog toc for this file is one page lower than the PDF pages (Introduction is PDF p.15, Chapter I p.19). Faces: moon-disaster 0.62 and horizon 0.66 of page width (slightly over 60% to keep the moment lines whole on the left); lunik p.9 has blank space below the text. space-n1-moon-rocket: square is 967x967 px of the 1668x2400 full.webp around the pad, ring, arrow and SPACE BOOSTER label; the label text itself does not read at 120 px. Text-layer line boxes had their y tightened by hand (auto boxes overlap neighbouring lines); every box checked in crops under work/_m/check/space/. Skeptic pass (checks in work/_m/check/space/v/): every quote, short and lensText matched letter by letter to the page images; every line and lens box re-drawn on both the 200 dpi PDF render and the hosted 960 px webp and sits on its words; faces re-cropped exactly (no pad) from the webps. OPEN: two shorts break the 'cut only at sentence or clause ends' rule and no compliant short under 100 chars keeps their point: space-project-horizon p.23 (internal elision of 'have been assembled and' plus a stop mid-list after 'weapons'; the full sentence is 176 chars and its only clause end under 100 drops 'weapons'; the p.4 line 'The employment of moon-based weapons systems against earth or space targets may prove to be feasible and desirable.' is 115 chars with no inner clause end) and space-mol-dorian p.16 (stops mid noun phrase after 'experiments'; cutting before the infinitival 'to gain intelligence from space' gives 102 chars). Compliant but weaker fallbacks: Horizon p.4 '…it is imperative that the United States be first.' or p.4 'The situation is reversed if hostile forces are permitted to arrive first.'; MOL p.102 'The MOL reconnaissance sensor dominates the entire configuration of this project.' (unboxed). The Lunik short drops the fronted adverbial 'To this day' (not a clause; the rest is a whole independent clause, meaning unchanged)."
+}

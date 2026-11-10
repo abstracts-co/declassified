@@ -1,0 +1,313 @@
+{
+ "topic": "satellites",
+ "order": [
+  "satellites-corona-first-image",
+  "satellites-hexagon-recovery-memo",
+  "satellites-c119-air-catch",
+  "satellites-corona-story",
+  "satellites-iran-launch-pad",
+  "satellites-hexagon-seabed-film",
+  "satellites-corona-venezuela",
+  "satellites-point-in-time-film"
+ ],
+ "lead": {
+  "file": "satellites-corona-first-image",
+  "m": 0
+ },
+ "files": {
+  "satellites-corona-first-image": {
+   "moments": [
+    {
+     "kind": "image",
+     "square": [
+      0.445,
+      0.374,
+      0.685,
+      0.566
+     ],
+     "alt": "A grainy black-and-white satellite view of a Soviet coastline, with a red circle drawn around the airfield at Mys Shmidta.",
+     "grief": false,
+     "source": "new",
+     "auto": true
+    }
+   ]
+  },
+  "satellites-hexagon-recovery-memo": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 20,
+     "quote": "Everyone went from an emotional high to an emotional low in about one microsecond.",
+     "short": "Everyone went from an emotional high to an emotional low in about one microsecond.",
+     "lines": [
+      [
+       0.5257,
+       0.6179,
+       0.8105,
+       0.6296
+      ],
+      [
+       0.2299,
+       0.6317,
+       0.6903,
+       0.6439
+      ]
+     ],
+     "lens": [
+      0.4887,
+      0.6317,
+      0.6875,
+      0.6439
+     ],
+     "lensText": "about one microsecond",
+     "grief": false,
+     "source": "mined"
+    },
+    {
+     "kind": "page",
+     "page": 9,
+     "quote": "Instead the RV, because of a parachute failure, made a ballistic trajectory into the open seas, hitting with an impact of about 2600 g's at about 310 miles per hour.",
+     "short": "…hitting with an impact of about 2600 g's at about 310 miles per hour.",
+     "lines": [
+      [
+       0.4525,
+       0.3857,
+       0.7368,
+       0.3962
+      ],
+      [
+       0.1611,
+       0.4019,
+       0.509,
+       0.4134
+      ]
+     ],
+     "lens": [
+      0.325,
+      0.4019,
+      0.506,
+      0.4134
+     ],
+     "lensText": "310 miles per hour",
+     "grief": false,
+     "source": "mined"
+    }
+   ],
+   "face": {
+    "page": 20,
+    "box": [
+     0.219,
+     0.3,
+     0.829,
+     0.8998
+    ]
+   }
+  },
+  "satellites-c119-air-catch": {
+   "moments": [
+    {
+     "kind": "image",
+     "square": [
+      0.06,
+      0.0506,
+      0.81,
+      0.9994
+     ],
+     "alt": "A white USAF C-119 banks low over the ocean, its trailing lines reaching down to a small parachute below it.",
+     "grief": false,
+     "source": "new"
+    }
+   ]
+  },
+  "satellites-corona-story": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 67,
+     "quote": "“Destroy the capsule!” So the capsule was literally beaten to pieces and dumped into the Santa Barbara channel.",
+     "short": "…So the capsule was literally beaten to pieces and dumped into the Santa Barbara channel.",
+     "lines": [
+      [
+       0.4302,
+       0.8486,
+       0.8226,
+       0.8619
+      ],
+      [
+       0.2413,
+       0.8625,
+       0.5446,
+       0.8759
+      ]
+     ],
+     "lens": [
+      0.5938,
+      0.8489,
+      0.7863,
+      0.8616
+     ],
+     "lensText": "literally beaten to pieces",
+     "grief": false,
+     "source": "mined"
+    },
+    {
+     "kind": "page",
+     "page": 104,
+     "quote": "One farmer had transformed the parachute lines into a harness for his horse.",
+     "short": "One farmer had transformed the parachute lines into a harness for his horse.",
+     "lines": [
+      [
+       0.6443,
+       0.8586,
+       0.7677,
+       0.8692
+      ],
+      [
+       0.1853,
+       0.8722,
+       0.6356,
+       0.8856
+      ]
+     ],
+     "lens": [
+      0.4775,
+      0.8722,
+      0.6325,
+      0.8856
+     ],
+     "lensText": "harness for his horse",
+     "grief": false,
+     "source": "mined"
+    },
+    {
+     "kind": "page",
+     "page": 69,
+     "quote": "Fortunately, Discoverer-XIV yielded much more Soviet coverage than the total of all U-2 missions.",
+     "short": "Fortunately, Discoverer-XIV yielded much more Soviet coverage than the total of all U-2 missions.",
+     "lines": [
+      [
+       0.3447,
+       0.4474,
+       0.775,
+       0.4604
+      ],
+      [
+       0.1964,
+       0.461,
+       0.5156,
+       0.4746
+      ]
+     ],
+     "lens": [
+      0.3955,
+      0.4613,
+      0.5135,
+      0.4716
+     ],
+     "lensText": "all U-2 missions",
+     "grief": false,
+     "source": "new"
+    },
+    {
+     "kind": "page",
+     "page": 29,
+     "quote": "(George Kucera, of Bissell’s staff, an inveterate cigar smoker, was inspired to select this name as he glanced at a cigar wrapper.)",
+     "short": "…an inveterate cigar smoker, was inspired to select this name as he glanced at a cigar wrapper.",
+     "lines": [
+      [
+       0.6597,
+       0.7008,
+       0.8017,
+       0.7135
+      ],
+      [
+       0.2192,
+       0.7141,
+       0.7975,
+       0.7281
+      ]
+     ],
+     "lens": [
+      0.653,
+      0.7144,
+      0.7975,
+      0.7275
+     ],
+     "lensText": "at a cigar wrapper",
+     "grief": false,
+     "source": "new"
+    }
+   ],
+   "face": {
+    "page": 67,
+    "box": [
+     0.2313,
+     0.3295,
+     0.8326,
+     0.9077
+    ]
+   }
+  },
+  "satellites-iran-launch-pad": {
+   "moments": [
+    {
+     "kind": "image",
+     "square": [
+      0.3292,
+      0.0,
+      0.6958,
+      0.6843
+     ],
+     "alt": "Overhead view of a scorched launch pad: a wrecked tower labelled 'Damaged gantry service tower', black blast marks and a bright camera-flash glare at the center.",
+     "grief": false,
+     "source": "mined"
+    }
+   ]
+  },
+  "satellites-hexagon-seabed-film": {
+   "moments": [
+    {
+     "kind": "image",
+     "square": [
+      0.265,
+      0.1628,
+      0.745,
+      0.7637
+     ],
+     "alt": "On the dark sea floor, a spool of film wrapped in torn plastic and crumpled gold foil sits half-buried in brown silt.",
+     "grief": false,
+     "source": "new"
+    }
+   ]
+  },
+  "satellites-corona-venezuela": {
+   "moments": [
+    {
+     "kind": "image",
+     "square": [
+      0.2448,
+      0.35,
+      0.95,
+      0.98
+     ],
+     "alt": "Two villagers in hats crouch beside the battered, hollowed-out capsule, one with his hands on its rim.",
+     "grief": false,
+     "source": "new"
+    }
+   ]
+  },
+  "satellites-point-in-time-film": {
+   "moments": [
+    {
+     "kind": "video",
+     "t": 233,
+     "end": 243,
+     "alt": "A rocket stands beside its launch tower, ignites in a cloud of exhaust and climbs straight up into a pale blue sky.",
+     "grief": false,
+     "source": "new"
+    }
+   ]
+  }
+ },
+ "notes": "Documents: every box checked on 200 dpi crops. HEXAGON memo p20 and p9: auto-mode boxes were right. Memo p9: quote is the whole sentence; short starts at the participial clause 'hitting with...' after the comma. CORONA Story p67, p104, p69 and p29 use OCR-mode boxes (the text layer on p67 drops words under faint marks: 'Dest', 'dum'). p67: the full two-sentence quote is 110 chars, so short keeps only the second sentence ('…So the capsule was literally beaten to pieces and dumped into the Santa Barbara channel.'); 'Destroy the capsule!' sits right before it on the same printed line and is visible on the face. A punchier but non-clause cut would be '“Destroy the capsule!” So the capsule was literally beaten to pieces…' (cut before 'and dumped'), not used. p69 (U-2 coverage) and p29 (cigar wrapper) are extra 'new' moments from the mined quiz; p29's sentence is 129 chars, so its short starts at the appositive after 'of Bissell's staff,' and drops the closing parenthesis: least strict cut in this topic, drop it if appositive cuts are not acceptable. Pages 67, 69 and 104 are above shown (40) and need hosting; the CORONA Story face is on p67. Faces: memo p20 face is 61% wide and excludes the time stamps (0235, 1800) in the left margin; it includes the 'HEXAGON SECRET' footer stamp at the bottom. CORONA Story p67 face is 60% wide (the full text column) and puts the moment at its bottom edge because the moment is the page's last paragraph. Video: hosted video.mp4 is the first 900 s of the 3466 s film; source and hosted timing match (checked frames at 233/238/243/244 s from the source and decode-accurate frames from video.mp4). Shot runs 232.7-244.2 s: rocket on the pad by its tower, lift-off about 235.2 s, climb; the 'A POINT IN TIME' title starts fading in at about 244.2 s, so end=243. The rocket is not identified in the film (looks like a Thor-Agena at Vandenberg), so the alt only says 'a rocket'. No audio, no grief items in this topic. Images: squares checked as circles at 240 and 120 px. Iran square stops above the 'Damaged Safir mobile-erector-launcher' label so no label is cut mid-word except the tip of its pointer in the masked corner. C-119 square is 1800 px of the 2400x1897 photo so plane, USAF wing and parachute all read; the parachute sits lower left. Venezuela square shows two of the four villagers and the capsule. Skeptic pass: re-cropped every stored line and lens box on 200 dpi PDF renders, drew them on the hosted p/NNN.webp pages (memo p9, p20; story p29) and they align; quotes, shorts and lensTexts match the page images letter for letter. Story p67 face moved down 0.0035 (now 0.3295-0.9077) so its top edge no longer slices the 'Upon arrival at Hickam' line; same size and 1.25 ratio. Story p29 quote apostrophe set to the typeset ’ (Bissell’s). p29 short still starts at an appositive ('…an inveterate cigar smoker,'), not a clause: no clause-boundary cut under 100 chars keeps 'cigar wrapper'; drop the moment if that cut is not acceptable. Video frames re-checked at 231-245 s on the source and at 233/243 s on hosted video.mp4: black at 232, rocket on pad 233, lift-off by 236, climbing to 244, title card by 245."
+}

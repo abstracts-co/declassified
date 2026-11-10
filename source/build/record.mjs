@@ -38,41 +38,39 @@ try {
     console.log('frames', shots.length, 'seconds', (end - shots[0]).toFixed(1));
   } };
   const ev = (f) => frame().evaluate(f).catch(() => {});
+  const flick = (x0, x1, y) => swipe(x0, x1, y, 180);
   if (script === 'desktop') {
-    await sleep(2200);
-    for (let k = 0; k < 4; k++) { await swipe(W * .78, W * .3); await sleep(1250); }
-    await swipe(W * .3, W * .75, H * .5, 420); await sleep(1100);
-    await ev(() => document.querySelector('#pill').click()); await sleep(2300);
-    await swipe(W * .75, W * .3); await sleep(1700);
-    await swipe(W * .75, W * .3); await sleep(1500);
-    await tap(W * .5, H * .44); await sleep(1700);
-    await ev(() => document.querySelector('#vb').scrollBy({ top: 700, behavior: 'smooth' })); await sleep(1300);
-    await ev(() => document.querySelector('#vh [aria-label=Contents]').click()); await sleep(1900);
-    await ev(() => document.querySelectorAll('.toc button')[3]?.click()); await sleep(1700);
-    await ev(() => document.querySelector('#vh .ic').click()); await sleep(900);
+    await sleep(2400);
+    for (let k = 0; k < 3; k++) { await swipe(W * .7, W * .36, H * .4); await sleep(1500); }
+    await flick(W * .75, W * .3, H * .4); await sleep(2200);
+    await tap(W * .5, H * .36); await sleep(2400);
+    await swipe(W * .7, W * .4, H * .5); await sleep(1700);
+    await swipe(W * .7, W * .4, H * .5); await sleep(1700);
+    await tap(W * .5, H * .5); await sleep(3400);
+    await ev(() => document.querySelector('#vb').scrollBy({ top: 500, behavior: 'smooth' })); await sleep(1800);
+    await ev(() => document.querySelector('#vh .ic').click()); await sleep(1400);
+    await swipe(W * .7, W * .4, H * .5); await sleep(1500);
+    await tap(W * .5, H * .5); await sleep(4200);
+    await ev(() => document.querySelector('#vh .ic').click()); await sleep(1200);
     await ev(() => document.querySelector('#back').click()); await sleep(1600);
-    await swipe(W * .78, W * .3); await sleep(1000); await swipe(W * .78, W * .3); await sleep(1300);
-    await ev(() => document.querySelector('#pill').click()); await sleep(2200);
-    await swipe(W * .75, W * .3); await sleep(1200); await swipe(W * .75, W * .3); await sleep(2600);
-    await tap(W * .5, H * .44); await sleep(3800);
-    await ev(() => document.querySelector('#vh .ic').click()); await sleep(800);
-    await ev(() => document.querySelector('#back').click()); await sleep(1500);
-    await ev(() => document.querySelector('#search').click()); await sleep(700);
-    await ev(() => { const q = document.querySelector('#q'); q.value = 'saucer'; q.dispatchEvent(new Event('input')); }); await sleep(2200);
-    await ev(() => document.querySelectorAll('.hit')[0]?.click()); await sleep(3200);
-    await ev(() => document.querySelector('#vh .ic').click()); await sleep(1500);
+    await ev(() => document.querySelector('#search').click()); await sleep(2600);
+    await ev(() => { const q = document.querySelector('#q'); q.value = 'saucer'; q.dispatchEvent(new Event('input')); }); await sleep(2400);
+    await ev(() => document.querySelector('.tile')?.click()); await sleep(3600);
+    await ev(() => document.querySelector('#vh .ic').click()); await sleep(1600);
   } else if (script === 'phone') {
-    await sleep(1800);
-    for (let k = 0; k < 3; k++) { await swipe(W * .62, W * .12, H * .42); await sleep(1100); }
-    await ev(() => document.querySelector('#pill').click()); await sleep(2200);
-    await swipe(W * .6, W * .12, H * .42); await sleep(1600);
-    await swipe(W * .6, W * .12, H * .42); await sleep(1600);
-    await tap(180, H * .4); await sleep(1800);
-    await ev(() => document.querySelector('#vb').scrollBy({ top: 600, behavior: 'smooth' })); await sleep(1500);
-    await ev(() => document.querySelector('#vh .ic').click()); await sleep(900);
-    await ev(() => document.querySelector('#dice').click()); await sleep(1200);
-    await ev(() => document.querySelector('#back').click()); await sleep(800);
-    await ev(() => document.querySelector('#dice').click()); await sleep(3500);
+    await sleep(2200);
+    for (let k = 0; k < 3; k++) { await swipe(W * .7, W * .2, H * .3); await sleep(1500); }
+    await flick(W * .8, W * .2, H * .3); await sleep(2000);
+    await tap(W * .5, H * .26); await sleep(2300);
+    await swipe(W * .7, W * .2, H * .45); await sleep(1500);
+    await swipe(W * .7, W * .2, H * .45); await sleep(1500);
+    await tap(W * .5, H * .45); await sleep(3400);
+    await ev(() => document.querySelector('#vb').scrollBy({ top: 420, behavior: 'smooth' })); await sleep(1700);
+    await ev(() => document.querySelector('#vh .ic').click()); await sleep(1300);
+    await ev(() => document.querySelector('#back').click()); await sleep(1500);
+    await ev(() => document.querySelector('#dice').click()); await sleep(3600);
+    await ev(() => document.querySelector('#vh .ic').click()); await sleep(1500);
+    await ev(() => document.querySelector('#search').click()); await sleep(2800);
   } else {
     await sleep(Number(script) || 6000);
   }

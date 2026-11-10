@@ -1,0 +1,336 @@
+{
+ "topic": "mind",
+ "order": [
+  "mind-lsd-troops-film",
+  "mind-midnight-climax",
+  "mind-mkultra-hearing",
+  "mind-subproject-119",
+  "mind-ig-report-1963",
+  "mind-subproject-35",
+  "mind-ford-olson-meeting",
+  "mind-project-bluebird"
+ ],
+ "lead": {
+  "file": "mind-lsd-troops-film",
+  "m": 0
+ },
+ "files": {
+  "mind-lsd-troops-film": {
+   "moments": [
+    {
+     "kind": "video",
+     "t": 280,
+     "end": 290,
+     "square": [
+      0.15,
+      0.0,
+      0.7125,
+      1.0
+     ],
+     "alt": "The dosed squad stands loosely on a parking lot; at 281.4 s the film cuts to a row of white missiles on their launchers under a grey sky.",
+     "grief": false,
+     "source": "mined"
+    },
+    {
+     "kind": "video",
+     "t": 204,
+     "end": 214,
+     "alt": "In front of a stone barracks, the squad's close-order drill comes apart: soldiers walk out of formation in different directions across the lot.",
+     "grief": false,
+     "source": "new"
+    }
+   ]
+  },
+  "mind-midnight-climax": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 1,
+     "quote": "Due to the highly unorthodox nature of these activities and the considerable risk incurred by these individuals, it is impossible to require that they provide a receipt for these payments or that they indicate the precise manner in which the funds were spent.",
+     "short": "…it is impossible to require that they provide a receipt for these payments…",
+     "lines": [
+      [
+       0.6106,
+       0.4874,
+       0.8749,
+       0.502
+      ],
+      [
+       0.1192,
+       0.5026,
+       0.5776,
+       0.5174
+      ]
+     ],
+     "lens": [
+      0.2125,
+      0.5029,
+      0.3831,
+      0.5165
+     ],
+     "lensText": "provide a receipt",
+     "grief": false,
+     "source": "mined"
+    }
+   ],
+   "face": {
+    "page": 1,
+    "box": [
+     0.1,
+     0.165,
+     0.7,
+     0.744
+    ]
+   }
+  },
+  "mind-mkultra-hearing": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 125,
+     "quote": "Substances which will promote illogical thinking and impulsiveness to the point where the recipient would be discredited in public.",
+     "short": "Substances which will promote illogical thinking and impulsiveness…",
+     "lines": [
+      [
+       0.287,
+       0.257,
+       0.819,
+       0.27
+      ],
+      [
+       0.188,
+       0.271,
+       0.378,
+       0.284
+      ]
+     ],
+     "lens": [
+      0.53,
+      0.257,
+      0.819,
+      0.27
+     ],
+     "lensText": "promote illogical thinking",
+     "grief": false,
+     "source": "mined"
+    },
+    {
+     "kind": "page",
+     "page": 77,
+     "quote": "Olson unwittingly received approximately 70 micrograms of LSD in a glass of Cointreau he drank on November 19, 1953.",
+     "short": "…Olson unwittingly received approximately 70 micrograms of LSD in a glass of Cointreau…",
+     "lines": [
+      [
+       0.7075,
+       0.6056,
+       0.9195,
+       0.6197
+      ],
+      [
+       0.1125,
+       0.6206,
+       0.9195,
+       0.6371
+      ]
+     ],
+     "lens": [
+      0.6905,
+      0.6206,
+      0.9195,
+      0.6349
+     ],
+     "lensText": "a glass of Cointreau",
+     "grief": true,
+     "source": "mined"
+    }
+   ],
+   "face": {
+    "page": 125,
+    "box": [
+     0.18,
+     0.12,
+     0.82,
+     0.608
+    ]
+   }
+  },
+  "mind-subproject-119": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 21,
+     "quote": "Techniques of activation of the human organism by remote electronic means.",
+     "short": "Techniques of activation of the human organism by remote electronic means.",
+     "lines": [
+      [
+       0.3277,
+       0.8038,
+       0.7812,
+       0.8197
+      ],
+      [
+       0.3289,
+       0.8216,
+       0.5481,
+       0.8327
+      ]
+     ],
+     "lens": [
+      0.3289,
+      0.8216,
+      0.544,
+      0.8327
+     ],
+     "lensText": "remote electronic means",
+     "grief": false,
+     "source": "new"
+    }
+   ],
+   "face": {
+    "page": 21,
+    "box": [
+     0.185,
+     0.276,
+     0.785,
+     0.87
+    ]
+   }
+  },
+  "mind-ig-report-1963": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 19,
+     "quote": "As of 1960 no effective knockout pill, truth serum, aphrodisiac, or recruitment pill was known to exist.",
+     "short": "…no effective knockout pill, truth serum, aphrodisiac, or recruitment pill was known to exist.",
+     "lines": [
+      [
+       0.4093,
+       0.56,
+       0.862,
+       0.583
+      ],
+      [
+       0.2496,
+       0.5912,
+       0.6954,
+       0.6148
+      ]
+     ],
+     "lens": [
+      0.4096,
+      0.56,
+      0.645,
+      0.583
+     ],
+     "lensText": "no effective knockout pill",
+     "grief": false,
+     "source": "mined"
+    }
+   ],
+   "face": {
+    "page": 19,
+    "box": [
+     0.24,
+     0.33,
+     0.86,
+     0.927
+    ]
+   }
+  },
+  "mind-subproject-35": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 5,
+     "quote": "Materials and physical methods which will produce amnesia for events preceding and during their use.",
+     "short": "Materials and physical methods which will produce amnesia for events preceding and during their use.",
+     "lines": [
+      [
+       0.292,
+       0.656,
+       0.75,
+       0.6728
+      ],
+      [
+       0.2,
+       0.6732,
+       0.678,
+       0.689
+      ]
+     ],
+     "lens": [
+      0.198,
+      0.6732,
+      0.472,
+      0.689
+     ],
+     "lensText": "amnesia for events preceding",
+     "grief": false,
+     "source": "new"
+    }
+   ],
+   "face": {
+    "page": 5,
+    "box": [
+     0.18,
+     0.216,
+     0.78,
+     0.81
+    ]
+   }
+  },
+  "mind-ford-olson-meeting": {
+   "moments": [
+    {
+     "kind": "image",
+     "square": [
+      0.1107,
+      0.189,
+      0.2131,
+      0.2679
+     ],
+     "alt": "First frame of the contact sheet: President Ford shakes hands with a woman of the Olson family at an Oval Office door.",
+     "grief": false
+    }
+   ]
+  },
+  "mind-project-bluebird": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 2,
+     "quote": "The teams will utilize the polygraph, drugs, and hypnotism to attain the greatest results in interrogation techniques.",
+     "short": "The teams will utilize the polygraph, drugs, and hypnotism…",
+     "lines": [
+      [
+       0.1182,
+       0.3405,
+       0.703,
+       0.3563
+      ]
+     ],
+     "lens": [
+      0.5012,
+      0.342,
+      0.703,
+      0.356
+     ],
+     "lensText": "drugs, and hypnotism",
+     "grief": false,
+     "source": "new"
+    }
+   ],
+   "face": {
+    "page": 2,
+    "box": [
+     0.11,
+     0.145,
+     0.71,
+     0.7245
+    ]
+   }
+  }
+ },
+ "notes": "Film lead (mind-lsd-troops-film): scene cut to the missile row measured at 281.42 s, next cut at 290.6 s; t starts at 280 so the narration that begins about 280.4 s (silence detection only, narration words unverified by ear) is included. Square is 720x720 px of the 1280x720 frame (pillarboxed 4:3 picture) and holds the missile row; checked as a ball on frames 280, 283, 286, 289. Second film moment 204-214 s (shot ends 214.7 s) is new. Shorts cut where the 100-char limit forced it: hearing p125 item 1 continues 'to the point where the recipient would be discredited in public.' (full item is 131 chars; cut after 'impulsiveness' is a phrase boundary, not a full clause end); IG p19 drops the leading 'As of 1960' (full sentence 104 chars; the page prints 'aphro-/disiac', joined in the text); hearing p77 drops the closing 'he drank on November 19, 1953.'. Hearing p125 is the 1977 reprint of the 5 May 1955 list; Subproject 35 p5 is the original typed draft of the same list, so it gets a different item (No. 8, exactly 100 chars). A stronger SP35 alternative is p6 No. 16 'A knockout pill which can surreptitiously be administered in drinks, food, cigarettes, as an aerosol, etc., ...' but no short within 100 chars ends at a clause end. Text layers of SP35, SP119 and the midnight memo are poor; boxes came from fresh OCR and were checked against the page crops. Hearing face (p125) is 64% of page width so line 1 of the moment fits on the narrow GPO page. Midnight face is left-anchored; the end of the moment's first line ('it is impossible to require', x 0.61-0.87) falls outside it. Ford image square is frame 1 of the contact sheet (172x172 px); the woman is probably Alice Olson, the widow, but the sheet has no caption, so the alt does not name her. The hearing p77 Olson moment is grief:true and is the file's second moment. Skeptic pass (2026-11-09): every quote, short and lensText re-read letter by letter on the page images (SP35 'preceding' confirmed against the hearing reprint); all line boxes re-measured from ink. Widened boxes that clipped glyphs (hearing p125 line 2, hearing p77 both lines and lens, IG p19 line 1, Bluebird line and lens) and de-overlapped SP35 p5 lines. Faces moved: midnight now starts at the SUBJECT line and ends above the APPROVED blob (old one cut through 'Chief, DD/P/TSS'); SP119 no longer clips 'by' at the right edge or ends in the bottom redaction; SP35 now shows the whole 5 May 1955 list items 1-10 instead of downgrade stamps; Bluebird no longer cuts a line at the bottom. Film checked by frames: squad on the lot at 279-281 s, missile row from 281.5 s through 294 s; drill scatters 204-214 s, cut to the next shot between 214.5 and 215.5 s. Narration still unverified by ear. Open: hearing p125 short ends at 'impulsiveness' (phrase, not clause, end) and IG p19 short drops 'As of 1960'; no compliant cut under 100 chars keeps the meaning."
+}

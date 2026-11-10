@@ -1,0 +1,301 @@
+{
+ "topic": "nuclear",
+ "order": [
+  "nuclear-trinity-fireball",
+  "nuclear-goldsboro-revisited",
+  "nuclear-operation-ivy-film",
+  "nuclear-project-a119",
+  "nuclear-castle-bravo",
+  "nuclear-sac-target-study",
+  "nuclear-hardtack-nutmeg-film",
+  "nuclear-starfish-prime"
+ ],
+ "lead": {
+  "file": "nuclear-trinity-fireball",
+  "m": 0
+ },
+ "files": {
+  "nuclear-trinity-fireball": {
+   "moments": [
+    {
+     "kind": "image",
+     "square": [
+      0.27,
+      0.2,
+      0.73,
+      0.88
+     ],
+     "alt": "A glowing hemisphere of fire, mottled with bright spots, sits on a skirt of churning dust along the flat desert floor against a black sky.",
+     "grief": false,
+     "source": "new"
+    }
+   ]
+  },
+  "nuclear-goldsboro-revisited": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 2,
+     "quote": "One simple, dynamo-technology, low voltage switch stood between the United States and a major catastrophe!",
+     "short": "One simple, … low voltage switch stood between the United States and a major catastrophe!",
+     "lines": [
+      [
+       0.5753,
+       0.2366,
+       0.6714,
+       0.249
+      ],
+      [
+       0.1698,
+       0.2599,
+       0.8557,
+       0.2817
+      ]
+     ],
+     "lens": [
+      0.6753,
+      0.2669,
+      0.8557,
+      0.2817
+     ],
+     "lensText": "a major catastrophe!",
+     "grief": false,
+     "source": "mined"
+    },
+    {
+     "kind": "page",
+     "page": 1,
+     "quote": "Yeah. It would have been bad news - in spades.",
+     "short": "Yeah. It would have been bad news - in spades.",
+     "lines": [
+      [
+       0.582,
+       0.861,
+       0.922,
+       0.874
+      ],
+      [
+       0.582,
+       0.8758,
+       0.6686,
+       0.8882
+      ]
+     ],
+     "lens": [
+      0.7761,
+      0.8637,
+      0.8957,
+      0.874
+     ],
+     "lensText": "been bad news",
+     "grief": false,
+     "source": "new"
+    }
+   ],
+   "face": {
+    "page": 2,
+    "box": [
+     0.32,
+     0.1,
+     0.88,
+     0.6406
+    ]
+   }
+  },
+  "nuclear-operation-ivy-film": {
+   "moments": [
+    {
+     "kind": "video",
+     "t": 403,
+     "end": 413,
+     "alt": "The camera closes in on the shot cab and mast on the horizon; the frame goes white, then the fireball boils outward, filling the screen.",
+     "grief": false,
+     "source": "mined"
+    },
+    {
+     "kind": "video",
+     "t": 556,
+     "end": 566,
+     "alt": "The shot cab and its tall mast sit on the flat horizon; a white flash fills the frame, then the fireball swells into a vast glowing dome over the dark horizon line.",
+     "grief": false,
+     "source": "new"
+    }
+   ]
+  },
+  "nuclear-project-a119": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 10,
+     "quote": "Among various possibilities, the detonation of a nuclear weapon on or near the moon's surface has often been suggested.",
+     "short": "… the detonation of a nuclear weapon on or near the moon's surface has often been suggested.",
+     "lines": [
+      [
+       0.3617,
+       0.2768,
+       0.7825,
+       0.2889
+      ],
+      [
+       0.1708,
+       0.3084,
+       0.5237,
+       0.3208
+      ]
+     ],
+     "lens": [
+      0.5096,
+      0.2768,
+      0.6534,
+      0.2889
+     ],
+     "lensText": "a nuclear weapon",
+     "grief": false,
+     "source": "new"
+    },
+    {
+     "kind": "page",
+     "page": 155,
+     "quote": "If such a biological contamination of the moon occurred, it would represent an unparalleled scientific disaster, eliminating several possibly very fruitful approaches to such problems as the early history of the solar system, the chemical composition of matter in the remote past, the origin of life on earth, and the possibility of extraterrestrial life.",
+     "short": "… it would represent an unparalleled scientific disaster, …",
+     "lines": [
+      [
+       0.384,
+       0.3179,
+       0.8508,
+       0.3299
+      ]
+     ],
+     "lens": [
+      0.5488,
+      0.3179,
+      0.8508,
+      0.3292
+     ],
+     "lensText": "an unparalleled scientific disaster",
+     "grief": false,
+     "source": "new"
+    }
+   ],
+   "face": {
+    "page": 10,
+    "box": [
+     0.165,
+     0.07,
+     0.795,
+     0.7207
+    ]
+   }
+  },
+  "nuclear-castle-bravo": {
+   "moments": [
+    {
+     "kind": "image",
+     "square": [
+      0.25,
+      0.182,
+      0.75,
+      0.8321
+     ],
+     "alt": "In false pink tones, a brilliant fireball hangs under a vast flat mushroom cap, its stem rising from a sea of clouds below.",
+     "grief": false,
+     "source": "new"
+    }
+   ]
+  },
+  "nuclear-sac-target-study": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 14,
+     "quote": "The 60 MT weapon is considered essential, not only as a deterrent, but also to assure significant results even with a greatly reduced force in the event of a surprise attack by the Soviets.",
+     "short": "The 60 MT weapon is considered essential, …",
+     "lines": [
+      [
+       0.5932,
+       0.1234,
+       0.6643,
+       0.1293
+      ],
+      [
+       0.169,
+       0.1299,
+       0.2731,
+       0.1356
+      ]
+     ],
+     "lens": [
+      0.5932,
+      0.1234,
+      0.6643,
+      0.1293
+     ],
+     "lensText": "The 60 MT weapon",
+     "grief": false,
+     "source": "new"
+    },
+    {
+     "kind": "page",
+     "page": 13,
+     "quote": "the requirement to win the Air Power Battle is paramount to all other considerations. If the Air Power Battle is not won, the consequences to the friendly world will be far more disastrous than the expected effects of fall-out contamination in the peripheral areas.",
+     "short": "… the requirement to win the Air Power Battle is paramount to all other considerations.",
+     "lines": [
+      [
+       0.1678,
+       0.1794,
+       0.5423,
+       0.1851
+      ]
+     ],
+     "lens": [
+      0.3765,
+      0.1797,
+      0.4732,
+      0.1851
+     ],
+     "lensText": "paramount to all other",
+     "grief": false,
+     "source": "mined"
+    }
+   ],
+   "face": {
+    "page": 14,
+    "box": [
+     0.15,
+     0.07,
+     0.69,
+     0.54
+    ]
+   }
+  },
+  "nuclear-hardtack-nutmeg-film": {
+   "moments": [
+    {
+     "kind": "video",
+     "t": 2,
+     "end": 12,
+     "alt": "From a white beach, a flash lights the sea; the fireball rises over the horizon and rings of condensation cloud spread around it.",
+     "grief": false,
+     "source": "new"
+    }
+   ]
+  },
+  "nuclear-starfish-prime": {
+   "moments": [
+    {
+     "kind": "image",
+     "square": [
+      0.315,
+      0.4024,
+      0.695,
+      0.8659
+     ],
+     "alt": "A wide band of orange light lies across the night sky above the dark Pacific, with a white glow at its center.",
+     "grief": false,
+     "source": "mined"
+    }
+   ]
+  }
+ },
+ "notes": "Lead is the Trinity photo (image moment 0); square is the full image height (1000x1000 px of 1483x1000) so the whole dome reads in a ball. No grief moments in this topic. Goldsboro p2: the full sentence is 106 chars, so the short drops 'dynamo-technology,' between the file's own commas. Page 2 is slightly skewed; boxes follow the OCR (ocr mode) and were checked on crops. Added a second 'new' moment from p1's 'The Facts' column. A119: the mined p10 line ('Obviously, however, specific positive effects would accrue to the nation first performing such a feat as a demonstration of advanced technological capability.') has no clause end that gives a short of 100 chars or less, so the p10 moment (source new) uses the same page's 'the detonation of a nuclear weapon on or near the moon's surface has often been suggested.' A second moment on p155 is above shown=40 and needs that page hosted. SAC p13: the mined fall-out sentence ('If the Air Power Battle is not won, ... peripheral areas.') cannot be cut to 100 chars at a clause end, so the quote spans both sentences and the short is the preceding clause ('the requirement to win the Air Power Battle is paramount to all other considerations.'). The 60 MT line on p14 is ranked first. On p14 the mark after 'deterrent' looks like a comma at 4x zoom of the 200 dpi 1-bit scan (OCR read ';'); 'MT' is confirmed by p13's '60 Megaton weapon'. SAC pages are tiny landscape typescript inside a portrait frame, so the face is mostly white below the redaction box. Ivy: the cab-to-fireball sequence repeats at 556-574 s from a wider camera, where the fireball swells into a full dome over the horizon; it is moment 0, and the mined 406 s white-out is moment 1 (t=403, cab visible 403-405.5, white-out at 406). The mined claim that the 513 s aerial pass shows water where the 110 s cab and causeway stood was seen in frames (sandbars at 510-525 s, cab and causeway at 115 s) but the location match was not checked. Nutmeg: 0-1 s is white glare; 2-12 s covers the flash, the rising fireball and the condensation rings. Review pass: Goldsboro p2 line box 1 now covers only 'One simple,' (the elided 'dynamo-technology,' is no longer boxed); the short still elides one adjective mid-sentence, which is not a clause-end cut, but no 100-char cut at a clause end keeps the switch line. A119 p10 lens moved to 'a nuclear weapon'. SAC p14 short cut back to the main clause end ('The 60 MT weapon is considered essential, …'): the old cut after 'deterrent,' split 'not only ... but also' and sat on the one doubtful mark (OCR reads ';'; at native 200 dpi the mark has the same height as the comma after 'essential' with a one-pixel break, so the quote keeps ','). SAC face tightened to the text block on p14 (drops the DECLASSIFIED stamp); the typescript is still tiny at card size, and p13 is the denser page if a fuller face is wanted."
+}

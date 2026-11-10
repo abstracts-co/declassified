@@ -3,5 +3,6 @@
   "description": "Files the US government has declassified or released, by topic, in 3D: read documents page by page, watch the films, zoom into the photos and play the tapes.",
   "kind": "web",
   "entry": "index.html",
-  "poster": "preview.webp"
+  "poster": "preview.webp",
+  "previews": "https://abstracts-co.github.io/declassified-data/share.json"
 }

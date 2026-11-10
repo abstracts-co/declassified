@@ -1,0 +1,268 @@
+{
+ "topic": "deepsea",
+ "order": [
+  "deepsea-azorian-history",
+  "deepsea-matador-meeting",
+  "deepsea-thresher-inquiry",
+  "deepsea-k129-wreck-model",
+  "deepsea-k129-burial-film",
+  "deepsea-thresher-rudder",
+  "deepsea-scorpion-wreck"
+ ],
+ "lead": {
+  "file": "deepsea-azorian-history",
+  "m": 0
+ },
+ "files": {
+  "deepsea-azorian-history": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 39,
+     "quote": "“We are on our way home and heard your fog horn. What are you doing here?”",
+     "short": "“We are on our way home and heard your fog horn. What are you doing here?”",
+     "lines": [
+      [
+       0.628,
+       0.795,
+       0.839,
+       0.809
+      ],
+      [
+       0.2575,
+       0.8105,
+       0.647,
+       0.8245
+      ]
+     ],
+     "lens": [
+      0.514,
+      0.8105,
+      0.647,
+      0.8245
+     ],
+     "lensText": "you doing here?",
+     "grief": false,
+     "source": "mined"
+    },
+    {
+     "kind": "page",
+     "page": 47,
+     "quote": "Bobbing up to the surface (luckily in the well) was a brimming full Jerry-can of torpedo juice.",
+     "short": "Bobbing up to the surface (luckily in the well) was a brimming full Jerry-can of torpedo juice.",
+     "lines": [
+      [
+       0.4025,
+       0.6295,
+       0.842,
+       0.6437
+      ],
+      [
+       0.2915,
+       0.6444,
+       0.5105,
+       0.6575
+      ]
+     ],
+     "lens": [
+      0.323,
+      0.6444,
+      0.5105,
+      0.6575
+     ],
+     "lensText": "Jerry-can of torpedo juice",
+     "grief": false,
+     "source": "mined"
+    }
+   ],
+   "face": {
+    "page": 39,
+    "box": [
+     0.253,
+     0.3075,
+     0.843,
+     0.8774
+    ]
+   }
+  },
+  "deepsea-matador-meeting": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 1,
+     "quote": "There is no plausible denial story, so \"no comment\" will be taken as a confirmation.",
+     "short": "There is no plausible denial story, so \"no comment\" will be taken as a confirmation.",
+     "lines": [
+      [
+       0.4766,
+       0.3975,
+       0.5549,
+       0.4056
+      ],
+      [
+       0.0926,
+       0.4067,
+       0.5929,
+       0.4168
+      ]
+     ],
+     "lens": [
+      0.2755,
+      0.4075,
+      0.3708,
+      0.4168
+     ],
+     "lensText": "\"no comment\"",
+     "grief": false,
+     "source": "mined"
+    }
+   ],
+   "face": {
+    "page": 1,
+    "box": [
+     0.078,
+     0.043,
+     0.64,
+     0.5416
+    ]
+   }
+  },
+  "deepsea-thresher-inquiry": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 43,
+     "quote": "That as compared to the SKIPJACK, the immediately preceding class of attack submarine, THRESHER had: a. An increase in test depth from 700 feet to ▇▇▇",
+     "short": "…THRESHER had: a. An increase in test depth from 700 feet to ▇▇▇",
+     "lines": [
+      [
+       0.379,
+       0.241,
+       0.507,
+       0.2535
+      ],
+      [
+       0.2215,
+       0.2595,
+       0.716,
+       0.2765
+      ]
+     ],
+     "lens": [
+      0.5665,
+      0.2595,
+      0.716,
+      0.2765
+     ],
+     "lensText": "700 feet to ▇▇▇",
+     "grief": false,
+     "source": "new"
+    },
+    {
+     "kind": "page",
+     "page": 38,
+     "quote": "Experiencing minor difficulties. Have positive up angle. Am attempting to blow. Will keep you informed.",
+     "short": "Experiencing minor difficulties. Have positive up angle. Am attempting to blow. …",
+     "lines": [
+      [
+       0.241,
+       0.556,
+       0.8406,
+       0.5674
+      ],
+      [
+       0.1531,
+       0.569,
+       0.3358,
+       0.5792
+      ]
+     ],
+     "lens": [
+      0.241,
+      0.556,
+      0.5516,
+      0.5674
+     ],
+     "lensText": "Experiencing minor difficulties",
+     "grief": true,
+     "source": "mined"
+    }
+   ],
+   "face": {
+    "page": 43,
+    "box": [
+     0.155,
+     0.2203,
+     0.86,
+     0.733
+    ]
+   }
+  },
+  "deepsea-k129-wreck-model": {
+   "moments": [
+    {
+     "kind": "image",
+     "square": [
+      0.0808,
+      0.1212,
+      0.5392,
+      0.8082
+     ],
+     "alt": "The CIA's model of the wrecked K-129 on a bed of mock seafloor: the battered sail with a mast sticking out, and behind it a crushed, torn hull trailing loose wires.",
+     "grief": false
+    }
+   ]
+  },
+  "deepsea-k129-burial-film": {
+   "moments": [
+    {
+     "kind": "video",
+     "t": 181,
+     "end": 191,
+     "alt": "On the ship, the US flag and the Soviet Navy flag hang side by side above two rows of men in white hard hats; then the Soviet flag, a red star and hammer and sickle on white, fills the frame.",
+     "grief": true,
+     "source": "new"
+    },
+    {
+     "kind": "video",
+     "t": 812,
+     "end": 822,
+     "alt": "In the dark, the casket, draped in red, is lowered on a line to the black water; seen from above it floats, then sinks in a burst of foam.",
+     "grief": true,
+     "source": "mined"
+    }
+   ]
+  },
+  "deepsea-thresher-rudder": {
+   "moments": [
+    {
+     "kind": "image",
+     "square": [
+      0.3917,
+      0.4428,
+      0.7083,
+      0.8531
+     ],
+     "alt": "Black-and-white photo from above of Thresher's upper rudder on the seafloor: its pale top edge with a round navigation light, and painted draft numbers on its dark flank.",
+     "grief": false
+    }
+   ]
+  },
+  "deepsea-scorpion-wreck": {
+   "moments": [
+    {
+     "kind": "image",
+     "square": [
+      0.1486,
+      0.0197,
+      0.6351,
+      0.7283
+     ],
+     "alt": "In a round frame of blue light, the sediment-dusted bow section of the submarine Scorpion lies on the seafloor, with dark openings along its top.",
+     "grief": false
+    }
+   ]
+  }
+ },
+ "notes": "Lead: AZORIAN p39 moment 0, lens on 'you doing here?' (the full question is 5 words, over the 2-4 limit). Boxes on p39 follow the OCR mode (the auto text layer clipped 'and' and the closing quote); all page boxes were checked on 200 dpi crops. AZORIAN p47 ('torpedo juice', inside the boxed italic quote) is above shown=40 and needs that page hosted. Matador p1: quote and short are the whole sentence (84 chars); the typed quotes around no comment are straight double quotes. The scan's lower 40% is black background, so the face runs from 'THE WHITE HOUSE' header to 'Bill, what do you think?' and stops above the exemption block. Thresher: p38 is the listed grief page, so the mined last-message moment is grief:true and sits second. The non-grief first moment is p43 finding 46a (above shown=40, needs that page hosted): compared to SKIPJACK, THRESHER had 'An increase in test depth from 700 feet to' the redacted depth. On the page the redaction is a red 'b(1)' label, not a black bar; it is written as ▇▇▇ in quote, short and lensText, and the boxes end just after the label. The short starts at the main clause 'THRESHER had:' (after the comma) and ends where item a ends. Skeptic pass: this replaced an earlier p34 finding-1 moment ('...capable of diving to a depth ▇▇▇...') because that short had to cut before 'and with significant advances', which is not a sentence or clause end. p38 short: the full message is 103 chars, so it stops after 'Am attempting to blow.' and the boxes start after the opening quote mark. Thresher face is on p43 (not the grief page), 70.5% of the page width because the typewriter lines are wide: findings 46-47, the flooding table with its redacted depth row, and the start of 48, ending between lines. Skeptic pass also moved the AZORIAN p39 face (its top cut through a line) and the Matador face (its bottom cut through the exemption block; it now ends above 'CLASSIFIED BY' and is 56% wide). Alternative non-grief Thresher lines considered on p39: 'Are you in control?' (Skylark's query, which felt too close to the grief moment) and the CO's reply 'It is too early.' about sending the loss report. Burial film: shot boundaries by scene detection on video.mp4: the two-flags wide shot runs 178.6-189.6 s, then the Soviet Navy flag close-up; non-grief moment t 181-191 placed first so the film has a moment that may autoplay or be shared. Grief moment: casket swings out from 796 s, touches the water about 811-815 s, overhead cut at 815.2 s shows it floating, it sinks at about 820 s and only foam is left from 823 s; t 812-822. No audio in this topic. Images: squares checked as circles at 240 and 120 px. Scorpion: 360x360 px of the 740x508 scan around the hull top with its dark openings (the bow tip is at the top edge of the photo, so it is cut slightly). K-129 model: 1100x1100 px of 2400x1601 around the sail and mast with the start of the crushed hull. Thresher rudder: 760x760 px of 2400x1852 around the rudder tip, light and draft numbers. Order: AZORIAN, Matador, Thresher inquiry, K-129 model, burial film, Thresher rudder, Scorpion."
+}

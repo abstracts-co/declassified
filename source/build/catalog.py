@@ -1,4 +1,4 @@
-import json, os, shutil, sys
+import datetime, json, os, re, shutil, subprocess, sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from ingest import items, ROOT, WORK, DATA
@@ -28,8 +28,55 @@ def walk(nodes, fn):
         walk(n.get('nodes'), fn)
 
 
+def page_texts(meta, hosted):
+    pdf = meta.get('index_pdf')
+    if not pdf or not os.path.isfile(pdf):
+        return []
+    txt = subprocess.run(['nice', '-n', '19', 'pdftotext', '-layout', pdf, '-'], capture_output=True, text=True).stdout.split('\f')
+    out = []
+    for p in hosted:
+        if p - 1 < len(txt):
+            t = re.sub(r'[ \t]+', ' ', txt[p - 1])
+            t = '\n'.join(l.strip() for l in t.splitlines() if len(l.strip()) > 2)
+            if t:
+                out.append([p, t[:6000]])
+    return out
+
+
+def daily(cat_items, topics):
+    pins, pool = {}, {}
+    for t in topics:
+        lead = t.get('lead')
+        lm = cat_items[lead[0]]['mo'][lead[1]] if lead else None
+        paper = bool(lm and lm['k'] == 'p')
+        refs = []
+        for i in t['items']:
+            it = cat_items[i]
+            for k, m in enumerate(it.get('mo') or []):
+                if m.get('g') or not m.get('o'):
+                    continue
+                d = it.get('date') or ''
+                if re.fullmatch(r'\d{4}-\d{2}-\d{2}', d) and d[5:] not in pins:
+                    pins[d[5:]] = [i, k]
+                if (m['k'] == 'p') == paper:
+                    refs.append([i, k])
+        if lead and lead in refs:
+            refs.remove(lead)
+            refs.insert(0, lead)
+        pool[t['id']] = refs
+    rot = []
+    while any(pool.values()):
+        for t in topics:
+            if pool[t['id']]:
+                rot.append(pool[t['id']].pop(0))
+    return {'start': '2026-11-10', 'pins': pins, 'rot': rot}
+
+
 def main():
     topics = json.load(open(f'{ROOT}/build/topics.json'))
+    mom_f = f'{WORK}/moments.json'
+    MOM = json.load(open(mom_f)) if os.path.isfile(mom_f) else {'items': {}, 'topics': {}}
+    pages = []
     by_topic = {t['id']: [] for t in topics}
     cat_items, nodes, corpus = {}, [], {}
     for it in items():
@@ -53,6 +100,28 @@ def main():
             e['toc'] = slim(tree, 0, [0])
             e['doc'] = it['id']
             walk(tree, lambda n: nodes.append({'d': it['id'], 't': n.get('title', '').strip(), 's': (n.get('summary') or '')[:180], 'p': n.get('start_index') or 1}))
+        mr = MOM['items'].get(it['id'])
+        if mr:
+            e['mo'] = mr['mo']
+            if mr.get('face'):
+                e['face'], e['fa'] = d + mr['face'], mr['fa']
+            if mr.get('hi'):
+                e['hi'] = mr['hi']
+            if mr.get('extra'):
+                e['extra'] = mr['extra']
+            if mr.get('wave'):
+                e['wave'] = mr['wave']
+            v = next((m for m in mr['mo'] if m['k'] == 'v' and not m.get('g')), None)
+            if v:
+                e['loop'], e['poster'], e['lt'] = d + v['c'], d + v['po'], v['t']
+            elif it['type'] == 'video':
+                e['loop'] = None
+            for k, val in (mr.get('over') or {}).items():
+                e[k] = d + val if k in ('media', 'thumb') else val
+        if it['type'] == 'document':
+            hosted = list(range(1, (m.get('shown') or 0) + 1)) + sorted(int(p) for p in (e.get('extra') or {}))
+            for p, t in page_texts(m, hosted):
+                pages.append([it['id'], p, t])
         cat_items[it['id']] = {k: v for k, v in e.items() if v is not None}
         by_topic[it['topic']].append(it['id'])
         corpus.setdefault(it['topic'], []).append({
@@ -63,9 +132,14 @@ def main():
     order = {i: k for k, i in enumerate(json.load(open(f'{ROOT}/build/order.json')))} if os.path.isfile(f'{ROOT}/build/order.json') else {}
     out_topics = []
     for t in topics:
-        ids = sorted(by_topic[t['id']], key=lambda i: order.get(i, 999))
+        mt = MOM['topics'].get(t['id']) or {}
+        mo_order = {i: k for k, i in enumerate(mt.get('order') or [])}
+        ids = sorted(by_topic[t['id']], key=lambda i: ((cat_items[i].get('date') or '9999').ljust(10, '0'), mo_order.get(i, 999), order.get(i, 999)))
         if ids:
             entry = {**t, 'country': 'us', 'items': ids}
+            if mt.get('lead', {}).get('f') in cat_items:
+                entry['lead'] = [mt['lead']['f'], mt['lead']['m']]
+            entry['country'] = 'us'
             spec_f = f"{ROOT}/build/orbs/{t['id']}.json"
             if os.path.isfile(f"{DATA}/us/{t['id']}/orb.webp") and os.path.isfile(spec_f):
                 spec = json.load(open(spec_f))
@@ -74,9 +148,9 @@ def main():
                     entry['subject']['video'] = f"us/{t['id']}/orb.mp4"
             out_topics.append(entry)
     os.makedirs(DATA, exist_ok=True)
-    json.dump({'v': 1, 'countries': [{'id': 'us', 'name': 'United States'}], 'topics': out_topics, 'items': cat_items},
+    json.dump({'v': 2, 'countries': [{'id': 'us', 'name': 'United States'}], 'topics': out_topics, 'items': cat_items, 'daily': daily(cat_items, out_topics)},
               open(f'{DATA}/catalog.json', 'w'), ensure_ascii=False, separators=(',', ':'))
-    json.dump({'nodes': nodes}, open(f'{DATA}/search.json', 'w'), ensure_ascii=False, separators=(',', ':'))
+    json.dump({'pages': pages}, open(f'{DATA}/search.json', 'w'), ensure_ascii=False, separators=(',', ':'))
     pi = f'{DATA}/pageindex'
     shutil.rmtree(pi, ignore_errors=True)
     if os.path.isdir(f'{STORE}/docs'):

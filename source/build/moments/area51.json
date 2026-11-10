@@ -1,0 +1,144 @@
+{
+ "topic": "area51",
+ "order": [
+  "area51-sr71-film",
+  "area51-u2-oxcart-history",
+  "area51-skylab-memo",
+  "area51-groom-lake-map",
+  "area51-u2-nasa-cover",
+  "area51-have-doughnut",
+  "area51-a12-oxcart",
+  "area51-d21-drone"
+ ],
+ "lead": {"file": "area51-sr71-film", "m": 0},
+ "files": {
+  "area51-sr71-film": {
+   "moments": [
+    {
+     "kind": "video",
+     "t": 44,
+     "end": 48,
+     "square": [0.2448, 0.1531, 0.7031, 0.8406],
+     "alt": "Close-up of the cockpit counters: ALTITUDE-FT reads about 81,400 while the MACH drum rolls between 2.99 and 3.00; then the curved blue edge of the Earth under a black sky.",
+     "grief": false,
+     "source": "mined"
+    }
+   ]
+  },
+  "area51-u2-oxcart-history": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 35,
+     "quote": "U-2 and later OXCART flights accounted for more than one-half of all UFO reports during the late 1950s and most of the 1960s.",
+     "short": "U-2 and later OXCART flights accounted for more than one-half of all UFO reports…",
+     "lines": [[0.5796, 0.3694, 0.6708, 0.3802], [0.1853, 0.3848, 0.6694, 0.3956]],
+     "lens": [0.5610, 0.3848, 0.6694, 0.3956],
+     "lensText": "all UFO reports",
+     "grief": false,
+     "source": "mined"
+    },
+    {
+     "kind": "page",
+     "page": 19,
+     "quote": "To make the new facility in the middle of nowhere sound more attractive to his workers, Kelly Johnson called it the Paradise Ranch, which was soon shortened to the Ranch.",
+     "short": "…Kelly Johnson called it the Paradise Ranch, which was soon shortened to the Ranch.",
+     "lines": [[0.2878, 0.6233, 0.6631, 0.6341], [0.1798, 0.6394, 0.3845, 0.6502]],
+     "lens": [0.4498, 0.6233, 0.5810, 0.6341],
+     "lensText": "the Paradise Ranch",
+     "grief": false,
+     "source": "mined"
+    }
+   ],
+   "face": {"page": 35, "box": [0.15, 0.18, 0.70, 0.7109]}
+  },
+  "area51-skylab-memo": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 1,
+     "quote": "The issue arises from the fact that the recent SKYLAB mission inadvertently photographed ▇▇▇ There were specific instructions not to do this. ▇▇▇ was the only location which had such an instruction.",
+     "short": "…SKYLAB mission inadvertently photographed ▇▇▇ There were specific instructions not to do this.",
+     "lines": [[0.7270, 0.3860, 0.8800, 0.4005], [0.1820, 0.4000, 0.8870, 0.4170], [0.1820, 0.4170, 0.6220, 0.4325]],
+     "lens": [0.1825, 0.3995, 0.4420, 0.4160],
+     "lensText": "inadvertently photographed",
+     "grief": false,
+     "source": "mined"
+    },
+    {
+     "kind": "page",
+     "page": 3,
+     "quote": "1. USSR has it from own sats 2. What really does it reveal? 3. If exposed, don't we just say classified USAF work is done there?",
+     "short": "1. USSR has it from own sats 2. What really does it reveal?",
+     "lines": [[0.248, 0.461, 0.750, 0.506], [0.250, 0.488, 0.757, 0.529]],
+     "lens": [0.381, 0.489, 0.757, 0.525],
+     "lensText": "really does it reveal?",
+     "grief": false,
+     "source": "new"
+    }
+   ],
+   "face": {"page": 1, "box": [0.17, 0.155, 0.79, 0.7535]}
+  },
+  "area51-groom-lake-map": {
+   "moments": [
+    {
+     "kind": "image",
+     "square": [0.68, 0.2018, 0.805, 0.2985],
+     "alt": "The map's inset: a small box labelled 'Area 51' around 'Groom Lake', on the northeast corner of the AEC Nevada Test Site.",
+     "grief": false,
+     "source": "new"
+    }
+   ]
+  },
+  "area51-u2-nasa-cover": {
+   "moments": [
+    {
+     "kind": "image",
+     "square": [0.4375, 0.3272, 0.5125, 0.4253],
+     "alt": "The tail of a dark U-2 parked in front of a hangar, painted 'NASA 55741'.",
+     "grief": false,
+     "source": "mined"
+    }
+   ]
+  },
+  "area51-have-doughnut": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 37,
+     "quote": "The possibility that the MIG-21 would permanently go out of commission at any time, and that each test flight would be the last, dictated that the following priority be established for the required data:",
+     "short": "The possibility … that each test flight would be the last…",
+     "lines": [[0.2540, 0.6695, 0.4085, 0.6828], [0.4500, 0.6843, 0.8510, 0.6982]],
+     "lens": [0.6715, 0.6843, 0.8510, 0.6978],
+     "lensText": "would be the last",
+     "grief": false,
+     "source": "new"
+    }
+   ],
+   "face": {"page": 37, "box": [0.252, 0.39, 0.852, 0.9688]}
+  },
+  "area51-a12-oxcart": {
+   "moments": [
+    {
+     "kind": "image",
+     "square": [0.1667, 0.073, 0.7917, 0.9152],
+     "alt": "The black A-12 OXCART, tail number 06932, banking above white clouds, 'U.S. AIR FORCE' on its fuselage.",
+     "grief": false,
+     "source": "new"
+    }
+   ]
+  },
+  "area51-d21-drone": {
+   "moments": [
+    {
+     "kind": "image",
+     "square": [0.0125, 0.25, 0.4875, 0.8438],
+     "alt": "The rear of the M-21 mothership, tail number 06940, in flight with the slim, pointed D-21 drone mounted on its back.",
+     "grief": false,
+     "source": "new"
+    }
+   ]
+  }
+ },
+ "notes": "SR-71 film: shot boundaries measured by scene detection on both the source mpeg and the hosted video.mp4 (same times): counters close-up 43.71-46.38 s, curved-Earth shot 46.38-48.08 s (the mined text said 46.6 s; the real cut is 46.38 s). Moment t=44/end=48 covers the counters plus the Earth shot. Altitude drum reads 814?0 with the hundreds digit mid-roll (about 81,400); MACH rolls 2.99/3.00. Lead square is 440x440 px of the 960x640 frame and stays inside the active picture except a thin strip of the top letterbox; checked at 240 and 120 px in a circle. U-2 history p35: the full sentence is 125 chars, it has no internal clause break, so short cuts before 'during the late 1950s and most of the 1960s' (that time scope is lost in the short but kept in quote and visible on the face). U-2 history p19: footnote marker 24 after 'Ranch.' is excluded from the box. Skylab p1: short drops 'the recent' (the clause from 'the recent SKYLAB mission...' would be 106 chars); the page has no period visible after 'photographed', the redaction bar swallows it; the bar is drawn slightly low and overlaps the top of the next line, so line boxes 2 and 3 overlap a little. Skylab p3 (new, extra moment): Colby's handwritten note on the DCI routing slip, transcribed by eye from the 200 dpi render; handwriting boxes drawn by hand around slanted lines; 'don't' and the comma after 'exposed' are my reading of the handwriting. Faces: Skylab p1 face is 62% wide so 'inadvertently photographed' and the full 'There were specific instructions not to do this.' fit; 'SKYLAB mission' at the right edge is partly cut. HAVE DOUGHNUT: no mined moment; new moment from p37 (TAC supplement, Safety/Mission Planning). Its short uses an internal cut that drops the first coordinated that-clause ('that the MIG-21 would permanently go out of commission at any time, and'); the contiguous version is 108 chars. OCR mode gave the right boxes on p37 (the auto text layer splits words). Face for p37 is shifted right to keep both highlighted lines whole, so the left margin of wrapped lines is cut. Alternatives considered for HAVE DOUGHNUT: p32 'Technical publications and intelligence reports could never substitute for the knowledge gained through this test.' (114 chars) and p40 'One hundred and two total sorties were accumulated on the MIG-21 by all participating agencies.' Images: squares checked in a circle at 120 px; map square is 150x150 px of the 1200x1551 scan around the inset's 'Area 51 / Groom Lake' box. No audio and no grief items in this topic. SKEPTIC PASS (2026-11-09): every quote, short and lensText re-read against 200 dpi renders; all verbatim. SR-71 shots re-checked by frames on both the source and the hosted video.mp4 (counters 43.8-46.3 s, Earth 46.5-48.0 s, instrument panel from 48.2 s), so t=44/end=48 stands. Fixes: Skylab p1 line box 2 top moved from 0.396 to 0.400 (it covered the bottom of 'SKYLAB mission' on the line above) and boxes 2/3 now meet at 0.417; lens now covers the descenders of 'inadvertently photographed'. Skylab p3 handwriting boxes made taller: line 1 top 0.468 to 0.461 (it clipped the 't' of 'sats'), line 2 top 0.495 to 0.488 (it clipped the 'l' and '?' of 'reveal?'), and the lens now holds all of 'really does it reveal?'. NASA cover square made smaller (260 px to 180 px) so 'NASA 55741' can be read at 120 px. Still open: U-2 history p35 short ends mid-clause (before 'during the late 1950s and most of the 1960s'), so it loses the time scope; the full sentence is 125 chars and has no clause break. Skylab p1 short starts mid-noun-phrase ('the recent' dropped); the version that starts at a clause would be 106 chars."
+}

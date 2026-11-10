@@ -1,0 +1,342 @@
+{
+ "topic": "fbi",
+ "order": [
+  "fbi-elvis-nixon-photo",
+  "fbi-elvis",
+  "fbi-steve-jobs",
+  "fbi-hitler",
+  "fbi-lennon",
+  "fbi-hemingway",
+  "fbi-einstein",
+  "fbi-monroe"
+ ],
+ "lead": {
+  "file": "fbi-elvis-nixon-photo",
+  "m": 0
+ },
+ "files": {
+  "fbi-elvis-nixon-photo": {
+   "moments": [
+    {
+     "kind": "image",
+     "square": [
+      0.2667,
+      0.2194,
+      0.6833,
+      0.8288
+     ],
+     "alt": "President Richard Nixon and Elvis Presley shake hands in the Oval Office in front of flags; Elvis wears a dark high-collared jacket over an open white collar and a large ornate belt buckle.",
+     "grief": false,
+     "source": "new"
+    }
+   ]
+  },
+  "fbi-elvis": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 6,
+     "quote": "Presley's sincerity and good intentions notwithstanding he is certainly not the type of individual whom the Director would wish to meet.",
+     "short": "…he is certainly not the type of individual whom the Director would wish to meet.",
+     "lines": [
+      [
+       0.7897,
+       0.512,
+       0.9346,
+       0.5284
+      ],
+      [
+       0.09,
+       0.5284,
+       0.7274,
+       0.5441
+      ]
+     ],
+     "lens": [
+      0.09,
+      0.5284,
+      0.209,
+      0.5441
+     ],
+     "lensText": "not the type",
+     "grief": false,
+     "source": "mined"
+    }
+   ],
+   "face": {
+    "page": 6,
+    "box": [
+     0.085,
+     0.165,
+     0.73,
+     0.7897
+    ]
+   }
+  },
+  "fbi-steve-jobs": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 38,
+     "quote": "Several individuals questioned Mr. Jobs' honesty stating that Mr. Jobs will twist the truth and distort reality in order to achieve his goals.",
+     "short": "…stating that Mr. Jobs will twist the truth and distort reality in order to achieve his goals.",
+     "lines": [
+      [
+       0.1655,
+       0.3242,
+       0.8863,
+       0.3392
+      ],
+      [
+       0.1651,
+       0.3386,
+       0.4608,
+       0.352
+      ]
+     ],
+     "lens": [
+      0.6875,
+      0.3242,
+      0.856,
+      0.3392
+     ],
+     "lensText": "distort reality",
+     "grief": false,
+     "source": "mined"
+    }
+   ],
+   "face": {
+    "page": 38,
+    "box": [
+     0.158,
+     0.145,
+     0.892,
+     0.8548
+    ]
+   }
+  },
+  "fbi-hitler": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 123,
+     "quote": "On this train ▇▇▇ observed a man in Seat 40, Car 10, whom he believed was ADOLF HITLER.",
+     "short": "On this train ▇▇▇ observed a man in Seat 40, Car 10, whom he believed was ADOLF HITLER.",
+     "lines": [
+      [
+       0.83,
+       0.2715,
+       0.8982,
+       0.2835
+      ],
+      [
+       0.168,
+       0.2855,
+       0.899,
+       0.3005
+      ],
+      [
+       0.168,
+       0.3,
+       0.238,
+       0.3137
+      ]
+     ],
+     "lens": [
+      0.4779,
+      0.287,
+      0.628,
+      0.3001
+     ],
+     "lensText": "Seat 40, Car 10",
+     "grief": false,
+     "source": "mined"
+    }
+   ],
+   "face": {
+    "page": 123,
+    "box": [
+     0.162,
+     0.02,
+     0.902,
+     0.7369
+    ]
+   }
+  },
+  "fbi-lennon": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 55,
+     "quote": "This information should be emphasized to local Law Enforcement Agencies covering MIREP, with regards to subject being arrested if at all possible on possession of narcotics charge.",
+     "short": "…with regards to subject being arrested if at all possible on possession of narcotics charge.",
+     "lines": [
+      [
+       0.5259,
+       0.566,
+       0.8663,
+       0.5821
+      ],
+      [
+       0.2318,
+       0.5797,
+       0.8643,
+       0.5961
+      ],
+      [
+       0.232,
+       0.5945,
+       0.312,
+       0.6105
+      ]
+     ],
+     "lens": [
+      0.5969,
+      0.5806,
+      0.8643,
+      0.5961
+     ],
+     "lensText": "possession of narcotics",
+     "grief": false,
+     "source": "mined"
+    }
+   ],
+   "face": {
+    "page": 55,
+    "box": [
+     0.235,
+     0.255,
+     0.865,
+     0.8645
+    ]
+   }
+  },
+  "fbi-hemingway": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 110,
+     "quote": "Mr. HEMINGWAY is now worried about his registering under an assumed name, and is concerned about an FBI investigation.",
+     "short": "Mr. HEMINGWAY is now worried about his registering under an assumed name…",
+     "lines": [
+      [
+       0.5467,
+       0.4996,
+       0.7734,
+       0.5145
+      ],
+      [
+       0.142,
+       0.5153,
+       0.7231,
+       0.5285
+      ]
+     ],
+     "lens": [
+      0.5476,
+      0.5153,
+      0.718,
+      0.5285
+     ],
+     "lensText": "an assumed name",
+     "grief": false,
+     "source": "mined"
+    }
+   ],
+   "face": {
+    "page": 110,
+    "box": [
+     0.125,
+     0.249,
+     0.81,
+     0.9091
+    ]
+   }
+  },
+  "fbi-einstein": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 18,
+     "quote": "ALBERT EINSTEIN, as previously shown, is affiliated with more anarchist and communist groups than Joseph Stalin himself---as Einstein is affiliated with the Communist International and the Soviet Union through its affiliated subsidiary organizations, and in addition, is affiliated with certain anarchist and communist groups in the War Resistors International that are not directly open to Stalin himself.",
+     "short": "ALBERT EINSTEIN … is affiliated with more anarchist and communist groups than Joseph Stalin himself…",
+     "lines": [
+      [
+       0.323,
+       0.201,
+       0.9,
+       0.2108
+      ],
+      [
+       0.3067,
+       0.213,
+       0.846,
+       0.2242
+      ]
+     ],
+     "lens": [
+      0.603,
+      0.213,
+      0.846,
+      0.2242
+     ],
+     "lensText": "than Joseph Stalin himself",
+     "grief": false,
+     "source": "new"
+    }
+   ],
+   "face": {
+    "page": 18,
+    "box": [
+     0.29,
+     0.05,
+     0.91,
+     0.6495
+    ]
+   }
+  },
+  "fbi-monroe": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 14,
+     "quote": "This source stated that MARILYN MONROE Productions was filled with Communists.",
+     "short": "This source stated that MARILYN MONROE Productions was filled with Communists.",
+     "lines": [
+      [
+       0.4369,
+       0.7027,
+       0.866,
+       0.7179
+      ],
+      [
+       0.1894,
+       0.718,
+       0.626,
+       0.7332
+      ]
+     ],
+     "lens": [
+      0.3702,
+      0.718,
+      0.618,
+      0.7332
+     ],
+     "lensText": "filled with Communists",
+     "grief": false,
+     "source": "new"
+    }
+   ],
+   "face": {
+    "page": 14,
+    "box": [
+     0.18,
+     0.295,
+     0.875,
+     0.9671
+    ]
+   }
+  }
+ },
+ "notes": "No video or audio in this topic, and no grief moments. Lead: the Elvis-Nixon photo, image moment 0; square is 1000x1000 px of the 2400x1641 photo (both faces, the handshake and Elvis's belt buckle), checked as a ball at 240 and 120 px. Moments on pages above 40 that need hosting: fbi-lennon p55, fbi-hemingway p110, fbi-hitler p123. The text layers of fbi-elvis, fbi-einstein and fbi-lennon are garbage; their boxes come from fresh OCR (ocr mode) and were corrected by hand on 200 dpi crops. fbi-elvis p6: the 137-char sentence is cut to its main clause; the short drops the opening absolute phrase 'Presley's sincerity and good intentions notwithstanding'. The 'n' of 'not' is overstruck on the page and reads like 'hot'. fbi-steve-jobs p38: the short opens at 'stating that' and drops 'Several individuals questioned Mr. Jobs' honesty'; 'stating' keeps the attribution to the people interviewed. fbi-hitler p123: a redaction bar sits between 'train' and 'observed' and clips the 'o'; the typeface makes 'Car 10' look like 'Car 1C' and HITLER has a damaged E. fbi-lennon p55: the mined quote began mid-sentence; quote widened to the full sentence from 'This information' (hyphenated 'in-/formation' across a line break on the page, joined here). The short opens after the file's comma at 'with regards to'. fbi-hemingway p110: the full sentence is 118 chars, so the short ends at the file's own comma after 'name'. An earlier short, 'Mr. HEMINGWAY is now worried … and is concerned about an FBI investigation.', cut inside the clause (between 'worried' and its complement 'about his registering...') and was replaced. The FBI clause stays in the quote and on the face. If a mid-clause elision is acceptable, that earlier short had lines [[0.5467,0.4996,0.7734,0.5145],[0.142,0.5153,0.8041,0.5285],[0.142,0.529,0.5543,0.543]] and lens 'an FBI investigation' [0.3226,0.529,0.551,0.543]. The quote starts after '▇▇▇ stated that'. The same airtel says he was seriously ill and that doctors were considering electro-shock therapy (January 1961, months before his death); that is not on the grief list and is not used. fbi-einstein p18 (new): the line comes from the 1932 Woman Patriot Corporation memorandum filed in the FBI file, not from an FBI finding. The short drops the parenthetical 'as previously shown,' with its commas and cuts at the file's own '---'. 'Resistors' is sic. The better-known p14 line 'Not even Stalin himself is affiliated with so many anarcho-communist international groups ... as ALBERT EINSTEIN.' cannot be cut to 100 chars at clause ends, so it is not used. fbi-monroe p14 (new): one full sentence, from an anonymous caller relayed by a reporter. The next paragraph says the information is second or third hand. A pen stroke runs between MARILYN and MONROE, and the C of 'Communists' is faint. Alternative: p31 'Gossip among the ACGM had it that a mutual infatuation arose between MONROE and FIELD, threatening FIELD's marriage.' Faces: Jobs (0.73), Hitler (0.74), Monroe (0.70), Hemingway (0.69), Lennon (0.63), Einstein and Elvis (0.62-0.65) of the page width. That is wider than the 45-60% guide, so the moment's printed lines stay whole. The Elvis face clips the right end of its paragraph (incl. the first line 'he is certainly'); it sits at y 0.165-0.79 so it shows the 'gyrations' paragraph and 'it will not be possible for the Director to see them.' rather than the signature block. Every face is portrait at 1.25x its width in page pixels. Order: the photo lead, then Elvis, Jobs, Hitler, Lennon, Hemingway, Einstein, Monroe."
+}

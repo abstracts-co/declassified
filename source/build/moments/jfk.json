@@ -1,0 +1,223 @@
+{
+ "topic": "jfk",
+ "order": [
+  "jfk-ce-399-bullet",
+  "jfk-countering-criticism",
+  "jfk-kgb-lbj-memo",
+  "jfk-lbj-oath-photo",
+  "jfk-schlesinger-cia-memo",
+  "jfk-mystery-man",
+  "jfk-air-force-one-tape",
+  "jfk-funeral-film"
+ ],
+ "lead": {
+  "file": "jfk-ce-399-bullet",
+  "m": 0
+ },
+ "files": {
+  "jfk-ce-399-bullet": {
+   "moments": [
+    {
+     "kind": "image",
+     "square": [
+      0.2028,
+      0.1071,
+      0.8528,
+      0.7541
+     ],
+     "alt": "Commission Exhibit 399, a nearly whole copper-coloured bullet, lying on black under a yellow ruler, above a National Archives label reading CE 399 and FBI C1.",
+     "grief": false
+    }
+   ]
+  },
+  "jfk-countering-criticism": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 1,
+     "quote": "The aim of this dispatch is to provide material for countering and discrediting the claims of the conspiracy theorists, so as to inhibit the circulation of such claims in other countries.",
+     "short": "…to provide material for countering and discrediting the claims of the conspiracy theorists…",
+     "lines": [
+      [
+       0.271,
+       0.563,
+       0.885,
+       0.585
+      ],
+      [
+       0.1,
+       0.572,
+       0.378,
+       0.589
+      ]
+     ],
+     "lens": [
+      0.5089,
+      0.5686,
+      0.7773,
+      0.5821
+     ],
+     "lensText": "countering and discrediting",
+     "grief": false,
+     "source": "mined"
+    }
+   ],
+   "face": {
+    "page": 1,
+    "box": [
+     0.27,
+     0.255,
+     0.885,
+     0.729
+    ]
+   }
+  },
+  "jfk-kgb-lbj-memo": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 5,
+     "quote": "Our source added that in the instructions from Moscow, it was indicated that \"now\" the KGB was in possession of data purporting to indicate President Johnson was responsible for the assassination of the late President John F. Kennedy.",
+     "short": "…\"now\" the KGB was in possession of data purporting to indicate President Johnson was responsible…",
+     "lines": [
+      [
+       0.342,
+       0.476,
+       0.818,
+       0.4905
+      ],
+      [
+       0.112,
+       0.4925,
+       0.791,
+       0.506
+      ]
+     ],
+     "lens": [
+      0.389,
+      0.4925,
+      0.791,
+      0.506
+     ],
+     "lensText": "President Johnson was responsible",
+     "grief": false,
+     "source": "mined"
+    }
+   ],
+   "face": {
+    "page": 5,
+    "box": [
+     0.22,
+     0.2,
+     0.82,
+     0.781
+    ]
+   }
+  },
+  "jfk-lbj-oath-photo": {
+   "moments": [
+    {
+     "kind": "image",
+     "square": [
+      0.4167,
+      0.2491,
+      0.8833,
+      0.7563
+     ],
+     "alt": "Lyndon Johnson, right hand raised, takes the oath in the cabin of Air Force One, with Jacqueline Kennedy standing beside him.",
+     "grief": false
+    }
+   ]
+  },
+  "jfk-schlesinger-cia-memo": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 9,
+     "quote": "On the day of President Kennedy's Inauguration 47 percent of the political officers serving in United States Embassies were CAS.",
+     "short": "…47 percent of the political officers serving in United States Embassies were CAS.",
+     "lines": [
+      [
+       0.826,
+       0.518,
+       0.93,
+       0.535
+      ],
+      [
+       0.196,
+       0.536,
+       0.908,
+       0.553
+      ]
+     ],
+     "lens": [
+      0.826,
+      0.518,
+      0.93,
+      0.535
+     ],
+     "lensText": "47 percent",
+     "grief": false,
+     "source": "mined"
+    }
+   ],
+   "face": {
+    "page": 9,
+    "box": [
+     0.34,
+     0.235,
+     0.94,
+     0.804
+    ]
+   }
+  },
+  "jfk-mystery-man": {
+   "moments": [
+    {
+     "kind": "image",
+     "square": [
+      0.3021,
+      0.0079,
+      0.7115,
+      0.3391
+     ],
+     "alt": "Head and shoulders of an unidentified heavyset man with thinning hair in a dark buttoned shirt, glancing aside; the cut-out print is labelled Comm. Exh. 237.",
+     "grief": false
+    }
+   ]
+  },
+  "jfk-air-force-one-tape": {
+   "moments": [
+    {
+     "kind": "audio",
+     "t": 1455,
+     "end": 1469,
+     "alt": "Over the radio, the Situation Room tells the Cabinet's plane of a report quoting Mr. Kilduff in Dallas that the President is dead, that he died about 35 minutes ago.",
+     "grief": true,
+     "source": "mined"
+    }
+   ]
+  },
+  "jfk-funeral-film": {
+   "moments": [
+    {
+     "kind": "video",
+     "t": 89,
+     "end": 95,
+     "alt": "Close-up of a soldier in a peaked cap holding a white-gloved salute against the sky, then onlookers with cameras along the route.",
+     "grief": false,
+     "source": "new"
+    },
+    {
+     "kind": "video",
+     "t": 375,
+     "end": 385,
+     "alt": "Filmed from above, a team of white horses with riders draws the caisson and its flag-draped casket across a line-painted street.",
+     "grief": true,
+     "source": "mined"
+    }
+   ]
+  }
+ },
+ "notes": "Lead: CE 399 image moment (m 0); square centred on the bullet with the ruler above and the CE 399 / FBI C1 label below, checked as a 120 px ball. Shorts: the mined countering-criticism and KGB sentences cannot reach 100 chars at a clause end, so both shorts open (and the KGB one also closes) mid-clause with an ellipsis; the Schlesinger short opens mid-sentence and ends at the sentence end. KGB memo: the page sentence starts 'Our source added that in the instructions from Moscow, it was indicated that \"now\"...'; quote widened to the full sentence (straight typewriter quotes around now). Schlesinger p.9 is a degraded copy: 'On' prints like 'Cn' and the end of 'percent' is broken; read from context and the image. 'CAS' is the page's own term for CIA personnel. Countering-criticism p.1 is skewed, so the line boxes of neighbouring lines overlap slightly; all boxes checked on 200 dpi crops. Air Force One tape: second 1463 kept from the mined record (24:23); t 1455, end 1469; unverified by ear (the line may run a second or two past 1469). Grief: tape 1463 s and funeral film 375-385 s. Funeral film: overhead caisson shot runs about 374-389 s (cut at 373/374), so t 375; I added one non-grief moment (89-95 s, salute close-up 89-93 s then crowd) and listed it first so the film has a moment that may autoplay or be shared; drop it if only mined moments are wanted. Optional, not added: the signature notes say a voice at 32:54 (1974 s) mentions the swearing in at the plane; a non-grief tape moment could be cut there once checked by ear. Faces: portrait boxes (w 0.6 page width) centred on each moment; on countering-criticism and KGB the left start of the second line falls outside the face. Skeptic pass (2026-11-09): KGB p.5 line 1 box widened to x1 0.818 (it clipped the last 'a' of 'data'), line 2 and lens tightened to the OCR word boxes ('responsible' ends 0.790). Countering-criticism face widened to 0.27-0.885 (0.615 of page width) so 'to provide' and 'claims' are both inside, and moved up to 0.255-0.729 to show less of the release stamps. Schlesinger face moved to x 0.34-0.94 (the old right edge clipped 'percent') and up to 0.235-0.804 (less footer speckle). Oath square moved up 25 px so Johnson's head is not clipped by the ball. Funeral m0 alt: only the saluting hand is gloved in frame. Checked: funeral salute shot runs 88.4-93.4 s (crowd before and after), caisson overhead 373.7-388.9 s. Tape: the UVA PRDE transcript gives the relay as one transmission ('This is Situation Room. Relay following to WAYSIDE: We have report quoting Mr. Kilduff in Dallas that the President is dead, that he died about 35 minutes ago. [Pause.] Do you have that? Over.'); the loudness profile shows a transmission bounded by pauses at 1454.8-1455.3 and 1469.0-1469.3, which fits 1455-1469, but still not checked by ear. The tape's only moment is grief, so this file has no non-grief default; a non-grief tape moment still needs a listen. Shorts: the KGB short ends mid-clause ('was responsible…') and the Schlesinger short drops the opening adverbial; no ≤100-char cut at clause ends keeps 'purporting' (dropping it would read as an FBI assertion), so both kept."
+}

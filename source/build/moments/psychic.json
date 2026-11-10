@@ -1,0 +1,342 @@
+{
+ "topic": "psychic",
+ "order": [
+  "psychic-mars-1984",
+  "psychic-kress-review",
+  "psychic-dozier-padua",
+  "psychic-gateway-process",
+  "psychic-crv-manual",
+  "psychic-uri-geller-sri",
+  "psychic-price-crane-drawing",
+  "psychic-air-evaluation"
+ ],
+ "lead": {
+  "file": "psychic-mars-1984",
+  "m": 0
+ },
+ "files": {
+  "psychic-mars-1984": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 8,
+     "quote": "They're ancient people. They're ah..they're dying, it's past their time or age.",
+     "short": "They're ancient people. They're ah..they're dying, it's past their time or age.",
+     "lines": [
+      [
+       0.1954,
+       0.281,
+       0.8097,
+       0.2957
+      ],
+      [
+       0.1969,
+       0.2961,
+       0.52,
+       0.3102
+      ]
+     ],
+     "lens": [
+      0.1954,
+      0.2805,
+      0.462,
+      0.2955
+     ],
+     "lensText": "They're ancient people",
+     "grief": false,
+     "source": "mined"
+    }
+   ],
+   "face": {
+    "page": 8,
+    "box": [
+     0.18,
+     0.073,
+     0.82,
+     0.7
+    ]
+   }
+  },
+  "psychic-kress-review": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 7,
+     "quote": "Name? Ken Kress. Occupation? Works for CIA. Since I was then a covert employee, the response was meaningful.",
+     "short": "Name? Ken Kress. Occupation? Works for CIA.",
+     "lines": [
+      [
+       0.1817,
+       0.3856,
+       0.2305,
+       0.3982
+      ],
+      [
+       0.1822,
+       0.4083,
+       0.2585,
+       0.421
+      ],
+      [
+       0.1822,
+       0.4311,
+       0.2735,
+       0.4438
+      ],
+      [
+       0.1827,
+       0.4522,
+       0.2955,
+       0.4661
+      ]
+     ],
+     "lens": [
+      0.1827,
+      0.4522,
+      0.2915,
+      0.4661
+     ],
+     "lensText": "Works for CIA",
+     "grief": false,
+     "source": "mined"
+    }
+   ],
+   "face": {
+    "page": 7,
+    "box": [
+     0.14,
+     0.288,
+     0.715,
+     0.8431
+    ]
+   }
+  },
+  "psychic-dozier-padua": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 7,
+     "quote": "DATA ON CITY: THE NAME IS PADUA.",
+     "short": "DATA ON CITY: THE NAME IS PADUA.",
+     "lines": [
+      [
+       0.183,
+       0.3502,
+       0.5271,
+       0.3726
+      ]
+     ],
+     "lens": [
+      0.3656,
+      0.3475,
+      0.5197,
+      0.3725
+     ],
+     "lensText": "THE NAME IS PADUA",
+     "grief": false,
+     "source": "mined"
+    }
+   ],
+   "face": {
+    "page": 7,
+    "box": [
+     0.14,
+     0.13,
+     0.59,
+     0.848
+    ]
+   }
+  },
+  "psychic-gateway-process": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 9,
+     "quote": "Solid matter, in the strict construction of the term, simply does not exist.",
+     "short": "Solid matter, in the strict construction of the term, simply does not exist.",
+     "lines": [
+      [
+       0.5185,
+       0.4001,
+       0.783,
+       0.4114
+      ],
+      [
+       0.0743,
+       0.4173,
+       0.5444,
+       0.4296
+      ]
+     ],
+     "lens": [
+      0.3314,
+      0.4173,
+      0.5366,
+      0.4296
+     ],
+     "lensText": "simply does not exist",
+     "grief": false,
+     "source": "new"
+    }
+   ],
+   "face": {
+    "page": 9,
+    "box": [
+     0.06,
+     0.198,
+     0.7965,
+     0.918
+    ]
+   }
+  },
+  "psychic-crv-manual": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 36,
+     "quote": "PHASE I would be altering time at the site. Time could be frozen, moved forward, or moved back. The implications of this are mind boggling.",
+     "short": "Time could be frozen, moved forward, or moved back. The implications of this are mind boggling.",
+     "lines": [
+      [
+       0.728,
+       0.4104,
+       0.8813,
+       0.4236
+      ],
+      [
+       0.1942,
+       0.4268,
+       0.8813,
+       0.4475
+      ],
+      [
+       0.1942,
+       0.4472,
+       0.4595,
+       0.4625
+      ]
+     ],
+     "lens": [
+      0.2983,
+      0.4472,
+      0.4535,
+      0.4613
+     ],
+     "lensText": "mind boggling",
+     "grief": false,
+     "source": "new"
+    }
+   ],
+   "face": {
+    "page": 36,
+    "box": [
+     0.185,
+     0.075,
+     0.885,
+     0.758
+    ]
+   }
+  },
+  "psychic-uri-geller-sri": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 3,
+     "quote": "His drawing was indeed a bunch of grapes. Both the target picture and Geller's rendition had 24 grapes in the bunch.",
+     "short": "Both the target picture and Geller's rendition had 24 grapes in the bunch.",
+     "lines": [
+      [
+       0.5318,
+       0.3962,
+       0.8039,
+       0.4079
+      ],
+      [
+       0.138,
+       0.415,
+       0.5991,
+       0.4273
+      ]
+     ],
+     "lens": [
+      0.3711,
+      0.4157,
+      0.4591,
+      0.4273
+     ],
+     "lensText": "24 grapes",
+     "grief": false,
+     "source": "mined"
+    }
+   ],
+   "face": {
+    "page": 3,
+    "box": [
+     0.13,
+     0.122,
+     0.81,
+     0.822
+    ]
+   }
+  },
+  "psychic-price-crane-drawing": {
+   "moments": [
+    {
+     "kind": "image",
+     "square": [
+      0.5965,
+      0.4645,
+      0.8775,
+      0.6815
+     ],
+     "alt": "Pat Price's sketch of a gantry crane on wheeled rails, the drawing at bottom right of Figure 1b that the CIA set beside the real crane at the Soviet URDF-3 site.",
+     "grief": false,
+     "source": "new"
+    }
+   ]
+  },
+  "psychic-air-evaluation": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 8,
+     "quote": "In no case had the information provided ever been used to guide intelligence operations. Thus, remote viewing failed to produce actionable intelligence.",
+     "short": "In no case had the information provided ever been used to guide intelligence operations.",
+     "lines": [
+      [
+       0.1765,
+       0.4402,
+       0.7921,
+       0.4572
+      ],
+      [
+       0.1765,
+       0.4663,
+       0.2614,
+       0.4806
+      ]
+     ],
+     "lens": [
+      0.1765,
+      0.4415,
+      0.295,
+      0.4572
+     ],
+     "lensText": "In no case had",
+     "grief": false,
+     "source": "mined"
+    }
+   ],
+   "face": {
+    "page": 8,
+    "box": [
+     0.15,
+     0.116,
+     0.8,
+     0.743
+    ]
+   }
+  }
+ },
+ "notes": "No audio or video in this topic; no grief moments. All boxes checked on 200 dpi crops (check images in work/_m/check/psychic/). Text-layer (auto) boxes were offset on psychic-air-evaluation p.8 and psychic-uri-geller-sri p.3, so those boxes come from fresh OCR; Kress p.7 boxes widened by hand to take in the trailing ? and . marks. Mars p.8 prints two spaces after 'people.'; quote uses one. Dozier p.7 prints a bullet between 'DATA ON CITY:' and 'THE NAME IS PADUA.'; the bullet is left out of quote and short, and the line box covers it. CRV p.36 is scanned slightly skewed, so their axis-aligned line boxes touch the next line a little at one end. Other Gateway candidates, all over 100 chars: p.28 'J. Be intellectually prepared to react to possible encounters with intelligent, non-corporal energy forms when time-space boundaries are exceeded.' and p.22 '...because the individual could succeed in dislocating his existing reality with drastic consequences.' (exactly 100). CRV alternative on the same page: 'Only time will tell, whatever time is.' Faces: the short's lines run across most of the text width on typed pages, so to keep them whole some faces are wider than 60% of the page: Mars 0.64, Gateway 0.67, Geller 0.68, AIR 0.65, CRV 0.70. All faces are 1.25 tall to 1 wide in page pixels. The Dozier face (landscape slide p.7) is mostly blank below the line. The crane image square is a tight crop on Price's sketch only (right panel of Fig. 1b, which Kress p.7 calls 'the drawing on the bottom right of Figure 1b'). It reads as a wheeled gantry at 120 px. The bold target-site crane at left would read more strongly but is not Price's drawing. Review pass: Gateway moved from p.6 to p.9. The p.6 short '…so as to ultimately escape even the restrictions of time and space.' began mid-sentence after 'sphere' with no punctuation in the file, and the shortest cut at the file's own punctuation ('…moving it outside the physical sphere so as to ultimately escape even the restrictions of time and space.') is 106 chars; p.9 'Solid matter, in the strict construction of the term, simply does not exist.' is a whole sentence (76 chars). Other whole-sentence Gateway options: p.10 'It is, in and of itself, one gigantic hologram of unbelievable complexity.' (subject is the universe in the sentence before). Gateway p.9 face is 0.74 wide to keep both printed lines of the short whole. Crane square widened to the whole of Price's sketch, including its JUL 11 1974 stamp; the old square cut off the right ends of the top frame and rails. Kress and CRV lens boxes trimmed to leave out the trailing period. Mars, AIR, Geller and Kress faces moved so their top and bottom edges fall between printed lines (checked on unpadded crops; mtool crop pads 0.02 on every side). Kress face now starts at the paragraph 'When the decision was made to make Price witting'."
+}

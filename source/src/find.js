@@ -1,68 +1,111 @@
-import { asset, state, year, el, icon } from './data.js';
+import { asset, state, year, el, icon, quoteOf, nav, embedded, leadImg, glassOf, ringSvg } from './data.js';
 
-let root = null, index = null;
+let root = null, index = null, closeCb = null, back = null;
 export const findOpen = () => !!root;
-export function closeFind() { root?.remove(); root = null; }
+function closeFind() {
+  if (!root) return;
+  root.remove(); root = null;
+  document.body.classList.remove('wall');
+  for (const n of back.inert) n.inert = false;
+  const ret = back.ret;
+  back = null;
+  closeCb?.();
+  (ret?.isConnected ? ret : document.getElementById('gl')).focus?.({ preventScroll: true });
+}
 
 const norm = (s) => (s || '').toLowerCase().normalize('NFKD').replace(/[̀-ͯ]/g, '');
 const words = (q) => norm(q).split(/[^a-z0-9]+/).filter((w) => w.length > 1);
+const has = (text, ws) => { const t = norm(text); return ws.every((w) => t.includes(w)); };
 
-function score(text, ws, weight) {
-  const t = norm(text);
-  let s = 0;
-  for (const w of ws) {
-    const i = t.indexOf(w);
-    if (i < 0) return -1;
-    s += weight * (i === 0 || /[^a-z0-9]/.test(t[i - 1]) ? 2 : 1);
+function tiles() {
+  const out = [];
+  for (const t of state.topics) {
+    for (const id of t.items) {
+      const it = state.items[id];
+      if (!it) continue;
+      if (it.type === 'audio') { out.push({ t, it, k: (it.mo || []).findIndex((m) => !m.g), tape: true }); continue; }
+      let any = false;
+      (it.mo || []).forEach((m, k) => {
+        if (m.g || !m.o) return;
+        any = true;
+        out.push({ t, it, k, img: it.dir + m.o, q: quoteOf(it, k), glass: m.k === 'p' });
+      });
+      if (!any) out.push({ t, it, k: null, img: it.poster || it.thumb });
+    }
   }
-  return s;
+  return out;
 }
 
-export async function openFind({ goTopic, openFile }) {
-  closeFind();
+export function openFind({ openFile, onClose }) {
+  if (root) return;
+  closeCb = onClose;
   const stage = document.getElementById('stage');
-  const q = el('input', { id: 'q', type: 'search', placeholder: 'Search', autocomplete: 'off', spellcheck: 'false', enterkeyhint: 'search' });
+  const q = el('input', { id: 'q', type: 'search', placeholder: 'Search', autocomplete: 'off', spellcheck: 'false', enterkeyhint: 'search', 'aria-label': 'Search the files' });
   const res = el('div', { id: 'fr' });
-  root = el('div', { id: 'find', role: 'dialog', 'aria-label': 'Search' },
-    el('div', { id: 'fh' }, q, el('button', { class: 'ic', 'aria-label': 'Close', html: icon.close, onclick: closeFind })), res);
+  const head = el('div', { id: 'fh' }, q, el('button', { class: 'ic', 'aria-label': 'Close', html: icon.close, onclick: () => nav.back() }));
+  const inert = [...stage.children].filter((n) => !n.inert);
+  back = { ret: document.activeElement, inert };
+  inert.forEach((n) => { n.inert = true; });
+  root = el('div', { id: 'find', role: 'dialog', 'aria-modal': 'true', 'aria-label': 'All moments' }, head, res);
   stage.append(root);
-  q.focus({ preventScroll: true });
+  document.body.classList.add('wall');
+  nav.push(closeFind);
+  if (embedded && !document.body.classList.contains('vp')) stage.scrollIntoView({ block: 'nearest' });
 
-  const chips = () => {
-    res.replaceChildren(el('div', { class: 'chips' }, state.topics.map((t) => el('button', {
-      onclick: () => { closeFind(); goTopic(t.id); },
-    }, el('i', { style: `background:radial-gradient(circle at 35% 30%,${t.orb[3]},${t.orb[2]} 45%,${t.orb[0]})` }), t.name))));
+  const all = tiles();
+  const go = (it, k, page) => { nav.handoff(closeFind); closeFind(); openFile(it.id, page ? { page } : { m: k >= 0 ? k : null }); };
+  const pic = (x) => {
+    if (x.tape) return el('div', { class: 'ti glass tape', style: `background:${glassOf(x.t)};--c:${x.t.orb[3]}`, html: ringSvg(x.it.wave || []) });
+    const img = el('img', { alt: '', loading: 'lazy', decoding: 'async', src: asset(x.img) });
+    img.addEventListener('load', () => img.classList.add('ok'), { once: true });
+    return el('div', { class: `ti${x.glass ? ' glass' : ''}` }, img);
   };
-  chips();
-  if (!index) index = fetch(asset('search.json')).then((r) => (r.ok ? r.json() : { nodes: [] })).catch(() => ({ nodes: [] }));
+  const tile = (x) => el('button', { class: 'tile', onclick: () => go(x.it, x.k) }, pic(x), el('b', { class: x.q ? 'q' : '' }, x.q || x.it.title));
+  const band = (t, list) => {
+    const li = leadImg(t);
+    return el('section', { class: 'band', style: `--g0:${t.grad[0]}` },
+      el('h3', {}, el('i', { style: li ? `background-image:url("${asset(li.img)}")` : `background:${glassOf(t)}` }), t.name),
+      el('div', { class: 'grid' }, list.map(tile)));
+  };
+  const grow = () => {
+    if (!embedded || document.body.classList.contains('vp')) return;
+    requestAnimationFrame(() => {
+      if (!root) return;
+      const want = head.offsetHeight + res.scrollHeight + 24;
+      root.classList.toggle('capped', want > 5800);
+      stage.style.height = `${Math.min(5800, Math.max(560, want))}px`;
+      parent.postMessage({ abstractsHeight: Math.ceil(document.body.getBoundingClientRect().height) }, '*');
+    });
+  };
+  const wall = (ws) => state.topics
+    .map((t) => [t, all.filter((x) => x.t === t && (!ws.length || has(`${x.q || ''} ${x.it.title} ${x.it.agency} ${t.name} ${year(x.it.date)}`, ws)))])
+    .filter(([, l]) => l.length).map(([t, l]) => band(t, l));
+  res.replaceChildren(...wall([]));
+  grow();
 
-  const thumb = (it) => el('div', { class: `th${it.type === 'audio' ? ' orb' : ''}`, style: it.thumb ? `background-image:url("${asset(it.thumb)}")` : '' });
   let seq = 0;
   const run = async () => {
     const my = ++seq;
     const ws = words(q.value);
-    if (!ws.length) return chips();
-    const items = Object.values(state.items).map((it) => {
-      const topic = state.topics.find((t) => t.id === it.topic);
-      const s = Math.max(score(it.title, ws, 5), score(`${it.title} ${it.agency} ${topic?.name} ${year(it.date)} ${it.summary}`, ws, 1));
-      return { it, s };
-    }).filter((x) => x.s > 0).sort((a, b) => b.s - a.s).slice(0, 24);
+    if (!ws.length) { res.replaceChildren(...wall([])); grow(); return; }
+    const top = wall(ws);
+    if (!index) index = fetch(asset('search.json?v=2')).then((r) => (r.ok ? r.json() : { pages: [] })).catch(() => ({ pages: [] }));
     const idx = await index;
-    if (my !== seq) return;
-    const nodes = (idx.nodes || []).map((n) => ({ n, s: Math.max(score(n.t, ws, 3), score(`${n.t} ${n.s}`, ws, 1)) }))
-      .filter((x) => x.s > 0 && state.items[x.n.d]).sort((a, b) => b.s - a.s).slice(0, 40);
-    const out = [];
-    for (const { it } of items) {
-      out.push(el('button', { class: 'hit', onclick: () => { closeFind(); openFile(it.id); } }, thumb(it),
-        el('div', {}, el('b', {}, it.title), el('span', {}, [it.agency, year(it.date)].filter(Boolean).join(' · ')))));
+    if (my !== seq || !root) return;
+    const hits = [];
+    for (const [id, p, text] of idx.pages || []) {
+      const it = state.items[id];
+      if (!it || !has(text, ws)) continue;
+      const line = text.split('\n').find((l) => has(l, ws.slice(0, 1))) || '';
+      hits.push({ it, p, line: line.length > 140 ? `${line.slice(0, 137)}…` : line });
+      if (hits.length >= 40) break;
     }
-    for (const { n } of nodes) {
-      const it = state.items[n.d];
-      out.push(el('button', { class: 'hit', onclick: () => { closeFind(); openFile(it.id, { page: n.p }); } }, thumb(it),
-        el('div', {}, el('b', {}, n.t), el('span', {}, `${it.title} · p. ${n.p}`))));
-    }
-    res.replaceChildren(...(out.length ? out : [el('div', { style: 'padding:30px;text-align:center;color:var(--dim);font-size:22px' }, '∅')]));
+    const list = hits.length ? el('div', { class: 'hits' }, hits.map((h) => el('button', { class: 'hit', onclick: () => go(h.it, null, h.p) },
+      el('b', {}, h.line), el('span', {}, `${h.it.title} · ${h.p}`)))) : null;
+    const nodes = [...top, list].filter(Boolean);
+    res.replaceChildren(...(nodes.length ? nodes : [el('div', { class: 'none' }, '∅')]));
+    grow();
   };
   let tm = 0;
-  q.addEventListener('input', () => { clearTimeout(tm); tm = setTimeout(run, 120); });
+  q.addEventListener('input', () => { clearTimeout(tm); tm = setTimeout(run, 140); });
 }

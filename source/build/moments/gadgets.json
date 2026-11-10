@@ -1,0 +1,234 @@
+{
+ "topic": "gadgets",
+ "order": [
+  "gadgets-insectothopter",
+  "gadgets-acoustic-kitty",
+  "gadgets-simple-sabotage",
+  "gadgets-pigeon-camera",
+  "gadgets-camp-century-film",
+  "gadgets-project-1794",
+  "gadgets-charlie-robot-fish"
+ ],
+ "lead": {
+  "file": "gadgets-insectothopter",
+  "m": 0
+ },
+ "files": {
+  "gadgets-insectothopter": {
+   "moments": [
+    {
+     "kind": "image",
+     "square": [
+      0.255,
+      0.26,
+      0.695,
+      0.92
+     ],
+     "alt": "The Insectothopter on its display rod: a painted green dragonfly body with dark stripes, a brown head, black wire legs and long transparent wings.",
+     "grief": false,
+     "source": "new"
+    }
+   ]
+  },
+  "gadgets-acoustic-kitty": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 1,
+     "quote": "This is in itself a remarkable scientific achievement. Knowing that cats can indeed be trained to move short distances",
+     "short": "Knowing that cats can indeed be trained to move short distances…",
+     "lines": [
+      [
+       0.6004,
+       0.7275,
+       0.7253,
+       0.7393
+      ],
+      [
+       0.123,
+       0.7544,
+       0.651,
+       0.7649
+      ]
+     ],
+     "lens": [
+      0.4424,
+      0.7544,
+      0.651,
+      0.7649
+     ],
+     "lensText": "move short distances",
+     "grief": false,
+     "source": "mined"
+    }
+   ],
+   "face": {
+    "page": 1,
+    "box": [
+     0.115,
+     0.228,
+     0.765,
+     0.85
+    ]
+   }
+  },
+  "gadgets-simple-sabotage": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 18,
+     "quote": "When possible, refer all matters to committees, for “further study and consideration.” Attempt to make the committees as large as possible — never less than five.",
+     "short": "Attempt to make the committees as large as possible — never less than five.",
+     "lines": [
+      [
+       0.128,
+       0.5538,
+       0.3969,
+       0.5692
+      ],
+      [
+       0.0864,
+       0.5719,
+       0.3111,
+       0.5912
+      ]
+     ],
+     "lens": [
+      0.1728,
+      0.5719,
+      0.3111,
+      0.5912
+     ],
+     "lensText": "never less than five",
+     "grief": false,
+     "source": "mined"
+    },
+    {
+     "kind": "page",
+     "page": 20,
+     "quote": "Cry and sob hysterically at every occasion, especially when confronted by government clerks.",
+     "short": "Cry and sob hysterically at every occasion, especially when confronted by government clerks.",
+     "lines": [
+      [
+       0.1732,
+       0.2819,
+       0.4542,
+       0.2989
+      ],
+      [
+       0.1198,
+       0.3027,
+       0.4405,
+       0.3186
+      ]
+     ],
+     "lens": [
+      0.1732,
+      0.2819,
+      0.335,
+      0.2989
+     ],
+     "lensText": "Cry and sob hysterically",
+     "grief": false,
+     "source": "mined"
+    }
+   ],
+   "face": {
+    "page": 18,
+    "box": [
+     0.043,
+     0.252,
+     0.405,
+     0.826
+    ]
+   }
+  },
+  "gadgets-pigeon-camera": {
+   "moments": [
+    {
+     "kind": "image",
+     "square": [
+      0.1313,
+      0.1083,
+      0.8813,
+      0.6083
+     ],
+     "alt": "A pigeon standing on a wooden block, a small grey camera strapped to its chest with a black harness.",
+     "grief": false,
+     "source": "new"
+    }
+   ]
+  },
+  "gadgets-camp-century-film": {
+   "moments": [
+    {
+     "kind": "video",
+     "t": 411,
+     "end": 420,
+     "alt": "A hand-lettered plan titled 'CAMP CENTURY - 1': a pointer taps the trench marked REACTOR, then the plan dissolves into a drawn cutaway of the grid of trenches cut into the ice sheet.",
+     "grief": false,
+     "source": "mined"
+    }
+   ]
+  },
+  "gadgets-project-1794": {
+   "moments": [
+    {
+     "kind": "page",
+     "page": 5,
+     "quote": "with a top speed potential between Mach 3 and Mach 4, a ceiling of over 100,000 ft.",
+     "short": "…with a top speed potential between Mach 3 and Mach 4, a ceiling of over 100,000 ft. …",
+     "lines": [
+      [
+       0.6923,
+       0.6166,
+       0.9439,
+       0.6296
+      ],
+      [
+       0.2156,
+       0.6502,
+       0.786,
+       0.6635
+      ]
+     ],
+     "lens": [
+      0.6288,
+      0.6502,
+      0.786,
+      0.6635
+     ],
+     "lensText": "over 100,000 ft.",
+     "grief": false,
+     "source": "mined"
+    }
+   ],
+   "face": {
+    "page": 5,
+    "box": [
+     0.2,
+     0.342,
+     0.8,
+     0.927
+    ]
+   }
+  },
+  "gadgets-charlie-robot-fish": {
+   "moments": [
+    {
+     "kind": "image",
+     "square": [
+      0.06,
+      0.225,
+      0.5,
+      0.885
+     ],
+     "alt": "Close-up of Charlie the robot catfish: a wide open dark mouth, a glossy eye and a long barbel, against a white background.",
+     "grief": false,
+     "source": "new"
+    }
+   ]
+  }
+ },
+ "notes": "All three documents and the film had mined moments, so no new document or video moments were needed; the three photos got new image moments. Every quote was found verbatim on its mined page (no neighbouring-page fallback) and every box was checked on a 200 dpi crop; boxes come from fresh OCR (ocr mode), because the auto/raw text layers of all three PDFs are badly scrambled. Acoustic Kitty p1: the redactions are blank white-outs with hand-drawn bars, not black bars, so the short cuts with … where the deleted text begins (“distances [deleted] we see no reason…”); the full mined quote (118 chars) was too long for short. Simple Sabotage p18: the short uses the second sentence (“never less than five”); the quote keeps the hyphen-broken “considera-tion” joined and uses curly quotes and a spaced em dash as printed. Pages 18 and 20 are two-page book spreads (landscape, aspect about 1.27), so the face is one column, about 36% of the spread width, with the usual 1.25 height ratio in pixels. Project 1794 p5: the typescript prints “100, 000” with a space after the comma; quote and lensText write 100,000. The face (60% of the page width) holds the whole second moment line, but the first moment line runs to 0.944 and is cut at the right edge. Camp Century: hosted video.mp4 (first 900 s) matches the source timing frame for frame; the plan shot starts between 410.5 and 411 s, the pointer is on REACTOR at 412-414 s, the cutaway dissolves in at about 415 s and the COMMUNICATION TRENCH label appears at about 424 s. Insectothopter square: 1056 px square holding the whole body, tail tip to head, plus wing roots; checked as a 120 px ball. No grief items in this topic. Skeptic pass (second agent): re-cropped every line, lens and face box at 200 dpi and checked quotes against the page images; quotes, shorts, lensTexts, line boxes, order and lead all hold. Changes: Acoustic Kitty face widened to 0.115-0.765 (65% of the page width, slightly over the 60% guide) and moved up to start at MEMORANDUM FOR, because the old box cut 'believe' at the right edge and a sliver of the RELEASED stamp at the bottom; Project 1794 face moved up 0.008 so its top line is whole instead of a cut sliver; Simple Sabotage p20 lens widened to 0.335 so the box does not clip the 'y' of 'hysterically'; Pigeon square moved to 1200 px (210-1410 x 260-1460 px) so the camera and the beak both sit inside the inscribed circle of a ball (the old square clipped the camera's lower-left corner in a circle); Camp Century alt lost its second timings (alt is for screen readers). Acoustic Kitty short ends at the first white-out (no black bar on the page, so … not ▇▇▇); the sentence continues past the deletion, so this cut is at a deletion, not a clause end. Project 1794 short cuts after the list item 'ft.' (the sentence continues 'and a maximum range…'); quote writes 100,000 where the Varityper prints '100, 000'. Camp Century timing confirmed on both the source and the hosted 900 s clip (413 and 415 s frames identical)."
+}

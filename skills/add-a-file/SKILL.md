@@ -26,13 +26,17 @@ From `source/`, with Python 3.10+, Node 20+, Poppler, Tesseract and ffmpeg:
 python3 build/ingest.py <id>          # OCR, page images, thumbnails, video and audio
 python3 build/pindex.py <id>          # PageIndex tree (pip install "pageindex[claude]")
 python3 build/indexes.py <id>         # indexes/<id>/ for this repository
+python3 build/moments.py <id>         # the file's moment: orb square, card, clip
 python3 build/catalog.py              # catalog.json, search.json, index.json
+node build/share.mjs                  # link previews (serve out/ on port 8794 first)
 ```
 
 `pindex.py` runs PageIndex locally in Flash mode with `claude-code/haiku`, through the member's Claude subscription, so no API key is needed. Any model PageIndex supports works.
 
 Then edit the tree by hand: OCR breaks headings. Give every node the heading printed in the document, or a short plain name for what the pages are ("Cover memo", "Annex B: maps"). Make the nesting follow the document. Rewrite summaries that describe OCR noise instead of content, in at most 60 words. Keep every page inside a leaf. `python3 build/validate_tree.py <tree.json> <pages>` must print `OK`.
 
+Before `moments.py`, give the file its moment in `build/moments/<topic>.json` (see [docs/data.md](../../docs/data.md#moments)): the one line, second or photo detail a person would open the file for. Quote the page letter for letter. `python3 build/mtool.py find <id> <page> "<quote>"` returns the line boxes, and `mtool.py crop` cuts a check image: look at it, because OCR positions are often off. Mark a moment about a death with `"grief": true`.
+
 ## 4. Show, then publish
 
-Serve `out/` and open the explorer at `#file=<id>`, at 360 px and 1200 px wide. Show the member the card, the pages, the contents list and the catalog entry. After they accept, follow [docs/publish.md](../../docs/publish.md).
+Serve `out/` and open the explorer at `?file=<id>&m=0`, at 360 px and 1200 px wide. Show the member the card, the lit line or second it opens on, the pages and the catalog entry. After they accept, follow [docs/publish.md](../../docs/publish.md).

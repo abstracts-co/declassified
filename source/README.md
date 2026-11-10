@@ -1,12 +1,14 @@
 # Source
 
-- `src/`: the explorer. `app.js` (scene, carousel, gestures), `orb.js` (the glass-ball lens, card and background shaders), `viewer.js` (pages, films, photos, tapes), `find.js` (search) and `data.js`. Three.js 0.170, bundled with esbuild.
+- `src/`: the explorer. `app.js` (scene, carousel, gestures), `orb.js` (the glass-ball lens, card and background shaders), `viewer.js` (pages, films, photos, tapes), `find.js` (the wall of moments and search) and `data.js`. Three.js 0.170, bundled with esbuild.
 - `build/`: from a downloaded file to the published data.
   - `ingest.py`: OCR (Tesseract) when a scan has no text, page images, thumbnails, film and tape encodes.
   - `pindex.py`: PageIndex Flash trees with `claude-code/haiku`.
   - `validate_tree.py`: checks an edited tree.
   - `indexes.py`: writes `indexes/<id>/` for the community repository.
+  - `moments/<topic>.json`: each file's moments (the line, second or photo detail it opens on), its card crop, and the topic's lead. `mtool.py` finds a quote's line boxes on a page and cuts check images. `moments.py` builds the orb squares, card faces, sharp pages, clips and waveforms.
   - `catalog.py`: `catalog.json`, `search.json` and `index.json`.
+  - `share.mjs`: renders each moment's link preview and writes `share.json`.
   - `content.py`: the About page's `content.md`.
   - `bundle.mjs`: builds the page (`ASSETS` sets the data host, `OUT` the folder). `serve.mjs` serves a folder with CORS for previews; `shot.mjs` takes headless screenshots.
   - `orbs/`: what each topic's glass orb shows and how it was cut (`BRIEF.md`).
